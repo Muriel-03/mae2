@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	PPR
+T2	Abbreviation 78 81	Sup
+T3	Abbreviation 146 149	PPR
+T4	Abbreviation 150 153	sup
+T5	Abbreviation 156 159	inf
+T6	Disease 30 68	desdentada parcial superior e inferiro
+T7	Sign_or_Symptom 74 93	PPR Sup desajustada
+T8	Therapeutic_Procedure 146 159	PPR sup e inf
+A1	Pending T8

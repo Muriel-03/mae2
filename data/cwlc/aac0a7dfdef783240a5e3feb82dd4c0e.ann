@@ -1,0 +1,7 @@
+T1	Abbreviation 37 40	APS
+T2	Body_Part 72 88	pieza dental 2.4
+T3	Body_Part 90 95	pulpa
+T5	Sign_or_Symptom 2 13	DOLOR AGUDO
+T6	Sign_or_Symptom 42 88	dolor agudo en relacion de la pieza dental 2.4
+T7	Sign_or_Symptom 90 124	pulpa vital en estado irreversible
+T8	Sign_or_Symptom 125 136	Dolor agudo

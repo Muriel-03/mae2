@@ -1,0 +1,5 @@
+T1	Disease 0 33	desdenta parcial superor inferior
+T2	Disease 109 132	estomatitis subprotesis
+T3	Therapeutic_Procedure 159 185	protesis parcial removible
+T4	Sign_or_Symptom 47 103	protesis acrilica parcial superior en mala s condiciones
+A1	Pending T3

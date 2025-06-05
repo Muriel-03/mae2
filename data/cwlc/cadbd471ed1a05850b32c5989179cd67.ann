@@ -1,0 +1,6 @@
+T1	Body_Part 46 49	2.6
+T2	Body_Part 68 71	1.8
+T3	Disease 51 66	resto radicular
+T4	Therapeutic_Procedure 35 45	exodoncias
+T5	Sign_or_Symptom 73 106	dificultad de acceso para higiene
+A1	Pending T4

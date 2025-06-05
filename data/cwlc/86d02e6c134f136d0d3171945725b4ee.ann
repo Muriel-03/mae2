@@ -1,0 +1,14 @@
+T1	Abbreviation 0 3	rvu
+T2	Abbreviation 34 38	izda
+T3	Disease 0 13	rvu bilateral
+T4	Disease 88 113	estenosi rectal congénita
+T5	Disease 150 174	sepsis de foco abdominal
+T6	Clinical_Finding 71 83	multioperado
+T7	Medication 59 70	cefadroxilo
+T8	Therapeutic_Procedure 18 31	ureterostomia
+T9	Therapeutic_Procedure 179 189	ileostomia
+T10	Therapeutic_Procedure 203 229	reconstitución de tránsito
+T11	Abbreviation 39 42	itu
+T12	Disease 39 42	itu
+T13	Disease 114 147	obstruccion intestinal por bridas
+A1	Pending T10

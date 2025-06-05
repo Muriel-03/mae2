@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	pd
+T3	Abbreviation 65 69	PMCF
+T4	Abbreviation 94 96	VI
+T5	Body_Part 0 7	pd. 2.3
+T7	Clinical_Finding 12 39	terapia previamente inciada
+T8	Clinical_Finding 85 91	fermin
+T9	Clinical_Finding 94 96	VI
+T11	Medication 65 69	PMCF
+T13	Therapeutic_Procedure 119 129	endodoncia
+T2	Clinical_Finding 41 50	trepanada
+A1	Pending T13
+T6	Therapeutic_Procedure 52 69	medicada con PMCF

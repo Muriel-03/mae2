@@ -1,0 +1,11 @@
+T1	Abbreviation 130 133	APS
+T2	Body_Part 74 83	PIEZA 1.2
+T3	Body_Part 159 168	pieza 1.2
+T4	Disease 0 50	- ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 192 240	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 88 106	OCLUSIÓN INVERTIDA
+T7	Sign_or_Symptom 173 191	oclusión invertida
+T8	Sign_or_Symptom 50 61	MALOCLUSIÓN
+T9	Clinical_Finding 62 69	CLASE I
+T10	Sign_or_Symptom 135 146	Maloclusión
+T11	Clinical_Finding 147 154	clase I

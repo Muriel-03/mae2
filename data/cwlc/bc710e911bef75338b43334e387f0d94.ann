@@ -1,0 +1,10 @@
+T1	Body_Part 84 90	DIENTE
+T2	Body_Part 245 255	sextante 5
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 55 90	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Disease 216 227	apiñamiento
+T6	Clinical_Finding 139 167	relación molar neutroclusión
+T7	Sign_or_Symptom 97 137	Relación esqueletal tendencia a clase II
+T8	Sign_or_Symptom 169 197	relación caninca no presenta
+T9	Sign_or_Symptom 199 214	mordida abierta
+T10	Sign_or_Symptom 216 256	apiñamiento dentario severo (sextante 5)

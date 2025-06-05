@@ -1,0 +1,14 @@
+T1	Abbreviation 59 62	APS
+T3	Abbreviation 158 161	TAC
+T4	Abbreviation 189 192	TAC
+T5	Body_Part 29 35	MUÑECA
+T6	Body_Part 133 147	MUÑECA DERECHA
+T7	Body_Part 391 397	muñeca
+T8	Diagnostic_Procedure 158 161	TAC
+T9	Diagnostic_Procedure 189 192	TAC
+T10	Disease 2 35	ESGUINCE Y TORCEDURA DE LA MUÑECA
+T11	Disease 118 147	TRAUMATISMO DE MUÑECA DERECHA
+T12	Disease 230 246	CONDROCALCINOSIS
+T13	Disease 364 397	Esguince y torcedura de la muñeca
+T15	Laboratory_or_Test_Result 198 246	CALCIFICACIONES COMPATIBLES CON CONDROCALCINOSIS
+R1	Has Arg1:T9 Arg2:T15	

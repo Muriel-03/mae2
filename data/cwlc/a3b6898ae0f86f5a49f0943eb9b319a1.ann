@@ -1,0 +1,8 @@
+T1	Body_Part 88 96	Pieza 20
+T2	Body_Part 119 134	pieza 5.5 y 6.5
+T3	Clinical_Finding 9 42	clase I molar derecha e izquierda
+T4	Sign_or_Symptom 43 66	Mordida cruzada derecha
+T5	Sign_or_Symptom 67 87	Apiñamiento anterior
+T6	Laboratory_or_Test_Result 88 105	Pieza 20 retenida
+T7	Sign_or_Symptom 106 134	Persistencia pieza 5.5 y 6.5
+T8	Disease 67 78	Apiñamiento

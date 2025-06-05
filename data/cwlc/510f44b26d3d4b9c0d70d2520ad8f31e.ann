@@ -1,0 +1,5 @@
+T1	Disease 89 100	Apiñamiento
+T2	Clinical_Finding 41 61	Dentición permanente
+T3	Sign_or_Symptom 62 86	Mordida abierta anterior
+T4	Sign_or_Symptom 89 100	Apiñamiento
+T5	Body_Part 41 50	Dentición

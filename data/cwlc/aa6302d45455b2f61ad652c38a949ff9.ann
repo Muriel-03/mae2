@@ -1,0 +1,7 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 59 68	PIEZA 3,1
+T3	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T4	Disease 72 92	PERIODONTITIS SEVERA
+T5	Disease 141 162	Periodontitis cronica
+T6	Therapeutic_Procedure 116 139	TRATAMIENTO PERIODONTAL
+A1	Pending T6

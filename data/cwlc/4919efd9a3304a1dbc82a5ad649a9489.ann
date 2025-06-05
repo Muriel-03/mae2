@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 88 92	pzas
+T3	Body_Part 78 110	todas las pzas dentarias en boca
+T5	Disease 9 51	periodontitis marginal severa generalizada
+T6	Therapeutic_Procedure 62 74	extracciones
+A1	Pending T6

@@ -1,0 +1,9 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 59 64	Pieza
+T3	Body_Part 112 125	cámara pulpar
+T4	Body_Part 148 155	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 130 136	caries
+T7	Disease 137 155	Caries del cemento
+T9	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T8	Sign_or_Symptom 97 136	perforación de cámara pulpar por caries

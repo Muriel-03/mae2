@@ -1,0 +1,17 @@
+T1	Abbreviation 3 7	DCCA
+T2	Abbreviation 17 19	DM
+T3	Abbreviation 41 44	DLP
+T4	Abbreviation 45 48	HTA
+T5	Abbreviation 68 70	EQ
+T6	Abbreviation 78 80	CU
+T7	Disease 8 16	OBESIDAD
+T8	Disease 17 19	DM
+T9	Disease 41 44	DLP
+T10	Disease 45 48	HTA
+T11	Disease 49 57	ARTROSIS
+T12	Disease 58 67	GASTRITIS
+T13	Clinical_Finding 0 2	P2
+T15	Abbreviation 0 1	P
+T16	Sign_or_Symptom 90 101	METRORRAGIA
+T17	Therapeutic_Procedure 68 70	EQ
+T14	Sign_or_Symptom 71 89	RIESGO CU MUY ALTO

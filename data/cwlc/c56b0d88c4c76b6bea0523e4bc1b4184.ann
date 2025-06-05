@@ -1,0 +1,5 @@
+T1	Body_Part 0 10	diente 1.1
+T2	Disease 60 75	necrosis pulpar
+T3	Clinical_Finding 11 39	terapia previamente iniciada
+T4	Sign_or_Symptom 76 106	cambio de coloracion coronario
+T5	Laboratory_or_Test_Result 118 130	lesionapical

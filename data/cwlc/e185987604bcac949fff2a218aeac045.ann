@@ -1,0 +1,28 @@
+T1	Abbreviation 65 68	APS
+T2	Abbreviation 309 312	ECG
+T3	Abbreviation 417 419	rx
+T4	Abbreviation 420 422	tx
+T5	Abbreviation 534 537	HDL
+T6	Abbreviation 548 551	box
+T7	Abbreviation 554 556	PA
+T8	Abbreviation 569 571	FC
+T9	Body_Part 420 422	tx
+T10	Diagnostic_Procedure 309 312	ECG
+T11	Diagnostic_Procedure 417 422	rx tx
+T12	Disease 2 41	CARDIOMIOPATÍA HIPERTRÓFICA OBSTRUCTIVA
+T14	Disease 845 884	Cardiomiopatia hipertrofica obstructiva
+T16	Laboratory_or_Test_Result 313 327	ritmo sinusal,
+T17	Laboratory_or_Test_Result 442 458	límites normales
+T18	Laboratory_or_Test_Result 511 531	hipertrigliceridemia
+T19	Laboratory_or_Test_Result 538 542	bajo
+T23	Laboratory_Procedure 534 537	HDL
+T24	Sign_or_Symptom 98 166	dolor toracico opresivo que se presenta en actividad fisica y reposo
+T25	Laboratory_or_Test_Result 332 397	signos electrocardiográficos de hipertrofia ventricular izquierda
+R1	Has Arg1:T10 Arg2:T16	
+R2	Has Arg1:T10 Arg2:T25	
+T13	Diagnostic_Procedure 425 437	espirometrìa
+R3	Has Arg1:T11 Arg2:T17	
+R4	Has Arg1:T13 Arg2:T17	
+R5	Has Arg1:T23 Arg2:T19	
+T28	Clinical_Finding 581 605	auscultación: sin soplos
+T15	Sign_or_Symptom 619 645	ritmo impresiona irregular

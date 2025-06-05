@@ -1,0 +1,36 @@
+T1	Abbreviation 127 130	ACV
+T2	Abbreviation 136 139	HTA
+T3	Abbreviation 141 144	DME
+T4	Abbreviation 145 147	IR
+T5	Abbreviation 169 172	tto
+T6	Abbreviation 227 229	CF
+T7	Abbreviation 248 251	DPN
+T8	Abbreviation 345 347	Ex
+T9	Abbreviation 348 351	fis
+T10	Abbreviation 353 356	BCG
+T11	Abbreviation 388 390	RR
+T12	Abbreviation 396 397	t
+T13	Abbreviation 410 412	MP
+T14	Abbreviation 412 413	+
+T15	Disease 2 24	INSUFICIENCIA CARDÍACA
+T16	Disease 28 60	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T17	Disease 64 104	SECUELAS DE ENFERMEDADES CEREBROVASCULAR
+T18	Disease 127 130	ACV
+T19	Disease 136 139	HTA
+T20	Disease 141 144	DME
+T21	Disease 149 165	obesidad grado 2
+T22	Clinical_Finding 353 356	BCG
+T23	Sign_or_Symptom 215 224	cansancio
+T24	Sign_or_Symptom 248 251	DPN
+T25	Sign_or_Symptom 278 313	tos continua con poca expectoracion
+T26	Sign_or_Symptom 325 343	sintomas asociados
+T27	Sign_or_Symptom 362 368	disnea
+T28	Clinical_Finding 370 386	yugulares planas
+T29	Clinical_Finding 388 408	RR en 2 t sin soplos
+T32	Sign_or_Symptom 414 443	crepitos finos en ambas bases
+T33	Sign_or_Symptom 445 478	edemas maleolares (+) bilaterales
+T34	Sign_or_Symptom 227 231	CF 2
+A1	Negated T26
+A2	Negated T27
+T30	Clinical_Finding 410 413	MP+
+T31	Body_Part 370 379	yugulares

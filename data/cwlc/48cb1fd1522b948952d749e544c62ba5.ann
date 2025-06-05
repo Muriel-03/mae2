@@ -1,0 +1,6 @@
+T1	Body_Part 45 72	ARTICULACIÓN TEMPOROMAXILAR
+T2	Disease 2 23	PERIODONTITIS CRÓNICA
+T3	Disease 28 72	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T4	Disease 79 100	periodontitis cronica
+T5	Disease 102 129	trastorno temporomandibular
+T6	Sign_or_Symptom 131 153	ruido durante apertura

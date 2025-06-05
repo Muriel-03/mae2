@@ -1,0 +1,21 @@
+T1	Abbreviation 77 80	APS
+T2	Body_Part 111 114	ojo
+T3	Body_Part 206 217	ojo derecho
+T4	Body_Part 230 243	ojo izquierdo
+T5	Body_Part 273 286	ojo izquierdo
+T6	Body_Part 361 374	ojo izquierdo
+T7	Body_Part 458 461	ojo
+T8	Diagnostic_Procedure 449 461	fondo de ojo
+T9	Disease 2 24	HEMORRAGIA CONJUNTIVAL
+T10	Disease 28 53	GLAUCOMA, NO ESPECIFICADO
+T12	Disease 522 528	Miopia
+T13	Disease 531 543	astigmatismo
+T14	Sign_or_Symptom 111 119	ojo rojo
+T15	Sign_or_Symptom 177 217	hemorragia subconjuntival en ojo derecho
+T16	Sign_or_Symptom 261 286	quemosis en ojo izquierdo
+T17	Sign_or_Symptom 295 304	fotofobia
+T18	Sign_or_Symptom 349 374	quemosis en ojo izquierdo
+T19	Clinical_Finding 376 402	reflejo pupilar conservado
+T20	Sign_or_Symptom 415 429	cuarpo extraño
+A1	Negated T20
+A2	Pending T8

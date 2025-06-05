@@ -1,0 +1,6 @@
+T1	Abbreviation 107 113	CESFAM
+T2	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T3	Therapeutic_Procedure 165 171	lentes
+T4	Sign_or_Symptom 127 146	baja agudeza visual
+T5	Sign_or_Symptom 173 191	opacidad de medios
+T6	Sign_or_Symptom 151 171	no mejora con lentes

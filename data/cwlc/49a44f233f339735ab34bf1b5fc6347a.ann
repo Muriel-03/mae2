@@ -1,0 +1,9 @@
+T1	Abbreviation 50 52	CV
+T2	Abbreviation 94 96	AC
+T3	Abbreviation 97 98	X
+T4	Abbreviation 99 101	FA
+T5	Disease 99 101	FA
+T6	Clinical_Finding 9 34	SIN ANTECEDENTES MORBIDOS
+T7	Clinical_Finding 37 52	ASINTOMATICO CV
+T9	Sign_or_Symptom 76 82	DISNEA
+T8	Laboratory_or_Test_Result 94 120	AC X FA DE ALTA FRECUENCIA

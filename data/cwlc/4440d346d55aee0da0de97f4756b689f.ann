@@ -1,0 +1,8 @@
+T1	Abbreviation 92 95	APS
+T2	Disease 97 114	Caries penetrante
+T3	Disease 117 125	Pulpitis
+T4	Laboratory_or_Test_Result 10 27	caries penetrante
+T5	Laboratory_or_Test_Result 97 114	Caries penetrante
+T6	Disease 2 10	PULPITIS
+T7	Disease 10 27	caries penetrante
+T8	Sign_or_Symptom 28 67	Dolor a la percución y cambios térmicos

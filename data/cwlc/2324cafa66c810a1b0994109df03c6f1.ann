@@ -1,0 +1,13 @@
+T1	Abbreviation 65 68	APS
+T2	Abbreviation 97 98	x
+T3	Abbreviation 146 149	dte
+T4	Abbreviation 181 184	etc
+T5	Body_Part 146 151	dte 8
+T6	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T7	Disease 70 80	gingivitis
+T8	Disease 83 96	periodontitis
+T9	Disease 185 224	Gingivitis y enfermedades periodontales
+T10	Sign_or_Symptom 99 106	tartaro
+T11	Sign_or_Symptom 108 126	movilidad dentaria
+T12	Sign_or_Symptom 128 145	recesion gingival
+T13	Sign_or_Symptom 146 179	dte 8 en mesioy vestíbulo versión

@@ -1,0 +1,19 @@
+T1	Abbreviation 199 202	VII
+T2	Abbreviation 207 210	FUR
+T3	Abbreviation 241 249	G1P1A0V1
+T4	Abbreviation 254 258	PTVE
+T5	Abbreviation 260 263	AMP
+T6	Abbreviation 265 268	n/e
+T7	Abbreviation 328 333	kilos
+T8	Abbreviation 374 377	PAP
+T9	Abbreviation 389 394	IG8J1
+T10	Abbreviation 406 410	gine
+T11	Abbreviation 411 413	tv
+T12	Diagnostic_Procedure 374 377	PAP
+T13	Diagnostic_Procedure 396 413	Ecografía gine tv
+T14	Disease 133 156	Infertilidad secundaria
+T15	Disease 304 313	Sobrepeso
+T16	Laboratory_or_Test_Result 438 463	sin hallazgos patologicos
+R1	Has Arg1:T13 Arg2:T16	
+T17	Clinical_Finding 241 249	G1P1A0V1
+T18	Abbreviation 280 281	-

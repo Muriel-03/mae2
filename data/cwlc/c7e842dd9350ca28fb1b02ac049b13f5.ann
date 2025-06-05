@@ -1,0 +1,7 @@
+T1	Abbreviation 60 61	C
+T2	Body_Part 1 10	PIEZA 2.5
+T3	Disease 15 30	NECROSIS PULPAR
+T4	Disease 63 81	FRACTURA CORONARIA
+T5	Clinical_Finding 96 111	VIDRIO IONOMERO
+T6	Therapeutic_Procedure 42 53	TREPANACION
+T7	Body_Part 54 59	PIEZA

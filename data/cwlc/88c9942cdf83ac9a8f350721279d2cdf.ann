@@ -1,0 +1,13 @@
+T1	Abbreviation 67 69	Ms
+T2	Abbreviation 112 115	Obs
+T3	Abbreviation 128 131	Obs
+T4	Body_Part 14 26	Lobulo Medio
+T5	Disease 80 110	Patologia Estructural Pulmonar
+T6	Disease 116 126	Vasculitis
+T7	Disease 132 149	Inmunodeficiencia
+T8	Disease 152 156	asma
+T9	Disease 0 13	Bronquiolitis
+T10	Body_Part 29 36	Lingula
+T11	Disease 47 69	infeccioon Por Psag Ms
+T12	Abbreviation 62 66	Psag
+T13	Laboratory_or_Test_Result 62 69	Psag Ms

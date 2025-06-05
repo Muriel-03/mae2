@@ -1,0 +1,7 @@
+T1	Abbreviation 74 77	APS
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Disease 195 243	Anomalias dentofaciales (incluso la maloclusion)
+T4	Clinical_Finding 106 129	sin antecentes mórbidos
+T5	Sign_or_Symptom 131 151	Clase III esqueletal
+T6	Sign_or_Symptom 153 165	Mesioclusión
+T7	Sign_or_Symptom 167 193	Mordida invertida anterior

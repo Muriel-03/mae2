@@ -1,0 +1,23 @@
+T1	Abbreviation 83 86	APS
+T2	Abbreviation 101 106	antec
+T3	Abbreviation 110 112	ca
+T4	Abbreviation 142 146	sept
+T5	Abbreviation 229 235	birads
+T6	Body_Part 55 59	MAMA
+T7	Body_Part 113 118	mamas
+T8	Body_Part 154 159	mamas
+T9	Body_Part 321 325	mama
+T11	Diagnostic_Procedure 131 141	mamografia
+T12	Diagnostic_Procedure 257 266	ecografia
+T13	Diagnostic_Procedure 308 325	imagen de la mama
+T14	Disease 2 59	HALLAZGOS ANORMALES EN DIAGNÓSTICOS POR IMAGEN DE LA MAMA
+T15	Disease 110 118	ca mamas
+T17	Laboratory_or_Test_Result 154 166	mamas densas
+T19	Laboratory_or_Test_Result 186 225	calcificacion benigna aislada izquierda
+T20	Laboratory_or_Test_Result 229 237	birads 2
+T21	Disease 268 325	Hallazgos anormales en diagnosticos por imagen de la mama
+R1	Has Arg1:T11 Arg2:T17	
+R2	Has Arg1:T11 Arg2:T19	
+R3	Has Arg1:T11 Arg2:T20	
+A1	Pending T12
+T10	Clinical_Finding 97 118	sin antec de ca mamas

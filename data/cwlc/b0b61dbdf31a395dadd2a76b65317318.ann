@@ -1,0 +1,9 @@
+T1	Abbreviation 81 84	APS
+T2	Body_Part 128 133	encía
+T3	Body_Part 156 188	espacio interdental de 3.1 y 4.1
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 50 57	fibroma
+T6	Disease 260 308	Anomalias dentofaciales (incluso la maloclusion)
+T8	Sign_or_Symptom 86 259	lesion exofitica de base sesil ubicada en encía, vascular, asociada a espacio interdental de 3.1 y 4.1, de 5mm de diametro aproximadamente, no remite con terapia antibiotica
+T9	Therapeutic_Procedure 240 259	terapia antibiotica
+T7	Abbreviation 194 196	mm

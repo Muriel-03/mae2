@@ -1,0 +1,12 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 52 56	pcte
+T3	Abbreviation 74 76	rx
+T4	Abbreviation 136 140	pzas
+T5	Body_Part 136 150	pzas 4.7 y 4.8
+T6	Diagnostic_Procedure 74 76	rx
+T7	Disease 2 23	PERIODONTITIS CRÓNICA
+T8	Disease 155 173	abceso periodontal
+T9	Disease 243 264	Periodontitis cronica
+T10	Sign_or_Symptom 115 120	dolor
+T11	Sign_or_Symptom 211 220	movilidad
+T12	Sign_or_Symptom 223 240	saco peridodontal

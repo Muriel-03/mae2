@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	DTE
+T2	Abbreviation 90 93	PMA
+T3	Body_Part 0 5	DTE 6
+T4	Disease 8 35	ABSCESO DENTOALVEOLAR AGUDO
+T6	Therapeutic_Procedure 47 58	TREPANACION
+T7	Therapeutic_Procedure 61 71	REFINACION
+T8	Medication 90 93	PMA
+T5	Clinical_Finding 96 104	IONOMERO

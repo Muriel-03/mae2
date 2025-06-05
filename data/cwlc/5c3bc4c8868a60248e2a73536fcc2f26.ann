@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 93 96	ATB
+T3	Abbreviation 157 160	TTO
+T4	Abbreviation 189 191	RX
+T5	Body_Part 0 6	PZA 10
+T6	Diagnostic_Procedure 189 202	RX PERIAPICAL
+T7	Disease 7 38	PERIDONTITIS APICAL SINTOMATICA
+T8	Medication 106 122	ANTIINFLAMATORIO
+T9	Therapeutic_Procedure 157 177	TTO ENDODONTICAMENTE
+T10	Therapeutic_Procedure 75 84	TERPANADA
+T11	Therapeutic_Procedure 85 96	TERAPIA ATB
+A1	Pending T9

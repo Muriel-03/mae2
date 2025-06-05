@@ -1,0 +1,63 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 124 126	OP
+T3	Abbreviation 633 635	TA
+T4	Abbreviation 810 813	NEG
+T5	Abbreviation 818 825	GLASGOW
+T6	Body_Part 209 215	CABEZA
+T7	Body_Part 239 257	PARIETAL IZQUIERDO
+T8	Body_Part 288 293	OIDOS
+T9	Disease 2 28	OTROS VÉRTIGOS PERIFÉRICOS
+T10	Disease 67 89	COXOARTROSIS BILATERAL
+T11	Disease 921 947	Otros vertigos perifericos
+T12	Clinical_Finding 818 828	GLASGOW 15
+T13	Clinical_Finding 834 850	SIGNOS MENINGEOS
+T14	Laboratory_or_Test_Result 476 482	NORMAL
+T15	Laboratory_or_Test_Result 599 624	SIN HALLAZGOS PATOLOGICOS
+T17	Laboratory_Procedure 465 474	HEMOGRAMA
+T18	Laboratory_Procedure 482 490	GLICEMIA
+T19	Laboratory_Procedure 498 503	HBA1C
+T20	Laboratory_Procedure 508 513	CREAT
+T21	Laboratory_Procedure 521 536	PERFIL LIPIDICO
+T22	Laboratory_Procedure 564 569	ELECT
+T23	Laboratory_Procedure 577 586	ESP ORINA
+T24	Sign_or_Symptom 200 275	DOLOR DE CABEZA, PUNZANTE, PALPITANTE, PARIETAL IZQUIERDO QUE NO SE IRRADIA
+T26	Sign_or_Symptom 277 303	ZUMBIDO DE OIDOS CONSTANTE
+T27	Sign_or_Symptom 305 311	MAREOS
+T28	Sign_or_Symptom 314 321	VERTIGO
+T34	Disease 92 115	REFLUJO GASTROESOFAGICO
+T35	Clinical_Finding 115 124	ALERG: NO
+T36	Clinical_Finding 124 130	OP: NO
+T37	Clinical_Finding 130 141	NO FUMADORA
+T38	Abbreviation 60 63	APP
+T25	Sign_or_Symptom 347 367	PERDER EL EQUILIBRIO
+T39	Sign_or_Symptom 368 432	CUADRO RECURRENTE, FRECUENTE, SIN MODIFICACION DESDE SU COMIENZO
+T40	Laboratory_or_Test_Result 492 498	NORMAL
+T41	Laboratory_or_Test_Result 515 521	NORMAL
+R1	Has Arg1:T17 Arg2:T14	
+R2	Has Arg1:T18 Arg2:T40	
+R3	Has Arg1:T20 Arg2:T41	
+T42	Laboratory_or_Test_Result 538 544	NORMAL
+R4	Has Arg1:T21 Arg2:T42	
+T43	Laboratory_Procedure 544 556	QCA URINARIA
+T44	Laboratory_or_Test_Result 558 564	NORMAL
+R5	Has Arg1:T43 Arg2:T44	
+T45	Laboratory_or_Test_Result 571 577	NORMAL
+R6	Has Arg1:T22 Arg2:T45	
+T46	Laboratory_or_Test_Result 588 594	NORMAL
+T47	Diagnostic_Procedure 594 597	ECG
+R7	Has Arg1:T47 Arg2:T15	
+R8	Has Arg1:T23 Arg2:T46	
+T16	Body_Part 698 706	TIROIDES
+T48	Clinical_Finding 729 736	MP(+)SE
+T49	Abbreviation 668 670	EX
+T50	Abbreviation 729 736	MP(+)SE
+T51	Abbreviation 736 742	RR2TSS
+T52	Clinical_Finding 736 742	RR2TSS
+T53	Abbreviation 742 745	ABD
+T29	Body_Part 742 745	ABD
+T30	Clinical_Finding 742 804	ABD: BLANDO DEPRESIBLE NO DOLOROSO A PALPACION, NO PALPO MASAS
+T31	Abbreviation 805 808	URO
+T32	Abbreviation 813 816	SNC
+A1	Negated T13
+T33	Clinical_Finding 856 875	FOCALIZACION MOTORA
+A2	Negated T33

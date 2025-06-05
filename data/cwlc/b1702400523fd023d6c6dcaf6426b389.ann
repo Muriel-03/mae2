@@ -1,0 +1,8 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 45 50	PULPA
+T3	Body_Part 168 173	pulpa
+T4	Disease 2 50	PERIODONTITIS APICAL AGUDA ORIGINADA EN LA PULPA
+T5	Disease 79 99	periodontitis apical
+T6	Disease 125 173	Periodontitis apical aguda originada en la pulpa
+T7	Laboratory_or_Test_Result 102 124	lesion endoperiodontal
+T8	Disease 102 124	lesion endoperiodontal

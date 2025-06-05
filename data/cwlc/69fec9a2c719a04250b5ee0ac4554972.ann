@@ -1,0 +1,12 @@
+T1	Abbreviation 159 162	PAP
+T2	Body_Part 64 69	útero
+T3	Body_Part 72 79	ovarios
+T4	Diagnostic_Procedure 159 162	PAP
+T5	Laboratory_or_Test_Result 64 88	útero y ovarios normales
+T6	Laboratory_or_Test_Result 121 150	ectropion friable y sangrande
+T7	Laboratory_or_Test_Result 169 175	normal
+T8	Sign_or_Symptom 13 23	menorragia
+T10	Clinical_Finding 43 58	policonsultante
+T11	Diagnostic_Procedure 106 120	especuloscopía
+R1	Has Arg1:T11 Arg2:T6	
+R2	Has Arg1:T4 Arg2:T7	

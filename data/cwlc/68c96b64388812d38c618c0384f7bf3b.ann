@@ -1,0 +1,8 @@
+T1	Abbreviation 86 89	APS
+T2	Body_Part 53 62	TESTÍCULO
+T3	Body_Part 213 222	testiculo
+T4	Disease 2 62	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DEL TESTÍCULO
+T5	Disease 162 222	Tumor de comportamiento incierto o desconocido del testiculo
+T6	Sign_or_Symptom 113 150	aumento de volumen testicular derecho
+T7	Sign_or_Symptom 156 161	dolor
+A1	Negated T7

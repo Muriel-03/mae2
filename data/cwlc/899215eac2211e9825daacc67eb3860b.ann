@@ -1,0 +1,13 @@
+T1	Abbreviation 93 96	ITU
+T2	Abbreviation 190 193	APS
+T3	Abbreviation 272 275	ITU
+T4	Disease 80 92	herpes bucal
+T5	Disease 93 109	ITU a repeticion
+T6	Disease 113 166	INFECCIÓN DEBIDA AL VIRUS DEL HERPES, NO ESPECIFICADA
+T7	Disease 272 275	ITU
+T8	Clinical_Finding 55 63	embarazo
+T9	Clinical_Finding 195 205	Primigesta
+T10	Clinical_Finding 217 225	embarazo
+T11	Clinical_Finding 17 37	PRIMIGESTA MUY JOVEN
+T12	Clinical_Finding 37 54	Primigesta precoz
+T13	Clinical_Finding 336 356	primigesta muy joven

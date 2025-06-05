@@ -1,0 +1,13 @@
+T1	Abbreviation 96 99	APS
+T2	Body_Part 56 72	TÍMPANO DEL OÍDO
+T3	Body_Part 284 298	oido izquierdo
+T4	Body_Part 331 338	timpano
+T5	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T6	Disease 33 72	RUPTURA TRAUMÁTICA DEL TÍMPANO DEL OÍDO
+T8	Disease 166 186	otitis media cronica
+T9	Disease 369 396	Hipoacusia, no especificada
+T10	Medication 222 242	antibiotico empirico
+T11	Sign_or_Symptom 191 198	otorrea
+T12	Sign_or_Symptom 270 298	hipoacusia de oido izquierdo
+T13	Sign_or_Symptom 300 338	otoscopia: no logro visualizar timpano
+T7	Clinical_Finding 110 148	sin antecedentes de enferemdad cronica

@@ -1,0 +1,10 @@
+T1	Abbreviation 45 48	APS
+T2	Body_Part 127 136	pieza 3.4
+T3	Disease 2 21	PERIODONTITIS AGUDA
+T4	Disease 63 93	insuficiencia hepatica cronica
+T5	Disease 104 123	periodontitis aguda
+T6	Disease 183 189	caries
+T7	Sign_or_Symptom 148 168	perdida de insercion
+T8	Sign_or_Symptom 193 211	aumento de volumen
+A1	Negated T6
+A2	Negated T8

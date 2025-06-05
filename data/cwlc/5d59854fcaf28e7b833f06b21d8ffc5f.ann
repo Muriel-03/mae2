@@ -1,0 +1,27 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 43 46	RNT
+T3	Abbreviation 50 53	sem
+T4	Abbreviation 55 58	PTV
+T5	Abbreviation 142 145	DSM
+T6	Abbreviation 241 243	CC
+T7	Abbreviation 247 249	cm
+T8	Abbreviation 311 313	DS
+T9	Abbreviation 378 380	ex
+T10	Abbreviation 408 410	cm
+T11	Abbreviation 443 445	+-
+T12	Abbreviation 448 450	cm
+T13	Abbreviation 534 536	CC
+T14	Body_Part 134 141	caderas
+T15	Body_Part 382 400	fontanela anterior
+T16	Disease 2 14	MACROCEFALIA
+T17	Disease 121 141	displasia de caderas
+T18	Disease 610 622	Macrocefalia
+T19	Clinical_Finding 43 46	RNT
+T21	Clinical_Finding 97 105	embarazo
+T22	Sign_or_Symptom 255 285	cambio en curva de crecimiento
+T25	Clinical_Finding 412 442	blanda, posterior aun palpable
+T26	Sign_or_Symptom 451 504	sutura sagital impresiona superpuesta hacia posterior
+T27	Sign_or_Symptom 512 536	aumneto progresivo de CC
+T28	Sign_or_Symptom 539 570	cambio de curva de creciemiento
+T29	Therapeutic_Procedure 55 58	PTV
+T20	Abbreviation 401 403	+-

@@ -1,0 +1,11 @@
+T1	Body_Part 69 78	1,4 - 1,5
+T2	Body_Part 89 99	diente 1,2
+T3	Body_Part 199 209	diente 1,1
+T4	Disease 9 35	desdentado parcial maxilar
+T5	Sign_or_Symptom 53 78	Vano desdentado 1,4 - 1,5
+T7	Clinical_Finding 100 124	tratado endodonticamente
+T8	Sign_or_Symptom 37 52	clase 3 Kennedy
+T9	Therapeutic_Procedure 147 195	tratamiento rehabilitador protesis fija unitaria
+T10	Therapeutic_Procedure 227 236	implantes
+A1	Pending T9
+A2	Pending T10

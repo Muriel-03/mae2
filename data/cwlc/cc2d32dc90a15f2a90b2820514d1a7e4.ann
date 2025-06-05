@@ -1,0 +1,4 @@
+T1	Body_Part 47 55	pieza 19
+T4	Sign_or_Symptom 18 55	fistula ...... en oclusión a pieza 19
+T5	Therapeutic_Procedure 73 110	obturación de vidrio ionómero oclusal
+T2	Clinical_Finding 134 146	asintomático

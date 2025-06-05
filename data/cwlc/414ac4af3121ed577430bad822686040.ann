@@ -1,0 +1,8 @@
+T1	Abbreviation 87 90	APS
+T2	Abbreviation 92 96	PCTE
+T3	Disease 2 63	HERNIA ABDOMINAL NO ESPECIFICADA, SIN OBSTRUCCIÓN NI GANGRENA
+T4	Disease 118 134	HERNIA ABDOMINAL
+T5	Disease 219 280	Hernia abdominal no especificada, sin obstruccion ni gangrena
+T6	Sign_or_Symptom 118 148	HERNIA ABDOMINAL DE LARGA DATA
+T7	Sign_or_Symptom 174 194	AUMENTADO DE VOLUMEN
+T8	Sign_or_Symptom 210 218	DOLOROSA

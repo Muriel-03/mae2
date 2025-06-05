@@ -1,0 +1,8 @@
+T1	Abbreviation 101 105	TACO
+T2	Body_Part 107 116	Diente 32
+T3	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T4	Disease 117 145	Periodontitis apical crónica
+T5	Medication 101 105	TACO
+T6	Therapeutic_Procedure 159 168	exodoncia
+T7	Disease 66 91	Síndrome Antifosfolípidos
+A1	Pending T6

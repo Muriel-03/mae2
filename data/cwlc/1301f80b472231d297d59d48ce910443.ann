@@ -1,0 +1,18 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 81 91	diente 2.7
+T4	Body_Part 95 98	2.8
+T5	Body_Part 159 181	dientes 2.6, 2.5 y 2.4
+T6	Body_Part 216 222	diente
+T8	Body_Part 280 287	Dientes
+T9	Diagnostic_Procedure 187 209	radiografía periapical
+T10	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T11	Disease 112 121	impactado
+T12	Disease 280 310	Dientes incluidos e impactados
+T13	Laboratory_or_Test_Result 95 121	2.8 incluido y/o impactado
+T14	Laboratory_or_Test_Result 216 245	diente en evolución intraosea
+T15	Sign_or_Symptom 137 155	dolor generalizado
+T16	Therapeutic_Procedure 255 264	exodoncia
+R1	Has Arg1:T9 Arg2:T14	
+R2	Has Arg1:T9 Arg2:T13	
+A1	Pending T16

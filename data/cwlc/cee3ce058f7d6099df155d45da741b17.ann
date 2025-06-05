@@ -1,0 +1,7 @@
+T1	Body_Part 37 46	Pieza 4.2
+T2	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T3	Disease 47 63	caries pentrante
+T4	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T5	Therapeutic_Procedure 94 105	trepanación
+T6	Disease 66 81	osteítis apìcal
+T7	Laboratory_or_Test_Result 37 81	Pieza 4.2 caries pentrante y osteítis apìcal

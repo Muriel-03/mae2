@@ -1,0 +1,6 @@
+T2	Body_Part 25 33	diente 4
+T3	Sign_or_Symptom 13 33	ausencia de diente 4
+T4	Therapeutic_Procedure 71 94	implante oseo integrado
+T5	Therapeutic_Procedure 107 110	PFU
+A1	Pending T4
+A2	Pending T5

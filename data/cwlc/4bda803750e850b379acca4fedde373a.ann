@@ -1,0 +1,9 @@
+T1	Abbreviation 40 44	rest
+T2	Body_Part 30 39	diente 30
+T3	Body_Part 90 112	ligamento  periodontal
+T4	Disease 0 28	caries dentinaria penetrante
+T5	Disease 132 140	osteitis
+T6	Laboratory_or_Test_Result 90 129	ligamento  periodontal engrosado apical
+T7	Therapeutic_Procedure 77 87	endodoncia
+T8	Laboratory_or_Test_Result 30 55	diente 30 rest penetrante
+A1	Pending T7

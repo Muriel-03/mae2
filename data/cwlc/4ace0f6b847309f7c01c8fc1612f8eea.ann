@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA. 15
+T3	Body_Part 75 79	BOCA
+T5	Disease 45 62	FIBROSIS GINGIVAL
+T7	Laboratory_or_Test_Result 0 39	PZA. 15 EN EVOLUCION EXTRAOSEA RETENIDA
+T4	Sign_or_Symptom 64 79	AUSENTE EN BOCA

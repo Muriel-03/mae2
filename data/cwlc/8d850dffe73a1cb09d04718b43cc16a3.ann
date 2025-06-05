@@ -1,0 +1,10 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 103 105	ex
+T3	Abbreviation 183 186	tto
+T4	Abbreviation 199 201	ev
+T5	Body_Part 145 157	extramidades
+T6	Body_Part 160 166	tronco
+T7	Disease 2 25	ALERGIA NO ESPECIFICADA
+T10	Sign_or_Symptom 72 85	rush alergico
+T11	Sign_or_Symptom 121 166	papulas pruriginosas en extramidades y tronco
+T8	Sign_or_Symptom 169 186	refractario a tto

@@ -1,0 +1,7 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 38 42	PCTE
+T3	Disease 2 9	MIGRAÑA
+T4	Disease 51 65	HIPOTIROIDISMO
+T5	Sign_or_Symptom 87 114	CEFALEA HOLOCRANEA CON AURA
+T6	Sign_or_Symptom 126 133	NAUSEAS
+T7	Sign_or_Symptom 135 142	VOMITOS

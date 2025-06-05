@@ -1,0 +1,5 @@
+T1	Disease 9 36	desdentado parcial superior
+T2	Disease 41 58	hipoacusia severa
+T5	Sign_or_Symptom 72 94	prótesis en mal estado
+T6	Therapeutic_Procedure 111 135	rehabilitación prótesica
+A1	Pending T6

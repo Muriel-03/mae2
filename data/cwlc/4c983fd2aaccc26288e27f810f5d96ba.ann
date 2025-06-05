@@ -1,0 +1,12 @@
+T2	Abbreviation 178 183	aprox
+T4	Abbreviation 187 189	mm
+T5	Body_Part 31 37	DIENTE
+T6	Body_Part 151 154	1.1
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T11	Sign_or_Symptom 44 65	Clase III esqueletal.
+T13	Sign_or_Symptom 104 131	Clase Canina III Bilateral.
+T14	Sign_or_Symptom 132 149	Mordida invertida
+T9	Clinical_Finding 66 87	Clase Molar Derecha I
+T12	Sign_or_Symptom 89 102	Izquierda III
+T1	Sign_or_Symptom 171 227	Faltan aprox. 6 mm por arcada para ordenamiento armónico
+T8	Sign_or_Symptom 151 169	1.1 en giroversión

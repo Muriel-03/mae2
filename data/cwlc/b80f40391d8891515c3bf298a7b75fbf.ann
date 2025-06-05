@@ -1,0 +1,9 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 153 155	pd
+T3	Body_Part 153 159	pd 4.4
+T4	Disease 5 43	desdentada parcial superior e inferior
+T5	Sign_or_Symptom 164 183	movilidad aumentada
+T6	Therapeutic_Procedure 54 125	rehabilitación con prótesis parciales superior e inferior base acrílica
+T7	Therapeutic_Procedure 143 152	exodoncia
+A1	Pending T6
+A2	Pending T7

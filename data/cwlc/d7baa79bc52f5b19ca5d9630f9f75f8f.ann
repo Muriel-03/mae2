@@ -1,0 +1,8 @@
+T1	Abbreviation 107 111	cond
+T2	Body_Part 27 38	fosa distal
+T3	Body_Part 53 66	cámara pulpar
+T4	Body_Part 68 74	cámara
+T5	Body_Part 84 90	raíces
+T6	Disease 0 23	caries oclusal profunda
+T7	Laboratory_or_Test_Result 0 118	caries oclusal profunda en fosa distal muy cercana a cámara pulpar, cámara estrecha raíces divergentes con cond. finos
+T8	Body_Part 107 111	cond

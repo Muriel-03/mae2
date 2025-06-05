@@ -1,0 +1,12 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 157 175	caninos superiores
+T4	Body_Part 257 277	Pemolares superiores
+T5	Body_Part 316 322	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 287 322	Anomalias de la posicion del diente
+T8	Clinical_Finding 75 102	sin antecedentes sistèmicos
+T9	Clinical_Finding 129 146	clase I izquierda
+T11	Sign_or_Symptom 104 126	clase II molar derecha
+T12	Sign_or_Symptom 157 254	caninos superiores en erupciòn los cuales tienen poco espacio y estàn erupcionando por vestibular
+T13	Sign_or_Symptom 257 285	Pemolares superiores rotados

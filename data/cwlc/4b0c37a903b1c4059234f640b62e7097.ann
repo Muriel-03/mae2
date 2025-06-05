@@ -1,0 +1,7 @@
+T1	Abbreviation 65 69	SAMR
+T2	Body_Part 25 32	rodilla
+T3	Laboratory_or_Test_Result 65 69	SAMR
+T4	Medication 98 110	cotrimoxazol
+T5	Medication 113 124	rifampicina
+T6	Disease 13 42	protesis de rodilla infectada
+T7	Sign_or_Symptom 174 190	fistulas activas

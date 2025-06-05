@@ -1,0 +1,15 @@
+T1	Abbreviation 0 2	GM
+T2	Abbreviation 7 10	CCA
+T3	Abbreviation 48 51	TTO
+T4	Abbreviation 60 64	OBS.
+T5	Abbreviation 80 83	OBS
+T6	Disease 30 44	HIPOTIROIDISMO
+T7	Disease 53 58	OBESA
+T9	Disease 88 104	MACROSOMIA FETAL
+T11	Clinical_Finding 7 10	CCA
+T12	Disease 65 78	D.GESTACIONAL
+T13	Laboratory_or_Test_Result 88 104	MACROSOMIA FETAL
+T10	Clinical_Finding 0 2	GM
+T14	Clinical_Finding 12 15	EMB
+T15	Abbreviation 12 15	EMB
+T8	Abbreviation 65 66	D

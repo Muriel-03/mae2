@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	tto
+T2	Body_Part 129 148	secto anterosupeior
+T3	Body_Part 168 175	caninos
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 231 237	caries
+T6	Clinical_Finding 188 211	Clase Angle I bilateral
+T7	Sign_or_Symptom 107 148	perdida de espacio en secto anterosupeior
+T8	Sign_or_Symptom 153 186	apiñamineto de caninos (montados)
+T9	Therapeutic_Procedure 74 91	tto de ortodoncia
+T10	Disease 153 164	apiñamineto
+A1	Negated T5

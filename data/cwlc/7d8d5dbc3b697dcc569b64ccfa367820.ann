@@ -1,0 +1,9 @@
+T2	Body_Part 54 63	pieza c-h
+T3	Body_Part 64 77	piezas 6 - 11
+T4	Body_Part 94 101	pieza 5
+T5	Body_Part 120 133	pieza 12 y 13
+T6	Sign_or_Symptom 38 63	persistencia de pieza c-h
+T7	Sign_or_Symptom 94 119	pieza 5 en palatoposicion
+T8	Sign_or_Symptom 120 161	pieza 12 y 13 sin espacio para erupcionar
+T1	Sign_or_Symptom 13 36	desorden en la erupcion
+T9	Sign_or_Symptom 64 91	piezas 6 - 11 dentoposicion

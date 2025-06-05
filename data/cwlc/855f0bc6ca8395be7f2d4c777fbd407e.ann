@@ -1,0 +1,21 @@
+T1	Abbreviation 106 109	APS
+T2	Abbreviation 111 114	ant
+T3	Body_Part 58 65	RODILLA
+T4	Body_Part 131 137	cadera
+T5	Body_Part 175 182	rodilla
+T6	Body_Part 277 299	zona lateral del femur
+T7	Body_Part 395 402	rodilla
+T8	Diagnostic_Procedure 349 360	radiografia
+T9	Disease 2 30	GONARTROSIS, NO ESPECIFICADA
+T10	Disease 34 82	TRASTORNO INTERNO DE LA RODILLA, NO ESPECIFICADO
+T11	Disease 411 439	Gonartrosis, no especificada
+T12	Laboratory_or_Test_Result 365 410	signos de artrosis moerada de rodilla ycadera
+T13	Sign_or_Symptom 156 198	dolor articular de rodilla mayor a derecha
+T14	Sign_or_Symptom 213 251	Estigmas externos artrosicos patelares
+T15	Sign_or_Symptom 263 317	tumoracion en zona lateral del femur movil no dolorosa
+T16	Disease 118 137	displasia de cadera
+T17	Laboratory_or_Test_Result 118 137	displasia de cadera
+T18	Disease 327 333	lipoma
+R1	Has Arg1:T8 Arg2:T12	
+T19	Body_Part 404 410	cadera
+T20	Disease 375 383	artrosis

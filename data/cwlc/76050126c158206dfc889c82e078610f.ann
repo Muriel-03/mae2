@@ -1,0 +1,10 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 71 72	+
+T3	Body_Part 14 19	RIÑÓN
+T4	Body_Part 94 107	RIÑON DERECHO
+T5	Body_Part 121 126	riñon
+T6	Disease 2 19	CÁLCULO DEL RIÑÓN
+T7	Disease 48 70	LITIASIS NEFROURETERAL
+T8	Disease 109 126	Calculo del riñon
+T9	Laboratory_or_Test_Result 73 107	NODULACION EXOFÍTICA RIÑON DERECHO
+T10	Laboratory_or_Test_Result 48 70	LITIASIS NEFROURETERAL

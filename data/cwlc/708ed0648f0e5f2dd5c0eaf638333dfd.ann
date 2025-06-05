@@ -1,0 +1,7 @@
+T1	Abbreviation 70 73	Obs
+T2	Body_Part 74 80	Ovario
+T3	Disease 21 40	abortos recurrentes
+T4	Disease 45 69	Resistente a la insulina
+T5	Disease 74 93	Ovario Poliquístico
+T6	Clinical_Finding 100 108	embarazo
+T7	Clinical_Finding 0 8	Nulípara

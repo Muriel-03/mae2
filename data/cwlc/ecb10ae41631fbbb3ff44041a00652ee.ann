@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 14 52	desdentado parcial superior e inferior
+T3	Therapeutic_Procedure 57 79	mantencion periodontal
+T4	Therapeutic_Procedure 90 114	rehabilitacion protesica
+A1	Pending T4

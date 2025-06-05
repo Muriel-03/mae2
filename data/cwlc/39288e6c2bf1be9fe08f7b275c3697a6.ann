@@ -1,0 +1,15 @@
+T1	Abbreviation 8 12	PIVE
+T2	Abbreviation 25 28	DIU
+T3	Abbreviation 63 66	PAP
+T4	Abbreviation 105 108	FUP
+T5	Diagnostic_Procedure 63 66	PAP
+T6	Clinical_Finding 0 6	G3P3AO
+T7	Clinical_Finding 8 12	PIVE
+T8	Clinical_Finding 14 28	USUARIA DE DIU
+T9	Laboratory_or_Test_Result 77 104	MULTIPLES POLIPOS EN CERVIX
+T10	Therapeutic_Procedure 25 28	DIU
+T11	Abbreviation 0 1	G
+T12	Abbreviation 2 3	P
+T13	Abbreviation 4 5	A
+R1	Has Arg1:T5 Arg2:T9	
+T14	Body_Part 98 104	CERVIX

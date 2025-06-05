@@ -1,0 +1,10 @@
+T1	Abbreviation 16 19	LTI
+T2	Abbreviation 75 78	LTD
+T3	Abbreviation 106 109	LTI
+T4	Disease 0 14	HIPOTIROIDISMO
+T5	Laboratory_or_Test_Result 16 41	LTI AUMENTADO  DE  TAMANO
+T7	Body_Part 16 19	LTI
+T6	Laboratory_or_Test_Result 46 78	DOS   NODULOS  SNLIDOS  EN   LTD
+T8	Laboratory_or_Test_Result 84 109	UN  NNDULO  MIXTO  EN LTI
+T9	Body_Part 75 78	LTD
+T10	Body_Part 106 109	LTI

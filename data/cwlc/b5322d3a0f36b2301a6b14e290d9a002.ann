@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 49 54	pacte
+T3	Body_Part 163 170	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 55 73	desdentado parcial
+T6	Disease 125 201	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Sign_or_Symptom 78 96	movilidad dentaria
+T8	Sign_or_Symptom 98 105	calculo
+T9	Sign_or_Symptom 107 123	saco periodontal

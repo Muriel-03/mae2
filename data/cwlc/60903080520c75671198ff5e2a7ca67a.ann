@@ -1,0 +1,15 @@
+T1	Abbreviation 42 45	HTA
+T2	Abbreviation 47 50	DLP
+T3	Abbreviation 151 154	DHL
+T4	Abbreviation 184 187	VHC
+T5	Abbreviation 188 191	VHB
+T6	Disease 19 40	psoriasis refractaria
+T7	Disease 42 45	HTA
+T8	Disease 47 50	DLP
+T9	Disease 151 154	DHL
+T10	Disease 184 187	VHC
+T11	Disease 193 213	Hepatitis autoinmune
+T12	Disease 220 244	cirrosis biliar primaria
+T13	Sign_or_Symptom 104 133	lesion violacea y descamativa
+T14	Disease 188 191	VHB
+T15	Abbreviation 215 218	obs

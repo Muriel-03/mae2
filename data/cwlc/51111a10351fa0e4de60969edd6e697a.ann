@@ -1,0 +1,45 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 97 100	Ant
+T3	Abbreviation 102 105	RNT
+T4	Abbreviation 106 109	AEG
+T5	Abbreviation 368 371	BEG
+T6	Abbreviation 410 412	MP
+T7	Abbreviation 413 414	+
+T8	Abbreviation 415 418	SRA
+T9	Abbreviation 421 425	RR2T
+T10	Abbreviation 480 484	EEII
+T11	Abbreviation 569 571	dg
+T12	Body_Part 247 252	dorso
+T13	Body_Part 471 476	dorso
+T14	Body_Part 480 484	EEII
+T15	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T16	Disease 201 215	soplo cardiaco
+T17	Disease 575 589	soplo cardiaco
+T18	Disease 742 773	Soplo cardiaco, no especificado
+T19	Clinical_Finding 102 105	RNT
+T20	Clinical_Finding 106 109	AEG
+T21	Clinical_Finding 112 124	Alergias: no
+T22	Clinical_Finding 368 371	BEG
+T23	Clinical_Finding 373 381	eupneico
+T24	Clinical_Finding 383 395	normocardico
+T25	Clinical_Finding 397 407	normotenso
+T26	Sign_or_Symptom 201 252	soplo cardiaco en la auscultaicon pulmonar en dorso
+T27	Sign_or_Symptom 294 352	soplo sistolico III/VI en foco aortico, irradiaod al doros
+T30	Sign_or_Symptom 426 476	soplo sistolico en foco aortico, irradiado a dorso
+T31	Sign_or_Symptom 489 494	edema
+T32	Clinical_Finding 497 525	Pulsos braquiales simetricos
+T33	Sign_or_Symptom 575 596	soplo cardiaco previo
+T34	Clinical_Finding 599 621	Sin sintomas de alarma
+T35	Clinical_Finding 623 659	tolera ejercicio igual que sus pares
+T36	Sign_or_Symptom 665 671	disnea
+T37	Sign_or_Symptom 675 683	ortopnea
+T38	Sign_or_Symptom 156 181	cuadro respiratorio agudo
+T39	Body_Part 266 280	nivel toracico
+T40	Body_Part 347 352	doros
+T28	Clinical_Finding 410 418	MP + SRA
+T29	Clinical_Finding 421 425	RR2T
+A1	Negated T31
+A2	Negated T36
+A3	Negated T37
+T41	Clinical_Finding 695 736	Sin antecedentes familiares de relevancia
+A4	Negated T33

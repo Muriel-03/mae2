@@ -1,0 +1,46 @@
+T1	Abbreviation 98 101	HTA
+T2	Abbreviation 102 104	DM
+T3	Abbreviation 107 108	+
+T4	Abbreviation 154 157	TTO
+T5	Abbreviation 174 175	C
+T6	Abbreviation 178 179	+
+T7	Abbreviation 192 193	C
+T8	Abbreviation 196 197	+
+T9	Abbreviation 215 217	MG
+T10	Abbreviation 225 226	+
+T11	Abbreviation 240 242	MG
+T12	Abbreviation 249 250	+
+T13	Abbreviation 265 267	MG
+T14	Abbreviation 274 275	+
+T15	Abbreviation 287 289	UG
+T16	Abbreviation 294 295	+
+T17	Abbreviation 311 315	COMP
+T18	Abbreviation 323 325	MG
+T19	Abbreviation 361 364	ECG
+T20	Abbreviation 473 477	SERV
+T21	Abbreviation 550 552	MG
+T22	Abbreviation 580 583	MED
+T23	Diagnostic_Procedure 361 364	ECG
+T24	Diagnostic_Procedure 609 623	ECOCARDIOGRAMA
+T25	Diagnostic_Procedure 704 718	ECOCARDIOGRAMA
+T26	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T27	Disease 40 72	FIBRILACIÓN Y ALETEO VENTRICULAR
+T28	Disease 98 101	HTA
+T29	Disease 102 106	DM 2
+T30	Disease 109 121	DISLIPIDEMIA
+T31	Disease 124 138	HIPOTIROIDISMO
+T32	Laboratory_or_Test_Result 380 393	RITMO SINUSAL
+T33	Laboratory_or_Test_Result 394 442	COMPLEJOS VENTRICULARES Y AURICULARES FRECUENTES
+T34	Medication 163 171	LOSARTAN
+T35	Medication 180 190	METIL DOPA
+T37	Medication 198 211	ATORVASTATINA
+T38	Medication 227 235	ASPIRINA
+T39	Medication 251 261	FUROSEMIDA
+T40	Medication 276 283	EUTIROX
+T41	Medication 296 306	METFORMINA
+T42	Medication 534 544	CARVEDILOL
+T43	Abbreviation 122 123	+
+R1	Has Arg1:T23 Arg2:T32	
+R2	Has Arg1:T23 Arg2:T33	
+A1	Pending T24
+A2	Pending T25

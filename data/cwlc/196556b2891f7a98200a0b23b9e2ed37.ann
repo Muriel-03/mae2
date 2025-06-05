@@ -1,0 +1,26 @@
+T1	Abbreviation 72 75	APS
+T2	Abbreviation 627 630	P/E
+T3	Abbreviation 634 637	T/E
+T4	Abbreviation 641 644	P/T
+T5	Abbreviation 915 917	LP
+T6	Abbreviation 918 920	LN
+T7	Abbreviation 1205 1207	IC
+T8	Disease 2 48	DESNUTRICIÓN PROTEICOCALÓRICA, NO ESPECIFICADA
+T9	Disease 232 261	desnutricion proteicocalorica
+T10	Sign_or_Symptom 403 432	cuadros bronquiales repetidos
+T11	Disease 1139 1151	desnutricion
+T12	Disease 1218 1264	Desnutricion proteicocalorica, no especificada
+T13	Family_Member 106 111	madre
+T14	Family_Member 389 394	madre
+T15	Clinical_Finding 122 144	alergia a medicamentos
+T16	Clinical_Finding 149 170	antecedentes morbidos
+T17	Medication 303 317	polivitaminico
+T19	Medication 352 367	sulfato ferroso
+T20	Sign_or_Symptom 232 261	desnutricion proteicocalorica
+T21	Sign_or_Symptom 487 507	disminuciopn de peso
+A1	Negated T15
+A2	Negated T16
+T22	Sign_or_Symptom 217 229	baja de peso
+T18	Sign_or_Symptom 745 781	no ha presentado incremento adecuado
+T23	Sign_or_Symptom 627 633	P/E -2
+T24	Sign_or_Symptom 641 647	P/T -2

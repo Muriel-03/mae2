@@ -1,0 +1,8 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 62 88	piezas 1.8, 2.8, 3.8 y 4.8
+T3	Disease 2 15	CARIES DENTAL
+T4	Disease 93 107	caries oclusal
+T5	Disease 164 177	Caries dental
+T7	Sign_or_Symptom 62 107	piezas 1.8, 2.8, 3.8 y 4.8 con caries oclusal
+T8	Sign_or_Symptom 109 138	Retención de placa bacteriana
+T9	Sign_or_Symptom 141 162	dificultad de higiene

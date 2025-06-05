@@ -1,0 +1,8 @@
+T1	Abbreviation 72 75	APS
+T2	Abbreviation 77 80	obs
+T3	Body_Part 20 25	ÚTERO
+T4	Body_Part 81 86	utero
+T5	Body_Part 139 144	utero
+T6	Disease 2 48	TUMOR BENIGNO DEL ÚTERO, PARTE NO ESPECIFICADA
+T7	Disease 121 167	Tumor benigno del utero, parte no especificada
+T8	Laboratory_or_Test_Result 81 99	utero adenomiosico

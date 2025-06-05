@@ -1,0 +1,6 @@
+T1	Disease 95 133	desdentado parcial superior e inferior
+T2	Sign_or_Symptom 32 55	dolor articular derecho
+T3	Sign_or_Symptom 139 168	pérdida de dimensión vertical
+T4	Sign_or_Symptom 171 188	mordida invertida
+T5	Therapeutic_Procedure 218 254	protesis parcial superior e inferior
+A1	Pending T5

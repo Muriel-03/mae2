@@ -1,0 +1,59 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 155 157	DM
+T3	Abbreviation 173 176	EXS
+T4	Abbreviation 201 203	DM
+T5	Abbreviation 216 219	TTO
+T6	Abbreviation 224 227	MTF
+T7	Abbreviation 228 229	+
+T8	Abbreviation 377 380	ECO
+T9	Abbreviation 425 428	EXS
+T10	Abbreviation 453 458	HBA1C
+T11	Abbreviation 465 469	HGMA
+T12	Abbreviation 472 475	HTO
+T13	Abbreviation 482 484	HB
+T14	Abbreviation 489 492	VCM
+T15	Abbreviation 536 540	CREA
+T16	Abbreviation 587 588	+
+T17	Abbreviation 589 592	COL
+T18	Abbreviation 593 594	T
+T19	Abbreviation 600 603	HDL
+T20	Abbreviation 608 611	LDL
+T21	Abbreviation 617 620	TGC
+T22	Body_Part 22 31	HIPÓFISIS
+T23	Body_Part 123 132	HIPOFISIS
+T24	Diagnostic_Procedure 377 390	ECO ABDOMINAL
+T25	Disease 2 31	TUMOR BENIGNO DE LA HIPÓFISIS
+T26	Disease 114 132	TUMOR DE HIPOFISIS
+T27	Disease 134 153	SINDROME DE CUSHING
+T28	Disease 155 157	DM
+T29	Disease 201 203	DM
+T32	Laboratory_or_Test_Result 392 423	POLIPO MUCOSO VESICULAR FUNDICO
+T33	Laboratory_or_Test_Result 587 588	+
+T34	Laboratory_Procedure 440 448	GLICEMIA
+T35	Laboratory_Procedure 453 458	HBA1C
+T36	Laboratory_Procedure 465 469	HGMA
+T37	Laboratory_Procedure 472 475	HTO
+T38	Laboratory_Procedure 482 484	HB
+T39	Laboratory_Procedure 489 492	VCM
+T40	Laboratory_Procedure 499 509	LEUCOCITOS
+T41	Laboratory_Procedure 517 526	PLAQUETAS
+T42	Laboratory_Procedure 536 540	CREA
+T43	Laboratory_Procedure 547 555	URICEMIA
+T44	Laboratory_Procedure 561 575	ORINA COMPLETA
+T45	Laboratory_Procedure 577 586	PROTEINAS
+T46	Laboratory_Procedure 589 594	COL T
+T47	Laboratory_Procedure 600 603	HDL
+T48	Laboratory_Procedure 608 611	LDL
+T49	Laboratory_Procedure 617 620	TGC
+T50	Medication 224 227	MTF
+T51	Medication 230 238	INSULINA
+T52	Medication 262 273	PARACETAMOL
+T53	Medication 275 291	HIPOGLICEMIANTES
+T54	Medication 294 302	INSULINA
+T55	Sign_or_Symptom 338 353	DOLOR ABDOMINAL
+T56	Sign_or_Symptom 356 363	VOMITOS
+T30	Clinical_Finding 73 109	ANTECEDENTES DE CIRUGIA HIPOFISIARIA
+R1	Has Arg1:T24 Arg2:T32	
+R2	Has Arg1:T45 Arg2:T33	
+T31	Therapeutic_Procedure 89 109	CIRUGIA HIPOFISIARIA
+T57	Clinical_Finding 275 327	HIPOGLICEMIANTES E INSULINA SUSPENDIDOS HACE UNA AÑO

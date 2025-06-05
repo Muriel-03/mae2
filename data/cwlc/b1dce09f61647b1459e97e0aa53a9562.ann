@@ -1,0 +1,16 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 63 68	pacte
+T3	Abbreviation 88 91	atm
+T4	Body_Part 27 34	DIENTES
+T5	Body_Part 88 91	atm
+T6	Body_Part 105 112	dientes
+T7	Body_Part 140 147	dientes
+T8	Body_Part 178 184	cabeza
+T9	Body_Part 226 233	dientes
+T10	Disease 2 34	ATRICIÓN EXCESIVA DE LOS DIENTES
+T11	Disease 201 233	Atricion excesiva de los dientes
+T12	Sign_or_Symptom 73 91	dolor en ambas atm
+T13	Sign_or_Symptom 93 112	desgaste de dientes
+T14	Sign_or_Symptom 114 147	rechinamiento nocturno de dientes
+T15	Sign_or_Symptom 148 167	facetas de desgaste
+T16	Sign_or_Symptom 169 199	dolor de cabeza que se irradia

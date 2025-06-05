@@ -1,0 +1,10 @@
+T1	Abbreviation 69 72	APS
+T2	Body_Part 240 254	pierna derecha
+T3	Body_Part 310 326	pierna izquierda
+T4	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T5	Disease 99 122	hernia inguinal derecha
+T6	Sign_or_Symptom 189 254	sintomatología  de Insuficiencia Venosa aislada en pierna derecha
+T7	Disease 272 279	varices
+T8	Clinical_Finding 285 326	ninguna manifestación en pierna izquierda
+T9	Disease 359 402	Insuficiencia venosa (cronica) (periferica)
+T10	Sign_or_Symptom 272 279	varices

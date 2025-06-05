@@ -1,0 +1,15 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 125 128	ATM
+T3	Abbreviation 215 218	ATM
+T4	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T5	Body_Part 125 128	ATM
+T6	Body_Part 150 167	piezas anteriores
+T7	Body_Part 169 187	piezas posteriores
+T8	Body_Part 215 218	ATM
+T9	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T10	Clinical_Finding 84 94	embarazada
+T11	Sign_or_Symptom 116 128	dolor en ATM
+T12	Sign_or_Symptom 130 167	desgaste incisal en piezas anteriores
+T13	Sign_or_Symptom 169 197	piezas posteriores obturadas
+T14	Sign_or_Symptom 200 218	salto en ambas ATM
+T15	Sign_or_Symptom 221 254	desviación mandibular en apertura

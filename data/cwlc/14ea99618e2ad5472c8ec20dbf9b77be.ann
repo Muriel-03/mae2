@@ -1,0 +1,42 @@
+T1	Abbreviation 93 96	APS
+T2	Abbreviation 98 101	ACV
+T3	Abbreviation 117 120	LST
+T4	Abbreviation 130 133	NTD
+T5	Abbreviation 143 147	HCTZ
+T6	Abbreviation 176 179	AAS
+T7	Abbreviation 189 192	ATV
+T8	Abbreviation 224 227	FXT
+T9	Abbreviation 238 241	BDS
+T10	Abbreviation 517 519	ex
+T11	Abbreviation 611 615	EESS
+T12	Body_Part 323 346	extremidades superiores
+T13	Body_Part 611 615	EESS
+T14	Disease 2 42	SECUELAS DE ENFERMEDADES CEREBROVASCULAR
+T15	Disease 46 69	ENFERMEDAD DE PARKINSON
+T16	Disease 98 101	ACV
+T18	Disease 618 641	Enfermedad de Parkinson
+T19	Family_Member 512 516	hija
+T20	Medication 117 120	LST
+T21	Medication 130 133	NTD
+T22	Medication 143 147	HCTZ
+T23	Medication 157 166	Metildopa
+T24	Medication 176 179	AAS
+T25	Medication 189 192	ATV
+T26	Medication 207 212	Rispe
+T27	Medication 224 227	FXT
+T28	Medication 238 241	BDS
+T29	Medication 251 260	Ipatropio
+T30	Sign_or_Symptom 301 374	aumento en temblor de extremidades superiores, que no cede a la intencion
+T31	Sign_or_Symptom 378 436	marcha a menor tamaño de paso y mas acelerada en velocidad
+T32	Sign_or_Symptom 537 584	temblor tipo pildoreo de predominio a izquierda
+T33	Sign_or_Symptom 586 616	Rigidez rueda dentada en EESS.
+T34	Abbreviation 112 115	HTA
+T35	Disease 112 115	HTA
+T36	Abbreviation 185 188	DLP
+T37	Disease 185 188	DLP
+T38	Disease 198 206	Demencia
+T39	Abbreviation 233 237	EPOC
+T40	Disease 233 237	EPOC
+T41	Sign_or_Symptom 436 461	Desorientacion fluctuante
+T42	Clinical_Finding 470 481	Descanso Ok
+T43	Sign_or_Symptom 521 535	facie hipomima

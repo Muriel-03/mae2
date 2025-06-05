@@ -1,0 +1,13 @@
+T1	Abbreviation 28 31	VIH
+T2	Abbreviation 42 45	TTO
+T3	Abbreviation 47 50	CD4
+T4	Abbreviation 65 67	ID
+T5	Abbreviation 99 100	+
+T6	Disease 0 31	INMUNODEPRESION ECUNDARAI A VIH
+T7	Disease 28 31	VIH
+T8	Laboratory_or_Test_Result 47 53	CD4 18
+T9	Abbreviation 128 132	ATTE
+T10	Diagnostic_Procedure 101 113	FONDO DE OJO
+A1	Pending T10
+T11	Body_Part 110 113	OJO
+T12	Disease 65 67	ID

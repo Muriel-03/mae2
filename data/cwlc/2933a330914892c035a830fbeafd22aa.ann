@@ -1,0 +1,8 @@
+T1	Body_Part 9 18	denticion
+T2	Body_Part 39 46	pieza 6
+T3	Body_Part 74 87	pieza 7,10,11
+T4	Body_Part 106 113	molares
+T5	Clinical_Finding 9 38	denticion permanente completa
+T6	Sign_or_Symptom 39 73	pieza 6 erupcionado por vestibular
+T8	Sign_or_Symptom 88 105	mordida invertida
+T7	Clinical_Finding 106 130	molares en neutroclusion

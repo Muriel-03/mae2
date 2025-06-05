@@ -1,0 +1,11 @@
+T1	Abbreviation 31 33	DX
+T2	Clinical_Finding 45 72	ASINTOMATICO CARDIOVASCULAR
+T4	Sign_or_Symptom 80 86	ANGINA
+T5	Sign_or_Symptom 88 95	SINCOPE
+T6	Sign_or_Symptom 98 111	PALPITACIONES
+A1	Negated T4
+A2	Negated T5
+A3	Negated T6
+T3	Laboratory_Procedure 0 8	PACIENTE
+T7	Laboratory_or_Test_Result 10 18	ASCULINO
+R1	Has Arg1:T3 Arg2:T7	

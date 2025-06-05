@@ -1,0 +1,10 @@
+T1	Abbreviation 15 19	PPVI
+T2	Abbreviation 55 59	PCTE
+T3	Abbreviation 70 73	GES
+T4	Abbreviation 114 117	PAP
+T6	Diagnostic_Procedure 114 117	PAP
+T7	Disease 0 4	N811
+T8	Disease 5 14	CISTOCELE
+T9	Disease 15 19	PPVI
+T11	Sign_or_Symptom 156 183	INCONTINENCIA URINARIA LEVE
+T12	Sign_or_Symptom 130 139	CISTOCELE

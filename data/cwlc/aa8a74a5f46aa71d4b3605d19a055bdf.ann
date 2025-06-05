@@ -1,0 +1,9 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 111 142	incisivos centrales y laterales
+T3	Body_Part 191 198	caninos
+T4	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T5	Disease 224 260	Alteraciones en la erupcion dentaria
+T6	Sign_or_Symptom 67 95	clase de angle II unilateral
+T7	Sign_or_Symptom 98 149	retrusion de incisivos centrales y laterales alados
+T8	Sign_or_Symptom 152 198	Falta de espacion para erupcion de los caninos
+T9	Sign_or_Symptom 201 220	over bite aumentado

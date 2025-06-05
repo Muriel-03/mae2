@@ -1,0 +1,16 @@
+T1	Body_Part 45 50	riñón
+T2	Body_Part 107 110	pie
+T3	Disease 2 11	BAJO PESO
+T4	Disease 45 63	riñón poliquístico
+T5	Disease 107 115	pie Bott
+T6	Family_Member 466 471	Padre
+T7	Family_Member 567 573	padres
+T8	Clinical_Finding 21 40	monorreno funcional
+T9	Sign_or_Symptom 2 11	BAJO PESO
+T10	Sign_or_Symptom 233 242	bajo peso
+T11	Sign_or_Symptom 292 298	activo
+T12	Sign_or_Symptom 349 373	no se mantiene tranquilo
+T13	Sign_or_Symptom 455 464	bajo peso
+T14	Therapeutic_Procedure 135 152	férulas nocturnas
+T15	Therapeutic_Procedure 194 201	férulas
+T16	Family_Member 259 264	Madre

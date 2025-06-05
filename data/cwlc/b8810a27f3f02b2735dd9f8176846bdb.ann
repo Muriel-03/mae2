@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T3	Disease 84 95	apiñamiento
+T4	Disease 168 203	Maloclusion de tipo no especificado
+T5	Clinical_Finding 75 82	clase I
+T6	Sign_or_Symptom 84 117	apiñamiento severo anteroinferior
+T7	Therapeutic_Procedure 141 166	tratamiento de ortodoncia
+A1	Pending T7

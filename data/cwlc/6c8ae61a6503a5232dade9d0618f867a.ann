@@ -1,0 +1,7 @@
+T1	Abbreviation 77 79	RX
+T2	Body_Part 9 18	PIEZA 4.6
+T3	Body_Part 55 60	PIEZA
+T4	Body_Part 97 102	PIEZA
+T5	Diagnostic_Procedure 77 90	RX PERIAPICAL
+T6	Disease 0 43	PULPITIS PIEZA 4.6 IRREVERSIBLE SINTOMATICO
+T7	Therapeutic_Procedure 61 70	DEPULPADO

@@ -1,0 +1,9 @@
+T1	Abbreviation 34 37	APS
+T2	Body_Part 114 135	cara dorsal de muñeca
+T3	Disease 2 10	GANGLIÓN
+T4	Sign_or_Symptom 74 135	aumento de volumen proresivo a nivel de cara dorsal de muñeca
+T5	Sign_or_Symptom 148 172	dolor de leve intensidad
+T6	Sign_or_Symptom 200 302	aumento de volumen de bordes lisos, renitente, no doloroso a la palpacion, adherido a planos profundos
+T10	Disease 342 350	Ganglion
+T11	Therapeutic_Procedure 319 340	resolucion quirurgica
+A2	Pending T11

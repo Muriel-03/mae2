@@ -1,0 +1,8 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 252 254	ev
+T3	Body_Part 130 145	region inguinal
+T4	Body_Part 148 162	labios mayores
+T5	Disease 2 34	VERRUGAS (VENÉREAS) ANOGENITALES
+T6	Clinical_Finding 88 96	embarazo
+T7	Laboratory_Procedure 229 237	glicemia
+T8	Sign_or_Symptom 108 226	lesiones multiples en region inguinal y labios mayores , tipo pupulas , sin hiperpigmentacion , , superficie verrucosa

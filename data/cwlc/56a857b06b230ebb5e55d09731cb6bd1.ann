@@ -1,0 +1,4 @@
+T1	Body_Part 51 67	MAXILAR INFERIOR
+T2	Sign_or_Symptom 0 17	MORDIDA INVERTIDA
+T3	Therapeutic_Procedure 19 39	EXODONCIAS MULTIPLES
+A1	Pending T3

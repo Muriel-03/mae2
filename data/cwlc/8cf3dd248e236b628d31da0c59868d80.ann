@@ -1,0 +1,20 @@
+T1	Abbreviation 87 90	APS
+T2	Abbreviation 142 143	+
+T3	Abbreviation 215 217	RX
+T4	Abbreviation 322 324	BK
+T5	Body_Part 218 223	TORAX
+T7	Body_Part 284 307	APICE DE PULMON DERECHO
+T8	Diagnostic_Procedure 215 223	RX TORAX
+T9	Disease 2 63	OTRAS TUBERCULOSIS RESPIRATORIAS, SIN MENCIÓN DE CONFIRMACIÓN
+T10	Disease 326 387	Otras tuberculosis respiratorias, sin mencion de confirmacion
+T11	Laboratory_or_Test_Result 236 307	LESIONES NODULARES EN AMBOS CAMPOS, LA MAYOR EN APICE DE PULMON DERECHO
+T12	Sign_or_Symptom 117 141	DOLOR PLEURITICO DERECHO
+T13	Sign_or_Symptom 144 155	DECAIMIENTO
+T14	Sign_or_Symptom 163 182	SUDORACION NOCTURNA
+T15	Sign_or_Symptom 186 192	FIEBRE
+T16	Sign_or_Symptom 202 210	MIALGIAS
+A1	Negated T14
+A2	Negated T15
+R1	Has Arg1:T8 Arg2:T11	
+T17	Laboratory_Procedure 322 324	BK
+A3	Pending T17

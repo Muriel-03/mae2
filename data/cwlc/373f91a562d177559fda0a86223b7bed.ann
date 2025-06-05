@@ -1,0 +1,16 @@
+T1	Body_Part 34 44	Diente 2.3
+T2	Diagnostic_Procedure 65 82	Radiograficamente
+T3	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T4	Disease 46 63	Caries penetrante
+T5	Disease 95 112	caries penetrante
+T6	Disease 155 172	quiste periapical
+T8	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T9	Laboratory_or_Test_Result 46 63	Caries penetrante
+T10	Laboratory_or_Test_Result 95 112	caries penetrante
+T11	Laboratory_or_Test_Result 114 139	Lesión osteolitica apical
+T12	Laboratory_or_Test_Result 155 172	quiste periapical
+R1	Has Arg1:T2 Arg2:T10	
+R2	Has Arg1:T2 Arg2:T8	
+R3	Has Arg1:T2 Arg2:T9	
+R4	Has Arg1:T2 Arg2:T11	
+R5	Has Arg1:T2 Arg2:T12	

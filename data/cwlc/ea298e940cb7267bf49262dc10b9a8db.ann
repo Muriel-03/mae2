@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 140 143	dte
+T3	Body_Part 130 138	grupo II
+T4	Body_Part 140 147	dte 1.2
+T5	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T6	Disease 161 209	Anomalias dentofaciales (incluso la maloclusion)
+T7	Disease 79 91	mal oclusion
+T8	Sign_or_Symptom 92 115	relacion molar  clase 2
+T9	Sign_or_Symptom 118 138	apiñamiento grupo II
+T10	Sign_or_Symptom 140 160	dte 1.2 palatinizado
+T11	Disease 118 129	apiñamiento

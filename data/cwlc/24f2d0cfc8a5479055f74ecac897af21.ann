@@ -1,0 +1,13 @@
+T1	Abbreviation 12 17	PREOP
+T2	Abbreviation 65 68	ALT
+T3	Abbreviation 73 74	P
+T4	Abbreviation 108 112	TTPK
+T5	Abbreviation 118 121	SEG
+T6	Abbreviation 132 136	EVAL
+T8	Abbreviation 140 143	TTO
+T9	Disease 22 39	QUISTE EPIDERMICO
+T13	Laboratory_or_Test_Result 51 62	ANEMIA LEVE
+T14	Laboratory_or_Test_Result 65 87	ALT. EN P. COAGULACION
+T15	Laboratory_Procedure 73 87	P. COAGULACION
+T16	Laboratory_Procedure 89 103	PROTROMBINEMIA
+T17	Laboratory_Procedure 108 112	TTPK

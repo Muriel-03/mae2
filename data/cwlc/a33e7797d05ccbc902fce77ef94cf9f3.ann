@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 82	DDM
+T3	Abbreviation 122 126	dtes
+T4	Body_Part 122 133	dtes 22 y 6
+T5	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T6	Disease 134 182	Anomalias dentofaciales (incluso la maloclusion)
+T7	Sign_or_Symptom 83 97	apiñada severa
+T8	Sign_or_Symptom 98 133	mordida invertida entre dtes 22 y 6
+T9	Disease 79 82	DDM

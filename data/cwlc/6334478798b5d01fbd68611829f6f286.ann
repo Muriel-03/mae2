@@ -1,0 +1,6 @@
+T1	Abbreviation 112 116	D.V.
+T2	Sign_or_Symptom 13 49	DISMINUCION DE LA DIMENCION VERTICAL
+T3	Sign_or_Symptom 50 69	DESGASTE DE FACILES
+T4	Therapeutic_Procedure 128 146	PROTESIS REMOVIBLE
+T5	Therapeutic_Procedure 104 116	AUMENTO D.V.
+A1	Pending T5

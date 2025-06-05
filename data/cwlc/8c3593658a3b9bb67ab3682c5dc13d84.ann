@@ -1,0 +1,21 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 252 254	MT
+T3	Body_Part 2 21	FRENILLO SUBLINGUAL
+T4	Body_Part 167 173	cadera
+T5	Body_Part 219 237	denticion temporal
+T6	Body_Part 288 307	Frenillo sublingual
+T7	Body_Part 384 401	papilas linguales
+T9	Disease 154 173	displasia de cadera
+T10	Disease 175 182	fimosis
+T11	Disease 185 199	criptorquidia.
+T13	Disease 365 401	Hipertrofia de las papilas linguales
+T14	Clinical_Finding 219 248	denticion temporal incompleta
+T15	Disease 280 286	caries
+T16	Sign_or_Symptom 2 27	FRENILLO SUBLINGUAL CORTO
+T17	Sign_or_Symptom 65 83	hipotonia muscular
+T18	Sign_or_Symptom 85 93	no habla
+T19	Clinical_Finding 271 287	libre de caries.
+T20	Sign_or_Symptom 288 313	Frenillo sublingual corto
+T8	Sign_or_Symptom 95 104	ni camina
+T21	Laboratory_or_Test_Result 250 269	2 MT sin erupcionar
+T22	Body_Part 250 254	2 MT

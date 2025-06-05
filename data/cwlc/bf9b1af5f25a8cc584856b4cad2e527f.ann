@@ -1,0 +1,6 @@
+T1	Body_Part 96 105	pieza 2.2
+T2	Therapeutic_Procedure 21 44	tratameinto ortodóncico
+T3	Therapeutic_Procedure 59 76	aparatología fija
+A1	Pending T2
+A2	Pending T3
+T4	Sign_or_Symptom 78 105	Malposición de la pieza 2.2

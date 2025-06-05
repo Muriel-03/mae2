@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 25 65	desdentado parcial maxilar y mandibular.
+T3	Clinical_Finding 8 23	alta operatoria
+T4	Therapeutic_Procedure 78 119	rehabilitación protésica por especialidad
+A1	Pending T4

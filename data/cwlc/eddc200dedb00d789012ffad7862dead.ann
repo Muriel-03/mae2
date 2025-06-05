@@ -1,0 +1,41 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 109 112	ITU
+T3	Abbreviation 327 329	dg
+T4	Abbreviation 593 596	CEG
+T5	Sign_or_Symptom 600 602	pp
+T6	Abbreviation 649 652	ITU
+T7	Abbreviation 705 708	DSM
+T8	Body_Part 15 29	VÍAS URINARIAS
+T9	Body_Part 183 196	esfinter anal
+T10	Body_Part 816 830	vias urinarias
+T11	Disease 2 52	INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO
+T12	Disease 109 112	ITU
+T14	Disease 649 652	ITU
+T15	Disease 672 691	incontinencia fecal
+T16	Disease 694 708	retraso en DSM
+T17	Disease 803 853	Infeccion de vias urinarias, sitio no especificado
+T18	Family_Member 225 232	hermano
+T19	Medication 501 511	ampicilina
+T20	Medication 513 518	cipro
+T21	Medication 536 546	cefalotina
+T22	Medication 548 557	cefuroxim
+T23	Medication 559 564	nitro
+T24	Medication 573 578	amika
+T25	Sign_or_Symptom 161 196	pérdida de control de esfinter anal
+T26	Sign_or_Symptom 259 266	disuria
+T27	Sign_or_Symptom 268 279	polaquiuria
+T28	Sign_or_Symptom 282 296	orina mal olor
+T29	Sign_or_Symptom 394 417	reaparicion de sintomas
+T30	Sign_or_Symptom 585 591	fiebre
+T31	Sign_or_Symptom 593 596	CEG
+T13	Laboratory_Procedure 479 486	cultivo
+T32	Laboratory_or_Test_Result 469 475	e coli
+R1	Has Arg1:T13 Arg2:T32	
+T33	Medication 520 525	cotri
+T34	Medication 566 571	genta
+A1	Negated T30
+A2	Negated T31
+T35	Abbreviation 600 602	pp
+A3	Negated T5
+T36	Laboratory_or_Test_Result 488 578	resistente a ampicilina, cipro, cotri. sensible cefalotina, cefuroxim, nitro, genta, amika
+R2	Has Arg1:T13 Arg2:T36	

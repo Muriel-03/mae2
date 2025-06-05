@@ -1,0 +1,12 @@
+T1	Abbreviation 73 76	APS
+T2	Abbreviation 173 176	tto
+T3	Abbreviation 243 246	hrc
+T4	Body_Part 24 49	VÍAS URINARIAS INFERIORES
+T5	Body_Part 122 136	region pelvica
+T6	Body_Part 269 294	vias urinarias inferiores
+T7	Disease 2 49	OTROS CÁLCULOS DE LAS VÍAS URINARIAS INFERIORES
+T8	Disease 247 294	Otros calculos de las vias urinarias inferiores
+T9	Medication 180 190	analgesico
+T10	Sign_or_Symptom 100 156	dolor hace 2 meses en region pelvica en forma permanente
+T11	Laboratory_or_Test_Result 195 211	calculos vesical
+T12	Abbreviation 190 193	app

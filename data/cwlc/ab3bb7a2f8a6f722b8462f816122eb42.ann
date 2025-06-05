@@ -1,0 +1,8 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 67 69	mm
+T3	Body_Part 73 102	cara externa de brazo derecho
+T4	Disease 2 21	QUISTE TRICODÉRMICO
+T5	Disease 50 64	quiste sebaceo
+T6	Sign_or_Symptom 50 102	quiste sebaceo 2 mm en cara externa de brazo derecho
+T7	Sign_or_Symptom 116 124	molestia
+A1	Negated T7

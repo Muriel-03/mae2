@@ -1,0 +1,5 @@
+T1	Abbreviation 224 226	DR
+T2	Disease 0 4	F648
+T3	Disease 5 47	OTROS TRASTORNOS DE LA IDENTIDAD DE GENERO
+T4	Clinical_Finding 48 59	MUJER TRANS
+T5	Abbreviation 54 59	TRANS

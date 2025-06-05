@@ -1,0 +1,8 @@
+T1	Abbreviation 67 72	antec
+T2	Disease 2 38	TRASTORNO DE LA CONDUCTA ALIMENTARIA
+T3	Clinical_Finding 63 81	sin antec morbidos
+T4	Sign_or_Symptom 169 191	episodios de atracones
+T5	Sign_or_Symptom 194 213	purgas alimentarias
+T6	Sign_or_Symptom 229 258	distorsión de imagen corporal
+T7	Sign_or_Symptom 261 285	miedo intenso a engordar
+T8	Sign_or_Symptom 125 156	estricción de consumo de carnes

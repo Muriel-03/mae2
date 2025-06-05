@@ -1,0 +1,24 @@
+T1	Abbreviation 72 75	APS
+T2	Abbreviation 169 171	FA
+T3	Abbreviation 174 177	GGT
+T4	Abbreviation 191 194	eco
+T5	Body_Part 16 31	VESÍCULA BILIAR
+T6	Body_Part 228 236	vesicula
+T7	Body_Part 256 266	via biliar
+T8	Body_Part 310 325	vesicula biliar
+T9	Diagnostic_Procedure 191 204	eco abdominal
+T10	Disease 2 48	CÁLCULO DE LA VESÍCULA BILIAR SIN COLECISTITIS
+T11	Disease 86 94	obesidad
+T12	Disease 96 116	resistencia insulina
+T13	Disease 296 342	Calculo de la vesicula biliar sin colecistitis
+T14	Laboratory_or_Test_Result 36 48	COLECISTITIS
+T15	Laboratory_or_Test_Result 140 149	alteradas
+T16	Laboratory_or_Test_Result 151 177	leve elevacion de FA y GGT
+T17	Laboratory_or_Test_Result 217 266	calculo en vesicula, sin dilatacion de via biliar
+T18	Laboratory_or_Test_Result 330 342	colecistitis
+T19	Laboratory_Procedure 122 139	pruebas hepaticas
+T20	Laboratory_Procedure 174 177	GGT
+T21	Disease 36 48	COLECISTITIS
+R1	Has Arg1:T19 Arg2:T15	
+T22	Laboratory_Procedure 169 171	FA
+A1	Negated T18

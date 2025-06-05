@@ -1,0 +1,37 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 176 179	Ant
+T3	Abbreviation 201 203	Qx
+T5	Abbreviation 276 280	PTVE
+T6	Abbreviation 281 284	MAC
+T7	Abbreviation 338 340	Ex
+T8	Abbreviation 348 351	beg
+T9	Abbreviation 352 356	ABDI
+T10	Body_Part 27 33	OVARIO
+T11	Body_Part 425 444	fosa iliaca derecha
+T12	Body_Part 488 494	ovario
+T13	Diagnostic_Procedure 112 122	ecografica
+T14	Disease 2 33	QUISTE EN DESARROLLO DEL OVARIO
+T15	Disease 463 494	Quiste en desarrollo del ovario
+T16	Clinical_Finding 176 200	Ant morbidos: No refiere
+T17	Clinical_Finding 201 207	Qx: No
+T20	Clinical_Finding 248 259	alcohol (-)
+T21	Clinical_Finding 261 263	G2
+T22	Therapeutic_Procedure 276 280	PTVE
+T23	Medication 286 294	Implanon
+T24	Sign_or_Symptom 352 356	ABDI
+T25	Sign_or_Symptom 362 386	sensibilidad suprapubica
+T26	Sign_or_Symptom 388 402	Tacto bimanual
+T27	Sign_or_Symptom 404 460	leve sensibilidad en fosa iliaca derecha a la compresión
+T19	Disease 217 227	Tabaco (+)
+T18	Abbreviation 225 226	+
+T4	Abbreviation 257 258	-
+T28	Clinical_Finding 263 265	P2
+T29	Clinical_Finding 265 267	A0
+T30	Clinical_Finding 267 269	V2
+T31	Abbreviation 261 262	G
+T32	Abbreviation 263 264	P
+T33	Abbreviation 265 266	A
+T34	Abbreviation 267 268	V
+T35	Therapeutic_Procedure 281 284	MAC
+T36	Therapeutic_Procedure 327 335	implante
+A1	Negated T25

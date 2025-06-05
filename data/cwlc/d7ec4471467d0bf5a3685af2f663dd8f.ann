@@ -1,0 +1,15 @@
+T1	Abbreviation 74 77	APS
+T3	Abbreviation 245 246	M
+T4	Body_Part 130 133	1.6
+T5	Body_Part 199 202	1.4
+T6	Body_Part 228 231	1.1
+T7	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T9	Disease 191 197	caries
+T10	Disease 286 334	Anomalias dentofaciales (incluso la maloclusion)
+T11	Clinical_Finding 105 128	Clase I molar izquierda
+T13	Sign_or_Symptom 92 103	maloclusión
+T14	Sign_or_Symptom 130 197	1.6 ausente por exodoncia debido a destrucción coronaria por caries
+T16	Sign_or_Symptom 228 267	1.1 rotada hacia M con falta de espacio
+T17	Sign_or_Symptom 268 285	Mordida bis a bis
+T18	Therapeutic_Procedure 146 155	exodoncia
+T2	Sign_or_Symptom 199 227	1.4 rotada y vestibularizada

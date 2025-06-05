@@ -1,0 +1,17 @@
+T1	Abbreviation 22 25	obs
+T2	Abbreviation 61 63	TC
+T3	Abbreviation 115 118	EEG
+T4	Abbreviation 169 172	DSM
+T5	Body_Part 64 71	cerebro
+T6	Diagnostic_Procedure 61 71	TC cerebro
+T7	Diagnostic_Procedure 115 118	EEG
+T10	Disease 44 56	Microcefalia
+T13	Laboratory_or_Test_Result 76 112	hipoplasia frontoopercular bilateral
+T14	Laboratory_or_Test_Result 119 125	normal
+T15	Sign_or_Symptom 149 167	dismorfias menores
+R1	Has Arg1:T6 Arg2:T13	
+R2	Has Arg1:T7 Arg2:T14	
+T8	Laboratory_or_Test_Result 126 147	Atresia ileal tipo II
+T9	Sign_or_Symptom 169 194	DSM impresiona de 4 meses
+T11	Sign_or_Symptom 0 42	Trastorno paroxistico obs crisis provocada
+T12	Disease 126 139	Atresia ileal

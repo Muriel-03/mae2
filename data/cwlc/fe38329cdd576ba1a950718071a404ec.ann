@@ -1,0 +1,12 @@
+T1	Body_Part 10 24	PLEXO BRAQUIAL
+T2	Body_Part 42 56	plexo braquial
+T3	Body_Part 68 82	PLEXO BRAQUIAL
+T4	Body_Part 100 114	plexo braquial
+T5	Body_Part 129 133	CODO
+T6	Body_Part 149 153	codo
+T7	Disease 0 24	PARALISIS PLEXO BRAQUIAL
+T8	Disease 27 56	Trastornos del plexo braquial
+T9	Disease 58 82	PARALISIS PLEXO BRAQUIAL
+T10	Disease 85 114	Trastornos del plexo braquial
+T11	Disease 116 133	LUXACION DEL CODO
+T12	Disease 136 170	Luxación del codo, no especificada

@@ -1,0 +1,7 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 77 86	diente 32
+T3	Disease 2 17	PERICORONARITIS
+T4	Disease 61 76	pericoronaritis
+T5	Disease 100 109	impactado
+T6	Disease 17 32	pericoronaritis
+T7	Laboratory_or_Test_Result 77 109	diente 32 semiincluido impactado

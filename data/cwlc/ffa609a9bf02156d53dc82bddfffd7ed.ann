@@ -1,0 +1,8 @@
+T1	Abbreviation 67 70	APS
+T3	Disease 114 133	MIOMATOSIS UTERINA.
+T4	Disease 2 43	EXAMEN GINECOLÓGICO (GENERAL) (DE RUTINA)
+T5	Clinical_Finding 72 81	MULTIPARA
+T2	Therapeutic_Procedure 87 108	METODO ANTICONCEPTIVO
+T6	Disease 134 175	Examen ginecologico (general) (de rutina)
+A1	Negated T2
+T7	Abbreviation 109 112	OBS

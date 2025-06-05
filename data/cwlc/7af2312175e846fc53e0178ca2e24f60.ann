@@ -1,0 +1,9 @@
+T1	Body_Part 17 22	PULPA
+T2	Body_Part 29 39	Diente 2.4
+T3	Disease 2 22	NECROSIS DE LA PULPA
+T4	Disease 89 115	caries dentinaria profunda
+T5	Clinical_Finding 174 190	cemento temporal
+T6	Medication 166 170	CaOH
+T7	Sign_or_Symptom 44 82	sintomatologia positiva a la percusion
+T8	Therapeutic_Procedure 128 139	trepanacion
+T9	Therapeutic_Procedure 141 170	medicacion intraconducto CaOH

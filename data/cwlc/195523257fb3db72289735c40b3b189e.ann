@@ -1,0 +1,16 @@
+T1	Abbreviation 13 16	APP
+T2	Abbreviation 20 23	HTA
+T3	Abbreviation 57 60	RAC
+T4	Abbreviation 71 78	CKD-EPI
+T5	Abbreviation 84 86	ML
+T6	Abbreviation 87 90	MIN
+T7	Disease 20 23	HTA
+T8	Disease 92 114	INSUFICIENCIA RENAL G1
+T9	Disease 117 131	GLOMERULOPATIA
+T10	Laboratory_or_Test_Result 61 69	ALTERADO
+T11	Laboratory_or_Test_Result 117 131	GLOMERULOPATIA
+T13	Laboratory_Procedure 57 60	RAC
+T14	Laboratory_Procedure 71 78	CKD-EPI
+T15	Sign_or_Symptom 20 39	HTA, MAL CONTROLADO
+R1	Has Arg1:T13 Arg2:T10	
+T12	Sign_or_Symptom 144 163	DIURESIS DISMINUIDA

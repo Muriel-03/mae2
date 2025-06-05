@@ -1,0 +1,17 @@
+T1	Abbreviation 45 47	OH
+T2	Abbreviation 58 61	DHC
+T3	Abbreviation 135 138	ECO
+T4	Abbreviation 141 144	TAC
+T5	Body_Part 18 35	CÉLULAS HEPÁTICAS
+T6	Diagnostic_Procedure 135 138	ECO
+T7	Diagnostic_Procedure 141 144	TAC
+T8	Disease 0 4	C220
+T9	Disease 5 35	CARCINOMA DE CÉLULAS HEPÁTICAS
+T10	Disease 45 56	OH CVRÓNICO
+T11	Disease 58 61	DHC
+T12	Disease 163 179	HÉPATO-CARCINOMA
+T13	Laboratory_or_Test_Result 154 179	PROBABLE HÉPATO-CARCINOMA
+T14	Sign_or_Symptom 104 133	EMPEORAMIENTO DE SUS SÍNTOMAS
+T15	Sign_or_Symptom 58 89	DHC SIN CONTROL POR VARIOS AÑOS
+R1	Has Arg1:T7 Arg2:T13	
+R2	Has Arg1:T6 Arg2:T13	

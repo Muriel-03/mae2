@@ -1,0 +1,14 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 51	OBS
+T3	Abbreviation 73 76	DER
+T4	Abbreviation 79 82	ECO
+T5	Abbreviation 135 136	X
+T6	Diagnostic_Procedure 79 82	ECO
+T7	Disease 2 19	EMBARAZO TUBÁRICO
+T8	Disease 150 167	Embarazo tubarico
+T9	Clinical_Finding 2 10	EMBARAZO
+T10	Clinical_Finding 56 64	EMBARAZO
+T11	Disease 56 76	EMBARAZO TUBARIO DER
+T12	Abbreviation 77 78	X
+T13	Laboratory_or_Test_Result 56 72	EMBARAZO TUBARIO
+R1	Has Arg1:T6 Arg2:T13	

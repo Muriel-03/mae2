@@ -1,0 +1,6 @@
+T1	Disease 0 3	N92
+T2	Sign_or_Symptom 4 48	MENSTRUACION EXCESIVA, FRECUENTE E IRREGULAR
+T3	Laboratory_or_Test_Result 86 92	NORMAL
+T4	Sign_or_Symptom 49 62	HIPERMENORREA
+T5	Laboratory_Procedure 63 85	ESTUDIO DE COAGULACION
+R1	Has Arg1:T5 Arg2:T3	

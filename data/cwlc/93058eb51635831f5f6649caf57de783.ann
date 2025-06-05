@@ -1,0 +1,6 @@
+T1	Abbreviation 33 36	HTA
+T2	Disease 0 30	CARDIOPATIA VALVULAR REUMATICA
+T3	Disease 33 36	HTA
+T4	Sign_or_Symptom 119 135	dolor precordial
+T5	Sign_or_Symptom 137 143	disnea
+T6	Therapeutic_Procedure 65 83	reemplazo valvular

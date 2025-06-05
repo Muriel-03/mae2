@@ -1,0 +1,29 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 89 90	E
+T3	Abbreviation 231 237	RR2TSS
+T4	Abbreviation 239 241	MP
+T5	Abbreviation 347 350	IgG
+T6	Abbreviation 370 373	IPS
+T7	Abbreviation 379 382	IPS
+T8	Abbreviation 431 434	IFI
+T9	Body_Part 269 276	Abdomen
+T10	Disease 2 22	ENFERMEDAD DE CHAGAS
+T11	Disease 89 98	E. Chagas
+T14	Disease 436 456	Enfermedad de chagas
+T15	Clinical_Finding 203 212	Hidratada
+T16	Clinical_Finding 231 237	RR2TSS
+T17	Laboratory_or_Test_Result 421 429	POSITIVO
+T18	Laboratory_Procedure 335 357	Anticuerpos IgG Chagas
+T20	Laboratory_Procedure 403 420	Trypanosoma cruzi
+T21	Sign_or_Symptom 161 184	constipación esporádica
+T24	Abbreviation 239 245	MP (+)
+T25	Clinical_Finding 247 267	sin ruidos agregados
+T22	Clinical_Finding 214 229	bien perfundida
+T23	Abbreviation 243 244	+
+T26	Clinical_Finding 269 305	Abdomen blando, depresible, indoloro
+T27	Clinical_Finding 306 313	RHA (+)
+T28	Abbreviation 311 312	+
+T29	Abbreviation 306 309	RHA
+T12	Laboratory_or_Test_Result 358 373	A confirmar IPS
+R1	Has Arg1:T18 Arg2:T12	
+R2	Has Arg1:T20 Arg2:T17	

@@ -1,0 +1,7 @@
+T1	Abbreviation 52 55	pza
+T2	Body_Part 52 59	pza. 10
+T4	Disease 85 103	fractura radicular
+T7	Sign_or_Symptom 45 82	corona pza. 10 con desajuste de perno
+T3	Therapeutic_Procedure 77 82	perno
+T5	Therapeutic_Procedure 22 44	protesis fija singular
+T8	Therapeutic_Procedure 45 51	corona

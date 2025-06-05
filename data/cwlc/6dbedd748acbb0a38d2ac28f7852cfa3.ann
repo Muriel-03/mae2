@@ -1,0 +1,16 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 201 202	+
+T3	Abbreviation 220 221	+
+T4	Abbreviation 229 230	c
+T5	Abbreviation 231 235	PMCF
+T6	Abbreviation 236 237	+
+T7	Body_Part 142 152	diente 2,4
+T8	Disease 2 15	CARIES DENTAL
+T9	Disease 157 172	caries extensa.
+T10	Disease 194 200	caries
+T11	Disease 256 269	Caries dental
+T14	Medication 231 235	PMCF
+T15	Sign_or_Symptom 130 171	molestia en diente 2,4 con caries extensa
+T16	Therapeutic_Procedure 184 200	retiro de caries
+T17	Therapeutic_Procedure 203 219	necropulpectomia
+T12	Clinical_Finding 238 254	cemento temporal

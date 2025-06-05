@@ -1,0 +1,11 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 52	pcte
+T3	Abbreviation 159 163	pcte
+T4	Body_Part 143 157	flanco derecho
+T5	Body_Part 245 252	dientes
+T6	Disease 2 18	DESDENTADO TOTAL
+T7	Disease 53 79	desedentado total superior
+T8	Disease 207 283	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Sign_or_Symptom 93 157	protesis total superior, se le rompe un trozo del flanco derecho
+T10	Therapeutic_Procedure 173 181	protesis
+A1	Pending T10

@@ -1,0 +1,17 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 84	PACTE
+T3	Abbreviation 109 112	PZA
+T4	Abbreviation 147 150	TTO
+T5	Body_Part 109 128	PZA 1.6-2.6-3.6-4.6
+T6	Body_Part 226 232	PIEZAS
+T7	Body_Part 262 269	GRUPO 2
+T8	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T9	Disease 89 105	CARIES PROFUNDAS
+T10	Disease 271 319	Anomalias dentofaciales (incluso la maloclusion)
+T11	Sign_or_Symptom 250 269	APIÑAMIENTO GRUPO 2
+T12	Therapeutic_Procedure 147 162	TTO ENDODONTICO
+T13	Therapeutic_Procedure 208 217	EXODONCIA
+T14	Disease 250 261	APIÑAMIENTO
+A1	Pending T12
+T15	Family_Member 167 171	MAMA
+A2	Pending T13

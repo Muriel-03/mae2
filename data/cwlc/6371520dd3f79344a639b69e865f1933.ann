@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 163 166	APS
+T3	Body_Part 205 212	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 58 85	desdentado parcial superior
+T6	Disease 87 112	desdentado total superior
+T7	Disease 167 243	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Therapeutic_Procedure 132 140	protesis
+A1	Pending T8

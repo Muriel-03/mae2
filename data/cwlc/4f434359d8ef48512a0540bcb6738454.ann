@@ -1,0 +1,11 @@
+T1	Abbreviation 78 82	ADAC
+T2	Abbreviation 142 144	MG
+T3	Abbreviation 182 184	MG
+T4	Abbreviation 192 193	X
+T5	Disease 78 82	ADAC
+T6	Medication 126 137	AMOXICILINA
+T7	Medication 167 178	DICLOFENACO
+T8	Therapeutic_Procedure 9 34	TRATAMIENTO DE ENDODONCIA
+T9	Therapeutic_Procedure 215 226	TREPANACION
+A1	Pending T8
+A2	Pending T9

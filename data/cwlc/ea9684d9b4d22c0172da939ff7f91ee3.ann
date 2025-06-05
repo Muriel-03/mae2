@@ -1,0 +1,13 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 60	PZA
+T3	Abbreviation 152 157	PMCLF
+T4	Body_Part 57 63	PZA 12
+T5	Body_Part 133 138	Nº 30
+T6	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T7	Disease 64 91	CARIES PROFUNDA SINTOMATICA
+T9	Medication 152 157	PMCLF
+T10	Therapeutic_Procedure 104 115	TREPANACION
+T11	Therapeutic_Procedure 116 138	IRRIGACION HASTA Nº 30
+T12	Therapeutic_Procedure 160 168	CURACION
+T13	Therapeutic_Procedure 203 213	ENDODONCIA
+A1	Pending T13

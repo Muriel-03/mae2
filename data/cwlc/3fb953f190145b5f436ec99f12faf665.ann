@@ -1,0 +1,6 @@
+T1	Abbreviation 27 30	ATM
+T2	Body_Part 27 30	ATM
+T3	Disease 37 67	artritis rehumatohidea juvenil
+T4	Sign_or_Symptom 13 30	alteracion de ATM
+T5	Therapeutic_Procedure 118 133	plano ortganico
+A1	Pending T5

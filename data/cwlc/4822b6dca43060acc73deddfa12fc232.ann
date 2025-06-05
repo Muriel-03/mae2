@@ -1,0 +1,12 @@
+T1	Abbreviation 214 217	HPH
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 72 82	diente 4.5
+T4	Body_Part 110 116	diente
+T5	Disease 2 22	NECROSIS DE LA PULPA
+T6	Disease 53 68	necrosis pulpar
+T7	Clinical_Finding 178 184	fermin
+T8	Medication 139 158	hidroxido de calcio
+T9	Therapeutic_Procedure 94 105	trepanación
+T10	Therapeutic_Procedure 232 257	tratamiento de endodoncia
+T11	Therapeutic_Procedure 125 158	medicación de hidroxido de calcio
+A1	Pending T10

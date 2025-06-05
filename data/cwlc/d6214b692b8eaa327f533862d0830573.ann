@@ -1,0 +1,6 @@
+T1	Abbreviation 32 35	hta
+T2	Abbreviation 50 56	cesfam
+T4	Disease 32 35	hta
+T5	Disease 72 118	desdentada parcial maxilar superior e inferior
+T6	Therapeutic_Procedure 132 146	rehabilitacion
+A1	Pending T6

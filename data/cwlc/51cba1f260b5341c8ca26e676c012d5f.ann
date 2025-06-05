@@ -1,0 +1,29 @@
+T1	Abbreviation 117 120	APS
+T2	Abbreviation 143 148	ANTEC
+T3	Abbreviation 152 155	DM2
+T4	Abbreviation 157 160	HTA
+T5	Abbreviation 203 206	TTO
+T6	Abbreviation 324 329	APROX
+T7	Abbreviation 334 336	CM
+T8	Abbreviation 369 374	ANTEC
+T9	Abbreviation 396 398	CA
+T10	Abbreviation 434 437	TAC
+T11	Body_Part 55 62	TRAQUEA
+T12	Body_Part 71 80	BRONQUIOS
+T13	Body_Part 87 93	PULMÓN
+T14	Body_Part 441 446	TÓRAX
+T15	Body_Part 530 537	traquea
+T16	Body_Part 546 555	bronquios
+T17	Body_Part 562 568	pulmon
+T18	Diagnostic_Procedure 258 269	RADIOGRAFÍA
+T19	Diagnostic_Procedure 434 446	TAC DE TÓRAX
+T20	Disease 2 93	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA TRAQUEA, DE LOS BRONQUIOS Y DEL PULMÓN
+T21	Disease 152 155	DM2
+T22	Disease 157 160	HTA
+T23	Disease 176 184	NEUMONIA
+T24	Disease 396 408	CA. PULMONAR
+T25	Disease 477 568	Tumor de comportamiento incierto o desconocido de la traquea, de los bronquios y del pulmon
+T27	Laboratory_or_Test_Result 282 367	IMAGENES DE ASPECTO NODULAR, REDONDAS, DE APROX 1-2 CM DIAMETRO PERIHILIARES DERECHAS
+R1	Has Arg1:T18 Arg2:T27	
+A1	Implicit_Family_Background T24
+A2	Pending T19

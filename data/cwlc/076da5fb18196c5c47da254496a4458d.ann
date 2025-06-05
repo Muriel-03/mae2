@@ -1,0 +1,6 @@
+T1	Body_Part 33 41	PIEZA 14
+T2	Body_Part 95 103	PIEZA 14
+T3	Disease 18 32	CARIES EXTENSA
+T4	Laboratory_or_Test_Result 44 61	LESION PERIAPICAL
+T5	Therapeutic_Procedure 73 94	TRATAMIENTO RADICULAR
+A1	Pending T5

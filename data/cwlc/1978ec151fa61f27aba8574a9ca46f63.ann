@@ -1,0 +1,22 @@
+T1	Abbreviation 46 47	X
+T2	Abbreviation 48 51	ECO
+T3	Abbreviation 53 56	DIU
+T5	Abbreviation 61 64	OBS
+T7	Abbreviation 148 151	ECO
+T8	Abbreviation 152 156	GINE
+T9	Abbreviation 169 173	STGO
+T10	Body_Part 73 85	MAMA DERECHA
+T11	Diagnostic_Procedure 48 51	ECO
+T12	Diagnostic_Procedure 104 114	MAMOGRAFIA
+T13	Diagnostic_Procedure 148 156	ECO GINE
+T15	Disease 66 85	NODULO MAMA DERECHA
+T16	Family_Member 15 20	HIJOS
+T17	Clinical_Finding 0 14	MULTIPARA DE 2
+T18	Clinical_Finding 22 34	PARTO NORMAL
+T22	Laboratory_or_Test_Result 66 95	NODULO MAMA DERECHA. BIRADS-3
+T14	Laboratory_or_Test_Result 36 45	MAMATOSIS
+R1	Has Arg1:T11 Arg2:T14	
+T4	Abbreviation 57 58	A
+T6	Clinical_Finding 53 56	DIU
+R2	Has Arg1:T12 Arg2:T22	
+T19	Disease 36 45	MAMATOSIS

@@ -1,0 +1,10 @@
+T1	Body_Part 30 42	grupo II - V
+T2	Body_Part 59 67	pieza 10
+T3	Body_Part 68 76	pieza 11
+T4	Body_Part 107 124	piezas temporales
+T5	Laboratory_or_Test_Result 68 106	pieza 11 retenida por falta de espacio
+T7	Sign_or_Symptom 47 67	giroversión pieza 10
+T8	Clinical_Finding 107 138	piezas temporales con movilidad
+T9	Therapeutic_Procedure 161 172	esfoliación
+T10	Disease 18 29	apiñamiento
+A1	Pending T9

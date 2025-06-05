@@ -1,0 +1,12 @@
+T1	Abbreviation 46 50	ANTC
+T2	Abbreviation 105 110	APROX
+T3	Abbreviation 162 164	CM
+T4	Disease 0 23	HIDROSADENITIS SUPURADA
+T5	Clinical_Finding 42 59	SIN ANTC MORBIDOS
+T6	Clinical_Finding 61 73	SIN ALERGIAS
+T7	Sign_or_Symptom 76 104	AUMENTANDO DE VOLUMEN AXILAR
+T8	Sign_or_Symptom 143 156	MASA AVULTADA
+T9	Sign_or_Symptom 166 178	ERITEMA LEVE
+T10	Sign_or_Symptom 184 204	DOLOR A LA PALPACION
+T11	Abbreviation 157 159	+-
+A1	Negated T10

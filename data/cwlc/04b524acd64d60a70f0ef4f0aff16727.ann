@@ -1,0 +1,7 @@
+T1	Abbreviation 61 64	APS
+T2	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T3	Disease 121 141	maloclusión dentaria
+T4	Disease 152 172	apiñamiento dentario
+T5	Disease 183 218	Maloclusion de tipo no especificado
+T7	Sign_or_Symptom 152 181	apiñamiento dentario anterior
+T8	Therapeutic_Procedure 79 104	tratamiento de ortodoncia

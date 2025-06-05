@@ -1,0 +1,15 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 60	Pac
+T3	Abbreviation 84 86	HO
+T4	Abbreviation 161 164	pza
+T5	Abbreviation 198 201	pza
+T6	Body_Part 161 168	pza 3.8
+T7	Body_Part 198 201	pza
+T8	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T9	Disease 106 132	caries dentinaria profunda
+T10	Disease 149 157	pulpitis
+T12	Clinical_Finding 61 71	embarazada
+T13	Sign_or_Symptom 90 100	policaries
+T14	Therapeutic_Procedure 182 191	exodoncia
+T11	Sign_or_Symptom 77 86	pésima HO
+A1	Pending T14

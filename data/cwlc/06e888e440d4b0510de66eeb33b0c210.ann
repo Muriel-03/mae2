@@ -1,0 +1,22 @@
+T1	Abbreviation 13 18	ANTEC
+T2	Abbreviation 19 22	ERC
+T3	Abbreviation 25 28	HTA
+T4	Abbreviation 29 33	HOSP
+T5	Abbreviation 47 50	ICC
+T7	Abbreviation 128 132	CREA
+T8	Abbreviation 146 148	ML
+T9	Abbreviation 149 152	MIN
+T10	Abbreviation 153 156	BUN
+T11	Abbreviation 176 180	CREA
+T12	Abbreviation 219 223	ATTE
+T13	Disease 19 22	ERC
+T14	Disease 25 28	HTA
+T15	Disease 47 50	ICC
+T17	Laboratory_Procedure 128 132	CREA
+T18	Laboratory_Procedure 133 142	CLEARANCE
+T19	Laboratory_Procedure 153 156	BUN
+T20	Laboratory_Procedure 176 180	CREA
+T21	Sign_or_Symptom 67 88	NAUSEAS INTERMITENTES
+T22	Sign_or_Symptom 90 101	HIPOACTIVA.
+T23	Sign_or_Symptom 106 112	EDEMAS
+A1	Negated T23

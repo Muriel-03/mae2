@@ -1,0 +1,12 @@
+T1	Abbreviation 49 53	pzas
+T2	Abbreviation 96 100	pzas
+T3	Body_Part 49 63	pzas 1.2 y 2.2
+T4	Body_Part 96 110	pzas 6.3 y 5.3
+T5	Disease 0 46	ANOMALIAS DENTOFACIALES INCLUSO LA MALOCLUSION
+T6	Laboratory_or_Test_Result 49 73	pzas 1.2 y 2.2 incluidas
+T7	Therapeutic_Procedure 86 95	exodoncia
+T8	Disease 0 46	ANOMALIAS DENTOFACIALES INCLUSO LA MALOCLUSION
+T9	Body_Part 49 63	pzas 1.2 y 2.2
+T10	Laboratory_or_Test_Result 49 73	pzas 1.2 y 2.2 incluidas
+T11	Disease 64 73	incluidas
+T12	Body_Part 96 110	pzas 6.3 y 5.3

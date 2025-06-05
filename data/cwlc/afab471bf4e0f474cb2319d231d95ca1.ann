@@ -1,0 +1,5 @@
+T1	Abbreviation 0 2	ob
+T2	Body_Part 13 29	humero izquierdo
+T3	Disease 4 29	fractura humero izquierdo
+T7	Sign_or_Symptom 76 112	clavo suelto de la placa de fijacion
+T4	Therapeutic_Procedure 31 64	reduccion abierta ,placa metalica

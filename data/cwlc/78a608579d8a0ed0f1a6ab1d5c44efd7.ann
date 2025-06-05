@@ -1,0 +1,10 @@
+T1	Abbreviation 58 61	dte
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 58 64	dte 32
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Sign_or_Symptom 41 64	Dolor asociado a dte 32
+T6	Sign_or_Symptom 76 96	inflamación gingival
+T7	Sign_or_Symptom 98 105	eritema
+T8	Sign_or_Symptom 107 117	odinofagia
+T9	Sign_or_Symptom 119 136	dolor en apertura
+T10	Laboratory_or_Test_Result 66 74	incluído

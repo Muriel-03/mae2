@@ -1,0 +1,7 @@
+T1	Abbreviation 104 107	ATM
+T2	Body_Part 30 50	zona dental superior
+T3	Body_Part 66 83	regiòn maseterina
+T4	Body_Part 104 122	ATM lado izquierdo
+T5	Sign_or_Symptom 18 50	dolor en la zona dental superior
+T6	Sign_or_Symptom 54 93	dolor en la regiòn maseterina bilateral
+T7	Sign_or_Symptom 95 122	Salto en ATM lado izquierdo

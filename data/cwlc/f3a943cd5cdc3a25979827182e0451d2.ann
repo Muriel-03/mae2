@@ -1,0 +1,9 @@
+T1	Abbreviation 101 104	APS
+T2	Abbreviation 238 241	ARO
+T3	Disease 2 77	HIPERTENSIÓN PREEXISTENTE QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO
+T4	Sign_or_Symptom 217 222	EDEMA
+T6	Disease 282 357	Hipertension preexistente que complica el embarazo, el parto y el puerperio
+T8	Sign_or_Symptom 198 205	CEFALEA
+T9	Sign_or_Symptom 207 214	TINITUS
+T5	Clinical_Finding 44 52	EMBARAZO
+T7	Clinical_Finding 324 332	embarazo

@@ -1,0 +1,8 @@
+T1	Abbreviation 212 214	OI
+T2	Body_Part 183 211	extremo inferior del timpano
+T3	Body_Part 212 214	OI
+T4	Medication 135 147	antibioticos
+T5	Sign_or_Symptom 91 98	otorrea
+T6	Sign_or_Symptom 101 108	otalgia
+T7	Sign_or_Symptom 149 250	Otoscopia con zona de opacidad en extremo inferior del timpano OI, no impresiona claramente perforado
+T8	Clinical_Finding 13 46	historia de trauma en su infancia

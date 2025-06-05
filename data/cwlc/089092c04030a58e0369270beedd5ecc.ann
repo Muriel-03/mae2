@@ -1,0 +1,32 @@
+T1	Abbreviation 140 143	APS
+T2	Abbreviation 465 470	aprox
+T3	Abbreviation 630 635	aprox
+T4	Abbreviation 640 642	cm
+T5	Body_Part 55 59	MAMA
+T6	Body_Part 112 116	mama
+T7	Body_Part 246 260	mama izquierda
+T8	Body_Part 480 496	region superoext
+T9	Body_Part 661 666	pezon
+T10	Body_Part 721 725	mama
+T11	Disease 2 59	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA MAMA
+T13	Disease 668 725	Tumor de comportamiento incierto o desconocido de la mama
+T14	Sign_or_Symptom 232 260	tumoracion en mama izquierda
+T15	Sign_or_Symptom 271 288	aumento de tamaño
+T19	Sign_or_Symptom 446 461	cordon fibrosos
+T20	Sign_or_Symptom 647 666	secrecion por pezon
+T21	Disease 59 116	Tumor de comportamiento incierto o desconocido de la mama
+T12	Sign_or_Symptom 293 312	secrecion por pezon
+A1	Negated T12
+T16	Abbreviation 313 315	ex
+T22	Sign_or_Symptom 322 380	masa simetricas, sin retracciones ni cambios de coloracion
+T17	Clinical_Finding 154 179	sin antecedentes morbidos
+T23	Clinical_Finding 180 207	sin antecedentes familiares
+T18	Clinical_Finding 380 433	no se palpa adenopatia axilar ni clavicular bilateral
+T24	Body_Part 433 445	mama derecha
+T25	Sign_or_Symptom 501 520	secrecion por pezon
+A2	Negated T25
+T26	Body_Part 520 534	mama izquierda
+T27	Sign_or_Symptom 534 561	cordon fibroso retroareolar
+T28	Sign_or_Symptom 561 642	tumoracion redondeada bordes netos no adherida a planos profundos de aprox 2x1 cm
+A3	Negated T20
+T29	Body_Part 307 312	pezon

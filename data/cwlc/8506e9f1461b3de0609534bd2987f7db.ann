@@ -1,0 +1,5 @@
+T1	Body_Part 0 18	pieza dentaria 1.6
+T2	Body_Part 19 24	pieza
+T4	Laboratory_or_Test_Result 19 85	pieza previamente tratada endodonticamente, presenta lesión apical
+T6	Therapeutic_Procedure 111 124	retratamiento
+A1	Pending T6

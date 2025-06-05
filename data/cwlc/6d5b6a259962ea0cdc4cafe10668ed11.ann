@@ -1,0 +1,15 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 132 135	eva
+T3	Abbreviation 141 143	m.
+T4	Abbreviation 198 201	atm
+T5	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T6	Body_Part 141 152	m. masetero
+T7	Body_Part 198 211	atm izquierda
+T8	Body_Part 231 258	articulacion temporomaxilar
+T9	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T10	Disease 214 258	Trastornos de la articulacion temporomaxilar
+T11	Sign_or_Symptom 82 97	dolor articular
+T12	Sign_or_Symptom 99 124	Apertura bucal disminuida
+T13	Sign_or_Symptom 126 167	dolor eva 7 en m. masetero de ambos lados
+T14	Sign_or_Symptom 169 174	Dolor
+T15	Sign_or_Symptom 177 211	ruido en apertura de atm izquierda

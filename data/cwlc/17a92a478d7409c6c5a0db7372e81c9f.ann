@@ -1,0 +1,6 @@
+T1	Body_Part 51 65	pieza dentaria
+T2	Body_Part 96 103	pieza 4
+T3	Disease 108 123	caries profunda
+T4	Disease 163 178	Necrosis pulpar
+T5	Sign_or_Symptom 42 65	dolor en pieza dentaria
+T6	Therapeutic_Procedure 137 148	trepanación

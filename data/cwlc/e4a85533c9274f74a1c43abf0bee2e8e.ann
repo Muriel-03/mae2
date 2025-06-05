@@ -1,0 +1,4 @@
+T1	Body_Part 31 41	diente 2.1
+T2	Therapeutic_Procedure 13 30	protesis unitaria
+T3	Therapeutic_Procedure 91 120	implante o protesis removible
+A1	Pending T3

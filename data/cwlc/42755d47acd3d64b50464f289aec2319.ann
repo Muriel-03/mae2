@@ -1,0 +1,75 @@
+T1	Abbreviation 134 136	KG
+T2	Abbreviation 146 148	CM
+T3	Abbreviation 151 154	IMC
+T4	Abbreviation 303 307	SERV
+T5	Abbreviation 452 454	EX
+T6	Abbreviation 458 461	LAB
+T7	Abbreviation 507 510	TSH
+T8	Abbreviation 517 519	T4
+T9	Abbreviation 531 535	HCTO
+T10	Abbreviation 542 545	WBC
+T11	Abbreviation 570 573	VHS
+T12	Abbreviation 578 583	CREAT
+T13	Abbreviation 589 591	NU
+T14	Abbreviation 595 604	PLIPIPDCO
+T15	Abbreviation 612 615	HDL
+T16	Abbreviation 620 623	TGC
+T17	Abbreviation 648 650	BI
+T18	Abbreviation 663 665	BI
+T19	Abbreviation 680 683	GOT
+T20	Abbreviation 689 692	GPT
+T21	Abbreviation 698 700	GT
+T22	Abbreviation 705 707	FA
+T23	Abbreviation 741 742	C
+T24	Abbreviation 745 746	+
+T25	Abbreviation 757 758	C
+T26	Abbreviation 763 766	SOS
+T27	Abbreviation 782 783	C
+T28	Abbreviation 852 854	RX
+T29	Body_Part 393 399	AXILAS
+T30	Body_Part 402 408	CUELLO
+T31	Body_Part 420 427	ABDOMEN
+T32	Body_Part 858 863	TORAX
+T33	Diagnostic_Procedure 852 863	RX DE TORAX
+T34	Disease 2 24	INSUFICIENCIA CARDÍACA
+T35	Disease 28 53	INTOLERANCIA A LA GLUCOSA
+T36	Disease 57 74	OBESIDAD GRADO II
+T37	Disease 78 82	ASMA
+T40	Laboratory_Procedure 473 481	GLICEMIA
+T41	Laboratory_Procedure 489 498	POSTCARGA
+T42	Laboratory_Procedure 507 510	TSH
+T43	Laboratory_Procedure 517 525	T4 LIBRE
+T44	Laboratory_Procedure 531 535	HCTO
+T45	Laboratory_Procedure 542 545	WBC
+T46	Laboratory_Procedure 552 561	PLAQUETAS
+T47	Laboratory_Procedure 570 573	VHS
+T48	Laboratory_Procedure 578 583	CREAT
+T49	Laboratory_Procedure 589 591	NU
+T50	Laboratory_Procedure 595 604	PLIPIPDCO
+T51	Laboratory_Procedure 612 615	HDL
+T52	Laboratory_Procedure 620 623	TGC
+T53	Laboratory_Procedure 636 646	PHEPATICAS
+T54	Laboratory_Procedure 648 656	BI TOTAL
+T55	Laboratory_Procedure 663 673	BI DIRECTA
+T56	Laboratory_Procedure 680 683	GOT
+T57	Laboratory_Procedure 689 692	GPT
+T58	Laboratory_Procedure 698 700	GT
+T59	Medication 728 738	METFORMINA
+T60	Medication 747 754	BROMURO
+T61	Medication 769 779	BUDESONIDA
+T62	Sign_or_Symptom 86 92	DISNEA
+T63	Sign_or_Symptom 172 190	DISNEA A 2 CUADRAS
+T64	Sign_or_Symptom 227 246	CRISIS OBSTRUCTIVAS
+T65	Sign_or_Symptom 420 439	ABDOMEN EN DELANTAL
+T38	Sign_or_Symptom 192 216	ORTROPNEA DE 4 ALMOHADAS
+T66	Clinical_Finding 355 367	NORMOTENSION
+T67	Sign_or_Symptom 370 419	ACANTOSIS NIGRICANS EN AXILAS , CUELLO SUBMAMARIO
+T39	Laboratory_Procedure 705 707	FA
+A1	Pending T33
+T68	Abbreviation 485 487	**
+T69	Laboratory_or_Test_Result 482 487	121**
+T70	Laboratory_or_Test_Result 499 506	143, **
+T71	Abbreviation 504 506	**
+T72	Body_Part 409 419	SUBMAMARIO
+R1	Has Arg1:T41 Arg2:T70	
+R2	Has Arg1:T40 Arg2:T69	

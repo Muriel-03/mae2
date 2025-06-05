@@ -1,0 +1,60 @@
+T1	Abbreviation 38 41	HTA
+T2	Abbreviation 44 47	DLP
+T3	Abbreviation 48 49	c
+T4	Abbreviation 51 54	ENL
+T5	Abbreviation 58 60	mg
+T6	Abbreviation 68 71	FSD
+T7	Abbreviation 75 77	mg
+T8	Abbreviation 85 88	AAS
+T9	Abbreviation 101 103	SF
+T10	Abbreviation 110 111	d
+T11	Abbreviation 112 114	ac
+T12	Abbreviation 124 126	mg
+T13	Abbreviation 127 128	d
+T14	Abbreviation 167 170	exs
+T15	Abbreviation 183 188	Creat
+T16	Abbreviation 196 198	Cl
+T17	Abbreviation 199 201	Cr
+T18	Abbreviation 291 297	SIGGES
+T19	Abbreviation 315 318	ERC
+T20	Abbreviation 325 328	GES
+T21	Abbreviation 386 389	APS
+T22	Abbreviation 401 404	exs
+T23	Abbreviation 430 432	Cl
+T24	Abbreviation 481 486	Creat
+T25	Abbreviation 520 522	ml
+T26	Abbreviation 523 526	min
+T27	Abbreviation 563 566	APS
+T28	Abbreviation 605 607	LP
+T29	Abbreviation 611 613	mg
+T30	Abbreviation 625 628	hrs
+T31	Abbreviation 630 633	FSD
+T32	Abbreviation 667 669	PA
+T34	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 4
+T35	Disease 38 41	HTA
+T36	Disease 44 47	DLP
+T37	Disease 315 318	ERC
+T38	Laboratory_or_Test_Result 172 181	alterados
+T42	Laboratory_Procedure 183 188	Creat
+T43	Laboratory_Procedure 196 201	Cl Cr
+T45	Laboratory_Procedure 210 217	Potasio
+T46	Laboratory_Procedure 430 446	Cl de Creatinina
+T47	Laboratory_Procedure 481 486	Creat
+T48	Laboratory_Procedure 493 516	Clearence de creatinina
+T49	Laboratory_Procedure 528 534	uremia
+T50	Laboratory_Procedure 541 548	potasio
+T52	Medication 51 54	ENL
+T53	Medication 85 88	AAS
+T54	Medication 101 103	SF
+T55	Medication 112 121	ac folico
+T56	Medication 577 586	enalapril
+T57	Medication 594 604	nifedipino
+T58	Medication 630 633	FSD
+T59	Medication 740 757	antihipertensivos
+T60	Medication 68 71	FSD
+T39	Abbreviation 107 109	mg
+R1	Has Arg1:T42 Arg2:T38	
+R2	Has Arg1:T43 Arg2:T38	
+R3	Has Arg1:T45 Arg2:T38	
+T40	Abbreviation 319 320	E
+T41	Abbreviation 637 639	mg

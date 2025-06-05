@@ -1,0 +1,9 @@
+T1	Abbreviation 55 58	APS
+T2	Body_Part 83 86	2.1
+T3	Body_Part 152 158	diente
+T5	Sign_or_Symptom 87 92	dolor
+T6	Sign_or_Symptom 105 125	perdida de inserción
+T7	Therapeutic_Procedure 69 79	endodoncia
+T8	Therapeutic_Procedure 139 148	exodoncia
+A1	Pending T7
+A2	Negated T8

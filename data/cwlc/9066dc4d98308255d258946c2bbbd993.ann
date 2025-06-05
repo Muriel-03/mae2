@@ -1,0 +1,10 @@
+T1	Abbreviation 110 113	APS
+T2	Abbreviation 161 164	AFP
+T3	Abbreviation 166 169	TAC
+T4	Body_Part 27 33	CABEZA
+T5	Body_Part 204 210	cabeza
+T6	Diagnostic_Procedure 166 178	TAC CEREBRAL
+T7	Disease 2 48	OTROS TRAUMATISMOS DE LA CABEZA, ESPECIFICADOS
+T8	Disease 179 225	Otros traumatismos de la cabeza, especificados
+A1	Pending T6
+T9	Disease 48 86	TRAUMATISMO CRÁNEANOENCEFÁLICO ANTIGUO

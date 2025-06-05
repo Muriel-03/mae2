@@ -1,0 +1,6 @@
+T1	Therapeutic_Procedure 44 68	tratamiento de implantes
+T2	Disease 0 9	agenesias
+T3	Sign_or_Symptom 0 19	agenesias multiples
+A1	Pending T1
+T4	Therapeutic_Procedure 85 108	tratamiento ortodontico
+A2	Pending T4

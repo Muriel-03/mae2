@@ -1,0 +1,15 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 59 64	antec
+T3	Abbreviation 329 332	EDA
+T4	Diagnostic_Procedure 329 332	EDA
+T5	Disease 2 17	ULCERA GÁSTRICA
+T6	Disease 68 83	ulcera gastrica
+T7	Disease 96 119	ulcera gastrica cronica
+T8	Disease 131 156	hiperplasia  regenerativa
+T9	Disease 334 349	Ulcera gastrica
+T11	Medication 247 256	omeprazol
+T12	Sign_or_Symptom 195 215	epigastralgia urente
+T13	Sign_or_Symptom 218 225	pirosis
+T10	Laboratory_or_Test_Result 96 156	ulcera gastrica cronica activa con hiperplasia  regenerativa
+T14	Laboratory_or_Test_Result 159 180	metaplasia intestinal
+A1	Pending T4

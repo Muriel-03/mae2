@@ -1,0 +1,20 @@
+T1	Abbreviation 103 106	APS
+T2	Abbreviation 187 189	EF
+T3	Abbreviation 308 309	+
+T4	Body_Part 2 11	TESTÍCULO
+T5	Body_Part 65 79	canal inguinal
+T6	Body_Part 166 185	testículo izquierdo
+T7	Body_Part 191 200	genitales
+T8	Body_Part 232 251	testiculo izquierdo
+T9	Body_Part 255 262	escroto
+T10	Body_Part 266 280	canal inguinal
+T11	Body_Part 311 320	Testiculo
+T12	Disease 2 25	TESTÍCULO NO DESCENDIDO
+T13	Disease 311 334	Testiculo no descendido
+T14	Family_Member 140 145	madre
+T15	Clinical_Finding 191 218	genitales de aspecto normal
+T16	Sign_or_Symptom 50 79	no palpable en canal inguinal
+T17	Sign_or_Symptom 154 185	ausencia de testículo izquierdo
+T18	Sign_or_Symptom 220 280	no se palpa testiculo izquierdo en escroto ni canal inguinal
+T19	Sign_or_Symptom 289 309	transluminiscencia +
+T21	Disease 25 48	Criptorquidea izquierda

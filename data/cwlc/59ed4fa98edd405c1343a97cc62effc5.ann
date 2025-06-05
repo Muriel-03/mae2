@@ -1,0 +1,5 @@
+T1	Disease 0 38	Desdentada parcial superior e inferior
+T2	Therapeutic_Procedure 57 87	rehabilitacion sobre implantes
+T3	Therapeutic_Procedure 100 125	tratamiento pre protesico
+A1	Pending T2
+A2	Pending T3

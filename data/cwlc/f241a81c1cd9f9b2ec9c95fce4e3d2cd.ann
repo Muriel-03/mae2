@@ -1,0 +1,13 @@
+T1	Abbreviation 46 48	AV
+T2	Abbreviation 94 97	IAM
+T3	Abbreviation 107 110	HTA
+T4	Abbreviation 112 114	DM
+T5	Disease 0 22	Insuficiencia Cardiaca
+T6	Disease 23 37	Angina estable
+T7	Disease 38 60	Bloqueo AV de 1° grado
+T9	Disease 94 97	IAM
+T10	Disease 107 110	HTA
+T11	Disease 112 114	DM
+T12	Laboratory_or_Test_Result 61 93	Bloqueo completo de rama derecha
+T13	Laboratory_or_Test_Result 38 60	Bloqueo AV de 1° grado
+T8	Laboratory_or_Test_Result 94 105	IAM antiguo

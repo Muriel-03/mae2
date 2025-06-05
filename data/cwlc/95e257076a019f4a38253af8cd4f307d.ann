@@ -1,0 +1,14 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 203 206	HRC
+T3	Abbreviation 329 331	Rx
+T4	Body_Part 17 22	PULPA
+T5	Body_Part 244 256	Pieza. # 1.1
+T6	Body_Part 379 384	pulpa
+T7	Diagnostic_Procedure 329 331	Rx
+T8	Disease 2 22	NECROSIS DE LA PULPA
+T10	Disease 364 384	Necrosis de la pulpa
+T12	Laboratory_or_Test_Result 333 362	imagen radiolúcida periapical
+T14	Sign_or_Symptom 261 281	cambio de coloración
+T15	Sign_or_Symptom 284 314	aumento de volumen  vestibular
+T16	Therapeutic_Procedure 230 239	endodncia
+R1	Has Arg1:T7 Arg2:T12	

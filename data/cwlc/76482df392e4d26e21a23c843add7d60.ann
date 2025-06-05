@@ -1,0 +1,11 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 70 73	obv
+T3	Body_Part 117 133	piezas 4,5 y 3,5
+T4	Body_Part 163 181	dientes temporales
+T5	Body_Part 224 237	arco inferior
+T6	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T7	Disease 191 197	caries
+T8	Disease 240 276	Alteraciones en la erupcion dentaria
+T9	Sign_or_Symptom 74 133	perdida de espacio para la erupcion de las piezas 4,5 y 3,5
+T10	Sign_or_Symptom 200 237	perdida de longitud del arco inferior
+T11	Therapeutic_Procedure 138 148	exodoncias

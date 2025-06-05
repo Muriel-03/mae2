@@ -1,0 +1,15 @@
+T1	Abbreviation 73 76	APS
+T2	Abbreviation 249 252	Eco
+T3	Body_Part 168 193	dorso de muñeca izquierda
+T4	Body_Part 288 303	vaina tendinosa
+T5	Diagnostic_Procedure 249 270	Eco de partes blandas
+T6	Disease 2 49	TRASTORNO SINOVIAL Y TENDINOSO, NO ESPECIFICADO
+T7	Disease 358 405	Trastorno sinovial y tendinoso, no especificado
+T8	Clinical_Finding 87 112	sin antecedentes morbidos
+T9	Laboratory_or_Test_Result 278 303	quiste en vaina tendinosa
+T10	Sign_or_Symptom 146 193	aumento de volumen en dorso de muñeca izquierda
+T11	Sign_or_Symptom 197 205	doloroso
+T12	Sign_or_Symptom 211 247	limtiacion de la capacidad funcional
+A1	Negated T11
+A2	Negated T12
+R1	Has Arg1:T5 Arg2:T9	

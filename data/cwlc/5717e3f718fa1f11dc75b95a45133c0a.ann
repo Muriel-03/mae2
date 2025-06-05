@@ -1,0 +1,18 @@
+T1	Abbreviation 73 76	hta
+T2	Abbreviation 79 82	dm2
+T3	Abbreviation 83 86	nir
+T4	Abbreviation 107 110	psa
+T5	Abbreviation 135 137	ng
+T6	Abbreviation 138 140	ml
+T7	Body_Part 20 28	PRÓSTATA
+T8	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T9	Disease 73 76	hta
+T10	Disease 79 82	dm2
+T11	Laboratory_Procedure 107 110	psa
+T12	Medication 226 234	losartan
+T13	Medication 236 248	nitrendipino
+T14	Medication 250 260	metformina
+T15	Medication 262 275	glibenclamida
+T16	Medication 277 294	hidroclorotiazida
+T17	Medication 296 305	metildopa
+T18	Medication 307 320	atorvastatina

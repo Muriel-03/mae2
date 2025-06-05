@@ -1,0 +1,7 @@
+T1	Body_Part 133 140	Dientes
+T2	Body_Part 214 222	grupo II
+T3	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T4	Disease 35 53	DESDENTADO PARCIAL
+T5	Disease 69 131	desdentada parcial superior e inferior con compromiso estético
+T6	Disease 156 190	periodontitis crónica generalizada
+T7	Sign_or_Symptom 192 222	Vestibularización del grupo II

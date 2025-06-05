@@ -1,0 +1,7 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 80 83	Pac
+T3	Abbreviation 88 91	ADM
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 117 165	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 88 115	ADM en la posición dentaria
+T7	Disease 88 91	ADM

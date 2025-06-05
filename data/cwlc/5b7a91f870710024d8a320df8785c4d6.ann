@@ -1,0 +1,5 @@
+T1	Disease 0 28	Desdentado parcial bimaxilar
+T2	Clinical_Finding 70 121	Buen estado de salud oral general. poliobturaciones
+T3	Sign_or_Symptom 30 49	clase II mandibular
+T4	Sign_or_Symptom 51 69	clase III maxilar.
+T5	Sign_or_Symptom 105 121	poliobturaciones

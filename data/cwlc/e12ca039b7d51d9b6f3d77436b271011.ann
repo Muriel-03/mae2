@@ -1,0 +1,13 @@
+T2	Abbreviation 80 83	HTA
+T3	Abbreviation 84 85	+
+T4	Abbreviation 86 89	DLP
+T5	Abbreviation 113 116	APS
+T6	Body_Part 14 19	PECHO
+T7	Body_Part 45 50	TORAX
+T8	Disease 2 36	DOLOR EN EL PECHO, NO ESPECIFICADO
+T9	Disease 80 83	HTA
+T10	Disease 86 89	DLP
+T11	Sign_or_Symptom 2 19	DOLOR EN EL PECHO
+T12	Sign_or_Symptom 141 146	DOLOR
+T13	Sign_or_Symptom 36 50	DOLOR DE TORAX
+T14	Disease 62 78	ANGIN AINESTABLE

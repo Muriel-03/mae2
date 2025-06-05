@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 100 103	PZA
+T3	Body_Part 0 6	PZA 13
+T4	Body_Part 71 76	12 14
+T5	Body_Part 100 106	PZA 32
+T6	Sign_or_Symptom 0 38	PZA 13 SEMIERUPCIONADA EN DISTOVERSION
+T7	Sign_or_Symptom 50 76	DOLOR A LA PRESION Y 12 14
+T8	Therapeutic_Procedure 89 98	EXODONDIA
+A1	Pending T8
+T9	Laboratory_or_Test_Result 100 132	PZA 32 EN MALPOSICION E INCLUIDA

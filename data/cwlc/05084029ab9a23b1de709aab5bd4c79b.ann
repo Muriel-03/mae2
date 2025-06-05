@@ -1,0 +1,15 @@
+T1	Abbreviation 0 4	pcte
+T3	Abbreviation 27 30	der
+T4	Abbreviation 33 36	izq
+T5	Abbreviation 61 64	Pza
+T6	Abbreviation 121 124	pza
+T7	Body_Part 61 68	Pza 3.2
+T8	Body_Part 121 128	pza 3.1
+T9	Body_Part 150 157	grupo V
+T10	Clinical_Finding 13 59	Clasi I molar der e izq en I etapa de recambio
+T11	Sign_or_Symptom 61 82	Pza 3.2 en inoclusion
+T12	Sign_or_Symptom 84 99	vestibularizada
+T13	Sign_or_Symptom 101 117	Desgaste incisal
+T14	Sign_or_Symptom 129 157	apiñaniemto dentario grupo V
+T15	Sign_or_Symptom 159 175	falta de espacio
+T2	Disease 129 149	apiñaniemto dentario

@@ -1,0 +1,20 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 61	Pcte
+T3	Abbreviation 94 97	DM2
+T4	Abbreviation 98 101	NIR
+T5	Abbreviation 103 107	DLP.
+T6	Abbreviation 262 265	Fco
+T7	Abbreviation 290 293	hrs
+T8	Body_Part 20 28	PRÓSTATA
+T9	Body_Part 314 322	prostata
+T10	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T11	Disease 94 97	DM2
+T12	Disease 103 107	DLP.
+T13	Disease 296 322	Hiperplasia de la prostata
+T14	Medication 267 277	metformina
+T15	Sign_or_Symptom 117 126	molestias
+T16	Sign_or_Symptom 194 220	chorro dèbil, entrecortado
+T17	Sign_or_Symptom 223 235	poliaquiuria
+T18	Sign_or_Symptom 239 247	tenesmo.
+T19	Abbreviation 281 283	mg
+T20	Abbreviation 285 287	c/

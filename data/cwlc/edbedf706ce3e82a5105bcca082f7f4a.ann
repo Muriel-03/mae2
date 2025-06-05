@@ -1,0 +1,17 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 3 5	EM
+T3	Abbreviation 20 21	X
+T4	Abbreviation 22 25	FUR
+T5	Abbreviation 26 28	OP
+T6	Abbreviation 29 32	CCA
+T7	Abbreviation 46 49	TTO
+T8	Abbreviation 63 66	TEC
+T9	Abbreviation 74 77	FUR
+T10	Abbreviation 78 80	OP
+T11	Abbreviation 93 94	X
+T12	Abbreviation 95 98	ECO
+T13	Diagnostic_Procedure 95 98	ECO
+T14	Disease 33 42	EPILEPSIA
+T15	Disease 63 66	TEC
+T17	Clinical_Finding 29 32	CCA
+T16	Clinical_Finding 3 5	EM

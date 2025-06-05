@@ -1,0 +1,11 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 14 30	GLÁNDULA SALIVAL
+T3	Body_Part 84 111	labio inferior lado derecho
+T4	Body_Part 131 160	mucosa alveolar de diente 3.6
+T5	Body_Part 232 248	glandula salival
+T6	Disease 2 30	MUCOCELE DE GLÁNDULA SALIVAL
+T7	Disease 71 79	mucocele
+T8	Disease 220 248	Mucocele de glandula salival
+T9	Sign_or_Symptom 113 169	Cuerpo extraño en mucosa alveolar de diente 3.6 extraido
+T10	Sign_or_Symptom 179 184	dolor
+T11	Therapeutic_Procedure 189 198	exodoncia

@@ -1,0 +1,9 @@
+T1	Abbreviation 96 98	mm
+T2	Body_Part 41 63	Diente 1.7 - 1.6 y 4.8
+T3	Body_Part 135 145	Diente 4.8
+T4	Disease 0 39	Periodontitis crónica localizada severa
+T5	Sign_or_Symptom 111 122	inflamación
+T6	Sign_or_Symptom 125 133	sangrado
+T7	Sign_or_Symptom 150 168	movilidad grado II
+T8	Therapeutic_Procedure 181 192	destartraje
+T9	Therapeutic_Procedure 195 217	instrucción de higiene

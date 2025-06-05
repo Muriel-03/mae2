@@ -1,0 +1,6 @@
+T1	Body_Part 28 55	tendon supraespinoso distal
+T2	Body_Part 113 126	supraespinoso
+T3	Body_Part 153 167	hombro derecho
+T6	Laboratory_or_Test_Result 2 55	Rotura intrasustancia del tendon supraespinoso distal
+T7	Laboratory_or_Test_Result 59 126	Rotura de fibras superficiales de la insercion distal supraespinoso
+T8	Laboratory_or_Test_Result 129 167	Tenosinovitis bicipital hombro derecho

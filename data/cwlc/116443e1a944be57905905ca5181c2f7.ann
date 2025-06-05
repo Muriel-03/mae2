@@ -1,0 +1,8 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 44 59	Pieza 1.8 y 2.8
+T3	Disease 2 15	CARIES DENTAL
+T4	Disease 106 112	caries
+T5	Disease 203 216	Caries dental
+T7	Clinical_Finding 44 94	Pieza 1.8 y 2.8: Erupcionadas en posición vertical
+T9	Sign_or_Symptom 133 164	acumulación de placa bacteriana
+T10	Sign_or_Symptom 166 201	zona de difícil acceso para higiene

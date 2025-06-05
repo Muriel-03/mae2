@@ -1,0 +1,12 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 172 175	atm
+T3	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T4	Body_Part 172 185	atm izquierda
+T5	Body_Part 300 327	articulacion temporomaxilar
+T6	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T7	Disease 283 327	Trastornos de la articulacion temporomaxilar
+T8	Clinical_Finding 103 142	sin antecedentes mórbidos de relevancia
+T9	Sign_or_Symptom 151 185	dolor en apertura en atm izquierda
+T10	Sign_or_Symptom 214 219	rudio
+T11	Sign_or_Symptom 222 237	salto articular
+T12	Disease 187 212	Subluxación con reducción

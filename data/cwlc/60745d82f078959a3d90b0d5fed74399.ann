@@ -1,0 +1,53 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 98 100	+-
+T3	Abbreviation 164 168	EEII
+T4	Abbreviation 208 210	SU
+T5	Abbreviation 277 280	exs
+T6	Abbreviation 295 297	SU
+T7	Abbreviation 328 333	creat
+T8	Abbreviation 341 344	ELP
+T9	Abbreviation 354 356	EO
+T10	Abbreviation 358 360	GR
+T11	Abbreviation 367 369	GB
+T12	Abbreviation 376 380	cels
+T13	Abbreviation 432 435	TAC
+T14	Abbreviation 689 691	mm
+T15	Abbreviation 773 778	AINES
+T16	Body_Part 121 137	flnaco izquierdo
+T17	Body_Part 139 150	zona lumbar
+T18	Body_Part 164 168	EEII
+T19	Body_Part 439 446	abdomen
+T20	Body_Part 449 455	Pelvis
+T21	Body_Part 500 507	riñones
+T22	Body_Part 595 624	sistemas excretores urinarios
+T23	Body_Part 649 679	grupos caliciliares inferiores
+T24	Diagnostic_Procedure 432 455	TAC de abdomen y Pelvis
+T25	Disease 2 35	CÁLCULO URINARIO, NO ESPECIFICADO
+T26	Disease 842 850	litiasis
+T27	Laboratory_or_Test_Result 308 314	normal
+T28	Laboratory_or_Test_Result 345 353	normales
+T29	Laboratory_or_Test_Result 376 429	cels epiteliales abundane cantidad, bacterias escasas
+T30	Laboratory_or_Test_Result 473 496	nefrolitiasis bilateral
+T31	Laboratory_or_Test_Result 500 624	riñones de forma y tamaño normal, parequimas de grosor conservado, no se observa dilatacion de sistemas excretores urinarios
+T32	Laboratory_or_Test_Result 626 721	Litiasis bilateral  en grupos caliciliares inferiores de 3 y 4 mm uno a derecha y 3 a izquierda
+T33	Laboratory_Procedure 277 280	exs
+T34	Laboratory_Procedure 298 307	hemograma
+T35	Laboratory_Procedure 315 323	glicemia
+T36	Laboratory_Procedure 328 333	creat
+T37	Laboratory_Procedure 341 344	ELP
+T38	Diagnostic_Procedure 354 356	EO
+T42	Medication 773 778	AINES
+T43	Sign_or_Symptom 115 168	dolor flnaco izquierdo, zona lumbar, irradiado a EEII
+T44	Sign_or_Symptom 171 186	orinas normales
+T45	Sign_or_Symptom 191 197	fiebre
+T46	Sign_or_Symptom 746 751	dolor
+A1	Negated T45
+R1	Has Arg1:T34 Arg2:T27	
+R2	Has Arg1:T37 Arg2:T28	
+R3	Has Arg1:T36 Arg2:T28	
+R7	Has Arg1:T24 Arg2:T30	
+R8	Has Arg1:T24 Arg2:T31	
+R9	Has Arg1:T24 Arg2:T32	
+R4	Has Arg1:T38 Arg2:T29	
+T39	Sign_or_Symptom 762 778	alérgica a AINES
+T40	Disease 35 58	NEfrolitiasis Bilateral

@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	Pza
+T2	Abbreviation 120 123	Pza
+T3	Body_Part 0 6	Pza 32
+T4	Body_Part 120 126	Pza 31
+T5	Laboratory_or_Test_Result 0 164	Pza 32 En Evolucion Intraosea En Franca Mesioversion Y En Vias De Impactacion,Corona Proyectada Por Distal Radicular De Pza 31,Aun No Se Aprecia Formacion Radicular
+T6	Therapeutic_Procedure 189 199	Extraccion
+T7	Therapeutic_Procedure 209 216	Cirugia
+T8	Body_Part 78 84	Corona
+A1	Pending T6
+A2	Pending T7

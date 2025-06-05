@@ -1,0 +1,9 @@
+T1	Body_Part 17 26	INTESTINO
+T2	Body_Part 129 142	esfinter anal
+T3	Body_Part 499 512	esfinter anal
+T4	Disease 2 43	ENFERMEDAD DEL INTESTINO, NO ESPECIFICADA
+T5	Family_Member 370 374	hijo
+T6	Sign_or_Symptom 101 142	problemas para controlar su esfinter anal
+T7	Sign_or_Symptom 230 292	dolores pelvicos  al inicio de sintomas y a veces a nivel anal
+T9	Sign_or_Symptom 475 512	no lograr controlar sus esfinter anal
+T11	Therapeutic_Procedure 380 392	parto normal

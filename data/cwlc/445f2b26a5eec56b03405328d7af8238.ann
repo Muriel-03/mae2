@@ -1,0 +1,8 @@
+T1	Body_Part 66 77	diente 1-16
+T2	Body_Part 91 100	diente 17
+T3	Body_Part 136 145	diente 32
+T4	Clinical_Finding 9 19	primigesta
+T5	Clinical_Finding 30 65	sin antecedentes medicos relevamtes
+T6	Clinical_Finding 66 90	diente 1-16 erupcionadas
+T7	Laboratory_or_Test_Result 136 183	diente 32 semiencluida, en posicion mesializada
+T8	Laboratory_or_Test_Result 91 134	diente 17 semiencluida,en posicion vertical

@@ -1,0 +1,13 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 184 200	piezas 1.1 y 2.1
+T3	Body_Part 260 267	grupo 5
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 270 318	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 119 143	protrusion del grupo dos
+T7	Sign_or_Symptom 145 162	overjet aumentado
+T8	Sign_or_Symptom 164 182	overbite aumentado
+T9	Sign_or_Symptom 184 216	piezas 1.1 y 2.1 distoinclinadas
+T10	Sign_or_Symptom 218 267	severo apiñamento dentario inferior en el grupo 5
+T11	Clinical_Finding 97 113	clase 1 de angle
+T12	Body_Part 134 143	grupo dos
+T13	Disease 225 235	apiñamento

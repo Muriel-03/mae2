@@ -1,0 +1,10 @@
+T1	Abbreviation 120 124	crea
+T2	Abbreviation 137 140	vfg
+T3	Abbreviation 147 149	ml
+T4	Abbreviation 150 153	min
+T5	Disease 0 32	hipertension esencial (primaria)
+T6	Disease 33 42	sobrepeso
+T7	Disease 43 74	enfermedad renal cronica etapa3
+T8	Laboratory_or_Test_Result 75 118	disminucion persistente de la funcion renal
+T9	Laboratory_Procedure 120 124	crea
+T10	Laboratory_Procedure 137 140	vfg

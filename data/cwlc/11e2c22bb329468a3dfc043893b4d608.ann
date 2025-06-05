@@ -1,0 +1,27 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 43 47	pcte
+T3	Abbreviation 57 60	HTA
+T4	Abbreviation 130 133	ECo
+T6	Abbreviation 369 370	p
+T7	Body_Part 148 154	Higado
+T8	Body_Part 178 188	via biliar
+T9	Diagnostic_Procedure 130 133	ECo
+T10	Disease 2 14	COLELITIASIS
+T11	Disease 57 60	HTA
+T12	Disease 62 70	Obesidad
+T13	Disease 148 160	Higado graso
+T14	Disease 216 245	quiste cortical renal derecho
+T15	Disease 389 401	Colelitiasis
+T16	Laboratory_or_Test_Result 148 160	Higado graso
+T17	Laboratory_or_Test_Result 162 199	Colelitioasis   via biliar conservada
+T18	Laboratory_or_Test_Result 216 263	quiste cortical renal derecho de aspecto simple
+T19	Laboratory_or_Test_Result 380 386	normal
+T20	Laboratory_Procedure 278 282	crea
+T21	Laboratory_Procedure 356 364	glicemia
+T22	Laboratory_Procedure 369 379	p lipidico
+T23	Sign_or_Symptom 91 117	dolor abdominal recurrente
+R1	Has Arg1:T9 Arg2:T16	
+R2	Has Arg1:T9 Arg2:T17	
+R3	Has Arg1:T9 Arg2:T18	
+T24	Disease 162 175	Colelitioasis
+R4	Has Arg1:T22 Arg2:T19	

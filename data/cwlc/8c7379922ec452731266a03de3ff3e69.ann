@@ -1,0 +1,11 @@
+T1	Abbreviation 101 104	RXs
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 30 40	diente 4.5
+T4	Body_Part 146 152	diente
+T5	Disease 2 22	NECROSIS DE LA PULPA
+T6	Disease 199 214	necrosis pulpar
+T7	Laboratory_or_Test_Result 30 94	diente 4.5 se observa leve ensanchamiento de espacio periodontal
+T8	Diagnostic_Procedure 101 104	RXs
+R1	Has Arg1:T8 Arg2:T7	
+T9	Sign_or_Symptom 106 179	Se realiza test de vitalidad con frio y diente no tiene ninguna respuesta
+T10	Body_Part 75 94	espacio periodontal

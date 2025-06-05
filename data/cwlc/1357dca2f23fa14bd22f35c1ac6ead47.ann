@@ -1,0 +1,6 @@
+T1	Abbreviation 43 45	RM
+T2	Diagnostic_Procedure 43 45	RM
+T3	Sign_or_Symptom 20 42	LUMBOCIATICA IZQUIERDA
+T4	Therapeutic_Procedure 96 103	CIRUGIA
+A1	Pending T4
+T5	Disease 20 32	LUMBOCIATICA

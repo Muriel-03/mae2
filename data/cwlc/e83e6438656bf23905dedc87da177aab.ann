@@ -1,0 +1,5 @@
+T2	Disease 22 36	retraso mental
+T3	Disease 38 76	Desdentada parcial superior e inferior
+T4	Disease 78 110	compromiso estético y funcional.
+T5	Therapeutic_Procedure 149 168	rehabilitación fija
+A1	Pending T5

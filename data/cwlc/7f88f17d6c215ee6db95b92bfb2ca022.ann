@@ -1,0 +1,21 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 14 28	PIEZA TEMPORAL
+T3	Body_Part 186 197	dientes 4.6
+T4	Body_Part 366 373	dientes
+T5	Body_Part 530 537	dientes
+T6	Sign_or_Symptom 2 28	PERMANENCIA PIEZA TEMPORAL
+T8	Disease 480 537	Trastornos del desarrollo y de la erupcion de los dientes
+T9	Family_Member 80 86	abuela
+T12	Sign_or_Symptom 304 324	clase III esqueletal
+T13	Sign_or_Symptom 326 344	Compresión maxilar
+T14	Sign_or_Symptom 387 428	Mordida vis a vis en relación transversal
+T15	Sign_or_Symptom 442 457	mordida abierta
+T16	Sign_or_Symptom 459 478	Deglución infantil.
+T17	Therapeutic_Procedure 170 182	obturaciones
+T10	Disease 105 123	caries dentinarias
+T18	Body_Part 127 136	dentición
+T19	Clinical_Finding 127 158	dentición primaria y permanente
+A1	Pending T17
+T11	Body_Part 211 214	3.6
+T20	Sign_or_Symptom 256 290	malos hábitos (mamadera y chupete)
+T21	Sign_or_Symptom 346 385	Retraso en erupción dientes permanentes

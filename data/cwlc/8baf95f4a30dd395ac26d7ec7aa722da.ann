@@ -1,0 +1,13 @@
+T1	Abbreviation 0 2	M1
+T2	Abbreviation 11 14	DIU
+T3	Abbreviation 80 83	ECO
+T4	Diagnostic_Procedure 80 96	ECO GINECOLOGICA
+T5	Disease 15 37	QUISTE OVARICO DERECHO
+T6	Clinical_Finding 52 61	RURALIDAD
+T7	Clinical_Finding 0 1	M
+T8	Therapeutic_Procedure 11 14	DIU
+T9	Disease 38 51	ENDIOMETRITIS
+T10	Laboratory_or_Test_Result 38 51	ENDIOMETRITIS
+T11	Laboratory_or_Test_Result 15 37	QUISTE OVARICO DERECHO
+R1	Has Arg1:T4 Arg2:T10	
+R2	Has Arg1:T4 Arg2:T11	

@@ -1,0 +1,15 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 79 82	HTA
+T3	Abbreviation 91 96	ANTEC
+T4	Abbreviation 98 101	ITU
+T5	Abbreviation 103 106	OBS
+T6	Body_Part 17 31	MUCOSA URETRAL
+T7	Body_Part 147 161	mucosa uretral
+T8	Disease 2 31	PROLAPSO DE LA MUCOSA URETRAL
+T9	Disease 79 90	HTA CRONICA
+T10	Disease 98 101	ITU
+T11	Disease 107 130	PROLAPSO MUCOSA URETRAL
+T12	Disease 132 161	Prolapso de la mucosa uretral
+T13	Clinical_Finding 76 78	M2
+T14	Abbreviation 76 77	M
+T15	Body_Part 116 130	MUCOSA URETRAL

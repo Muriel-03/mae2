@@ -1,0 +1,6 @@
+T1	Body_Part 48 55	pieza 8
+T2	Body_Part 125 132	pieza 8
+T3	Disease 13 22	mesiodens
+T4	Disease 82 91	mesiodens
+T5	Therapeutic_Procedure 68 91	extraccion de mesiodens
+T6	Laboratory_or_Test_Result 0 55	presencia de mesiodens, que genero mesioversion pieza 8

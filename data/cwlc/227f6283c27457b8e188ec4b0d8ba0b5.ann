@@ -1,0 +1,20 @@
+T1	Abbreviation 46 49	PFP
+T2	Abbreviation 67 70	PZA
+T3	Abbreviation 93 96	PZA
+T4	Abbreviation 166 169	PZA
+T5	Abbreviation 178 181	PFU
+T6	Body_Part 67 78	PZA 18 - 19
+T7	Body_Part 89 91	20
+T8	Body_Part 93 99	PZA 18
+T9	Body_Part 166 172	PZA 20
+T10	Disease 0 4	K028
+T11	Disease 5 26	OTRAS CARIES DENTALES
+T13	Therapeutic_Procedure 136 152	SECCIONAR PUENTE
+T14	Laboratory_or_Test_Result 93 121	PZA 18 CON REABSORCION TOTAL
+T16	Therapeutic_Procedure 46 49	PFP
+T20	Disease 27 42	PERIIMPLANTITIS
+T21	Therapeutic_Procedure 56 66	IMPLAMNTES
+T22	Clinical_Finding 79 86	PONTICO
+A1	Pending T13
+T12	Therapeutic_Procedure 155 196	ATORNILLAR PZA 20 COMO PFU SOBRE IMPLANTE
+A2	Pending T12

@@ -1,0 +1,11 @@
+T1	Abbreviation 80 83	APS
+T2	Body_Part 98 107	pieza 2.6
+T3	Body_Part 147 154	dentina
+T4	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T5	Disease 134 154	Caries de la dentina
+T6	Laboratory_or_Test_Result 2 28	CARIES DENTINARIA PROFUNDA
+T7	Therapeutic_Procedure 108 117	trepanado
+T8	Therapeutic_Procedure 123 133	endodoncia
+T9	Disease 28 56	caries dentinaria penetrante
+T10	Laboratory_or_Test_Result 28 56	caries dentinaria penetrante
+A1	Pending T8

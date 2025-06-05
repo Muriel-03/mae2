@@ -1,0 +1,11 @@
+T1	Abbreviation 204 207	APF
+T2	Abbreviation 231 233	CA
+T3	Disease 2 28	GASTRITIS, NO ESPECIFICADA
+T4	Disease 71 87	obesidad morbida
+T5	Disease 231 242	CA gastrico
+T6	Family_Member 211 216	padre
+T7	Sign_or_Symptom 136 153	dolor epigastrico
+T8	Sign_or_Symptom 163 170	pirosis
+T9	Sign_or_Symptom 172 182	meteorismo
+T10	Sign_or_Symptom 184 195	flatulencia
+R1	Has Arg1:T6 Arg2:T5	

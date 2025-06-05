@@ -1,0 +1,5 @@
+T1	Body_Part 44 53	Pieza 3.7
+T2	Disease 0 43	Periodontitis cronica avanzada generalizada
+T3	Sign_or_Symptom 54 71	movilidad grado 3
+T4	Therapeutic_Procedure 94 103	exodoncia
+A1	Pending T4

@@ -1,0 +1,29 @@
+T1	Abbreviation 80 83	MAC
+T2	Abbreviation 118 121	Eco
+T3	Abbreviation 222 225	tac
+T4	Abbreviation 248 250	ev
+T5	Abbreviation 281 285	Crea
+T6	Abbreviation 319 324	aines
+T7	Abbreviation 374 377	TAG
+T8	Abbreviation 378 379	+
+T9	Body_Part 226 233	abdomen
+T10	Diagnostic_Procedure 118 131	Eco abdominal
+T11	Diagnostic_Procedure 222 247	tac abdomen con contraste
+T12	Disease 2 31	OTRAS ENFERMEDADES DEL HÍGADO
+T13	Disease 374 377	TAG
+T14	Disease 380 396	crisis de panico
+T15	Laboratory_or_Test_Result 147 209	lesion focal hepatica compatible con hiperplasia nodular focal
+T17	Laboratory_or_Test_Result 252 280	esteatosis hepatica moderada
+T18	Laboratory_Procedure 281 285	Crea
+T19	Medication 80 94	MAC Inyectable
+T20	Medication 305 315	metformina
+T21	Medication 319 324	aines
+T22	Medication 351 361	sertralina
+T23	Medication 364 369	clona
+T24	Disease 31 56	hiperplasia nodular focal
+T25	Body_Part 25 31	HÍGADO
+R1	Has Arg1:T10 Arg2:T15	
+R3	Has Arg1:T10 Arg2:T17	
+A1	Pending T11
+T26	Abbreviation 364 369	clona
+T16	Clinical_Finding 290 338	Sin consumo de metformina ni aines a permanencia

@@ -1,0 +1,16 @@
+T2	Abbreviation 127 130	ECO
+T4	Abbreviation 153 155	Dg
+T5	Abbreviation 156 157	X
+T6	Abbreviation 158 161	ECO
+T7	Abbreviation 205 206	K
+T8	Abbreviation 218 221	IMC
+T9	Diagnostic_Procedure 127 140	ECO ABDOMINAL
+T10	Diagnostic_Procedure 158 161	ECO
+T11	Disease 0 29	COLICOS BILIARES A REPETICION
+T13	Disease 163 183	COLESISTITIS CRONICA
+T14	Disease 184 196	COLELITIASIS
+T17	Laboratory_or_Test_Result 163 183	COLESISTITIS CRONICA
+T18	Sign_or_Symptom 71 87	COLICOS BILIARES
+R1	Has Arg1:T9 Arg2:T17	
+T1	Laboratory_or_Test_Result 184 196	COLELITIASIS
+R2	Has Arg1:T9 Arg2:T1	

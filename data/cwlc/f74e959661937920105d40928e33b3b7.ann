@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	obs
+T2	Body_Part 32 55	extremidades inferiores
+T3	Body_Part 82 111	ambas extremidades inferiores
+T4	Body_Part 156 179	extremidades inferiores
+T5	Disease 4 24	insuficiencia venosa
+T6	Laboratory_or_Test_Result 57 111	colaterales primarias de ambas extremidades inferiores
+T7	Laboratory_or_Test_Result 113 179	paquetes venulares  superficiales de ambas extremidades inferiores
+T8	Laboratory_or_Test_Result 4 55	insuficiencia venosa, ambas extremidades inferiores

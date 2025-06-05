@@ -1,0 +1,7 @@
+T1	Abbreviation 59 64	insuf
+T3	Abbreviation 81 82	d
+T4	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T5	Disease 59 71	insuf venosa
+T6	Sign_or_Symptom 95 116	varices suo grado III
+T7	Sign_or_Symptom 119 124	dolor
+T2	Sign_or_Symptom 132 154	impide hacer su activi

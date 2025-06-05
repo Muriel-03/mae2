@@ -1,0 +1,7 @@
+T1	Abbreviation 52 55	APS
+T3	Disease 158 178	apiñamiento dentario
+T4	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T5	Clinical_Finding 180 206	Paciente Sano Odontologico
+T6	Sign_or_Symptom 143 155	mal posicion
+T8	Therapeutic_Procedure 112 123	tratamiento
+A1	Pending T8

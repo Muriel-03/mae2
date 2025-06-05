@@ -1,0 +1,11 @@
+T1	Abbreviation 50 53	APS
+T2	Abbreviation 122 125	HTA
+T3	Abbreviation 156 159	med
+T4	Disease 2 14	POLIARTROSIS
+T5	Disease 17 25	ARTROSIS
+T6	Disease 108 120	Poliartrosis
+T7	Disease 122 125	HTA
+T8	Disease 127 131	Gota
+T9	Disease 133 145	Poliartrosis
+T10	Clinical_Finding 147 159	Alerhias med
+A1	Negated T10

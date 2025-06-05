@@ -1,0 +1,16 @@
+T1	Abbreviation 43 45	DC
+T2	Abbreviation 60 63	IRC
+T3	Abbreviation 64 67	PNC
+T4	Abbreviation 68 69	+
+T5	Abbreviation 111 114	CRM
+T6	Abbreviation 124 127	NIR
+T7	Body_Part 20 25	RIÑÓN
+T8	Disease 0 4	Z940
+T9	Disease 60 67	IRC PNC
+T10	Disease 70 85	NEFROLITIALISIS
+T11	Therapeutic_Procedure 26 42	TRASPLANTE RENAL
+T12	Therapeutic_Procedure 5 25	TRANSPLANTE DE RIÑÓN
+T13	Disease 89 110	CARDIOPATIA CORONARIA
+T14	Abbreviation 119 121	DM
+T15	Disease 119 123	DM 2
+T16	Therapeutic_Procedure 111 114	CRM

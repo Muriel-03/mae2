@@ -1,0 +1,4 @@
+T1	Abbreviation 49 53	POST
+T2	Disease 0 14	CANCER   RENAL
+T3	Disease 85 99	CANCER   RENAL
+T4	Therapeutic_Procedure 68 99	ESTIRPACION   DE CANCER   RENAL

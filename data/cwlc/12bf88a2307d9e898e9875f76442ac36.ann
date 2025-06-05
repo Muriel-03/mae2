@@ -1,0 +1,5 @@
+T1	Abbreviation 30 34	cvdt
+T3	Abbreviation 115 119	atte
+T4	Disease 52 90	desdentado parcial superior e inferior
+T5	Therapeutic_Procedure 102 113	rehabilitar
+A1	Pending T5

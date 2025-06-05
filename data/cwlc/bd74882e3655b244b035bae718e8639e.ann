@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T3	Disease 148 168	apiñamiento dentario
+T4	Disease 196 231	Maloclusion de tipo no especificado
+T5	Clinical_Finding 75 102	sin antecedentes sistemicos
+T6	Clinical_Finding 104 137	clase I molar derecha e izquierda
+T7	Sign_or_Symptom 148 175	apiñamiento dentario severo
+T8	Sign_or_Symptom 177 194	overjet aumentado

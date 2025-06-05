@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T3	Disease 213 248	Maloclusion de tipo no especificado
+T4	Clinical_Finding 75 102	sin antecedentes sistemicos
+T5	Clinical_Finding 104 116	sin alergias
+T6	Sign_or_Symptom 137 171	clase II molar derecha e izquierda
+T7	Sign_or_Symptom 173 189	mordida cubierta
+T8	Sign_or_Symptom 191 211	apiñamiento dentario
+T9	Disease 191 202	apiñamiento

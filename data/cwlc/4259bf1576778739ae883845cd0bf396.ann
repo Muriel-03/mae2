@@ -1,0 +1,5 @@
+T1	Body_Part 107 114	esófago
+T2	Diagnostic_Procedure 51 66	estudio nuclear
+T3	Disease 25 48	reflujo gastroesofágico
+T4	Laboratory_or_Test_Result 74 114	reflujo hasta el 1/3 superior de esófago
+R1	Has Arg1:T2 Arg2:T4	

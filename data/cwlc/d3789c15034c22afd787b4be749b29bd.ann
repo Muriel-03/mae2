@@ -1,0 +1,9 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 41 43	pd
+T3	Abbreviation 115 118	tto
+T4	Body_Part 41 47	pd 2.4
+T5	Disease 9 40	fractura de cuspide vestibulkar
+T7	Therapeutic_Procedure 58 76	rehabilitación pfs
+T6	Abbreviation 73 76	pfs
+T8	Body_Part 21 40	cuspide vestibulkar
+A1	Pending T7

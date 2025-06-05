@@ -1,0 +1,10 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 80 90	diente 4.8
+T3	Body_Part 95 99	raiz
+T4	Body_Part 103 119	canal mandibular
+T5	Body_Part 133 140	cemento
+T6	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T7	Disease 59 76	caries penetrante
+T8	Disease 122 140	Caries del cemento
+T10	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T11	Laboratory_or_Test_Result 59 120	caries penetrante en diente 4.8 con raiz en canal mandibular.

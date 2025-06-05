@@ -1,0 +1,35 @@
+T1	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T2	Abbreviation 45 48	APS
+T3	Abbreviation 50 54	PCTE
+T4	Clinical_Finding 63 77	USUARIA DE DIU
+T5	Diagnostic_Procedure 111 117	ECO TV
+T6	Abbreviation 111 114	ECO
+T7	Abbreviation 115 117	TV
+T8	Abbreviation 74 77	DIU
+T9	Clinical_Finding 126 138	ASINTOMATICA
+T10	Abbreviation 139 142	FUR
+T11	Clinical_Finding 121 124	BEG
+T12	Abbreviation 121 124	BEG
+T13	Abbreviation 190 193	AMP
+T14	Abbreviation 195 198	HTA
+T15	Disease 195 198	HTA
+T16	Disease 200 212	DISLIPIDEMIA
+T17	Disease 215 217	RI
+T18	Abbreviation 215 217	RI
+T19	Clinical_Finding 228 230	G2
+T20	Clinical_Finding 230 232	P2
+T21	Clinical_Finding 232 234	A0
+T22	Clinical_Finding 234 236	V2
+T23	Abbreviation 228 230	G2
+T24	Abbreviation 230 232	P2
+T25	Abbreviation 232 234	A0
+T26	Abbreviation 234 236	V2
+T27	Diagnostic_Procedure 244 250	ECO TV
+T28	Abbreviation 244 247	ECO
+T29	Abbreviation 248 250	TV
+T30	Abbreviation 263 266	DIU
+T31	Clinical_Finding 263 274	DIU IN SITU
+T32	Disease 276 289	MIOMA UTERINO
+T33	Disease 311 330	Leiomioma del utero
+T34	Body_Part 325 330	utero
+T35	Body_Part 16 21	ÚTERO

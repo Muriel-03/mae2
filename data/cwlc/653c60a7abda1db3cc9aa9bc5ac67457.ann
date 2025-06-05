@@ -1,0 +1,6 @@
+T1	Body_Part 30 37	pieza 8
+T2	Body_Part 116 123	pieza 8
+T3	Sign_or_Symptom 18 72	fractura de pieza 8 la que se encuentra con endodoncia
+T4	Therapeutic_Procedure 62 72	endodoncia
+T5	Therapeutic_Procedure 102 115	prótesis fija
+A1	Pending T5

@@ -1,0 +1,16 @@
+T1	Abbreviation 231 233	RX
+T2	Body_Part 12 29	piezas 20-29-5-12
+T3	Body_Part 52 65	piezas 2 y 15
+T4	Body_Part 85 101	piezas 3-4-13-14
+T5	Body_Part 123 130	pieza 7
+T6	Sign_or_Symptom 159 189	desto oclusion molar bilateral
+T7	Laboratory_or_Test_Result 41 65	agencia de piezas 2 y 15
+T8	Sign_or_Symptom 66 101	mordida cruzada de piezas 3-4-13-14
+T9	Sign_or_Symptom 102 130	mordida invertida de pieza 7
+T10	Sign_or_Symptom 131 158	compresion maxilar superior
+T11	Sign_or_Symptom 201 217	respirador bucal
+T12	Diagnostic_Procedure 231 233	RX
+R1	Has Arg1:T12 Arg2:T7	
+T13	Laboratory_or_Test_Result 0 29	Agenecia de piezas 20-29-5-12
+T14	Disease 41 48	agencia
+T15	Disease 0 8	Agenecia

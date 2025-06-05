@@ -1,0 +1,6 @@
+T1	Disease 0 4	B269
+T2	Disease 5 36	PAROTIDITIS, SIN COMPLICACIONES
+T3	Sign_or_Symptom 37 65	Aumento de volumen parotídeo
+T4	Sign_or_Symptom 81 135	dolorosos, fluctuante, que aument con alimentos ácidos
+T5	Disease 140 158	litiasis parotídea
+T6	Abbreviation 136 139	Obs

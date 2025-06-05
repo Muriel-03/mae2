@@ -1,0 +1,8 @@
+T1	Abbreviation 60 63	APS
+T2	Body_Part 96 105	PIEZA 2.6
+T3	Body_Part 188 195	cemento
+T4	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T5	Disease 78 95	CARIES PENETRANTE
+T6	Disease 177 195	Caries del cemento
+T8	Laboratory_or_Test_Result 78 95	CARIES PENETRANTE
+T7	Disease 30 36	CARIES

@@ -1,0 +1,10 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 38 42	Pact
+T3	Abbreviation 93 95	+-
+T4	Abbreviation 176 180	OTRL
+T6	Disease 201 218	Rinitis  Alergica
+T8	Clinical_Finding 43 68	sin antecedentes morbidos
+T9	Medication 243 259	antihistaminicos
+T10	Sign_or_Symptom 2 9	ANOSMIA
+T11	Sign_or_Symptom 104 137	disminucion progresiva del olfato
+T5	Sign_or_Symptom 287 294	Anosmia

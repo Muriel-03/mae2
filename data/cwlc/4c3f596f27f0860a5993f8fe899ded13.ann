@@ -1,0 +1,7 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 107 110	Dte
+T3	Body_Part 107 114	Dte 2.2
+T4	Disease 2 18	QUISTE RADICULAR
+T5	Disease 115 133	quiste periapical.
+T6	Disease 134 150	Quiste radicular
+T7	Laboratory_or_Test_Result 107 133	Dte 2.2 quiste periapical.

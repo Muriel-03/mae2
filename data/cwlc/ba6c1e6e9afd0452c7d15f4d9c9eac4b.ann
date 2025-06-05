@@ -1,0 +1,7 @@
+T1	Body_Part 29 36	pieza 9
+T2	Disease 0 27	Desdentado parcial superior
+T3	Disease 41 60	absceso periodontal
+T4	Therapeutic_Procedure 79 89	extracción
+T5	Therapeutic_Procedure 100 127	PRÓTESIS INMEDIATA SUPERIOR
+A1	Pending T4
+A2	Pending T5

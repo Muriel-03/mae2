@@ -1,0 +1,6 @@
+T1	Abbreviation 109 112	tto
+T2	Body_Part 39 48	pieza 3.5
+T3	Disease 2 20	ABSCESO PERIAPICAL
+T5	Therapeutic_Procedure 49 70	trepanada de urgencia
+T6	Sign_or_Symptom 25 32	FÍSTULA
+A1	Negated T6

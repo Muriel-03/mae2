@@ -1,0 +1,24 @@
+T1	Abbreviation 20 26	BIRADS
+T2	Abbreviation 29 33	ECOT
+T3	Abbreviation 105 108	IZQ
+T4	Abbreviation 109 115	BIRADS
+T5	Abbreviation 123 126	ANT
+T6	Abbreviation 130 132	CA
+T7	Abbreviation 181 184	ANT
+T8	Abbreviation 194 198	ECOT
+T9	Body_Part 73 85	MAMA DERECHA
+T10	Body_Part 100 108	MAMA IZQ
+T11	Body_Part 133 138	MAMAS
+T13	Diagnostic_Procedure 0 10	MAMOGRAFIA
+T14	Diagnostic_Procedure 29 41	ECOT MAMARIA
+T15	Diagnostic_Procedure 194 198	ECOT
+T16	Disease 86 108	QUISTE SIMPLE MAMA IZQ
+T17	Disease 130 138	CA MAMAS
+T18	Family_Member 140 144	MAMA
+T20	Laboratory_or_Test_Result 20 28	BIRADS 3
+T21	Laboratory_or_Test_Result 52 85	NODULO HIPOECOGENICO MAMA DERECHA
+T22	Laboratory_or_Test_Result 86 117	QUISTE SIMPLE MAMA IZQ BIRADS 3
+R1	Has Arg1:T13 Arg2:T20	
+R2	Has Arg1:T14 Arg2:T21	
+R3	Has Arg1:T14 Arg2:T22	
+R4	Has Arg1:T18 Arg2:T17	

@@ -1,0 +1,6 @@
+T1	Abbreviation 46 49	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 51 56	pulpa
+T4	Body_Part 95 111	pieza dental 1.5
+T5	Disease 2 22	NECROSIS DE LA PULPA
+T6	Sign_or_Symptom 51 111	pulpa en estado necrotico en relacion de la pieza dental 1.5

@@ -1,0 +1,8 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 248 255	dientes
+T3	Disease 2 18	DESDENTADO TOTAL
+T4	Disease 210 286	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T5	Therapeutic_Procedure 93 127	tratamiento rehabilitador integral
+T6	Therapeutic_Procedure 152 207	tratamiento prótesico total superior y parcial inferior
+A1	Pending T5
+T7	Sign_or_Symptom 134 163	mala adherencia a tratamiento

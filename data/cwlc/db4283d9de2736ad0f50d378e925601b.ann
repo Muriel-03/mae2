@@ -1,0 +1,8 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 141 144	cms
+T3	Body_Part 46 50	CARA
+T4	Body_Part 161 175	pieza dentaria
+T5	Disease 2 50	ABSCESO CUTÁNEO, FURÚNCULO Y CARBUNCO DE LA CARA
+T6	Sign_or_Symptom 79 175	aumento de volumen en el lado izquierdo, aproximadamente de 4 cms. sin relacion a pieza dentaria
+T7	Sign_or_Symptom 181 186	dolor
+A1	Negated T7

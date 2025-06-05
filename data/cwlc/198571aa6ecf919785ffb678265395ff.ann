@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 46 55	pieza 2,8
+T3	Disease 2 17	PERICORONARITIS
+T4	Disease 142 157	Pericoronaritis
+T6	Sign_or_Symptom 46 89	pieza 2,8 semierupcionado y en mal posicion
+T7	Sign_or_Symptom 91 107	mucosa edematosa
+T8	Therapeutic_Procedure 130 140	extraccion
+A1	Pending T8

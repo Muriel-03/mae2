@@ -1,0 +1,18 @@
+T1	Abbreviation 103 106	CMF
+T2	Abbreviation 111 113	BP
+T3	Abbreviation 248 250	BP
+T4	Abbreviation 255 258	IFD
+T5	Body_Part 64 86	ARCADA DENTAL SUPERIOR
+T6	Body_Part 143 150	MUCOSAS
+T7	Diagnostic_Procedure 111 113	BP
+T8	Diagnostic_Procedure 248 250	BP
+T9	Disease 0 4	L129
+T10	Disease 5 32	PENFIGOIDE, NO ESPECIFICADO
+T11	Laboratory_or_Test_Result 129 150	PENFIGOICE DE MUCOSAS
+T13	Sign_or_Symptom 46 53	ERITEMA
+T14	Sign_or_Symptom 56 86	EROSION ARCADA DENTAL SUPERIOR
+R1	Has Arg1:T7 Arg2:T11	
+T15	Laboratory_Procedure 178 205	INMUNOFLUORESCENCIA DIRECTA
+A1	Pending T15
+T16	Laboratory_Procedure 255 258	IFD
+A2	Pending T16

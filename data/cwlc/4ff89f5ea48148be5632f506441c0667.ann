@@ -1,0 +1,36 @@
+T1	Abbreviation 41 44	HTA
+T2	Abbreviation 46 49	IGO
+T3	Abbreviation 67 70	DLP
+T4	Abbreviation 88 90	cx
+T5	Abbreviation 183 186	APS
+T6	Abbreviation 225 228	MTF
+T7	Abbreviation 241 244	ATV
+T8	Abbreviation 289 292	ASS
+T9	Abbreviation 305 308	HCT
+T10	Abbreviation 340 344	comp
+T11	Abbreviation 510 512	CE
+T12	Abbreviation 655 658	Dr.
+T13	Body_Part 424 438	zona abdominal
+T14	Body_Part 574 588	zona umbilical
+T15	Body_Part 601 615	tejido adiposo
+T16	Diagnostic_Procedure 455 489	ecotomografia abdominal y de pared
+T17	Diagnostic_Procedure 514 537	Ecotomografia abdominal
+T18	Disease 41 44	HTA
+T19	Disease 46 49	IGO
+T20	Disease 51 65	Hipotiroidismo
+T21	Disease 67 70	DLP
+T22	Disease 94 110	hernia abdominal
+T23	Disease 114 121	cesárea
+T24	Clinical_Finding 127 146	Colecistectomizada.
+T25	Laboratory_or_Test_Result 538 563	sin hallazgos patológicos
+T26	Laboratory_or_Test_Result 564 588	Hernia de zona umbilical
+T27	Laboratory_or_Test_Result 591 644	hernia de tejido adiposo lateralizada hacia izquierda
+T28	Medication 225 228	MTF
+T29	Medication 241 244	ATV
+T30	Medication 289 292	ASS
+T31	Medication 305 308	HCT
+T32	Medication 323 335	levotiroxina
+T34	Sign_or_Symptom 392 438	molestias de forma irregular en zona abdominal
+R1	Has Arg1:T17 Arg2:T25	
+R2	Has Arg1:T17 Arg2:T26	
+R3	Has Arg1:T17 Arg2:T27	

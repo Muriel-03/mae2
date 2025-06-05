@@ -1,0 +1,7 @@
+T1	Body_Part 83 90	PALADAR
+T2	Diagnostic_Procedure 95 106	RADIOGRAFIA
+T3	Disease 0 22	ABSCESO APICAL CRONICA
+T4	Disease 72 90	ABSCESO EN PALADAR
+T5	Laboratory_or_Test_Result 117 133	GRANULOMA APICAL
+T6	Sign_or_Symptom 43 48	DOLOR
+R1	Has Arg1:T2 Arg2:T5	

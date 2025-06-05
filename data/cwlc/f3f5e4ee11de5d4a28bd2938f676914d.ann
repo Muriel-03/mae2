@@ -1,0 +1,7 @@
+T1	Disease 0 21	retinopatia diabetica
+T2	Disease 35 55	diabetes mellitus ii
+T3	Disease 97 118	retinopatia diabetica
+T4	Sign_or_Symptom 155 167	vision doble
+T5	Sign_or_Symptom 169 176	vertigo
+T6	Sign_or_Symptom 179 185	caidas
+T7	Therapeutic_Procedure 87 92	laser

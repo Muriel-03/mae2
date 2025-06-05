@@ -1,0 +1,18 @@
+T1	Abbreviation 85 88	APS
+T2	Body_Part 28 44	MIEMBRO INFERIOR
+T3	Body_Part 207 233	miembro inferior izquierdo
+T4	Body_Part 295 315	planta de ambos pies
+T5	Body_Part 319 327	tobillos
+T6	Body_Part 411 416	manos
+T7	Body_Part 647 663	miembro inferior
+T8	Disease 2 61	DEFECTO POR REDUCCIÓN DEL MIEMBRO INFERIOR, NO ESPECIFICADO
+T10	Disease 621 680	Defecto por reduccion del miembro inferior, no especificado
+T11	Laboratory_or_Test_Result 486 494	negativo
+T12	Clinical_Finding 138 233	uso de plantillas ortopedicas desde hace 15 años por acortamiento de miembro inferior izquierdo
+T13	Sign_or_Symptom 286 366	dolor en planta de ambos pies  y tobillos que con el tiempo se han intensificado
+T14	Sign_or_Symptom 386 416	rigidez matinal en ambas manos
+T15	Therapeutic_Procedure 145 167	plantillas ortopedicas
+T9	Laboratory_Procedure 450 468	Factor Reumatoideo
+R1	Has Arg1:T9 Arg2:T11	
+T16	Therapeutic_Procedure 527 560	formulaciopn de nuevas plantillas
+A1	Pending T16

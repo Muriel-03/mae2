@@ -1,0 +1,5 @@
+T1	Body_Part 51 57	piezas
+T2	Disease 0 43	Periodontitis cronica avanzada generalizada
+T3	Body_Part 61 65	boca
+T4	Clinical_Finding 66 115	portadora de protesis parcial superior e inferior
+T5	Sign_or_Symptom 45 65	pocas piezas en boca

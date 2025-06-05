@@ -1,0 +1,17 @@
+T1	Abbreviation 103 106	VPH
+T2	Abbreviation 334 338	Atte
+T3	Body_Part 33 48	PISO DE LA BOCA
+T4	Body_Part 89 98	genitales
+T5	Body_Part 211 218	Faringe
+T6	Disease 2 48	LESIÓN DE SITIOS CONTIGUOS DEL PISO DE LA BOCA
+T7	Disease 80 98	verrugas genitales
+T9	Disease 321 332	leucoplasia
+T10	Clinical_Finding 126 138	alergias (-)
+T11	Sign_or_Symptom 175 192	odinofagia severa
+T12	Sign_or_Symptom 211 230	Faringe eritematosa
+T13	Sign_or_Symptom 275 305	lesiones vesiculares multiples
+T8	Disease 103 106	VPH
+T14	Sign_or_Symptom 231 240	petequias
+T15	Clinical_Finding 116 124	lactando
+T16	Body_Part 261 274	base de legua
+A1	Negated T9

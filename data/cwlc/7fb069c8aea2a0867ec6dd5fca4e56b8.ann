@@ -1,0 +1,9 @@
+T1	Abbreviation 67 70	APS
+T2	Disease 80 90	MENOPAUSIA
+T3	Disease 92 108	PROLAPSO GRADO 2
+T5	Abbreviation 72 73	G
+T4	Abbreviation 74 75	P
+T7	Abbreviation 76 77	A
+T8	Clinical_Finding 72 74	G5
+T9	Clinical_Finding 74 76	P5
+T10	Clinical_Finding 76 78	A0

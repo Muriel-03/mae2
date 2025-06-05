@@ -1,0 +1,10 @@
+T1	Abbreviation 9 12	pza
+T2	Abbreviation 53 61	paramono
+T3	Body_Part 9 14	pza 7
+T4	Disease 0 8	pulpitis
+T5	Therapeutic_Procedure 72 107	Irrigación con suero y clorhexidina
+T6	Medication 53 61	paramono
+T7	Medication 87 92	suero
+T8	Medication 95 107	clorhexidina
+T10	Therapeutic_Procedure 19 26	trepana
+T11	Therapeutic_Procedure 29 70	se deja con algodón con paramono y fermin

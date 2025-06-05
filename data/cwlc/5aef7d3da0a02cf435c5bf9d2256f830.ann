@@ -1,0 +1,7 @@
+T1	Abbreviation 33 36	APS
+T2	Disease 2 9	CEFALEA
+T3	Sign_or_Symptom 2 9	CEFALEA
+T4	Sign_or_Symptom 51 65	cefalea diaria
+T5	Sign_or_Symptom 95 116	sintomas neurologicos
+T6	Clinical_Finding 122 151	circunferencia craneal acorde
+A1	Negated T5

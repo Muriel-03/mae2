@@ -1,0 +1,6 @@
+T1	Body_Part 61 67	piezas
+T2	Body_Part 77 83	canino
+T3	Disease 0 44	desdentada total superior , parcial inferior
+T4	Body_Part 68 74	canino
+T5	Clinical_Finding 56 83	solo piezas canino a canino
+T6	Sign_or_Symptom 87 118	superior esta en regular estado

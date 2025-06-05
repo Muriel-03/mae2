@@ -1,0 +1,12 @@
+T1	Abbreviation 78 81	APS
+T2	Abbreviation 96 99	ANT
+T3	Abbreviation 103 106	IAM
+T4	Abbreviation 171 180	ECOCARDIO
+T5	Abbreviation 192 196	EVAL
+T6	Diagnostic_Procedure 171 180	ECOCARDIO
+T7	Diagnostic_Procedure 202 215	TEST ESFUERZO
+T8	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T9	Disease 38 54	ANGINA INESTABLE
+T10	Disease 103 113	IAM SEPTAL
+A1	Pending T7
+T11	Clinical_Finding 96 106	ANT DE IAM

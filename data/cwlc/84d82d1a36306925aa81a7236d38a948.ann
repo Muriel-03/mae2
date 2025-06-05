@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 66 73	1.8-2.8
+T4	Body_Part 106 109	4.8
+T5	Body_Part 142 145	3.8
+T6	Body_Part 214 220	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 185 220	Anomalias de la posicion del diente
+T12	Laboratory_or_Test_Result 66 184	1.8-2.8 no erupcionadosposicion vertical4.8 erupcionados - posicion vertical3.8 semierupcionado, posicion vertical IIA

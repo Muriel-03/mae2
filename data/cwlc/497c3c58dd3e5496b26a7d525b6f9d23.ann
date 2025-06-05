@@ -1,0 +1,9 @@
+T1	Abbreviation 58 60	mm
+T2	Abbreviation 128 130	ud
+T3	Body_Part 0 15	Frenillo labial
+T4	Body_Part 64 67	1.1
+T5	Body_Part 69 72	2.1
+T6	Sign_or_Symptom 0 42	Frenillo labial de inserción baja, fibroso
+T8	Sign_or_Symptom 44 72	diastema de 1 mm en 1.1- 2.1
+T9	Therapeutic_Procedure 110 121	frenectomía
+A1	Pending T9

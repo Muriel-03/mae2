@@ -1,0 +1,12 @@
+T1	Abbreviation 3 5	FA
+T2	Abbreviation 47 50	Obs
+T3	Abbreviation 69 72	IAM
+T4	Abbreviation 127 130	ERC
+T5	Abbreviation 141 145	g3d3
+T6	Disease 3 5	FA
+T7	Disease 51 65	angina crónica
+T8	Disease 69 80	IAM antiguo
+T9	Disease 91 123	Insuficiencia cardiaca etapa III
+T10	Disease 127 139	ERC etapa IV
+T11	Sign_or_Symptom 51 65	angina crónica
+T12	Laboratory_or_Test_Result 3 34	FA rápida respuesta ventricular

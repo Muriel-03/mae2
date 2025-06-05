@@ -1,0 +1,20 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 84 87	HTA
+T3	Abbreviation 89 92	DLP
+T4	Abbreviation 452 455	APS
+T5	Disease 2 9	MIGRAÑA
+T6	Disease 67 82	Migraña crónica
+T7	Disease 84 87	HTA
+T8	Disease 89 92	DLP
+T9	Disease 241 257	status migrañoso
+T10	Disease 457 464	Migraña
+T11	Medication 104 117	Ergotaminicos
+T12	Medication 287 295	migranol
+T13	Sign_or_Symptom 132 184	cefalea recurrente, de frecuencia diaria, hemicránea
+T14	Sign_or_Symptom 228 257	episodios de status migrañoso
+T15	Sign_or_Symptom 274 281	cefalea
+T17	Abbreviation 194 197	hrs
+T16	Sign_or_Symptom 283 333	usa migranol de forma diaria, a veces sin síntomas
+T18	Medication 391 401	ergotamina
+T19	Therapeutic_Procedure 372 401	desintoxicación de ergotamina
+A1	Pending T19

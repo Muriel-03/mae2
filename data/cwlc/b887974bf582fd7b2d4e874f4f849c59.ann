@@ -1,0 +1,11 @@
+T1	Abbreviation 47 50	APS
+T2	Body_Part 134 137	3.4
+T3	Body_Part 160 163	3.8
+T4	Body_Part 222 240	zona de diente 4.3
+T5	Disease 2 23	PERIODONTITIS CRÓNICA
+T6	Disease 52 96	Desdentada total superior y parcial inferior
+T7	Disease 98 132	Periodontitis crónica generalizada
+T8	Disease 200 207	absceso
+T9	Disease 242 263	Periodontitis cronica
+T10	Sign_or_Symptom 139 157	movilidad grado II
+T11	Sign_or_Symptom 165 182	movilidad grado I

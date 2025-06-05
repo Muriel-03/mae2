@@ -1,0 +1,8 @@
+T1	Abbreviation 58 61	APS
+T2	Body_Part 168 191	frenillo bucal superior
+T3	Body_Part 238 254	piezas 5.1 y 5.2
+T4	Disease 2 34	OTRAS ENFERMEDADES PERIODONTALES
+T5	Disease 292 324	Otras enfermedades periodontales
+T6	Sign_or_Symptom 148 191	inserción corta del frenillo bucal superior
+T7	Sign_or_Symptom 218 254	diastema a nivel de piezas 5.1 y 5.2
+T8	Therapeutic_Procedure 268 290	evaluación periodontal

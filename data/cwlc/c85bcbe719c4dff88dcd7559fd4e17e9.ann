@@ -1,0 +1,11 @@
+T1	Abbreviation 55 58	APS
+T2	Body_Part 60 69	Pieza 4.1
+T3	Body_Part 129 138	pieza 3.1
+T4	Body_Part 222 229	dientes
+T5	Disease 2 31	FRACTURA CORONARIA COMPLICADA
+T6	Disease 177 205	osteitis rarefaciente apical
+T7	Disease 206 229	Fractura de los dientes
+T9	Laboratory_or_Test_Result 60 128	Pieza 4.1 con tratamiento de conducto con falta de relleno radicular
+T10	Therapeutic_Procedure 74 97	tratamiento de conducto
+T11	Therapeutic_Procedure 143 166	tratamiento de conducto
+T8	Laboratory_or_Test_Result 129 205	pieza 3.1 con tratamiento de conducto, pero con osteitis rarefaciente apical

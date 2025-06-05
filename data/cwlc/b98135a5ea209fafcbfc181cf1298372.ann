@@ -1,0 +1,8 @@
+T1	Body_Part 134 150	dientes superior
+T2	Body_Part 163 181	dientes inferiores
+T3	Sign_or_Symptom 31 59	RELACIÓN MOLAR MESIOOCLUSION
+T4	Sign_or_Symptom 0 30	RELACIÓN ESQUELETICA CLASE III
+T5	Sign_or_Symptom 62 98	RELACION  INCISIVA MORDIDA invertida
+T6	Sign_or_Symptom 100 190	milimetros faltantes para ordenar dientes superior severo , en dientes inferiores moderado
+T8	Sign_or_Symptom 192 217	mordida cruzada posterior
+T9	Clinical_Finding 219 247	no presenta asimetria facial

@@ -1,0 +1,13 @@
+T1	Disease 28 51	hipotiroidismo primario
+T2	Disease 54 61	DM-2 IR
+T3	Abbreviation 54 56	DM
+T4	Abbreviation 59 61	IR
+T5	Abbreviation 76 79	TSH
+T6	Clinical_Finding 76 101	TSH discretamente elevada
+T7	Abbreviation 122 125	mcg
+T8	Abbreviation 126 127	d
+T9	Disease 136 144	diabetes
+T10	Medication 173 176	NPH
+T11	Abbreviation 173 176	NPH
+T12	Diagnostic_Procedure 195 200	HbA1c
+T13	Abbreviation 195 200	HbA1c

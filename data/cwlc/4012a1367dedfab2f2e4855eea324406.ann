@@ -1,0 +1,9 @@
+T1	Abbreviation 32 35	TTO
+T2	Abbreviation 61 64	TTO
+T3	Abbreviation 126 128	DR
+T4	Abbreviation 138 140	DR
+T5	Body_Part 87 94	MOLARES
+T6	Body_Part 104 113	MAXILARES
+T7	Disease 0 21	PERIODONTITIS CRONICA
+T8	Disease 36 56	ARTRITIS REUMATOIDEA
+T9	Therapeutic_Procedure 115 124	IMPLANTES

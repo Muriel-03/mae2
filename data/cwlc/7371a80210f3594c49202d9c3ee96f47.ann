@@ -1,0 +1,4 @@
+T1	Sign_or_Symptom 149 175	mordida abierta esqueletal
+T2	Therapeutic_Procedure 19 44	tratamiento de ortodoncia
+T3	Therapeutic_Procedure 82 117	tratamiento  ortodontico-quirurgico
+A1	Pending T3

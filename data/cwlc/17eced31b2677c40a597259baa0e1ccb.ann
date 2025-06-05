@@ -1,0 +1,39 @@
+T1	Abbreviation 51 54	ITU
+T2	Abbreviation 261 263	OC
+T4	Abbreviation 336 338	UC
+T5	Abbreviation 367 370	PNA
+T6	Abbreviation 432 435	ECO
+T7	Abbreviation 485 486	+
+T8	Abbreviation 492 494	OC
+T9	Abbreviation 494 495	+
+T10	Body_Part 14 19	RIÑÓN
+T11	Diagnostic_Procedure 432 441	ECO RENAL
+T12	Disease 2 19	CÁLCULO DEL RIÑÓN
+T13	Disease 51 54	ITU
+T15	Disease 367 370	PNA
+T16	Laboratory_or_Test_Result 287 304	BACTERIAS ESCASAS
+T19	Laboratory_Procedure 261 263	OC
+T22	Laboratory_Procedure 306 316	LCUCOSITOS
+T23	Laboratory_Procedure 322 330	HEMATOES
+T24	Laboratory_Procedure 492 494	OC
+T25	Sign_or_Symptom 76 83	DISURIA
+T26	Sign_or_Symptom 85 95	PLIQUARUIA
+T27	Sign_or_Symptom 100 106	FIEBRE
+T28	Sign_or_Symptom 112 119	VOMITOS
+T29	Sign_or_Symptom 120 154	HEMATURIA MACROSCOPIA SIN COAGULOS
+T31	Sign_or_Symptom 160 184	RETENCION AGUDA DE ORINA
+A1	Negated T27
+A2	Negated T28
+A3	Negated T31
+T30	Sign_or_Symptom 189 226	EPISODIOS DE LIIMINACION DE "CALCULO"
+T20	Laboratory_Procedure 277 285	EX ORINA
+R1	Has Arg1:T20 Arg2:T16	
+T3	Abbreviation 277 279	EX
+A4	Pending T11
+T14	Laboratory_Procedure 472 485	FUNCION RENAL
+A5	Pending T14
+T17	Abbreviation 495 497	UC
+T18	Laboratory_Procedure 495 497	UC
+A6	Pending T24
+A7	Pending T18
+T21	Laboratory_Procedure 336 338	UC

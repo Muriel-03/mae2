@@ -1,0 +1,82 @@
+T1	Abbreviation 189 192	APS
+T2	Abbreviation 219 222	TBC
+T3	Abbreviation 241 243	IC
+T4	Abbreviation 271 273	BP
+T5	Abbreviation 310 313	tto
+T6	Abbreviation 329 332	TBC
+T7	Abbreviation 350 355	antec
+T8	Abbreviation 360 363	HIV
+T9	Abbreviation 367 370	TAR
+T10	Abbreviation 373 375	HB
+T11	Abbreviation 442 445	tto
+T12	Abbreviation 510 512	mg
+T13	Abbreviation 513 514	x
+T14	Abbreviation 515 516	d
+T15	Abbreviation 532 534	mg
+T16	Abbreviation 535 536	x
+T17	Abbreviation 561 563	mg
+T18	Abbreviation 564 565	x
+T19	Abbreviation 566 567	d
+T20	Abbreviation 584 586	mg
+T21	Abbreviation 587 588	x
+T22	Abbreviation 615 618	BCK
+T23	Abbreviation 799 802	tto
+T24	Abbreviation 855 858	exs
+T25	Abbreviation 876 879	GOT
+T26	Abbreviation 885 888	GPT
+T27	Abbreviation 894 897	GGT
+T28	Abbreviation 903 905	BT
+T29	Abbreviation 914 916	BD
+T30	Abbreviation 924 926	BI
+T31	Abbreviation 933 936	exs
+T32	Abbreviation 953 956	GOT
+T33	Abbreviation 964 967	GPT
+T34	Abbreviation 974 977	GGT
+T35	Abbreviation 982 984	BT
+T36	Abbreviation 992 994	BD
+T37	Abbreviation 1002 1004	BI
+T38	Body_Part 69 75	PULMÓN
+T40	Diagnostic_Procedure 271 273	BP
+T41	Disease 2 48	EFECTOS ADVERSOS DE DROGAS ANTIMICOBACTERIANAS
+T42	Disease 52 165	TUBERCULOSIS DEL PULMÓN, CONFIRMADA POR HALLAZGO MICROSCÓPICO DEL BACILO TUBERCULOSO EN ESPUTO, CON O SIN CULTIVO
+T43	Disease 219 222	TBC
+T44	Disease 329 341	TBC pulmonar
+T45	Disease 360 363	HIV
+T46	Laboratory_or_Test_Result 664 699	elevación moderada de transaminasas
+T48	Laboratory_Procedure 876 879	GOT
+T49	Laboratory_Procedure 885 888	GPT
+T50	Laboratory_Procedure 894 897	GGT
+T51	Laboratory_Procedure 903 905	BT
+T52	Laboratory_Procedure 914 916	BD
+T53	Laboratory_Procedure 924 926	BI
+T55	Laboratory_Procedure 953 956	GOT
+T56	Laboratory_Procedure 964 967	GPT
+T57	Laboratory_Procedure 974 977	GGT
+T58	Laboratory_Procedure 982 984	BT
+T59	Laboratory_Procedure 992 994	BD
+T60	Laboratory_Procedure 1002 1004	BI
+T61	Medication 22 48	DROGAS ANTIMICOBACTERIANAS
+T62	Medication 478 489	Rifampicina
+T63	Medication 492 505	Moxifloxacino
+T64	Medication 518 527	Etambutol
+T65	Medication 543 555	Pirazinamida
+T66	Medication 569 579	Isoniacida
+T67	Sign_or_Symptom 748 802	dolor abdominal de forma recurrente tras inicio de tto
+T68	Sign_or_Symptom 819 826	vomitos
+T69	Sign_or_Symptom 832 838	fiebre
+T70	Sign_or_Symptom 844 853	ictericia
+A1	Pending T40
+T39	Medication 367 370	TAR
+T71	Disease 373 383	HB crónica
+T72	Disease 387 399	drogadicción
+T73	Laboratory_Procedure 615 618	BCK
+T74	Abbreviation 630 631	-
+T75	Laboratory_or_Test_Result 630 631	-
+R1	Has Arg1:T73 Arg2:T75	
+A2	Negated T68
+A3	Negated T69
+A4	Negated T70
+T76	Laboratory_Procedure 866 868	FA
+T77	Abbreviation 866 868	FA
+T47	Laboratory_Procedure 943 945	FA
+T54	Abbreviation 943 945	FA

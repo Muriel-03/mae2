@@ -1,0 +1,15 @@
+T1	Body_Part 31 33	C4
+T2	Body_Part 35 37	C5
+T3	Body_Part 39 41	C5
+T4	Body_Part 43 45	C6
+T5	Body_Part 47 52	C6-C7
+T6	Body_Part 84 89	c4-c5
+T7	Body_Part 122 127	L2-L3
+T8	Body_Part 129 134	L5-S1
+T9	Body_Part 176 181	L2-L3
+T10	Body_Part 183 188	L5-S1
+T12	Laboratory_or_Test_Result 144 188	Espondiloartrosis lumbar severa L2-L3, L5-S1
+T11	Laboratory_or_Test_Result 1 52	Raquiestenosis crónica severa C4- C5-,C5- C6, C6-C7
+T13	Laboratory_or_Test_Result 55 89	Uncoartrosis cervical severa c4-c5
+T14	Laboratory_or_Test_Result 93 141	Raquiestenosis lumbar severa L2-L3- L5-S1 lumbar
+T15	Disease 144 168	Espondiloartrosis lumbar

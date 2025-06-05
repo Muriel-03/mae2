@@ -1,0 +1,12 @@
+T1	Abbreviation 59 62	OBS
+T2	Abbreviation 119 121	EX
+T4	Abbreviation 163 166	COL
+T5	Disease 0 4	K219
+T6	Disease 5 58	ENFERMEDAD DEL REFLUJO GASTROESOFAGICO SIN ESOFAGITIS
+T7	Laboratory_or_Test_Result 201 207	NORMAL
+T8	Laboratory_Procedure 131 141	UROCULTIVO
+T11	Laboratory_Procedure 191 200	SEDIMENTO
+T12	Disease 64 82	INFECCION URINARIA
+T13	Sign_or_Symptom 99 106	VÓMITOS
+T14	Laboratory_Procedure 119 130	EX, E ORINA
+R1	Has Arg1:T11 Arg2:T7	

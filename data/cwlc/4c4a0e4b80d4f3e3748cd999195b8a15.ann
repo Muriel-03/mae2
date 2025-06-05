@@ -1,0 +1,10 @@
+T1	Abbreviation 13 16	obs
+T2	Abbreviation 45 47	+-
+T3	Abbreviation 89 91	nº
+T4	Body_Part 20 44	zona de horquilla vulvar
+T5	Disease 49 57	verrugas
+T6	Disease 72 87	candiolomatosis
+T7	Disease 145 153	verrugas
+T8	Family_Member 116 122	pareja
+T11	Sign_or_Symptom 49 88	verrugas sugerentes de candiolomatosis.
+R1	Has Arg1:T8 Arg2:T7	

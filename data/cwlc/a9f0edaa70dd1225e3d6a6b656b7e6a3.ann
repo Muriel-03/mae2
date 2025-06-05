@@ -1,0 +1,14 @@
+T1	Abbreviation 51 53	CF
+T2	Abbreviation 72 75	HTA
+T3	Abbreviation 85 87	FA
+T4	Abbreviation 89 92	TBQ
+T5	Abbreviation 101 104	TVP
+T6	Body_Part 105 121	pierna izquierda
+T7	Disease 0 26	Miocardiopatía sin estudio
+T8	Disease 28 50	Insuficiencia cardiaca
+T10	Disease 72 83	HTA crónica
+T11	Disease 85 87	FA
+T12	Disease 89 92	TBQ
+T13	Disease 94 98	asma
+T14	Disease 101 121	TVP pierna izquierda
+T9	Sign_or_Symptom 51 56	CF IV

@@ -1,0 +1,6 @@
+T1	Abbreviation 117 120	hrs
+T2	Abbreviation 136 138	PA
+T3	Diagnostic_Procedure 92 111	Holter de Arritmias
+A1	Pending T3
+T4	Diagnostic_Procedure 123 138	Monitorea de PA
+A2	Pending T4

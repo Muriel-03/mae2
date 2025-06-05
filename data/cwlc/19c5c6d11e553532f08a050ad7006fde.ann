@@ -1,0 +1,12 @@
+T1	Abbreviation 55 57	IR
+T2	Body_Part 0 8	VESICULA
+T3	Body_Part 88 108	SENO RENAL IZQUIERDO
+T4	Laboratory_or_Test_Result 79 108	NODULOEN SENO RENAL IZQUIERDO
+T5	Laboratory_or_Test_Result 0 24	VESICULA ESCLEROATROFICA
+T6	Laboratory_or_Test_Result 25 44	ESTEATOSIS HEPATICA
+T7	Disease 45 48	HTA
+T8	Disease 49 54	DM II
+T9	Abbreviation 58 61	OBS
+T10	Disease 62 78	ESTENOSIS MITRAL
+T11	Abbreviation 45 48	HTA
+T12	Abbreviation 49 51	DM

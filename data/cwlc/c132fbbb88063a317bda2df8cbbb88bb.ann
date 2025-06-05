@@ -1,0 +1,9 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 66 80	PIEZAS 1.2 1.1
+T4	Body_Part 93 100	Dientes
+T5	Disease 2 19	DIENTES INCLUIDOS
+T6	Disease 93 110	Dientes incluidos
+T7	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T8	Laboratory_or_Test_Result 66 91	PIEZAS 1.2 1.1, RETENIDAS
+T9	Laboratory_or_Test_Result 93 110	Dientes incluidos

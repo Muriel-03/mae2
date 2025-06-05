@@ -1,0 +1,11 @@
+T1	Abbreviation 82 84	pd
+T2	Abbreviation 160 162	rx
+T3	Abbreviation 219 222	cms
+T4	Body_Part 82 88	pd 2.2
+T5	Diagnostic_Procedure 160 176	rx retroalveolar
+T6	Disease 27 48	absceso dentoalveolar
+T7	Disease 51 67	celulitis facial
+T9	Disease 194 211	quiste periapical
+T10	Laboratory_or_Test_Result 194 239	quiste periapical de 2x1 cms aproximadamente.
+T11	Medication 274 279	suero
+T12	Therapeutic_Procedure 107 132	tratamiento de endodoncia

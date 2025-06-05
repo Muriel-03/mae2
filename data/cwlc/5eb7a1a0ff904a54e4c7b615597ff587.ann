@@ -1,0 +1,7 @@
+T1	Body_Part 0 7	Pieza 4
+T2	Body_Part 10 18	Pieza 20
+T3	Disease 69 84	Caries Profunda
+T4	Clinical_Finding 102 112	Embarazada
+T5	Therapeutic_Procedure 29 52	Tratamiento Endodontico
+A1	Pending T5
+T6	Sign_or_Symptom 87 92	Dolor

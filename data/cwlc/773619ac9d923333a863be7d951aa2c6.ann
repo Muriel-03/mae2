@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 120 135	arcos dentarios
+T4	Disease 85 135	Anomalias de la relacion entre los arcos dentarios
+T5	Sign_or_Symptom 2 17	MORDIDA ABIERTA
+T6	Sign_or_Symptom 46 61	Mordida abierta
+T7	Sign_or_Symptom 62 84	apiñamiento inferior V
+T3	Disease 62 73	apiñamiento
+T8	Body_Part 83 84	V

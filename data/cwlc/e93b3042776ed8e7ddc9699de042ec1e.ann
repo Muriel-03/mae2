@@ -1,0 +1,15 @@
+T1	Abbreviation 87 90	APS
+T2	Abbreviation 168 173	antec
+T3	Abbreviation 240 243	RTU
+T4	Abbreviation 306 309	TAC
+T5	Body_Part 22 28	VEJIGA
+T6	Body_Part 48 62	VÍAS URINARIAS
+T7	Body_Part 313 320	abdomen
+T8	Diagnostic_Procedure 306 320	TAC de abdomen
+T9	Disease 2 63	TUMOR MALIGNO DE LA VEJIGA URINARIA, ( DE LAS VÍAS URINARIAS)
+T10	Disease 177 193	cancer de vijiga
+T11	Therapeutic_Procedure 246 267	radioterapia palitiva
+T12	Therapeutic_Procedure 358 370	darioterapia
+T13	Body_Part 187 193	vijiga
+T14	Therapeutic_Procedure 240 243	RTU
+T15	Family_Member 267 271	Hija

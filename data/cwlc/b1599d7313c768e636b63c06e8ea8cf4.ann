@@ -1,0 +1,7 @@
+T1	Body_Part 96 105	diente 14
+T2	Disease 2 20	DESDENTADO PARCIAL
+T3	Disease 24 40	DESDENTADO TOTAL
+T4	Disease 45 76	Desdentamiento parcial superior
+T5	Disease 117 137	desdentamiento total
+T6	Sign_or_Symptom 45 106	Desdentamiento parcial superior clase V (remanente diente 14)
+T7	Sign_or_Symptom 145 174	falencia estética y funcional

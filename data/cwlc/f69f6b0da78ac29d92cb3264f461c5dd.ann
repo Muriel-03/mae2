@@ -1,0 +1,11 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 83 84	O
+T3	Body_Part 2 9	DIENTES
+T4	Body_Part 61 70	Pieza 4.8
+T5	Body_Part 97 100	4.7
+T6	Body_Part 153 160	Dientes
+T7	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T8	Disease 75 81	caries
+T9	Disease 153 183	Dientes incluidos e impactados
+T10	Laboratory_or_Test_Result 61 100	Pieza 4.8 con caries (O) impactando 4.7
+T12	Sign_or_Symptom 120 151	molestias constantes en la zona

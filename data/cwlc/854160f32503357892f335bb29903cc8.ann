@@ -1,0 +1,5 @@
+T1	Disease 2 36	BRONQUITIS CRÓNICA NO ESPECIFICADA
+T2	Abbreviation 60 63	APS
+T3	Clinical_Finding 82 104	antencedente tabaquico
+T4	Sign_or_Symptom 153 156	tos
+T5	Sign_or_Symptom 190 206	secrecion mucosa

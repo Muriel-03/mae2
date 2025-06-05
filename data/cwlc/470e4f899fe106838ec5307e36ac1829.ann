@@ -1,0 +1,18 @@
+T1	Abbreviation 60 63	APS
+T2	Abbreviation 107 112	ANTEC
+T3	Abbreviation 118 121	TVP
+T4	Abbreviation 139 144	APROX
+T5	Abbreviation 168 172	TACO
+T6	Abbreviation 285 289	POLI
+T7	Abbreviation 290 294	TACO
+T8	Abbreviation 296 300	ATTE
+T9	Disease 2 36	OTRAS EMBOLIAS Y TROMBOSIS VENOSAS
+T10	Disease 94 105	TROMBOFILIA
+T11	Disease 118 121	TVP
+T13	Disease 302 336	Otras embolias y trombosis venosas
+T15	Laboratory_or_Test_Result 94 105	TROMBOFILIA
+T16	Medication 168 172	TACO
+T17	Medication 290 294	TACO
+T14	Therapeutic_Procedure 187 203	MEDIAS ELASTICAS
+T12	Clinical_Finding 116 132	6 TVP ANTERIORES
+T18	Clinical_Finding 152 172	SIN TRATAMIENTO TACO

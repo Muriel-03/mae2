@@ -1,0 +1,13 @@
+T1	Abbreviation 31 34	tto
+T2	Abbreviation 51 54	Pza
+T3	Abbreviation 80 83	izq
+T4	Abbreviation 99 104	PMCFA
+T5	Abbreviation 105 106	+
+T6	Body_Part 51 63	Pza 14 (2.6)
+T9	Clinical_Finding 107 113	fermin
+T11	Medication 99 104	PMCFA
+T13	Therapeutic_Procedure 31 47	tto. de conducto
+T14	Therapeutic_Procedure 85 104	trepanada con PMCFA
+A1	Pending T13
+T7	Abbreviation 75 78	sip
+T8	Abbreviation 64 67	qer

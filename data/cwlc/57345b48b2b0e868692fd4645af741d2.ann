@@ -1,0 +1,21 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 90 95	kilos
+T3	Abbreviation 255 256	<
+T4	Abbreviation 277 279	Bp
+T5	Abbreviation 353 355	Ca
+T6	Body_Part 13 18	COLON
+T7	Body_Part 383 388	Colon
+T8	Diagnostic_Procedure 277 279	Bp
+T9	Disease 2 18	POLIPO DEL COLON
+T10	Disease 154 175	trastorno alimenticio
+T11	Disease 281 319	adenoma tubular con displasia moderada
+T12	Disease 353 365	Ca digestivo
+T13	Disease 368 388	Polipo del del Colon
+T14	Laboratory_or_Test_Result 281 319	adenoma tubular con displasia moderada
+T16	Sign_or_Symptom 72 84	baja de peso
+T18	Clinical_Finding 108 175	sin otras patologías crónicas ni historial de trastorno alimenticio
+T19	Diagnostic_Procedure 195 207	colonoscopía
+T20	Laboratory_or_Test_Result 239 259	lesión sesil de <1cm
+R1	Has Arg1:T19 Arg2:T20	
+R2	Has Arg1:T8 Arg2:T14	
+T15	Abbreviation 257 259	cm

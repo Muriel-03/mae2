@@ -1,0 +1,24 @@
+T1	Abbreviation 325 328	tto
+T2	Abbreviation 421 425	pcte
+T3	Body_Part 0 7	Pieza 9
+T4	Body_Part 68 86	piezas 10 y 9 y 11
+T5	Body_Part 124 131	pieza 9
+T6	Body_Part 227 234	pieza 9
+T7	Body_Part 264 272	pieza 11
+T8	Body_Part 312 320	Pieza 10
+T9	Disease 12 39	periodontits apical crónica
+T10	Disease 41 56	osteitis apical
+T12	Disease 518 546	PERIODONTITIS APICAL CRONICA
+T14	Medication 156 175	hidroxido de calcio
+T15	Therapeutic_Procedure 109 120	trepanación
+T16	Therapeutic_Procedure 207 223	necropulpectomía
+T17	Therapeutic_Procedure 251 260	exodoncia
+T19	Therapeutic_Procedure 503 517	retratamiento.
+T20	Disease 87 95	incluido
+T21	Laboratory_or_Test_Result 68 96	piezas 10 y 9 y 11(incluido)
+A1	Pending T16
+A2	Pending T17
+T22	Therapeutic_Procedure 275 308	rehabilitación de sector anterior
+A3	Pending T22
+T18	Laboratory_or_Test_Result 312 407	Pieza 10 con tto endodontico defectuoso, imagen rxopaca intraconudcto, compatible con pulpolito
+A4	Pending T19

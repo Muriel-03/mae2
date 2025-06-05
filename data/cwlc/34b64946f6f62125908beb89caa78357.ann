@@ -1,0 +1,12 @@
+T1	Abbreviation 11 14	OBS
+T2	Abbreviation 15 18	SHE
+T3	Abbreviation 85 88	P/A
+T4	Abbreviation 89 94	ANTEC
+T5	Abbreviation 104 107	HTA
+T6	Disease 15 18	SHE
+T7	Disease 104 107	HTA
+T8	Family_Member 96 103	FAMILIA
+T9	Clinical_Finding 0 10	PRIMIGESTA
+R1	Has Arg1:T8 Arg2:T7	
+T10	Sign_or_Symptom 69 88	CIFRAS ALTAS DE P/A
+T11	Diagnostic_Procedure 25 49	PRESION ARTERIAL SERIADA

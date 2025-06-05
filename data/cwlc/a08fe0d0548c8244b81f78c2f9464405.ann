@@ -1,0 +1,11 @@
+T1	Body_Part 0 9	diente 17
+T2	Body_Part 32 38	diente
+T3	Body_Part 54 69	capuchon diente
+T4	Body_Part 103 112	diente 32
+T5	Clinical_Finding 54 100	capuchon diente erupcionado completo sin dolor
+T7	Therapeutic_Procedure 18 27	exodoncia
+T8	Therapeutic_Procedure 127 135	extracio
+A1	Pending T7
+A2	Pending T8
+T6	Clinical_Finding 141 156	semierupcionado
+T9	Clinical_Finding 183 208	no ha presentado infecion

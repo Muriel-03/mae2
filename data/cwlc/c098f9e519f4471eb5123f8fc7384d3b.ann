@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	pza
+T2	Abbreviation 61 64	tto
+T3	Abbreviation 73 75	rx
+T4	Body_Part 0 7	pza 2.2
+T5	Diagnostic_Procedure 73 89	rx retroalveolar
+T6	Disease 11 25	estado de raiz
+T7	Clinical_Finding 27 51	tratado endodonticamente
+T8	Body_Part 21 25	raiz

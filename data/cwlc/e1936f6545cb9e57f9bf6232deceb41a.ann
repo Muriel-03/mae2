@@ -1,0 +1,19 @@
+T1	Abbreviation 63 66	APS
+T2	Abbreviation 77 80	AEG
+T3	Abbreviation 144 146	PE
+T4	Abbreviation 147 148	+
+T5	Abbreviation 150 152	TE
+T6	Abbreviation 153 154	+
+T7	Abbreviation 156 158	PT
+T8	Abbreviation 218 220	ok
+T9	Abbreviation 319 323	atte
+T10	Body_Part 27 39	extremidades
+T11	Body_Part 206 212	cadera
+T12	Body_Part 272 279	piernas
+T13	Diagnostic_Procedure 191 212	radiografia de cadera
+T14	Sign_or_Symptom 14 39	asimetria de extremidades
+T15	Family_Member 173 178	madre
+T16	Clinical_Finding 77 80	AEG
+T17	Sign_or_Symptom 247 279	asimetria de pliegues en piernas
+T18	Laboratory_or_Test_Result 218 220	ok
+R1	Has Arg1:T13 Arg2:T18	

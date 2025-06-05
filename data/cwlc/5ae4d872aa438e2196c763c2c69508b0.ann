@@ -1,0 +1,8 @@
+T1	Abbreviation 44 49	APROX
+T2	Abbreviation 102 105	THS
+T3	Abbreviation 112 114	T4
+T4	Disease 62 76	HIPOTIROIDISMO
+T5	Laboratory_Procedure 102 105	THS
+T6	Laboratory_Procedure 112 114	T4
+T7	Medication 28 35	EUTIROX
+T8	Medication 156 163	EUTIROX

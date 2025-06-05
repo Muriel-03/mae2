@@ -1,0 +1,12 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 78 81	ASA
+T3	Abbreviation 143 146	enf
+T4	Abbreviation 174 177	tto
+T5	Body_Part 251 258	dientes
+T6	Disease 2 20	DESDENTADO PARCIAL
+T7	Disease 86 126	Desdentado parcial maxilar y mandibular.
+T8	Disease 213 289	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Sign_or_Symptom 78 84	ASA II
+T12	Therapeutic_Procedure 174 211	tto. rehabilitador en base a prótesis
+T11	Sign_or_Symptom 131 159	secuelas de enf. periodontal
+A1	Pending T12

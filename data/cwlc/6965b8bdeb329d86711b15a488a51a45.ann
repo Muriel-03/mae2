@@ -1,0 +1,5 @@
+T1	Abbreviation 15 19	TRAT
+T2	Abbreviation 64 68	TRAT
+T3	Disease 0 14	LITIASIS RENAL
+T6	Therapeutic_Procedure 90 115	LITOTRIPSIA EXTRACORPOREA
+T7	Therapeutic_Procedure 41 63	LITOTRIPLITIASIS RENAL

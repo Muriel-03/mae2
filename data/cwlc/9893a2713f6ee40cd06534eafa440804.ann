@@ -1,0 +1,7 @@
+T1	Body_Part 55 64	dentición
+T2	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T3	Therapeutic_Procedure 189 203	amigdalectomía
+T4	Clinical_Finding 55 83	dentición mixta segunda fase
+T5	Clinical_Finding 85 112	sin antecedentes sistémicos
+T6	Sign_or_Symptom 114 171	Apiñamiento dental anterosuperior y anteroinferior severo
+T7	Disease 114 132	Apiñamiento dental

@@ -1,0 +1,13 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 52	pcte
+T3	Abbreviation 178 180	ex
+T4	Abbreviation 210 212	cm
+T5	Abbreviation 233 236	izq
+T6	Disease 2 19	CALACIO CHALAZION
+T7	Body_Part 129 155	parpado superior izquierdo
+T8	Body_Part 216 236	parpado superior izq
+T11	Disease 251 268	Calacio chalazion
+T12	Family_Member 80 85	madre
+T13	Clinical_Finding 53 78	sin antecedentes morbidos
+T14	Sign_or_Symptom 107 174	aumento de volumen en parpado superior izquierdo levemente doloroso
+T16	Sign_or_Symptom 188 247	aumento de vol de 0.5 cm en parpado superior izq enrojecido

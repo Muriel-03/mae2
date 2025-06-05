@@ -1,0 +1,10 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 48 58	diente 3.8
+T4	Body_Part 116 123	Dientes
+T5	Disease 2 19	DIENTES INCLUIDOS
+T6	Disease 100 115	pericoronaritis
+T7	Disease 116 133	Dientes incluidos
+T8	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T9	Sign_or_Symptom 77 115	historias multiples de pericoronaritis
+T10	Laboratory_or_Test_Result 48 71	diente 3.8 semiincluido

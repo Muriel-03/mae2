@@ -1,0 +1,5 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Therapeutic_Procedure 57 82	tratamiento de ortodoncia
+T3	Sign_or_Symptom 99 137	maloclusión  dentaria en zona inferior
+T4	Body_Part 124 137	zona inferior
+A1	Pending T2

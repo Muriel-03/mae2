@@ -1,0 +1,6 @@
+T1	Body_Part 17 22	PULPA
+T2	Body_Part 64 74	Diente 1.5
+T3	Disease 2 22	NECROSIS DE LA PULPA
+T4	Disease 27 57	ABSCESO PERIAPICAL CON FÍSTULA
+T5	Disease 112 138	absceso periapical crónico
+T6	Clinical_Finding 79 107	terapia previamente iniciada

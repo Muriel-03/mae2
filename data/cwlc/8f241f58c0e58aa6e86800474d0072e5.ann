@@ -1,0 +1,17 @@
+T1	Abbreviation 53 56	APS
+T2	Body_Part 15 29	TÚNEL CARPIANO
+T3	Body_Part 115 120	manos
+T4	Body_Part 248 262	nerbio mediano
+T5	Body_Part 285 300	tunel del carpo
+T6	Body_Part 389 403	tunel carpiano
+T7	Diagnostic_Procedure 215 231	electromiografia
+T8	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T10	Disease 376 403	Sindrome del tunel carpiano
+T11	Laboratory_or_Test_Result 232 372	atrapamiento de nerbio mediano bilateral a nivel del tunel del carpo , electricamente de grado moderado a izquiera y de grado leve a derecho
+T12	Sign_or_Symptom 95 120	parestesia de ambas manos
+T13	Sign_or_Symptom 127 144	perdida de fuerza
+T14	Sign_or_Symptom 160 186	phalen positvo a izquierda
+T15	Sign_or_Symptom 193 212	hipotrofia muscular
+A1	Negated T13
+A2	Negated T15
+R1	Has Arg1:T7 Arg2:T11	

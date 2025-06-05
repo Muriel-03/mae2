@@ -1,0 +1,8 @@
+T1	Abbreviation 122 125	KNT
+T2	Abbreviation 128 131	tto
+T3	Body_Part 50 64	hombro derecho
+T4	Disease 29 43	trauma derecho
+T5	Sign_or_Symptom 69 74	dolor
+T6	Sign_or_Symptom 77 103	limitación rango articular
+T7	Sign_or_Symptom 108 139	no alivia con KNT y tto. médico
+T8	Therapeutic_Procedure 122 125	KNT

@@ -1,0 +1,7 @@
+T1	Abbreviation 78 81	ECO
+T2	Abbreviation 145 147	cm
+T3	Diagnostic_Procedure 78 91	ECO abdominal
+T4	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T5	Laboratory_or_Test_Result 106 130	Quiste anexial izquierdo
+T6	Sign_or_Symptom 157 180	algia pélvica ocasional
+R1	Has Arg1:T3 Arg2:T5	

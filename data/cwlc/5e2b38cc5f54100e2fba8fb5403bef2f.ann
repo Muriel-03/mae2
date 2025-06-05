@@ -1,0 +1,9 @@
+T2	Abbreviation 71 75	SGOT
+T3	Abbreviation 83 87	SGPT
+T4	Abbreviation 126 127	X
+T5	Body_Part 45 49	pies
+T6	Disease 23 35	onicomicosis
+T8	Laboratory_Procedure 71 75	SGOT
+T9	Laboratory_Procedure 83 87	SGPT
+T1	Laboratory_or_Test_Result 50 70	p. hepatica alterada
+T7	Abbreviation 50 51	p

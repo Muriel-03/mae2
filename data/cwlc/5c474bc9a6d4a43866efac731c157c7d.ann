@@ -1,0 +1,6 @@
+T1	Abbreviation 30 33	APS
+T2	Abbreviation 35 39	pcte
+T3	Disease 2 6	ASMA
+T5	Sign_or_Symptom 53 67	tos recurrente
+T6	Sign_or_Symptom 129 134	algia
+A1	Negated T6

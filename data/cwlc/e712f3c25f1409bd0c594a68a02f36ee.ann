@@ -1,0 +1,7 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Disease 27 48	Periodontitis crónica
+T3	Disease 113 131	Desdentada parcial
+T4	Clinical_Finding 133 160	sin antecedentes sistémicos
+T5	Sign_or_Symptom 50 70	perdida de inserción
+T6	Sign_or_Symptom 72 91	sangrado al sondaje
+T7	Sign_or_Symptom 93 111	movilidad dentaria

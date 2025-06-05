@@ -1,0 +1,6 @@
+T1	Abbreviation 44 47	APS
+T2	Disease 2 20	DESDENTADO PARCIAL
+T3	Disease 58 101	desdento total superior y  parcial inferior
+T4	Sign_or_Symptom 168 179	desajustada
+T5	Therapeutic_Procedure 121 147	pròtesis parcial removible
+A1	Pending T5

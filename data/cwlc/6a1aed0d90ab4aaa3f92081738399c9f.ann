@@ -1,0 +1,9 @@
+T1	Abbreviation 34 38	ADAC
+T2	Abbreviation 248 250	VI
+T3	Body_Part 46 56	Diente 1.4
+T4	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T5	Disease 61 83	absceso apical crónico
+T6	Medication 197 216	hidróxido de calcio
+T7	Sign_or_Symptom 87 113	gran destrucción coronaria
+T8	Therapeutic_Procedure 126 137	trepanación
+T9	Clinical_Finding 221 264	restauración provisoria de VI de autocurado

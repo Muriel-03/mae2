@@ -1,0 +1,6 @@
+T1	Abbreviation 61 64	TTO
+T2	Disease 0 36	DESDENTADA TOTAL SUPERIOR E INFERIOR
+T3	Disease 113 125	CA. PULMONAR
+T4	Therapeutic_Procedure 61 76	TTO.N PROTESICO
+T5	Abbreviation 113 115	CA
+A1	Pending T4

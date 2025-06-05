@@ -1,0 +1,10 @@
+T1	Abbreviation 17 21	ATMS
+T2	Abbreviation 24 27	OBS
+T3	Abbreviation 87 90	ATM
+T4	Body_Part 17 21	ATMS
+T5	Body_Part 87 90	ATM
+T6	Diagnostic_Procedure 77 86	CONE BEAM
+T7	Sign_or_Symptom 28 39	CREPITACION
+T8	Sign_or_Symptom 41 46	RUIDO
+T9	Sign_or_Symptom 49 65	DOLOR ESPORADICO
+T10	Disease 91 129	DISFUNCION TEMPOROMANDIBULAR BILATERAL

@@ -1,0 +1,11 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 99 102	HTA
+T3	Abbreviation 105 108	DM2
+T4	Abbreviation 109 112	NIR
+T5	Abbreviation 169 174	APROX
+T6	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T7	Disease 99 102	HTA
+T8	Disease 105 108	DM2
+T10	Clinical_Finding 230 246	OTOSCOPIA NORMAL
+T11	Sign_or_Symptom 143 163	HIPOACUSIA BILATERAL
+T12	Sign_or_Symptom 195 202	TINITUS

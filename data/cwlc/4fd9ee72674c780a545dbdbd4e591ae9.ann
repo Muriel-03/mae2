@@ -1,0 +1,7 @@
+T1	Body_Part 23 30	molares
+T2	Clinical_Finding 0 10	embarazada
+T3	Sign_or_Symptom 23 57	molares con movilidad grado i y ii
+T4	Sign_or_Symptom 63 73	recesiones
+T5	Therapeutic_Procedure 82 93	destartraje
+A1	Negated T4
+T6	Therapeutic_Procedure 95 117	instruccion de higiene

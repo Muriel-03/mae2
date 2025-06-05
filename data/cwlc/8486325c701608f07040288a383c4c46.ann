@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	pieza 2.4
+T2	Disease 10 28	fractura radicular
+T3	Laboratory_or_Test_Result 10 41	fractura radicular en 13 apical
+T4	Sign_or_Symptom 43 62	movilidad grado lll
+T5	Sign_or_Symptom 64 86	dolor a la masticacion
+T6	Therapeutic_Procedure 100 109	exodoncia
+T7	Body_Part 32 41	13 apical
+A1	Pending T6

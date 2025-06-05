@@ -1,0 +1,7 @@
+T1	Body_Part 0 8	Pieza 19
+T2	Disease 34 40	caries
+T3	Body_Part 120 129	periapice
+T5	Body_Part 103 112	conductos
+T6	Laboratory_or_Test_Result 0 136	Pieza 19 : obturación oclusal con caries recidivante ocluso distal extensa, profunda, cámara estrecha, conductos finos, periapice normal
+T4	Clinical_Finding 120 136	periapice normal
+T7	Body_Part 86 92	cámara

@@ -1,0 +1,8 @@
+T1	Abbreviation 60 65	pmcfa
+T2	Body_Part 0 6	P. 2.3
+T3	Body_Part 48 53	pieza
+T4	Disease 11 28	caries penetrante
+T5	Laboratory_or_Test_Result 11 28	caries penetrante
+T6	Medication 60 65	pmcfa
+T7	Therapeutic_Procedure 30 41	trepanacion
+T8	Abbreviation 0 1	P

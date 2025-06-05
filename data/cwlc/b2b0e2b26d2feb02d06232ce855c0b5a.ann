@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	OBS
+T2	Abbreviation 43 46	DM2
+T3	Abbreviation 71 74	HTA
+T4	Abbreviation 117 120	TTO
+T5	Abbreviation 122 127	ANTEC
+T6	Body_Part 14 30	ARTERIAS RENALES
+T7	Disease 4 30	ESTEROSIS ARTERIAS RENALES
+T8	Disease 43 46	DM2
+T9	Disease 71 74	HTA
+T10	Disease 90 113	DISLIPIDEMIA MIXTA LEVE
+T11	Therapeutic_Procedure 128 143	STENT CORONARIO

@@ -1,0 +1,5 @@
+T1	Body_Part 9 29	denticion definitiva
+T2	Clinical_Finding 9 38	denticion definitiva completa
+T3	Sign_or_Symptom 40 55	Clase III molar
+T4	Sign_or_Symptom 57 79	desviacion linea media
+T5	Disease 82 102	apinamiento dentario

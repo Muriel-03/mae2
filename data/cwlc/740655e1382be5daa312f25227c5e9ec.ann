@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	pcte
+T2	Body_Part 36 45	pieza 1.4
+T3	Sign_or_Symptom 25 45	perdida de pieza 1.4
+T4	Therapeutic_Procedure 96 104	IMPLANTE
+A1	Pending T4

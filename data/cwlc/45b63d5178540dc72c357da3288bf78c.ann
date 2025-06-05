@@ -1,0 +1,35 @@
+T1	Abbreviation 110 113	APS
+T2	Abbreviation 124 129	ANTEC
+T3	Abbreviation 133 136	HTA
+T4	Abbreviation 139 142	DLP
+T5	Abbreviation 147 150	TTO
+T6	Abbreviation 187 190	AAS
+T7	Abbreviation 218 221	EXS
+T8	Abbreviation 234 238	PSCV
+T9	Abbreviation 263 266	RAC
+T10	Abbreviation 272 276	CREA
+T11	Abbreviation 284 287	VFG
+T12	Abbreviation 293 295	EX
+T13	Abbreviation 311 316	COL T
+T14	Abbreviation 323 326	HDL
+T15	Abbreviation 332 335	LDL
+T16	Abbreviation 342 345	TGC
+T17	Disease 2 33	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T18	Disease 38 50	DISLIPIDEMIA
+T19	Disease 54 86	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T20	Disease 133 136	HTA
+T21	Disease 139 142	DLP
+T22	Laboratory_or_Test_Result 303 309	NORMAL
+T23	Laboratory_Procedure 248 256	GLICEMIA
+T24	Laboratory_Procedure 263 266	RAC
+T25	Laboratory_Procedure 272 276	CREA
+T26	Laboratory_Procedure 284 287	VFG
+T27	Laboratory_Procedure 293 301	EX ORINA
+T28	Laboratory_Procedure 311 316	COL T
+T29	Laboratory_Procedure 323 326	HDL
+T30	Laboratory_Procedure 332 335	LDL
+T31	Laboratory_Procedure 342 345	TGC
+T32	Medication 155 163	LOSARTAN
+T33	Medication 170 182	NITRENDIPINO
+T34	Medication 187 190	AAS
+R1	Has Arg1:T27 Arg2:T22	

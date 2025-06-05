@@ -1,0 +1,11 @@
+T1	Abbreviation 120 122	rx
+T2	Abbreviation 136 139	SIC
+T3	Abbreviation 197 200	SIC
+T4	Abbreviation 337 340	SIC
+T5	Body_Part 63 71	diente 4
+T6	Body_Part 315 321	diente
+T7	Diagnostic_Procedure 120 122	rx
+T8	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T9	Sign_or_Symptom 187 192	dolor
+T10	Therapeutic_Procedure 48 59	trepanación
+T11	Therapeutic_Procedure 281 291	irrigación

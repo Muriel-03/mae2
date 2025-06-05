@@ -1,0 +1,5 @@
+T1	Body_Part 0 17	DIENTE NARVERO 13
+T2	Therapeutic_Procedure 36 46	EXTRACCION
+T3	Therapeutic_Procedure 70 107	PROTESIS FIJA UNITARIA SOBRE IMPLANTE
+A1	Pending T3
+A2	Pending T2

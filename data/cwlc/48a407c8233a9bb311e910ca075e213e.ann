@@ -1,0 +1,9 @@
+T1	Abbreviation 19 23	pzas
+T2	Abbreviation 38 41	pza
+T3	Abbreviation 63 67	pzas
+T4	Body_Part 19 37	pzas 1-15-21-29-30
+T5	Body_Part 38 44	pza 17
+T6	Body_Part 63 75	pzas 25 y 26
+T7	Disease 0 18	restos radiculares
+T9	Disease 44 62	caries penetrantes
+T10	Laboratory_or_Test_Result 38 62	pza 17caries penetrantes

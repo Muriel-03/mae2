@@ -1,0 +1,7 @@
+T3	Abbreviation 80 82	rx
+T5	Body_Part 115 120	tibia
+T6	Diagnostic_Procedure 80 82	rx
+T7	Disease 0 25	genuvaro artr sico severo
+T8	Laboratory_or_Test_Result 83 120	positiva sublusaci n lateral de tibia
+T1	Sign_or_Symptom 45 64	Geraligia bilateral
+R1	Has Arg1:T6 Arg2:T8	

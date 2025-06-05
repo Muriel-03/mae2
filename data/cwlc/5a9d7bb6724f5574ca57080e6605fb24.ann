@@ -1,0 +1,7 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 49 52	pza
+T3	Body_Part 49 56	pza 7 8
+T4	Body_Part 120 127	dientes
+T5	Disease 2 20	DESDENTADO PARCIAL
+T6	Disease 82 158	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Sign_or_Symptom 61 81	perdida de insersion

@@ -1,0 +1,5 @@
+T1	Body_Part 0 9	pieza 2.4
+T2	Clinical_Finding 10 34	tratada endodónticamente
+T3	Disease 37 63	fractura coronaria extensa
+T4	Therapeutic_Procedure 80 117	rehabilitación mediante protesis fija
+A1	Pending T4

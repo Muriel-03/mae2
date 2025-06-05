@@ -1,0 +1,6 @@
+T2	Abbreviation 205 209	atte
+T3	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T7	Sign_or_Symptom 58 78	hipoacusia izquierda
+T8	Sign_or_Symptom 107 126	tinitus ipsilateral
+T9	Sign_or_Symptom 142 155	tapon cerumen
+A1	Negated T9

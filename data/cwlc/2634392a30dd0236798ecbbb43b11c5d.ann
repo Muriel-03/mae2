@@ -1,0 +1,13 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 105 108	dte
+T3	Body_Part 2 9	DIENTES
+T4	Body_Part 105 112	dte 3.8
+T5	Body_Part 129 132	4.8
+T6	Body_Part 159 166	Dientes
+T7	Disease 2 19	DIENTES INCLUIDOS
+T8	Disease 159 176	Dientes incluidos
+T9	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T10	Laboratory_or_Test_Result 105 157	dte 3.8 semi-incluido y 4.8 semi-incluido, impactado
+T12	Therapeutic_Procedure 95 104	exodoncia
+A1	Pending T12
+T13	Laboratory_or_Test_Result 159 176	Dientes incluidos

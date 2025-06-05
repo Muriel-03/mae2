@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 148 166	caninos inferiores
+T3	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T4	Disease 122 142	maloclusión dentaria
+T6	Disease 179 214	Maloclusion de tipo no especificado
+T7	Sign_or_Symptom 148 177	caninos inferiores  ectópicos
+T8	Therapeutic_Procedure 79 105	tratamiento  de Ortodoncia
+A1	Pending T8

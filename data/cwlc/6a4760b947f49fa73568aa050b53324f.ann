@@ -1,0 +1,11 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 91 95	pzas
+T3	Abbreviation 120 123	dte
+T4	Abbreviation 137 141	mand
+T5	Body_Part 91 95	pzas
+T6	Body_Part 120 126	dte 27
+T8	Medication 24 36	bifosfonatos
+T9	Sign_or_Symptom 163 192	protesis removible inestable.
+T10	Therapeutic_Procedure 39 51	radioterapia
+A1	Pending T10
+T7	Body_Part 137 141	mand

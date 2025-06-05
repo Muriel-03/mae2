@@ -1,0 +1,12 @@
+T1	Abbreviation 90 93	pza
+T3	Abbreviation 149 152	pza
+T5	Body_Part 90 110	pza. 1.2 , 2.2 y 2.4
+T6	Body_Part 149 157	pza. 4.5
+T7	Disease 41 52	apiñamiento
+T9	Clinical_Finding 9 27	clase I esqueletal
+T12	Sign_or_Symptom 41 70	apiñamiento moderado superior
+T13	Sign_or_Symptom 72 110	mordida vis a vis pza. 1.2 , 2.2 y 2.4
+T14	Sign_or_Symptom 111 140	overjet y oversite disminuido
+T16	Laboratory_or_Test_Result 141 157	agencia pza. 4.5
+T17	Clinical_Finding 28 40	braquifacial
+T2	Disease 141 148	agencia

@@ -1,0 +1,26 @@
+T1	Abbreviation 296 299	ECG
+T2	Abbreviation 338 341	TAC
+T3	Abbreviation 616 622	cesfam
+T4	Abbreviation 670 673	ECG
+T5	Abbreviation 714 717	BEG
+T6	Diagnostic_Procedure 296 299	ECG
+T7	Diagnostic_Procedure 301 319	Holter de arritmia
+T8	Diagnostic_Procedure 321 335	Ecocardiograma
+T9	Diagnostic_Procedure 338 341	TAC
+T10	Diagnostic_Procedure 670 673	ECG
+T12	Disease 207 225	traumatismo facial
+T13	Family_Member 143 148	padre
+T14	Clinical_Finding 714 717	BEG
+T15	Clinical_Finding 741 766	examen neurológico normal
+T17	Laboratory_or_Test_Result 681 697	sin alteraciones
+T18	Sign_or_Symptom 45 73	pérdida brusca de conciencia
+T20	Sign_or_Symptom 730 739	molestias
+T11	Sign_or_Symptom 189 194	caída
+T16	Laboratory_or_Test_Result 422 438	sin alteraciones
+R1	Has Arg1:T6 Arg2:T16	
+R2	Has Arg1:T7 Arg2:T16	
+R3	Has Arg1:T8 Arg2:T16	
+R4	Has Arg1:T9 Arg2:T16	
+T21	Clinical_Finding 531 585	no refiere síntomas previos a la pérdida de conciencia
+R5	Has Arg1:T10 Arg2:T17	
+A1	Negated T20

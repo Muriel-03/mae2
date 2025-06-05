@@ -1,0 +1,10 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 99 102	ATM
+T3	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T4	Body_Part 99 112	ATM izquierda
+T5	Body_Part 173 200	articulacion temporomaxilar
+T6	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T7	Disease 156 200	Trastornos de la articulacion temporomaxilar
+T8	Sign_or_Symptom 90 123	dolor en ATM izquierda en función
+T9	Sign_or_Symptom 125 137	laterognacia
+T10	Sign_or_Symptom 139 155	mordida cruzada.

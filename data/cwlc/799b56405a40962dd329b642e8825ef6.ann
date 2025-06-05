@@ -1,0 +1,6 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Body_Part 138 161	zona inferior de glande
+T3	Body_Part 164 180	frenillo de pene
+T4	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T7	Sign_or_Symptom 89 180	persistencia de adherencias balanoprepuciales en zona inferior de glande y frenillo de pene
+T6	Clinical_Finding 68 78	Tanner 1-2

@@ -1,0 +1,12 @@
+T1	Abbreviation 29 33	1era
+T2	Abbreviation 58 59	p
+T3	Body_Part 13 22	denticion
+T4	Body_Part 58 64	p. 2.2
+T5	Body_Part 84 111	primeros molares temporales
+T6	Body_Part 132 140	grupo II
+T7	Disease 49 57	agenesia
+T8	Disease 113 124	apiñamiento
+T9	Clinical_Finding 13 38	denticion mixta 1era fase
+T10	Laboratory_or_Test_Result 49 64	agenesia p. 2.2
+T12	Sign_or_Symptom 66 111	perdida prematura primeros molares temporales
+T13	Sign_or_Symptom 113 140	apiñamiento severo grupo II

@@ -1,0 +1,6 @@
+T1	Body_Part 61 68	pieza 6
+T2	Body_Part 85 91	diente
+T3	Therapeutic_Procedure 32 57	tratamiento de endodoncia
+T4	Therapeutic_Procedure 113 131	protesis removible
+A1	Pending T3
+A2	Pending T4

@@ -1,0 +1,11 @@
+T1	Abbreviation 83 87	dent
+T2	Abbreviation 94 97	1ra
+T3	Abbreviation 192 194	mm
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 160 187	succión digital).  Overbite
+T6	Clinical_Finding 77 81	sana
+T7	Clinical_Finding 83 102	dent mixta 1ra fase
+T8	Sign_or_Symptom 112 136	mordida abierta anterior
+T9	Sign_or_Symptom 148 176	mal hábito (succión digital)
+T11	Sign_or_Symptom 179 194	Overbite - 5 mm
+T12	Body_Part 83 87	dent

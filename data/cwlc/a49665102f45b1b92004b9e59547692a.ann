@@ -1,0 +1,10 @@
+T1	Abbreviation 198 202	REab
+T2	Body_Part 178 193	piezas dentales
+T3	Disease 13 54	periodontitis crónica moderada (marginal)
+T7	Sign_or_Symptom 167 208	perdida de piezas dentales por REab. Osea
+T8	Therapeutic_Procedure 103 129	destrartraje supragingival
+T9	Therapeutic_Procedure 265 288	tratamiento periodontal
+A1	Pending T9
+T4	Body_Part 143 152	sextantes
+T5	Clinical_Finding 210 248	Se indica uso de cepillo interproximal
+T6	Clinical_Finding 67 100	enseñanza de técnica de cepillado

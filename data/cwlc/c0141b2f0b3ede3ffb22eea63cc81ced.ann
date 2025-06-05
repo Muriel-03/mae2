@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 140 143	Izq
+T3	Abbreviation 156 158	mm
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 160 208	Anomalias dentofaciales (incluso la maloclusion)
+T6	Clinical_Finding 95 116	clase I molar derecha
+T7	Sign_or_Symptom 131 143	clase II Izq
+T8	Sign_or_Symptom 145 158	Overjet +5 mm
+T9	Abbreviation 153 154	+

@@ -1,0 +1,13 @@
+T1	Abbreviation 47 50	ant
+T2	Abbreviation 268 271	aps
+T3	Body_Part 173 189	region umbilical
+T4	Body_Part 346 353	ombligo
+T5	Disease 2 18	HERNIA UMBILICAL
+T6	Disease 54 71	hernia incisional
+T7	Disease 223 253	hernia umbilical no complicada
+T8	Sign_or_Symptom 144 151	vomitos
+T9	Sign_or_Symptom 154 189	salida de masa por region umbilical
+T10	Sign_or_Symptom 368 390	signos de complicacion
+T11	Sign_or_Symptom 106 131	dolorabdominal recurrente
+A1	Negated T10
+T12	Sign_or_Symptom 312 353	salida de contenido abdominal por ombligo

@@ -1,0 +1,9 @@
+T1	Abbreviation 52 55	APS
+T2	Disease 2 28	TRASTORNO AFECTIVO BIPOLAR
+T3	Sign_or_Symptom 87 106	labilidad emocional
+T4	Sign_or_Symptom 108 121	irritabilidad
+T5	Sign_or_Symptom 123 149	aumento de enrgia nocturna
+T6	Sign_or_Symptom 177 207	alteracion ciclo sueño vigilia
+T7	Sign_or_Symptom 209 232	alucinaciones auditivas
+T8	Sign_or_Symptom 234 255	alucinaciones tactile
+T9	Sign_or_Symptom 70 85	animo depresivo

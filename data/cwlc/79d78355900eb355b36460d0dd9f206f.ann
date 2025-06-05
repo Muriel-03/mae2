@@ -1,0 +1,10 @@
+T1	Abbreviation 46 49	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 184 189	pulpa
+T4	Disease 2 22	NECROSIS DE LA PULPA
+T5	Disease 153 168	necrosis pulpar
+T6	Disease 169 189	Necrosis de la pulpa
+T7	Laboratory_or_Test_Result 51 64	lesion apical
+T8	Medication 139 151	antibioticos
+T9	Sign_or_Symptom 66 92	no responde a test de frio
+T10	Sign_or_Symptom 94 151	aumento de volumen vestibular controlado con antibioticos

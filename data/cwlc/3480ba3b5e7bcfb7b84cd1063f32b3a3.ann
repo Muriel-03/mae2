@@ -1,0 +1,5 @@
+T1	Abbreviation 98 101	TTO
+T2	Disease 18 29	APIÑAMIENTO
+T3	Sign_or_Symptom 18 45	APIÑAMIENTO SECTOR ANTERIOR
+T4	Sign_or_Symptom 46 65	AUSENCIA DE ESPACIO
+T5	Therapeutic_Procedure 98 101	TTO

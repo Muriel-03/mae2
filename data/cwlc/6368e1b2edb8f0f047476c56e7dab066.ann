@@ -1,0 +1,8 @@
+T1	Abbreviation 0 2	DG
+T2	Abbreviation 4 7	DTE
+T3	Abbreviation 113 116	TTO
+T4	Body_Part 4 14	DTE 4.6 19
+T5	Body_Part 52 58	DIENTE
+T6	Clinical_Finding 20 48	TERAPIA PREVIAMENTE INICIADA
+T7	Therapeutic_Procedure 113 127	TTO ENDODONCIA
+T8	Clinical_Finding 52 76	DIENTE  PERMANENTE JOVEN

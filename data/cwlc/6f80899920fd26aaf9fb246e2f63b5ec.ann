@@ -1,0 +1,13 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 137 139	Dr
+T3	Abbreviation 149 152	HRC
+T4	Abbreviation 185 188	HRC
+T5	Abbreviation 250 253	HRC
+T6	Body_Part 20 25	COLON
+T7	Body_Part 40 45	ciego
+T8	Body_Part 97 102	Colon
+T9	Diagnostic_Procedure 314 326	colonoscopia
+T10	Disease 2 36	TUMOR MALIGNO DEL COLON ASCENDENTE
+T11	Disease 87 102	Cancer de Colon
+T12	Disease 36 45	Tu  ciego
+A1	Pending T9

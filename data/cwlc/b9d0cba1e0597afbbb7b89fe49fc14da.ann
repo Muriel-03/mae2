@@ -1,0 +1,10 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 146 150	PMCF
+T3	Body_Part 109 115	Pz 2,4
+T4	Disease 2 15	CARIES DENTAL
+T6	Clinical_Finding 153 169	cemento temporal
+T7	Disease 171 184	Caries dental
+T8	Medication 146 150	PMCF
+T9	Therapeutic_Procedure 127 169	se deja motita con PMCF y cemento temporal
+T5	Abbreviation 109 111	Pz
+T10	Clinical_Finding 116 125	trepanada

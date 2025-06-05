@@ -1,0 +1,10 @@
+T1	Abbreviation 40 43	HTA
+T2	Abbreviation 44 47	OBS
+T3	Abbreviation 95 98	OBS
+T4	Abbreviation 140 143	DRA
+T5	Disease 0 22	NODULO TIROIDEO SOLIDO
+T6	Disease 23 37	HIPOTIROIDISMO
+T7	Disease 40 43	HTA
+T8	Diagnostic_Procedure 87 94	PUNCION
+A1	Pending T8
+T9	Laboratory_or_Test_Result 0 22	NODULO TIROIDEO SOLIDO

@@ -1,0 +1,78 @@
+T1	Abbreviation 123 125	RM
+T2	Abbreviation 620 623	DIC
+T3	Abbreviation 642 644	EX
+T4	Abbreviation 648 651	LAB
+T5	Abbreviation 683 687	RCTO
+T6	Abbreviation 712 716	HCTO
+T7	Abbreviation 723 725	HB
+T8	Abbreviation 732 735	WBC
+T9	Abbreviation 745 749	RCTO
+T10	Abbreviation 770 773	VHS
+T11	Abbreviation 823 825	NU
+T13	Abbreviation 853 856	COL
+T14	Abbreviation 870 873	HDL
+T15	Abbreviation 885 888	LDL
+T16	Abbreviation 893 894	P
+T17	Abbreviation 906 908	BI
+T18	Abbreviation 921 923	BI
+T19	Abbreviation 938 941	GOT
+T20	Abbreviation 946 949	GPT
+T21	Abbreviation 954 957	GGT
+T22	Abbreviation 962 964	FA
+T23	Abbreviation 970 973	PSA
+T24	Abbreviation 1010 1013	ELP
+T26	Abbreviation 1048 1051	TSH
+T27	Abbreviation 1096 1097	+
+T28	Abbreviation 1113 1115	MG
+T29	Abbreviation 1131 1132	+
+T30	Abbreviation 1152 1153	+
+T31	Disease 2 11	EPILEPSIA
+T32	Disease 15 47	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T33	Disease 51 89	DEFECTOS CUALITATIVOS DE LAS PLAQUETAS
+T34	Disease 123 125	RM
+T35	Disease 140 150	MENINGITIS
+T36	Disease 152 170	CRISIS EPILEPTICAS
+T38	Disease 554 575	CONVULSION EPILEPTICA
+T39	Disease 593 609	PARALISIS FACIAL
+T40	Family_Member 398 405	HERMANO
+T41	Laboratory_or_Test_Result 667 700	ALTERACIONES EN RCTO DE PLAQUETAS
+T42	Laboratory_or_Test_Result 777 793	CELULAS NORMALES
+T44	Laboratory_Procedure 642 651	EX DE LAB
+T46	Laboratory_Procedure 712 716	HCTO
+T47	Laboratory_Procedure 723 725	HB
+T48	Laboratory_Procedure 732 735	WBC
+T49	Laboratory_Procedure 753 762	PLAQUETAS
+T50	Laboratory_Procedure 770 773	VHS
+T51	Laboratory_Procedure 797 803	FROTIS
+T52	Laboratory_Procedure 806 816	CREATININA
+T53	Laboratory_Procedure 823 825	NU
+T54	Laboratory_Procedure 830 836	UREMIA
+T55	Laboratory_Procedure 843 852	PLPIDIICO
+T56	Laboratory_Procedure 853 862	COL TOTAL
+T57	Laboratory_Procedure 870 873	HDL
+T58	Laboratory_Procedure 885 888	LDL
+T59	Laboratory_Procedure 893 904	P HEPATICAS
+T60	Laboratory_Procedure 906 914	BI TOTAL
+T61	Laboratory_Procedure 921 931	BI DIRECTA
+T62	Laboratory_Procedure 938 941	GOT
+T63	Laboratory_Procedure 946 949	GPT
+T64	Laboratory_Procedure 954 957	GGT
+T65	Laboratory_Procedure 962 964	FA
+T66	Laboratory_Procedure 970 973	PSA
+T67	Laboratory_Procedure 980 1003	NIVELES DE FENOBARBITAL
+T68	Laboratory_Procedure 1014 1019	SODIO
+T69	Laboratory_Procedure 1025 1030	CLORO
+T70	Laboratory_Procedure 1035 1042	POTASIO
+T71	Laboratory_Procedure 1048 1051	TSH
+T72	Medication 284 296	FENOBARBITAL
+T73	Medication 300 315	ACIDO VALPROICO
+T74	Medication 516 528	FENOBARBITAL
+T75	Medication 991 1003	FENOBARBITAL
+T76	Medication 1078 1090	FENOBARBITAL
+T77	Medication 1098 1108	CLONAZEPAM
+T78	Medication 1133 1145	NITRENDIPINO
+T79	Medication 1154 1170	HIDRCLOROTIAZIDA
+T80	Sign_or_Symptom 201 218	CRISIS CONVULSIVA
+R1	Has Arg1:T44 Arg2:T41	
+R2	Has Arg1:T51 Arg2:T42	
+T37	Abbreviation 843 844	P

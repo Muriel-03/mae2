@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	dentición
+T2	Body_Part 104 121	canino inferiores
+T3	Disease 29 35	caries
+T4	Clinical_Finding 0 23	dentición mixta 1° fase
+T5	Sign_or_Symptom 37 74	protrusión dentaria incisiva superior
+T6	Sign_or_Symptom 79 121	ausencia de espacio para canino inferiores
+A1	Negated T3

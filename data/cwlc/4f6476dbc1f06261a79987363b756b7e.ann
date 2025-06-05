@@ -1,0 +1,8 @@
+T1	Abbreviation 0 4	Pcte
+T2	Body_Part 153 160	maxilar
+T3	Disease 81 126	Desdentado total superior y parcial inferior.
+T4	Clinical_Finding 139 161	protesis solo maxilar.
+T5	Therapeutic_Procedure 15 39	rehabilitación protésica
+T6	Therapeutic_Procedure 174 218	rehabilitación protesis maxilar y mandibular
+A1	Pending T5
+A2	Pending T6

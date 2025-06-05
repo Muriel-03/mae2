@@ -1,0 +1,39 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 69 74	Antec
+T3	Abbreviation 79 81	DM
+T4	Abbreviation 82 85	NIR
+T5	Abbreviation 107 109	MC
+T6	Abbreviation 195 198	tto
+T7	Abbreviation 357 360	Abd
+T8	Abbreviation 408 411	RHA
+T9	Abbreviation 412 413	+
+T10	Abbreviation 467 470	EDA
+T11	Abbreviation 471 472	+
+T12	Abbreviation 473 476	Eco
+T13	Abbreviation 477 480	abd
+T14	Abbreviation 665 668	TTO
+T15	Body_Part 357 360	Abd
+T16	Body_Part 386 406	hemiabdomen superior
+T18	Diagnostic_Procedure 467 470	EDA
+T19	Diagnostic_Procedure 473 480	Eco abd
+T20	Disease 2 40	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO
+T21	Disease 79 81	DM
+T22	Disease 670 708	Enfermedad del reflujo gastroesofagico
+T23	Medication 526 537	Aerogastrol
+T24	Medication 539 549	simeticona
+T25	Medication 552 567	clordiazepóxido
+T26	Medication 570 584	metoclopramida
+T27	Sign_or_Symptom 118 143	dolor epigástrico crónico
+T28	Sign_or_Symptom 200 234	deposiciones todos los días, duras
+T30	Sign_or_Symptom 244 282	dolor aumenta con alimentos irritantes
+T31	Sign_or_Symptom 298 318	personalidad ansiosa
+T32	Sign_or_Symptom 321 355	dolor aumenta en periodo de estrés
+T33	Sign_or_Symptom 357 372	Abd. distendido
+T34	Sign_or_Symptom 374 406	sensible en hemiabdomen superior
+T35	Clinical_Finding 408 413	RHA +
+T36	Clinical_Finding 415 425	Blumberg -
+T37	Clinical_Finding 87 105	Colecistectomizada
+T38	Sign_or_Symptom 179 198	sin respuesta a tto
+T29	Abbreviation 424 425	-
+A1	Pending T18
+A2	Pending T19

@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 28 31	PZA
+T3	Body_Part 0 8	PZA. 4.8
+T4	Body_Part 28 36	PZA. 3.8
+T7	Laboratory_or_Test_Result 0 26	PZA. 4.8 INCLUIDO VERTICAL
+T8	Laboratory_or_Test_Result 28 67	PZA. 3.8 SEMIINCLUIDO POSICION VERTICAL
+T5	Clinical_Finding 73 102	ANTECEDENTES DE PERICORONARIO

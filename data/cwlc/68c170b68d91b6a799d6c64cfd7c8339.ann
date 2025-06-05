@@ -1,0 +1,8 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 49 52	PCT
+T3	Disease 2 20	GINGIVITIS CRÓNICA
+T4	Disease 110 128	GINGIVITIS CRONICA
+T5	Disease 165 183	Gingivitis cronica
+T6	Therapeutic_Procedure 140 164	TRATANMIENTO PERIODONTAL
+T7	Sign_or_Symptom 70 96	CALCULAR A NIVEL RADICULAR
+A1	Pending T6

@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	Pza
+T2	Abbreviation 51 55	PMCF
+T3	Body_Part 0 7	Pza 2.4
+T4	Body_Part 106 115	pieza 2.4
+T5	Disease 9 26	caries penetrante
+T6	Clinical_Finding 58 64	fermin
+T7	Laboratory_or_Test_Result 9 26	caries penetrante
+T8	Medication 51 55	PMCF
+T10	Therapeutic_Procedure 28 37	trepanada
+T11	Therapeutic_Procedure 78 99	tratamiento radicular
+A1	Pending T11

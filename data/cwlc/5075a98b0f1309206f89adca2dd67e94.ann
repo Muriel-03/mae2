@@ -1,0 +1,14 @@
+T1	Abbreviation 19 22	IRC
+T3	Disease 0 3	R13
+T4	Disease 4 12	DISFAGIA
+T5	Disease 19 22	IRC
+T6	Sign_or_Symptom 38 54	DISFAGIA  LOGICA
+T7	Sign_or_Symptom 4 12	DISFAGIA
+T8	Disease 103 115	DESNUTRICION
+T2	Laboratory_Procedure 61 67	UREICO
+T9	Laboratory_Procedure 70 78	ALBUMINA
+T10	Laboratory_Procedure 82 89	FOSFORO
+T11	Laboratory_or_Test_Result 91 96	BAJOS
+R1	Has Arg1:T2 Arg2:T11	
+R2	Has Arg1:T9 Arg2:T11	
+R3	Has Arg1:T10 Arg2:T11	

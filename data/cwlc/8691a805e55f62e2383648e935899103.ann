@@ -1,0 +1,11 @@
+T1	Abbreviation 21 24	pta
+T2	Abbreviation 70 72	Rx
+T3	Body_Part 73 78	cavum
+T4	Body_Part 98 107	adenoides
+T5	Diagnostic_Procedure 70 78	Rx cavum
+T6	Disease 79 107	Hipertrofia de las adenoides
+T7	Sign_or_Symptom 0 19	Ronca en las noches
+T8	Sign_or_Symptom 25 31	apneas
+T9	Sign_or_Symptom 41 63	despertares frecuentes
+T10	Laboratory_or_Test_Result 79 107	Hipertrofia de las adenoides
+R1	Has Arg1:T5 Arg2:T10	

@@ -1,0 +1,8 @@
+T1	Abbreviation 81 84	tto
+T2	Body_Part 2 7	PIEZA
+T3	Body_Part 108 117	diente 29
+T4	Therapeutic_Procedure 81 96	tto endodóntico
+T5	Therapeutic_Procedure 131 154	irrigación y medicación
+T6	Clinical_Finding 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T7	Clinical_Finding 32 64	Tratamiento endodóntico iniciado
+A1	Pending T4

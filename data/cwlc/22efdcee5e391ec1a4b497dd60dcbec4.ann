@@ -1,0 +1,14 @@
+T1	Abbreviation 73 76	APS
+T2	Abbreviation 78 82	PCTE
+T3	Abbreviation 100 103	PZA
+T4	Body_Part 2 9	DIENTES
+T5	Body_Part 100 106	PZA 17
+T6	Body_Part 205 212	Dientes
+T7	Disease 2 19	DIENTES INCLUIDOS
+T8	Disease 23 49	CARIES DENTINARIA PROFUNDA
+T9	Disease 124 151	CARIES PROFUNDA SINTOMATICA
+T10	Disease 205 222	Dientes incluidos
+T12	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T13	Laboratory_or_Test_Result 23 49	CARIES DENTINARIA PROFUNDA
+T11	Sign_or_Symptom 100 119	PZA 17 SEMIRETENIDA
+T14	Laboratory_or_Test_Result 205 222	Dientes incluidos

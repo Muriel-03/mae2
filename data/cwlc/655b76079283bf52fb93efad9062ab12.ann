@@ -1,0 +1,7 @@
+T1	Abbreviation 63 66	APS
+T2	Body_Part 77 86	denticion
+T3	Body_Part 127 165	sector anterosuperior y anteroinferior
+T4	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T5	Disease 166 203	Anomalia dentofacial, no especificada
+T6	Clinical_Finding 77 105	denticion mixta primera fase
+T7	Sign_or_Symptom 107 165	falta de estacio en sector anterosuperior y anteroinferior

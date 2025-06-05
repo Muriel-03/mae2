@@ -1,0 +1,29 @@
+T1	Abbreviation 107 110	APS
+T2	Abbreviation 156 158	mq
+T3	Abbreviation 353 357	EESS
+T4	Abbreviation 435 440	aprox
+T5	Abbreviation 443 445	cm
+T6	Body_Part 20 37	TEJIDO CONJUNTIVO
+T7	Body_Part 47 62	TEJIDOS BLANDOS
+T8	Body_Part 209 223	muñeca derecha
+T9	Body_Part 245 257	articulacion
+T10	Body_Part 353 357	EESS
+T11	Body_Part 362 377	muñeca  derecha
+T12	Body_Part 519 524	dedos
+T13	Body_Part 608 625	tejido conjuntivo
+T14	Body_Part 635 650	tejidos blandos
+T15	Disease 2 62	OTROS TUMORES DEL TEJIDO CONJUNTIVO Y DE LOS TEJIDOS BLANDOS
+T16	Disease 67 82	Quiste Sinovial
+T17	Disease 590 650	Otros tumores del tejido conjuntivo y de los tejidos blandos
+T18	Clinical_Finding 144 158	antecedente mq
+T19	Clinical_Finding 164 171	alergia
+T20	Clinical_Finding 345 352	afebril
+T21	Sign_or_Symptom 200 223	dolor en muñeca derecha
+T22	Sign_or_Symptom 235 314	nodulo en articulacion que aparece hace 3 semana y a ido aumentado en el tiempo
+T23	Clinical_Finding 335 344	hidratada
+T25	Sign_or_Symptom 392 445	lesion de caracter nodular de bordes lisos aprox 2 cm
+T26	Sign_or_Symptom 447 524	adhereido a planos profundo y que se desplaza con la flexo-extension de dedos
+T27	Sign_or_Symptom 526 549	sensible a la palpacion
+T28	Abbreviation 62 65	OBS
+A1	Negated T18
+A2	Negated T19

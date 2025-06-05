@@ -1,0 +1,25 @@
+T1	Abbreviation 115 118	APS
+T2	Abbreviation 315 318	TEC
+T3	Abbreviation 528 532	TDAH
+T4	Abbreviation 539 542	DSM
+T5	Abbreviation 548 550	TR
+T6	Abbreviation 707 708	b
+T7	Abbreviation 789 790	c
+T8	Disease 2 16	HIPERACTIVIDAD
+T9	Disease 35 91	OTROS TRASTORNOS DEL DESARROLLO DEL HABLA Y DEL LENGUAJE
+T10	Disease 198 214	feto macrosomico
+T11	Disease 216 236	diabetes gestacional
+T12	Disease 315 318	TEC
+T13	Disease 334 349	fractura tibial
+T14	Disease 914 970	Otros trastornos del desarrollo del habla y del lenguaje
+T15	Sign_or_Symptom 557 578	signos de desatencion
+T16	Therapeutic_Procedure 183 196	parto cesaria
+T17	Disease 16 30	HIPERACTIVIDAD
+T18	Sign_or_Symptom 389 441	alteraciones del aprendisaje especifico del lenguaje
+T19	Sign_or_Symptom 447 482	reconocimiento total del abecedario
+A1	Negated T19
+T20	Disease 528 532	TDAH
+T21	Sign_or_Symptom 641 653	impulsibidad
+T22	Sign_or_Symptom 803 851	dificultades con respecto al rendimiento escolar
+T23	Clinical_Finding 145 164	buen estado general
+T24	Disease 623 637	hiperactividad

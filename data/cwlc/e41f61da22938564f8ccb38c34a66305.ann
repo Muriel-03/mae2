@@ -1,0 +1,20 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 120 123	SBO
+T3	Abbreviation 184 187	ITU
+T4	Abbreviation 221 224	HRC
+T5	Abbreviation 230 233	PCR
+T6	Abbreviation 284 287	TTO
+T7	Abbreviation 316 317	X
+T8	Abbreviation 459 462	ITU
+T9	Abbreviation 482 486	ATTE
+T10	Body_Part 15 29	VÍAS URINARIAS
+T11	Body_Part 501 515	vias urinarias
+T12	Disease 2 52	INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO
+T13	Disease 120 123	SBO
+T14	Disease 184 187	ITU
+T15	Disease 459 462	ITU
+T16	Disease 488 538	Infeccion de vias urinarias, sitio no especificado
+T17	Family_Member 137 142	MADRE
+T18	Laboratory_Procedure 230 233	PCR
+T19	Medication 304 315	CEFADROXILO
+T20	Sign_or_Symptom 238 244	FIEBRE

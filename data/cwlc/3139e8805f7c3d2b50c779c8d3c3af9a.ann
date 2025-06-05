@@ -1,0 +1,11 @@
+T1	Abbreviation 113 115	p.
+T2	Body_Part 42 51	Dentición
+T3	Body_Part 100 107	grupo V
+T4	Body_Part 113 123	p. 3.1-4.1
+T5	Disease 88 99	apiñamiento
+T6	Disease 113 144	p. 3.1-4.1 levemente extruídas.
+T7	Clinical_Finding 42 62	Dentición definitiva
+T8	Clinical_Finding 113 143	p. 3.1-4.1 levemente extruídas
+T9	Laboratory_or_Test_Result 113 143	p. 3.1-4.1 levemente extruídas
+T10	Sign_or_Symptom 88 107	apiñamiento grupo V
+T11	Sign_or_Symptom 113 144	p. 3.1-4.1 levemente extruídas.

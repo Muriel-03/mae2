@@ -1,0 +1,32 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 194 199	antec
+T3	Abbreviation 203 205	DM
+T4	Abbreviation 206 208	IR
+T5	Abbreviation 220 225	Hba1c
+T6	Abbreviation 231 234	HTA
+T7	Abbreviation 262 264	PA
+T8	Abbreviation 360 362	mg
+T9	Abbreviation 371 374	hrs
+T10	Abbreviation 390 392	mg
+T11	Abbreviation 426 428	Ex
+T12	Abbreviation 454 456	MP
+T13	Abbreviation 457 458	+
+T14	Abbreviation 459 462	SRA
+T15	Abbreviation 465 472	RR2TNAS
+T16	Body_Part 473 496	extremidades inferiores
+T17	Body_Part 533 540	rodilla
+T18	Disease 2 44	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA
+T19	Disease 203 205	DM
+T20	Disease 231 234	HTA
+T21	Disease 580 622	Insuficiencia venosa (cronica) (periferica
+T22	Clinical_Finding 465 472	RR2TNAS
+T23	Medication 278 288	nifedipino
+T24	Medication 348 356	losartan
+T25	Medication 376 386	furosemida
+T26	Sign_or_Symptom 121 188	edema progresivo sde tipo vespertino que cede con decubito y reposo
+T27	Sign_or_Symptom 418 424	edema.
+T31	Sign_or_Symptom 501 540	edema simetrico bilateral hasta rodilla
+T32	Sign_or_Symptom 542 550	indoloro
+T33	Sign_or_Symptom 552 579	pulsos distales simetricos.
+T34	Laboratory_Procedure 220 225	Hba1c
+T35	Clinical_Finding 454 462	MP + SRA

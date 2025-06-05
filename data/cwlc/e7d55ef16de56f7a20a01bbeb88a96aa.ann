@@ -1,0 +1,5 @@
+T1	Disease 0 27	Desdentada total bimaxilar.
+T3	Clinical_Finding 83 97	sana sistémica
+T4	Sign_or_Symptom 41 73	prótesis superior en mal estado.
+T5	Therapeutic_Procedure 126 149	tratamiento de prótesis
+A1	Pending T5

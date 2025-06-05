@@ -1,0 +1,7 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 82 84	pd
+T3	Body_Part 82 88	pd 1.1
+T4	Disease 5 23	desdentada parcial
+T5	Disease 25 76	periodontitis crónica generalizada moderada, severa
+T6	Sign_or_Symptom 93 112	movilidad aumentada
+T7	Sign_or_Symptom 113 122	migración

@@ -1,0 +1,12 @@
+T1	Abbreviation 46 49	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 69 79	diente 1.1
+T4	Body_Part 170 176	diente
+T5	Body_Part 182 187	pulpa
+T6	Body_Part 243 248	pulpa
+T7	Disease 2 22	NECROSIS DE LA PULPA
+T8	Disease 137 154	absceso submucoso
+T9	Disease 228 248	Necrosis de la pulpa
+T10	Laboratory_or_Test_Result 69 113	diente 1.1 con lesion radiolucida periapical
+T11	Therapeutic_Procedure 159 166	trepano
+T12	Sign_or_Symptom 179 197	la pulpa no sangró

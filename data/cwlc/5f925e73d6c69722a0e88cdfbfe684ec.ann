@@ -1,0 +1,12 @@
+T1	Abbreviation 72 74	DR
+T2	Abbreviation 84 86	OD
+T3	Abbreviation 94 95	X
+T4	Abbreviation 101 103	OI
+T5	Abbreviation 117 119	DP
+T7	Body_Part 54 58	OJOS
+T8	Body_Part 84 86	OD
+T9	Body_Part 101 103	OI
+T11	Disease 0 20	VICIOS DE REFRACCION
+T12	Disease 21 27	MIOPIA
+T13	Disease 32 44	ASTIGMATISMO
+T14	Diagnostic_Procedure 117 119	DP

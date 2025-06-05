@@ -1,0 +1,11 @@
+T1	Abbreviation 81 86	aprox
+T2	Abbreviation 90 92	mm
+T3	Abbreviation 125 130	aprox
+T4	Abbreviation 134 136	mm
+T5	Body_Part 156 165	pieza 2.2
+T6	Disease 0 47	anomalias dentofaciales (incluso la malocusion)
+T7	Disease 50 61	apiñamiento
+T8	Sign_or_Symptom 50 92	apiñamiento antero superior de aprox. 7 mm
+T9	Sign_or_Symptom 94 136	apiñamiento antero inferior de aprox. 5 mm
+T10	Sign_or_Symptom 138 165	mordida invertida pieza 2.2
+T11	Disease 94 105	apiñamiento

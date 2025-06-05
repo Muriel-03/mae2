@@ -1,0 +1,7 @@
+T1	Body_Part 20 26	Raices
+T2	Body_Part 29 45	Plexos Nerviosos
+T3	Body_Part 67 90	Discos Intervertebrales
+T4	Disease 0 45	Compresiones De Las Raices Y Plexos Nerviosos
+T5	Disease 49 90	Trastornos De Los Discos Intervertebrales
+T6	Disease 92 95	m50
+T7	Disease 96 99	m51

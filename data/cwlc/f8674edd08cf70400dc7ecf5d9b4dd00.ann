@@ -1,0 +1,21 @@
+T1	Abbreviation 20 24	PTVE
+T2	Abbreviation 31 33	RN
+T3	Abbreviation 39 42	GRS
+T4	Abbreviation 51 54	GRS
+T5	Abbreviation 85 88	FUR
+T6	Abbreviation 91 94	ECO
+T7	Abbreviation 124 127	HTA
+T8	Diagnostic_Procedure 91 94	ECO
+T9	Disease 124 127	HTA
+T10	Disease 130 138	DIABETES
+T11	Abbreviation 0 1	G
+T14	Clinical_Finding 56 64	EMBARAZO
+T16	Therapeutic_Procedure 9 16	FORCEPS
+T17	Therapeutic_Procedure 20 24	PTVE
+T18	Abbreviation 2 3	P
+T19	Abbreviation 4 5	A
+T20	Clinical_Finding 0 2	G3
+T21	Clinical_Finding 2 4	P2
+T22	Clinical_Finding 4 6	A0
+T12	Laboratory_or_Test_Result 56 64	EMBARAZO
+R1	Has Arg1:T8 Arg2:T12	

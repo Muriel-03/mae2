@@ -1,0 +1,5 @@
+T1	Body_Part 128 135	arcadas
+T2	Disease 9 34	desdentado total superior
+T3	Sign_or_Symptom 35 75	no portador de protesis parcial inferior
+T4	Therapeutic_Procedure 110 118	proetsis
+A1	Pending T4

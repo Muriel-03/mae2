@@ -1,0 +1,5 @@
+T1	Body_Part 65 88	piezas anterosuperiores
+T2	Disease 2 20	DESDENTADO PARCIAL
+T3	Disease 36 54	desdentado parcial
+T4	Sign_or_Symptom 56 88	falta de piezas anterosuperiores
+T5	Clinical_Finding 102 117	no usa protesis

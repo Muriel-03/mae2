@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 126 132	piezas
+T3	Body_Part 157 172	grupo II , y IV
+T4	Body_Part 211 218	dientes
+T5	Disease 2 20	DESDENTADO PARCIAL
+T6	Disease 49 87	desdentado parcial superior e inferior
+T7	Disease 173 249	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Sign_or_Symptom 96 117	dificultad para comer
+T9	Sign_or_Symptom 126 172	piezas remanentes pertenecen a grupo II , y IV

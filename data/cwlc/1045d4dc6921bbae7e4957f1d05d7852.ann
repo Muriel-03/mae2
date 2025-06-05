@@ -1,0 +1,11 @@
+T1	Abbreviation 49 52	IRC
+T2	Abbreviation 108 111	ECO
+T3	Diagnostic_Procedure 108 121	ECO ABDOMINAL
+T4	Disease 0 4	R160
+T5	Disease 5 48	HEPATOMEGALIA, NO CLASIFICADA EN OTRA PARTE
+T6	Disease 49 52	IRC
+T7	Laboratory_Procedure 88 105	PRUEBAS HEPATICAS
+T8	Laboratory_or_Test_Result 5 18	HEPATOMEGALIA
+R1	Has Arg1:T3 Arg2:T8	
+T9	Laboratory_or_Test_Result 65 75	ALTERACION
+R2	Has Arg1:T7 Arg2:T9	

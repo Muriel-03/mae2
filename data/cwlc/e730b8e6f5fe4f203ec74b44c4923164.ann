@@ -1,0 +1,13 @@
+T1	Abbreviation 101 103	DG
+T2	Abbreviation 182 184	GF
+T3	Abbreviation 188 190	ML
+T4	Abbreviation 191 194	MIN
+T5	Disease 0 4	E108
+T6	Disease 5 22	DIABETES MELLITUS
+T7	Disease 107 115	DIABETES
+T9	Disease 132 159	ENFERMEDAD RENAL SECUNDARIA
+T11	Disease 228 244	PSORIASIS SEVERA
+T12	Laboratory_Procedure 117 125	GLICEMIA
+T13	Laboratory_Procedure 164 174	CREATININA
+T14	Laboratory_Procedure 182 184	GF
+T10	Therapeutic_Procedure 248 260	PUVA TERAPIA

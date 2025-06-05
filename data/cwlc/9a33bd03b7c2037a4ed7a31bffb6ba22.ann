@@ -1,0 +1,10 @@
+T1	Abbreviation 94 96	CA
+T2	Body_Part 54 62	PROSTATA
+T3	Body_Part 85 93	próstata
+T4	Body_Part 126 134	estómago
+T5	Disease 0 10	Hipoacusia
+T6	Disease 13 40	Hipoacusia, no especificada
+T7	Disease 41 62	CANCER DE LA PROSTATA
+T8	Disease 65 93	Tumor maligno de la próstata
+T9	Disease 94 105	CA GASTRICO
+T10	Disease 108 157	Tumor maligno del estómago, parte no especificada

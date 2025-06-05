@@ -1,0 +1,10 @@
+T1	Abbreviation 32 35	pza
+T2	Abbreviation 158 161	PFU
+T3	Body_Part 0 5	pieza
+T4	Body_Part 32 37	pza 5
+T5	Clinical_Finding 0 30	pieza tratada endodonticamente
+T6	Laboratory_or_Test_Result 38 94	contratamiento  endodontico incompleto   y lesion apical
+T9	Therapeutic_Procedure 130 143	retratamiento
+T10	Therapeutic_Procedure 158 161	PFU
+A1	Pending T9
+A2	Pending T10

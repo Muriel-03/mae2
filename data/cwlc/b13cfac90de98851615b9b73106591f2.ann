@@ -1,0 +1,10 @@
+T1	Abbreviation 150 152	OD
+T2	Body_Part 16 25	pieza 3.5
+T3	Body_Part 54 63	pieza 3.5
+T4	Body_Part 65 70	Pieza
+T5	Body_Part 92 101	pieza 3.5
+T6	Disease 0 15	Necrosis pulpar
+T7	Disease 27 53	Periodontitis apical aguda
+T9	Medication 120 138	paramonoclorofenol
+T10	Therapeutic_Procedure 71 80	trepanada
+T8	Clinical_Finding 139 152	provisorio OD

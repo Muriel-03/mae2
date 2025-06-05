@@ -1,0 +1,10 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 157 159	OD
+T3	Abbreviation 181 184	APS
+T4	Body_Part 102 105	1.5
+T5	Body_Part 200 207	dentina
+T6	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T7	Disease 110 144	pulpitis irreversible asintomática
+T8	Disease 150 156	caries
+T9	Disease 187 207	Caries de la dentina
+T11	Clinical_Finding 73 92	sistemicamente sana

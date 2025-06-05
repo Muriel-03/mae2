@@ -1,0 +1,13 @@
+T1	Abbreviation 73 75	Dr
+T2	Abbreviation 92 97	Antec
+T3	Abbreviation 99 102	HTA
+T4	Abbreviation 106 109	tto
+T5	Abbreviation 114 117	LST
+T6	Abbreviation 123 126	FRS
+T7	Abbreviation 130 133	NTP
+T8	Body_Part 35 41	frente
+T9	Disease 13 31	cancer basocelular
+T10	Disease 99 102	HTA
+T11	Medication 114 117	LST
+T12	Medication 123 126	FRS
+T13	Medication 130 133	NTP

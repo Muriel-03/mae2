@@ -1,0 +1,8 @@
+T1	Abbreviation 124 125	+
+T2	Abbreviation 125 129	pmcf
+T3	Body_Part 0 10	Diente 2.1
+T5	Clinical_Finding 15 55	terapia endodontica previamente iniciada
+T6	Medication 125 129	pmcf
+T7	Sign_or_Symptom 57 77	Dolor a la percusión
+T4	Therapeutic_Procedure 82 129	re-instrumenta el canal y se deja con mota+pmcf
+T8	Body_Part 100 105	canal

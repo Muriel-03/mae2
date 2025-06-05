@@ -1,0 +1,10 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 175 178	obv
+T3	Abbreviation 201 204	izq
+T4	Body_Part 46 58	MUCOSA BUCAL
+T5	Body_Part 182 204	reborde mandibular izq
+T6	Disease 2 58	OTRAS LESIONES Y LAS NO ESPECIFICADAS DE LA MUCOSA BUCAL
+T7	Disease 96 114	desdentada parcial
+T8	Disease 249 255	ulcera
+T9	Clinical_Finding 130 152	protesis en mal estado
+T11	Sign_or_Symptom 207 233	lesion blanca de la mucosa

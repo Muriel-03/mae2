@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 43 46	PZA
+T3	Abbreviation 81 83	RX
+T4	Body_Part 0 7	PZA 4.4
+T5	Body_Part 43 50	PZA 4.5
+T6	Body_Part 95 104	4.4 Y 4.5
+T7	Diagnostic_Procedure 81 94	RX PERIAPICAL
+T8	Disease 8 41	PULPITIS IRREVERSIBLE SINTOMATICA
+T9	Disease 51 79	PERIODONTITIS APICAL CRONICA

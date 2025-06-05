@@ -1,0 +1,8 @@
+T1	Body_Part 57 71	labio superior
+T2	Disease 104 115	apiñamiento
+T3	Clinical_Finding 9 34	clase I facial mesofacial
+T4	Clinical_Finding 154 177	clase I molar bilateral
+T5	Sign_or_Symptom 35 77	incompetyencia labial labio superior corto
+T6	Sign_or_Symptom 78 103	protusion antero superior
+T7	Sign_or_Symptom 104 133	apiñamiento moderado inferior
+T8	Sign_or_Symptom 134 151	averget aumentado

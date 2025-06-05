@@ -1,0 +1,33 @@
+T1	Abbreviation 132 134	mm
+T2	Abbreviation 135 140	aprox
+T3	Abbreviation 189 191	Rx
+T4	Abbreviation 217 219	Rx
+T5	Abbreviation 278 281	p.d
+T6	Abbreviation 325 327	pd
+T7	Body_Part 87 94	Paladar
+T8	Body_Part 142 151	Dentición
+T9	Body_Part 163 166	4.5
+T10	Body_Part 169 172	4.7
+T11	Body_Part 192 195	4.5
+T12	Body_Part 198 201	4.7
+T13	Body_Part 220 223	4.5
+T14	Body_Part 278 285	p.d 4.7
+T15	Body_Part 325 331	pd 4.7
+T16	Body_Part 374 383	molar 4.6
+T17	Diagnostic_Procedure 189 191	Rx
+T18	Diagnostic_Procedure 217 219	Rx
+T19	Disease 299 308	impactada
+T20	Disease 345 354	impactada
+T21	Clinical_Finding 142 188	Dentición definitiva 4.5 y 4.7 no erupcionadas
+T22	Laboratory_or_Test_Result 220 276	4.5 evolución evolución extraosea, con leve distoversion
+T23	Laboratory_or_Test_Result 278 324	p.d 4.7 mesioversion impactada en distoversion
+T24	Laboratory_or_Test_Result 325 383	pd 4.7 mesioversion impactada en distcervical de molar 4.6
+T25	Sign_or_Symptom 15 54	mordida cruzada y distooclusion derecha
+T26	Clinical_Finding 56 85	neutrooclusion lado izquierdo
+T27	Sign_or_Symptom 87 103	Paladar profundo
+T28	Sign_or_Symptom 105 140	Mordida abierta anterior 3 mm aprox
+R1	Has Arg1:T17 Arg2:T22	
+R2	Has Arg1:T17 Arg2:T23	
+R3	Has Arg1:T17 Arg2:T24	
+T29	Laboratory_or_Test_Result 192 216	4.5 y 4.7 no erucionadas
+R4	Has Arg1:T17 Arg2:T29	

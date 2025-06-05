@@ -1,0 +1,16 @@
+T1	Abbreviation 95 98	dte
+T2	Abbreviation 126 129	dte
+T3	Abbreviation 150 153	dte
+T4	Body_Part 31 37	DIENTE
+T5	Body_Part 41 49	diente 1
+T6	Body_Part 95 101	dte 18
+T7	Body_Part 126 132	dte 17
+T8	Body_Part 150 159	dte 17-32
+T9	Body_Part 199 226	hemiarcada superior derecha
+T10	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T11	Clinical_Finding 150 172	dte 17-32 erupcionados
+T12	Laboratory_or_Test_Result 41 93	diente 1 erupcionado, caries dentinaria penetratante
+T13	Laboratory_or_Test_Result 95 132	dte 18 incluido e impactando a dte 17
+T16	Sign_or_Symptom 190 226	dolor en hemiarcada superior derecha
+T17	Disease 63 93	caries dentinaria penetratante
+T18	Disease 102 123	incluido e impactando

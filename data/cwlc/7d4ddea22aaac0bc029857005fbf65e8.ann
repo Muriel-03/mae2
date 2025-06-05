@@ -1,0 +1,9 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 76 83	ANTECED
+T3	Body_Part 2 21	FRENILLO SUBLINGUAL
+T4	Body_Part 102 118	FRENILLO LINGUAL
+T5	Body_Part 168 185	papilas linguales
+T8	Clinical_Finding 72 91	SIN ANTECED MEDICOS
+T9	Sign_or_Symptom 2 27	FRENILLO SUBLINGUAL CORTO
+T10	Sign_or_Symptom 102 124	FRENILLO LINGUAL CORTO
+T6	Disease 149 185	Hipertrofia de las papilas linguales

@@ -1,0 +1,13 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 62 68	G2P2A0
+T3	Abbreviation 78 81	ACO
+T4	Abbreviation 83 86	OBS
+T5	Disease 2 33	ATENCIÓN PARA LA ANTICONCEPCIÓN
+T6	Disease 101 132	Atencion para la anticoncepcion
+T8	Clinical_Finding 62 64	G2
+T9	Medication 78 81	ACO
+T10	Therapeutic_Procedure 19 33	ANTICONCEPCIÓN
+T7	Clinical_Finding 64 66	P2
+T11	Clinical_Finding 66 68	A0
+T12	Disease 88 92	ACNÉ
+T13	Sign_or_Symptom 88 100	ACNÉ PAPULAR

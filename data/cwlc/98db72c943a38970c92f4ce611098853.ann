@@ -1,0 +1,9 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 155 159	oido
+T3	Disease 2 19	CERUMEN IMPACTADO
+T4	Disease 91 118	cerumen impactado bilateral
+T5	Disease 161 178	Cerumen impactado
+T6	Sign_or_Symptom 61 68	tinitus
+T7	Sign_or_Symptom 70 75	mareo
+T8	Therapeutic_Procedure 145 159	lavado de oido
+A1	Pending T8

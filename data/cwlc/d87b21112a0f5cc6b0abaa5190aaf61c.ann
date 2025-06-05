@@ -1,0 +1,9 @@
+T1	Abbreviation 42 45	SUP
+T2	Abbreviation 48 51	INF
+T3	Body_Part 25 51	TERCEROS MOLARES SUP E INF
+T4	Body_Part 91 98	Dientes
+T5	Disease 52 90	INCLUIDOS. INFERIORES EN MESIOVERSIÓN.
+T6	Disease 91 108	Dientes incluidos
+T7	Laboratory_or_Test_Result 52 90	INCLUIDOS. INFERIORES EN MESIOVERSIÓN.
+T8	Therapeutic_Procedure 12 21	EXODONCIA
+A1	Pending T8

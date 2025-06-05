@@ -1,0 +1,13 @@
+T1	Abbreviation 19 22	TTO
+T2	Abbreviation 37 41	PZA.
+T3	Body_Part 37 45	PZA. 2.8
+T4	Body_Part 64 67	4.8
+T5	Body_Part 142 158	TERCEROS MOLARES
+T6	Body_Part 160 167	Dientes
+T9	Disease 160 177	Dientes incluidos
+T11	Laboratory_or_Test_Result 37 94	PZA. 2.8 (POSICIÓN ALTA) Y 4.8 (MESIOINCLINADA) INCLUIDAS
+T13	Therapeutic_Procedure 19 34	TTO ORTODÓNCICO
+T14	Therapeutic_Procedure 131 141	EXODONCIAS
+A1	Pending T13
+A2	Pending T14
+T7	Laboratory_or_Test_Result 160 177	Dientes incluidos

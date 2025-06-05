@@ -1,0 +1,16 @@
+T1	Abbreviation 227 230	CMF
+T2	Body_Part 50 55	PULPA
+T3	Body_Part 62 79	TEJIDO PERIAPICAL
+T4	Body_Part 86 95	Diente 10
+T5	Body_Part 155 160	ápice
+T6	Body_Part 170 176	diente
+T7	Disease 2 79	OTRAS ENFERMEDADES Y LAS NO ESPECIFICADAS DE LA PULPA Y DEL TEJIDO PERIAPICAL
+T8	Clinical_Finding 97 106	trepanado
+T9	Therapeutic_Procedure 97 106	trepanado
+T10	Therapeutic_Procedure 116 125	exodoncia
+T11	Therapeutic_Procedure 189 200	trepanación
+T12	Therapeutic_Procedure 210 230	procedimiento de CMF
+T13	Therapeutic_Procedure 248 273	reirrigación y medicación
+A1	Pending T10
+T14	Disease 129 143	supranumerario
+A2	Pending T12

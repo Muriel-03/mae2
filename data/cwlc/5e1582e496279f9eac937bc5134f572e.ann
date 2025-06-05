@@ -1,0 +1,8 @@
+T1	Body_Part 72 81	pieza 1.1
+T2	Disease 84 95	Apiñamiento
+T3	Disease 123 134	Apiñamiento
+T4	Clinical_Finding 2 23	Clase I molar derecha
+T5	Sign_or_Symptom 25 51	clase III molar izquierda.
+T6	Sign_or_Symptom 54 81	Mordida invertida pieza 1.1
+T7	Sign_or_Symptom 84 120	Apiñamiento moderado anteroinferior.
+T8	Sign_or_Symptom 123 158	Apiñamiento moderado anterosuperior

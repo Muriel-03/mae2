@@ -1,0 +1,11 @@
+T1	Abbreviation 30 33	DIC
+T2	Abbreviation 54 56	++
+T3	Abbreviation 101 104	FEB
+T4	Disease 0 4	K590
+T5	Disease 5 17	CONSTIPACION
+T6	Disease 18 26	FECALOMA
+T7	Disease 73 76	ITU
+T8	Sign_or_Symptom 40 53	ESCURRIMIENTO
+T9	Medication 69 72	PEG
+T10	Abbreviation 73 76	ITU
+T11	Abbreviation 69 72	PEG

@@ -1,0 +1,11 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 62 64	DM
+T3	Abbreviation 65 66	+
+T4	Disease 2 18	HERNIA UMBILICAL
+T5	Disease 62 64	DM
+T6	Disease 67 88	Daño Hepatico Cronico
+T7	Sign_or_Symptom 90 97	ascitis
+T8	Disease 221 237	Hernia umbilical
+T9	Sign_or_Symptom 109 148	aumento de volumen umbilical reductible
+T10	Sign_or_Symptom 154 176	signos de complicacion
+A1	Negated T10

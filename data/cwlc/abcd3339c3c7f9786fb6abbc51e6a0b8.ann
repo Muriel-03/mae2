@@ -1,0 +1,10 @@
+T1	Abbreviation 11 14	pza
+T2	Abbreviation 31 34	pza
+T3	Body_Part 11 17	pza 30
+T4	Body_Part 31 37	pza 30
+T5	Disease 39 57	caries penetrantes
+T6	Disease 94 110	granuloma apical
+T7	Laboratory_or_Test_Result 39 57	caries penetrantes
+T8	Laboratory_or_Test_Result 60 110	lesion osea apical compatible con granuloma apical
+T10	Therapeutic_Procedure 0 10	endodoncia
+A1	Pending T10

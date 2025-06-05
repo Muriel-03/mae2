@@ -1,0 +1,16 @@
+T1	Abbreviation 69 72	obs
+T2	Abbreviation 128 131	APS
+T3	Abbreviation 259 262	ITU
+T4	Body_Part 2 10	PREPUCIO
+T5	Body_Part 47 55	Prepucio
+T6	Body_Part 73 82	testiculo
+T7	Body_Part 179 187	prepucio
+T8	Body_Part 201 210	testiculo
+T9	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T13	Disease 259 262	ITU
+T14	Sign_or_Symptom 47 66	Prepucio redundante
+T15	Sign_or_Symptom 73 104	testiculo en ascensor izquierdo
+T16	Sign_or_Symptom 179 198	prepucio redundante
+T10	Sign_or_Symptom 201 232	testiculo en ascensor izquierdo
+T11	Sign_or_Symptom 259 275	ITU a repeticion
+T12	Therapeutic_Procedure 317 327	profilaxis

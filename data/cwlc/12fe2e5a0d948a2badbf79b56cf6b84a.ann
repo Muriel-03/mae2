@@ -1,0 +1,12 @@
+T1	Abbreviation 76 78	OM
+T2	Abbreviation 175 177	rx
+T3	Body_Part 35 43	Pieza 13
+T4	Body_Part 127 140	camara pulpar
+T5	Body_Part 240 252	pieza dental
+T6	Diagnostic_Procedure 175 177	rx
+T7	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T8	Disease 48 74	caries dentinaria profunda
+T9	Clinical_Finding 178 209	no se observa lesion periapical
+T10	Sign_or_Symptom 143 163	dolor a la percusion
+T11	Therapeutic_Procedure 222 233	trepanacion
+R1	Has Arg1:T6 Arg2:T9	

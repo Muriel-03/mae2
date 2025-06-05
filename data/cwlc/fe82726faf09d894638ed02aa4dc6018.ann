@@ -1,0 +1,15 @@
+T1	Abbreviation 0 2	SD
+T2	Abbreviation 28 30	SD
+T3	Abbreviation 51 54	DHE
+T4	Abbreviation 78 81	HTA
+T5	Abbreviation 88 90	FA
+T7	Disease 28 49	SD. CONFUSIONAL AGUDO
+T9	Disease 78 87	HTA.  AC.
+T10	Disease 88 103	FA. PAROXISTICA
+T11	Laboratory_or_Test_Result 28 55	SD. CONFUSIONAL AGUDO  DHE.
+T12	Laboratory_or_Test_Result 56 91	HIPOKALEMIA MODERADA  HTA.  AC. FA.
+T13	Medication 84 86	AC
+T14	Sign_or_Symptom 28 91	SD. CONFUSIONAL AGUDO  DHE. HIPOKALEMIA MODERADA  HTA.  AC. FA.
+T6	Laboratory_or_Test_Result 56 76	HIPOKALEMIA MODERADA
+T8	Abbreviation 84 86	AC
+T15	Disease 51 54	DHE

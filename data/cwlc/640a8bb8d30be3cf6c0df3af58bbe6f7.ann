@@ -1,0 +1,4 @@
+T1	Body_Part 53 69	tejido linfatico
+T2	Body_Part 78 101	organos hematopoyeticos
+T3	Body_Part 107 121	tejidos afines
+T4	Disease 0 139	Tumores de comportamiento incierto o desconocido del tejido linfatico, de los organos hematopoyeticos y de tejidos afines, no especificados

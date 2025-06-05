@@ -1,0 +1,11 @@
+T1	Abbreviation 77 80	APS
+T2	Abbreviation 169 174	ANEST
+T3	Body_Part 83 92	PIEZA 1.1
+T4	Disease 2 32	ABSCESO PERIAPICAL CON FÍSTULA
+T5	Disease 298 328	Absceso periapical con fistula
+T6	Medication 169 174	ANEST
+T7	Sign_or_Symptom 106 132	FISTULA A NIVEL VESTIBULAR
+T8	Therapeutic_Procedure 191 202	TREPANACION
+T9	Therapeutic_Procedure 243 253	ENDODONCIA
+A1	Pending T9
+T10	Clinical_Finding 138 157	OBTURACION PROFUNDA

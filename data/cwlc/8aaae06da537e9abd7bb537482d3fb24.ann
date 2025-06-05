@@ -1,0 +1,7 @@
+T1	Body_Part 26 34	pieza 14
+T2	Disease 93 121	caries dentinaria penetrante
+T3	Laboratory_or_Test_Result 93 121	caries dentinaria penetrante
+T4	Therapeutic_Procedure 52 77	tratamiento de endodoncia
+T5	Clinical_Finding 79 88	trepanada
+T6	Clinical_Finding 35 44	trepanada
+A1	Pending T4

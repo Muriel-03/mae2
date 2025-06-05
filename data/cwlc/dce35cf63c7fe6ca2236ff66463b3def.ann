@@ -1,0 +1,11 @@
+T1	Abbreviation 111 114	IAM
+T2	Abbreviation 116 118	CC
+T3	Abbreviation 121 125	CRVM
+T4	Abbreviation 131 133	3M
+T6	Disease 0 4	Z955
+T7	Disease 5 62	PRESENCIA DE ANGIOPLASTIA, INJERTOS Y PROTESIS CORONARIAS
+T8	Disease 111 114	IAM
+T9	Disease 116 118	CC
+T10	Therapeutic_Procedure 121 125	CRVM
+T11	Therapeutic_Procedure 18 30	ANGIOPLASTIA
+T12	Sign_or_Symptom 144 149	BOCIO

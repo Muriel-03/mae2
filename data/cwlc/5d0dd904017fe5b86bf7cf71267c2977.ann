@@ -1,0 +1,16 @@
+T1	Abbreviation 100 103	pza
+T2	Abbreviation 153 156	Pza
+T3	Abbreviation 202 205	1er
+T4	Body_Part 100 107	pza 1.1
+T5	Body_Part 118 122	raíz
+T6	Body_Part 144 151	grupo V
+T7	Body_Part 153 160	Pza 3.4
+T8	Sign_or_Symptom 191 225	Retraso en 1er periodo de recambio
+T9	Sign_or_Symptom 0 20	línea media desviada
+T10	Sign_or_Symptom 22 41	diastema en 1.1-2.1
+T11	Sign_or_Symptom 44 60	mordida cubierta
+T12	Sign_or_Symptom 62 84	curva de spee alterada
+T13	Sign_or_Symptom 86 116	fisionomía de pza 1.1 alterada
+T14	Sign_or_Symptom 118 131	raíz cóncava.
+T16	Disease 132 143	Apiñamiento
+T15	Laboratory_or_Test_Result 153 190	Pza 3.4 se observa rotada (intraósea)

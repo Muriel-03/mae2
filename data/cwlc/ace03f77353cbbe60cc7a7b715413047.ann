@@ -1,0 +1,10 @@
+T1	Abbreviation 9 12	pza
+T2	Abbreviation 55 59	pmcf
+T3	Body_Part 9 16	pza 2.4
+T4	Disease 0 8	Pulpitis
+T5	Clinical_Finding 62 68	fermin
+T6	Medication 55 59	pmcf
+T7	Therapeutic_Procedure 21 28	trepana
+T8	Therapeutic_Procedure 31 68	se deja con algodón con pmcf y fermin
+T9	Therapeutic_Procedure 82 99	terapia radicular
+A1	Pending T9

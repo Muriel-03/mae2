@@ -1,0 +1,34 @@
+T1	Abbreviation 100 103	APS
+T2	Abbreviation 114 117	HTA
+T3	Abbreviation 191 194	IAM
+T4	Abbreviation 273 277	IECA
+T5	Abbreviation 383 385	EX
+T6	Abbreviation 413 415	MP
+T7	Abbreviation 416 417	+
+T8	Abbreviation 433 437	RR2T
+T9	Abbreviation 458 462	EEII
+T10	Abbreviation 514 517	HTA
+T11	Body_Part 458 462	EEII
+T12	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T13	Disease 38 60	INSUFICIENCIA CARDÍACA
+T14	Disease 64 76	DISLIPIDEMIA
+T15	Disease 114 117	HTA
+T16	Disease 191 194	IAM
+T18	Disease 514 517	HTA
+T19	Disease 610 632	Insuficiencia cardiaca
+T21	Clinical_Finding 395 411	Yugulares planas
+T22	Clinical_Finding 433 456	RR2T, no ausculto soplo
+T23	Medication 273 277	IECA
+T24	Medication 279 290	betabloqueo
+T25	Medication 293 310	hidroclorotiazida
+T26	Medication 321 336	espironolactona
+T27	Medication 339 349	furosemida
+T33	Sign_or_Symptom 569 586	tinnitus aislados
+T34	Sign_or_Symptom 137 167	mal manejo de presión arterial
+T35	Diagnostic_Procedure 233 248	coronariografía
+T20	Clinical_Finding 413 431	MP +, sin crepitos
+T17	Clinical_Finding 458 472	EEII sin edema
+T28	Clinical_Finding 594 606	asintomático
+T29	Disease 523 546	emergencia hipertensiva
+A1	Negated T29
+T30	Body_Part 395 404	Yugulares

@@ -1,0 +1,6 @@
+T1	Body_Part 38 56	PIEZAS 1.8-2.8-3.8
+T2	Therapeutic_Procedure 11 36	EXTRACCION POR ORTODONCIA
+T3	Therapeutic_Procedure 91 100	EXODONCIA
+A1	Pending T2
+T4	Laboratory_or_Test_Result 38 69	PIEZAS 1.8-2.8-3.8 SEMINCLUIDAS
+A2	Pending T3

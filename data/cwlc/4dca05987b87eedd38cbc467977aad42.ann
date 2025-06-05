@@ -1,0 +1,10 @@
+T1	Abbreviation 27 31	PCTE
+T2	Abbreviation 47 50	APS
+T3	Abbreviation 102 105	TTO
+T4	Body_Part 118 125	GRUPO V
+T5	Disease 0 4	K053
+T6	Disease 5 26	PERIODONTITIS CRONICA
+T8	Therapeutic_Procedure 56 81	DESTARTRAJE SUPRAGINGIVAL
+T9	Therapeutic_Procedure 102 117	TTO PERIODONTAL
+A1	Pending T8
+A2	Pending T9

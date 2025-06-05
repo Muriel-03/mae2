@@ -1,0 +1,11 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 23 37	ORIFICIO NASAL
+T3	Body_Part 97 121	orificio nasal izquierdo
+T4	Body_Part 228 242	orificio nasal
+T5	Disease 2 37	CUERPO EXTRAÑO EN EL ORIFICIO NASAL
+T6	Sign_or_Symptom 127 157	no logra salir con aspiración.
+T7	Sign_or_Symptom 162 184	signos de complicación
+T8	Sign_or_Symptom 190 206	edema periférico
+T9	Sign_or_Symptom 79 121	balin plástico en orificio nasal izquierdo
+A1	Negated T7
+T10	Disease 207 242	Cuerpo extraño en el orificio nasal

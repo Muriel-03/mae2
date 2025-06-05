@@ -1,0 +1,14 @@
+T1	Abbreviation 99 102	APS
+T2	Body_Part 21 26	PULPA
+T3	Body_Part 71 83	MUCOSA BUCAL
+T4	Disease 2 56	ENFERMEDADES DE LA PULPA Y DE LOS TEJIDOS PARIAPICALES
+T5	Disease 121 140	SÍNDROME DE SJÖGREN
+T6	Medication 305 313	Losartán
+T7	Medication 315 325	Nifedipino
+T8	Medication 327 335	Aspirina
+T9	Medication 338 349	Osteoartrit
+T10	Sign_or_Symptom 142 147	ardor
+T11	Sign_or_Symptom 150 164	sequedad bucal
+T12	Sign_or_Symptom 237 252	sequedad ocular
+T13	Medication 270 277	gotitas
+T14	Body_Part 36 56	TEJIDOS PARIAPICALES

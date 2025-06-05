@@ -1,0 +1,15 @@
+T1	Abbreviation 68 71	APS
+T2	Body_Part 2 10	PREPUCIO
+T3	Body_Part 106 110	pene
+T4	Body_Part 302 310	Prepucio
+T5	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T6	Disease 130 137	fimosis
+T7	Disease 237 248	parafimosis
+T8	Disease 302 344	Prepucio redundante, fimosis y parafimosis
+T9	Family_Member 193 198	Madre
+T10	Sign_or_Symptom 96 110	lesion en pene
+T11	Sign_or_Symptom 173 191	quistes de esmegma
+T12	Sign_or_Symptom 130 137	fimosis
+T13	Sign_or_Symptom 143 171	adherencia balanoprepuciales
+T14	Therapeutic_Procedure 278 299	resolucion quirurgica
+A1	Pending T14

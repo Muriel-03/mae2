@@ -1,0 +1,10 @@
+T1	Disease 99 113	CANCER MAMARIO
+T2	Family_Member 89 94	MADRE
+T3	Clinical_Finding 47 49	A0
+T5	Sign_or_Symptom 50 72	NODULO MAMARIO DERECHO
+T6	Abbreviation 42 43	G
+T7	Abbreviation 44 45	P
+T8	Clinical_Finding 42 44	G1
+T9	Clinical_Finding 44 46	P1
+T10	Abbreviation 47 48	A
+R1	Has Arg1:T2 Arg2:T1	

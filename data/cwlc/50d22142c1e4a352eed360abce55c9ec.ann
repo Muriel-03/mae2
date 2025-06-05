@@ -1,0 +1,7 @@
+T1	Abbreviation 71 74	APS
+T2	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T3	Disease 34 47	CARIES DENTAL
+T4	Disease 213 229	infarto cerebral
+T5	Therapeutic_Procedure 94 114	multiples extraccion
+A1	Pending T5
+T6	Sign_or_Symptom 145 191	alto riesgo debido a sus antecedentes morbidos

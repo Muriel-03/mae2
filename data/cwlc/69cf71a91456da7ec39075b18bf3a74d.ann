@@ -1,0 +1,8 @@
+T1	Abbreviation 36 39	pza
+T2	Abbreviation 42 45	pza
+T3	Abbreviation 56 59	pza
+T4	Body_Part 36 41	pza 8
+T5	Body_Part 42 47	pza 9
+T6	Body_Part 56 61	pza 7
+T7	Disease 0 21	absceso dentoalveolar
+T8	Clinical_Finding 66 76	obturacion

@@ -1,0 +1,11 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 130 132	rx
+T3	Body_Part 82 92	diente 4.8
+T4	Body_Part 98 103	pulpa
+T5	Body_Part 159 170	raiz mesial
+T6	Diagnostic_Procedure 130 143	rx periapical
+T7	Disease 2 10	PULPITIS
+T8	Disease 57 78	pulpitis irreversible
+T10	Laboratory_or_Test_Result 159 178	raiz mesial curvada
+T12	Sign_or_Symptom 98 117	pulpa hipertrofica.
+R1	Has Arg1:T6 Arg2:T10	

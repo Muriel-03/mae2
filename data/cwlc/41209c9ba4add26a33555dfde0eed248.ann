@@ -1,0 +1,11 @@
+T1	Abbreviation 30 33	TTO
+T2	Abbreviation 70 72	TU
+T3	Body_Part 76 87	SILLA TURCA
+T4	Disease 12 26	HIPOTIROIDISMO
+T5	Disease 35 44	AMENORREA
+T6	Disease 53 61	OBESIDAD
+T7	Disease 70 87	TU DE SILLA TURCA
+T8	Clinical_Finding 0 9	NULIGESTA
+T9	Sign_or_Symptom 35 44	AMENORREA
+T10	Laboratory_or_Test_Result 70 87	TU DE SILLA TURCA
+T12	Therapeutic_Procedure 70 96	TU DE SILLA TURCA ,OPERADA

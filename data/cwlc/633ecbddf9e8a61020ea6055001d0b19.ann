@@ -1,0 +1,9 @@
+T1	Body_Part 50 60	diente 2.2
+T2	Disease 9 48	desdentada parcial superior en inferior
+T3	Disease 65 78	quiste apical
+T4	Therapeutic_Procedure 107 134	protesis inmediata superior
+T5	Therapeutic_Procedure 147 156	exodoncia
+T6	Therapeutic_Procedure 174 182	protesis
+A1	Pending T4
+A2	Pending T5
+A3	Pending T6

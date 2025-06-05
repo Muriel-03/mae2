@@ -1,0 +1,10 @@
+T1	Abbreviation 74 77	APS
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Disease 126 137	apiñamiento
+T4	Disease 232 280	Anomalias dentofaciales (incluso la maloclusion)
+T5	Clinical_Finding 88 114	Sin antecdentes sistemicos
+T6	Sign_or_Symptom 126 146	apiñamiento anterior
+T7	Sign_or_Symptom 149 176	saninos superiores elevados
+T8	Therapeutic_Procedure 204 229	tartamiento de ortodoncia
+T9	Body_Part 149 167	saninos superiores
+A1	Pending T8

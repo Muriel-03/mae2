@@ -1,0 +1,10 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 162 164	PA
+T3	Abbreviation 240 245	DMNIR
+T5	Disease 240 245	DMNIR
+T7	Clinical_Finding 2 47	ESTADOS MENOPÁUSICOS Y CLIMATÉRICOS FEMENINOS
+T8	Clinical_Finding 338 383	Estados menopausicos y climatericos femeninos
+T9	Sign_or_Symptom 140 164	aumento progresivo de PA
+T10	Sign_or_Symptom 167 238	sintomas neurovegetativos que limitan sus actividades de la vida diaria
+T4	Sign_or_Symptom 93 126	cese de mentruaciones hace un año
+T6	Disease 313 336	sindrome postclimaterio

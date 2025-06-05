@@ -1,0 +1,19 @@
+T1	Abbreviation 41 46	antec
+T2	Abbreviation 186 191	EEEII
+T3	Abbreviation 272 274	ex
+T4	Abbreviation 275 278	fco
+T5	Abbreviation 391 395	EEII
+T6	Body_Part 2 5	PIE
+T7	Body_Part 186 191	EEEII
+T8	Body_Part 194 197	pie
+T9	Body_Part 293 318	arco longitudinal del pie
+T10	Body_Part 331 334	pie
+T11	Body_Part 374 381	antepie
+T12	Body_Part 391 395	EEII
+T13	Disease 2 33	PIE PLANO PES PLANUS (ADQUIRIDO
+T14	Disease 61 86	hernia inguinal   derecha
+T15	Disease 194 203	pie plano
+T16	Sign_or_Symptom 176 203	asimetria EEEII y pie plano
+T17	Sign_or_Symptom 281 318	ausencia de arco longitudinal del pie
+T18	Sign_or_Symptom 351 437	desviacion grosera del antepie de ambas EEII  hacia interno que le dificulta la marcha
+T19	Therapeutic_Procedure 50 86	cirugia de hernia inguinal   derecha

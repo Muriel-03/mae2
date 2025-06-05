@@ -1,0 +1,6 @@
+T1	Diagnostic_Procedure 68 88	angiografia dinamica
+T2	Disease 105 127	atraapamiento arterial
+T3	Sign_or_Symptom 20 56	dolro bilateral d erodillas al mover
+T4	Laboratory_or_Test_Result 105 140	atraapamiento arterial, se descarto
+R1	Has Arg1:T1 Arg2:T4	
+T5	Body_Part 39 47	rodillas

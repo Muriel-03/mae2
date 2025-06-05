@@ -1,0 +1,8 @@
+T1	Abbreviation 0 5	PACTE
+T2	Abbreviation 52 55	TTO
+T3	Abbreviation 83 86	PZA
+T4	Body_Part 83 92	PZA 18-16
+T5	Disease 19 33	RETARDO MENTAL
+T6	Disease 39 48	EPILEPSIA
+T7	Disease 93 111	RESTOS RADICULARES
+T8	Sign_or_Symptom 70 82	DOLOR DENTAL

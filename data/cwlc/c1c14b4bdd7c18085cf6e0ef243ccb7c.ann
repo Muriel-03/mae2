@@ -1,0 +1,6 @@
+T1	Abbreviation 40 43	PZA
+T2	Body_Part 0 3	2.2
+T3	Body_Part 40 47	PZA 2.2
+T4	Diagnostic_Procedure 60 71	RADIOGRAFIA
+T5	Clinical_Finding 4 13	TREPANADA
+T7	Clinical_Finding 48 57	TREPANADA

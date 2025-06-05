@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 156 161	encia
+T3	Body_Part 229 236	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 58 76	desdentada parcial
+T6	Disease 191 267	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Sign_or_Symptom 78 106	clase II de kennedy superior
+T8	Sign_or_Symptom 109 133	clase II mod. 1 inferior
+T9	Sign_or_Symptom 144 189	dolor en la encia por ocluir con antagonista.

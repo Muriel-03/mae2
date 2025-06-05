@@ -1,0 +1,12 @@
+T1	Abbreviation 57 61	diag
+T2	Body_Part 86 101	dientes grupo I
+T3	Body_Part 204 226	dientes grupos I-III-V
+T4	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T5	Disease 66 85	absceso periodontal
+T7	Sign_or_Symptom 112 141	multiples sacos periodontales
+T8	Sign_or_Symptom 143 166	sangramiento al sondaje
+T9	Sign_or_Symptom 168 180	mala higiene
+T10	Sign_or_Symptom 183 226	movilidad patologica dientes grupos I-III-V
+T12	Sign_or_Symptom 228 271	acumulacion de depositos duros generalizado
+T13	Therapeutic_Procedure 301 324	tratamiento periodontal
+A1	Pending T13

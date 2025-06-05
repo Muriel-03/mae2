@@ -1,0 +1,7 @@
+T1	Abbreviation 53 58	insuf
+T2	Abbreviation 66 68	cr
+T3	Disease 0 28	deterioro cognitivo moderado
+T5	Disease 53 68	insuf renal  cr
+T6	Abbreviation 69 72	enf
+T7	Sign_or_Symptom 33 51	sintomas depresion
+T4	Disease 69 101	enf del sistema excito conductor

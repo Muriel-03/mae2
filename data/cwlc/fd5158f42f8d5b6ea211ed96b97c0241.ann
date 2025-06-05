@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 360 363	APS
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 109 118	pieza 3.3
+T5	Body_Part 487 493	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 458 493	Anomalias de la posicion del diente
+T8	Clinical_Finding 84 107	clase I Angle Bilateral
+T9	Sign_or_Symptom 109 138	pieza 3.3 en vestibuloversión
+T10	Therapeutic_Procedure 197 221	tratamieto de Ortodoncia

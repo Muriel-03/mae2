@@ -1,0 +1,12 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 99 102	PZA
+T3	Body_Part 99 104	PZA 4
+T4	Body_Part 240 247	dentina
+T5	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T6	Disease 83 98	CARIES PROFUNDA
+T7	Disease 227 247	Caries de la dentina
+T9	Medication 130 135	SUERO
+T10	Medication 149 160	FORMOCRESOL
+T11	Therapeutic_Procedure 109 116	TREPANA
+T8	Therapeutic_Procedure 119 134	IIRIGA CON SUER
+T12	Clinical_Finding 163 173	PROVISORIO

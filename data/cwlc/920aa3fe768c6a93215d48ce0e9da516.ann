@@ -1,0 +1,16 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 91 94	ant
+T3	Abbreviation 227 229	cm
+T4	Abbreviation 263 264	x
+T5	Abbreviation 279 282	aps
+T6	Body_Part 186 200	canal inguinal
+T7	Diagnostic_Procedure 119 141	ecotomografia inguinal
+T8	Disease 2 52	TUMOR BENIGNO LIPOMATOSO, DE SITIO NO ESPECIFICADO
+T9	Disease 98 104	lipoma
+T10	Disease 283 333	Tumor benigno lipomatoso, de sitio no especificado
+T11	Laboratory_or_Test_Result 157 168	lipoma puro
+T12	Therapeutic_Procedure 265 278	cirugia menor
+R1	Has Arg1:T7 Arg2:T11	
+T13	Disease 205 211	lipoma
+T14	Sign_or_Symptom 205 241	lipoma de al menos 8  cm superficial
+A1	Negated T12

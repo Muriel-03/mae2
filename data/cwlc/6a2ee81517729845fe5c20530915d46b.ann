@@ -1,0 +1,16 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 61 64	APP
+T3	Abbreviation 87 90	IZQ
+T4	Abbreviation 276 279	DR.
+T5	Abbreviation 321 325	MORB
+T6	Abbreviation 331 333	EX
+T7	Abbreviation 341 342	+
+T8	Body_Part 14 22	MENISCOS
+T10	Body_Part 412 420	meniscos
+T11	Disease 2 32	DESGARRO DE MENISCOS, PRESENTE
+T12	Disease 400 430	Desgarro de meniscos, presente
+T14	Clinical_Finding 309 316	ALERGIA
+T15	Sign_or_Symptom 78 90	GONALGIA IZQ
+T16	Sign_or_Symptom 173 237	DOLOR INFRAROTULIANO Y EN REGION MEDIAL  AUMENTA CON MOVIMIENTOS
+T17	Sign_or_Symptom 343 398	COMPROMISO MENISCAL INTERNO RANGO MOVIMIENTO DISMINUIDO
+A1	Negated T14

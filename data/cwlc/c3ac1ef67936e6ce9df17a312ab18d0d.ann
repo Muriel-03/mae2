@@ -1,0 +1,6 @@
+T1	Disease 9 47	desdentada parcial superior e inferior
+T3	Sign_or_Symptom 49 77	clase IV de Kennedy superior
+T4	Sign_or_Symptom 80 112	clase I modificación I inferior.
+T5	Clinical_Finding 113 129	Poliobturaciones
+T6	Therapeutic_Procedure 167 205	prótesis removible superior e inferior
+A1	Pending T6

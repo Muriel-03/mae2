@@ -1,0 +1,9 @@
+T1	Abbreviation 75 77	Ca
+T2	Abbreviation 233 236	UPM
+T3	Abbreviation 287 290	Dr.
+T4	Body_Part 40 44	MAMA
+T5	Body_Part 81 95	mama izquierda
+T6	Disease 2 44	HISTORIA PERSONAL DE TUMOR MALIGNO DE MAMA
+T7	Disease 75 95	Ca de mama izquierda
+T8	Therapeutic_Procedure 108 121	quimioterapia
+T9	Therapeutic_Procedure 124 136	radioterapia

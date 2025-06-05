@@ -1,0 +1,7 @@
+T1	Body_Part 97 105	pieza 12
+T2	Disease 9 47	desdentado parcial superior e inferior
+T3	Therapeutic_Procedure 85 93	implante
+A1	Pending T3
+T4	Therapeutic_Procedure 125 132	IMPANTE
+A2	Pending T4
+T5	Sign_or_Symptom 97 112	pieza 12ausente

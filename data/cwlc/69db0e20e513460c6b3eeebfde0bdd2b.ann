@@ -1,0 +1,11 @@
+T1	Body_Part 94 107	ojo izquierdo
+T2	Body_Part 193 197	ojos
+T3	Body_Part 211 224	ojo izquierdo
+T4	Disease 2 11	PRESBICIA
+T5	Disease 175 183	catarata
+T6	Family_Member 43 48	nieta
+T7	Therapeutic_Procedure 237 243	lentes
+T8	Sign_or_Symptom 85 107	dolor en ojo izquierdo
+T9	Sign_or_Symptom 125 146	lagrimeos recurrentes
+T10	Therapeutic_Procedure 164 183	operada de catarata
+T11	Sign_or_Symptom 237 277	lentes no le ayudan a mejorar sus vision

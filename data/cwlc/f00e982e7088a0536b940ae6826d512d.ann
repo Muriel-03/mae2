@@ -1,0 +1,7 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 46 49	Ant
+T3	Disease 2 17	HERNIA INGUINAL
+T4	Disease 53 78	hernia inguinal izquierda
+T5	Sign_or_Symptom 104 126	crecimiento progresivo
+T6	Sign_or_Symptom 132 153	incapacidad funcional
+T7	Sign_or_Symptom 154 211	dolor intenso actualmente de gran volumen pero reductible

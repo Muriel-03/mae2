@@ -1,0 +1,12 @@
+T1	Abbreviation 91 93	fx
+T2	Abbreviation 111 113	fx
+T3	Abbreviation 139 141	fx
+T4	Body_Part 24 42	region supraciliar
+T5	Body_Part 56 89	reborde suborbitario pared medial
+T6	Body_Part 94 109	arco cigomatico
+T7	Body_Part 142 146	seno
+T8	Sign_or_Symptom 0 42	herida contuso cortante region supraciliar
+T9	Disease 44 89	fractura de reborde suborbitario pared medial
+T10	Disease 91 109	fx arco cigomatico
+T11	Disease 111 137	fx orboitocigomatato malar
+T12	Disease 139 154	fx seno frontal

@@ -1,0 +1,8 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 62 78	piezas 1.8 y 3.8
+T3	Body_Part 140 146	piezas
+T4	Disease 2 15	CARIES DENTAL
+T5	Disease 83 109	caries dentinaria profunda
+T6	Disease 148 161	Caries dental
+T8	Therapeutic_Procedure 121 130	exodoncia
+A1	Pending T8

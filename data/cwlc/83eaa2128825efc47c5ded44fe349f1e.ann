@@ -1,0 +1,13 @@
+T1	Abbreviation 49 52	APS
+T2	Body_Part 168 186	molares temporales
+T3	Body_Part 189 198	pieza 6.1
+T4	Body_Part 244 253	pieza 8.5
+T5	Sign_or_Symptom 2 25	PACIENTE DIFICIL MANEJO
+T6	Disease 148 154	caries
+T7	Disease 234 240	caries
+T9	Clinical_Finding 63 90	sin antecedentes sistémicos
+T10	Clinical_Finding 92 104	sin alergias
+T11	Sign_or_Symptom 116 137	muy mala higiene oral
+T12	Sign_or_Symptom 200 214	dificil manejo
+T13	Therapeutic_Procedure 259 292	obtura con ionómero de autocurado
+T8	Sign_or_Symptom 148 186	caries en todos los molares temporales

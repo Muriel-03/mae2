@@ -1,0 +1,18 @@
+T1	Abbreviation 96 99	APS
+T2	Abbreviation 178 181	TSH
+T3	Abbreviation 200 202	ml
+T4	Abbreviation 346 349	eco
+T5	Body_Part 55 72	GLÁNDULA TIROIDES
+T6	Body_Part 275 281	nódulo
+T7	Body_Part 293 321	lóbulo izquierdo de tiroides
+T8	Body_Part 500 517	glandula tiroides
+T9	Diagnostic_Procedure 346 360	eco tomografía
+T10	Disease 2 72	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA GLÁNDULA TIROIDES
+T11	Disease 159 173	Hipotiroidismo
+T12	Disease 447 517	Tumor de comportamiento incierto o desconocido de la glandula tiroides
+T13	Laboratory_Procedure 178 181	TSH
+T14	Medication 226 238	levotiroxina
+T15	Sign_or_Symptom 269 321	palpa nódulo a nivel de lóbulo izquierdo de tiroides
+T16	Abbreviation 196 199	uUl
+T17	Abbreviation 245 247	mg
+A1	Pending T9

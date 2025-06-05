@@ -1,0 +1,9 @@
+T2	Abbreviation 75 78	PZA
+T3	Abbreviation 91 93	RX
+T4	Body_Part 75 80	PZA 6
+T5	Body_Part 105 110	PIEZA
+T6	Diagnostic_Procedure 91 93	RX
+T8	Sign_or_Symptom 105 124	PIEZA SEMI INCLUIDA
+T9	Sign_or_Symptom 9 26	CLASE 1ESQUELETAL
+T10	Sign_or_Symptom 51 80	DOLOR PAULATINO A NICEL PZA 6
+A1	Pending T6

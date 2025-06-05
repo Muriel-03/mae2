@@ -1,0 +1,5 @@
+T1	Body_Part 0 10	PIEZA  3.8
+T2	Disease 17 43	caries dentinaria profunda
+T3	Therapeutic_Procedure 101 111	extraccion
+T4	Laboratory_or_Test_Result 0 80	PIEZA  3.8  con  caries dentinaria profunda en  posicion  horizontal e impactada
+A1	Pending T3

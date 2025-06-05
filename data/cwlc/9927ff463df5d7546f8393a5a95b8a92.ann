@@ -1,0 +1,11 @@
+T1	Abbreviation 26 29	tac
+T2	Abbreviation 33 36	dab
+T3	Abbreviation 143 146	tac
+T4	Body_Part 39 45	pelvis
+T5	Diagnostic_Procedure 26 45	tac de dab y pelvis
+T6	Diagnostic_Procedure 143 146	tac
+T7	Disease 0 17	linda de hodgonin
+T8	Disease 65 83	infeccion urinarai
+T9	Disease 97 119	cololitiasis izquierda
+T10	Laboratory_or_Test_Result 149 188	no se descrive a deno patias reisidente
+R1	Has Arg1:T5 Arg2:T10	

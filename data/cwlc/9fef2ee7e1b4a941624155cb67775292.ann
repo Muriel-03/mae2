@@ -1,0 +1,10 @@
+T1	Abbreviation 52 55	APS
+T2	Disease 2 28	DEMENCIA , NO ESPECIFICADA
+T3	Disease 408 434	Demencia , no especificada
+T4	Sign_or_Symptom 110 153	desorientacion temporoespacial intermitente
+T5	Sign_or_Symptom 170 240	compromiso cualitativo de conciencia alternado con periodos de lucidez
+T6	Clinical_Finding 293 338	no se pesquisa debilidad neurologia ni motora
+T7	Sign_or_Symptom 351 360	temblores
+T8	Sign_or_Symptom 375 406	desorientiacion temporoespacial
+T9	Sign_or_Symptom 244 271	dependencia moderada-severa
+A2	Negated T7

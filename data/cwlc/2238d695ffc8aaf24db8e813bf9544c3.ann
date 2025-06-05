@@ -1,0 +1,7 @@
+T1	Abbreviation 85 86	+
+T2	Body_Part 35 54	clavicula izquierda
+T3	Sign_or_Symptom 0 5	caida
+T4	Disease 23 54	frcatura de clavicula izquierda
+T5	Therapeutic_Procedure 73 84	cabestrillo
+T6	Therapeutic_Procedure 87 102	vendaje en ocho
+T7	Therapeutic_Procedure 55 72	manejo ortopedico

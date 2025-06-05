@@ -1,0 +1,13 @@
+T1	Body_Part 112 129	dientes 1.2 y 2.2
+T2	Body_Part 230 237	paladar
+T3	Body_Part 246 256	Diente 2.3
+T4	Body_Part 291 301	diente 2.2
+T5	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T6	Clinical_Finding 177 214	clase molar de Angle tipo I izquierda
+T7	Sign_or_Symptom 46 92	Apiñamiento dentario anterosuperior e inferior
+T8	Sign_or_Symptom 94 111	mordida invertida
+T10	Sign_or_Symptom 132 174	linea media inferior desviada a la derecha
+T11	Sign_or_Symptom 217 227	II derecha
+T12	Sign_or_Symptom 230 244	paladar ojival
+T13	Sign_or_Symptom 246 301	Diente 2.3 erupcion ectopica en vestibular a diente 2.2
+T14	Disease 46 66	Apiñamiento dentario

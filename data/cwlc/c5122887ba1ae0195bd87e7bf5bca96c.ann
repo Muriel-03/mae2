@@ -1,0 +1,7 @@
+T1	Abbreviation 57 59	pz
+T3	Body_Part 57 64	pz. 1.2
+T4	Disease 9 47	desdentada parcial superior e inferior
+T9	Therapeutic_Procedure 83 92	exodoncia
+A1	Pending T9
+T2	Therapeutic_Procedure 156 164	prótesis
+A2	Pending T2

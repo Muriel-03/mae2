@@ -1,0 +1,13 @@
+T1	Abbreviation 39 43	Poli
+T2	Abbreviation 218 220	DG
+T3	Body_Part 81 87	higado
+T4	Disease 18 23	obeso
+T5	Disease 55 67	constipacion
+T6	Disease 183 191	diabetes
+T7	Disease 218 220	DG
+T8	Family_Member 156 163	Abuelos
+T9	Laboratory_Procedure 129 147	glicemia de ayunas
+T10	Laboratory_or_Test_Result 81 93	higado graso
+R1	Has Arg1:T8 Arg2:T6	
+T11	Family_Member 194 198	mama
+R2	Has Arg1:T11 Arg2:T7	

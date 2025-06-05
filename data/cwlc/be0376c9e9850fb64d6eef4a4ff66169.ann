@@ -1,0 +1,11 @@
+T1	Abbreviation 93 96	OMS
+T2	Abbreviation 148 151	TTO
+T3	Body_Part 0 8	PIEZA 30
+T4	Sign_or_Symptom 0 30	PIEZA 30 CON MOVILIDAD GRADO I
+T5	Sign_or_Symptom 32 54	SUPERACION POR LINGUAL
+T6	Sign_or_Symptom 56 72	SACO PERIODONTAL
+T7	Sign_or_Symptom 106 125	COMPROMISO DE FURCA
+T8	Therapeutic_Procedure 148 163	TTO PERIODONTAL
+T9	Sign_or_Symptom 74 82	CODIGO 3
+A1	Pending T8
+T10	Body_Part 120 125	FURCA

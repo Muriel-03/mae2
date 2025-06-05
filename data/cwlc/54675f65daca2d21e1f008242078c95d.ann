@@ -1,0 +1,12 @@
+T1	Abbreviation 94 97	APS
+T2	Abbreviation 99 102	eco
+T3	Abbreviation 103 105	tv
+T4	Body_Part 16 21	ÚTERO
+T5	Body_Part 121 126	utero
+T6	Diagnostic_Procedure 99 105	eco tv
+T7	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T8	Disease 25 70	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T9	Disease 107 126	Leiomioma del utero
+T10	Laboratory_or_Test_Result 107 126	Leiomioma del utero
+R1	Has Arg1:T6 Arg2:T10	
+T11	Laboratory_or_Test_Result 2 21	LEIOMIOMA DEL ÚTERO

@@ -1,0 +1,18 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 177 183	CESFAM
+T3	Body_Part 2 9	DIENTES
+T4	Body_Part 129 138	pieza 4.8
+T5	Body_Part 244 260	piezas 3.8 y 4.8
+T6	Body_Part 317 323	raíces
+T7	Body_Part 376 382	muelas
+T8	Body_Part 384 391	Dientes
+T9	Diagnostic_Procedure 196 218	radiografía panorámica
+T10	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T11	Disease 110 125	pericoronaritis
+T12	Disease 384 414	Dientes incluidos e impactados
+T13	Clinical_Finding 70 97	sin antecedentes sistémicos
+T14	Laboratory_or_Test_Result 244 334	piezas 3.8 y 4.8 que estan semi erupcionadas, en posición vertical y con raíces fusionadas
+T15	Sign_or_Symptom 340 382	poco espacio para erupción de ambas muelas
+T16	Therapeutic_Procedure 230 240	extracción
+A1	Pending T16
+R1	Has Arg1:T9 Arg2:T14	

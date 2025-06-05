@@ -1,0 +1,5 @@
+T1	Body_Part 158 175	dientes 1.2 - 4.2
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Clinical_Finding 93 111	Clase I esqueletal
+T4	Sign_or_Symptom 113 138	Falta de espacio moderada
+T5	Sign_or_Symptom 140 175	mordida invertida dientes 1.2 - 4.2

@@ -1,0 +1,5 @@
+T1	Disease 0 50	Hernia abdominal supraumbilical e inguinal derecha
+T3	Sign_or_Symptom 52 88	parcialmente reductible la abdominal
+T2	Sign_or_Symptom 91 110	inguinal reductible
+T4	Sign_or_Symptom 116 138	signos de complicacion
+A1	Negated T4

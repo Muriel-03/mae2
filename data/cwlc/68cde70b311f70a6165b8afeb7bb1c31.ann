@@ -1,0 +1,16 @@
+T1	Abbreviation 21 24	Hta
+T2	Abbreviation 27 30	Dm2
+T3	Abbreviation 54 57	Tvp
+T4	Abbreviation 67 71	Eeii
+T5	Abbreviation 99 103	Taco
+T6	Abbreviation 136 138	Sd
+T7	Abbreviation 189 193	Taco
+T8	Abbreviation 206 208	Sd
+T9	Body_Part 67 79	Eeii Derecha
+T10	Disease 21 24	Hta
+T11	Disease 27 30	Dm2
+T12	Disease 54 57	Tvp
+T13	Disease 136 152	Sd Postflebitico
+T14	Disease 206 222	Sd Postflebitico
+T15	Therapeutic_Procedure 99 103	Taco
+T16	Therapeutic_Procedure 189 193	Taco

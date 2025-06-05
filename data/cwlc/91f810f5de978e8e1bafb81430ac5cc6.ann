@@ -1,0 +1,10 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 108 117	Pieza 3.5
+T3	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T4	Disease 136 145	impactada
+T5	Disease 227 275	Anomalias dentofaciales (incluso la maloclusion)
+T6	Clinical_Finding 177 197	Clase I molar dercha
+T8	Sign_or_Symptom 79 106	Apiñamiento antero inferior
+T11	Sign_or_Symptom 199 224	Clase III molar izquierda
+T12	Disease 79 90	Apiñamiento
+T7	Laboratory_or_Test_Result 108 175	Pieza 3.5 semierupcionada,  impactada y sin espacio para erupcionar

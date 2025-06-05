@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	pza
+T2	Abbreviation 48 51	pza
+T3	Body_Part 0 7	pza 2.8
+T4	Body_Part 16 20	raiz
+T5	Body_Part 35 47	seno maxilar
+T6	Body_Part 48 61	pza 3.8 , 4.8
+T7	Body_Part 80 84	raiz
+T8	Body_Part 106 122	canal mandibular
+T11	Laboratory_or_Test_Result 0 47	pza 2.8  E.E.O. raiz proyectada en seno maxilar
+T12	Laboratory_or_Test_Result 48 122	pza 3.8 , 4.8 : semi incluida , raiz conica proyectada en canal mandibular
+T9	Abbreviation 9 14	E.E.O

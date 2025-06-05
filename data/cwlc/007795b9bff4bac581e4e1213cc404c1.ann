@@ -1,0 +1,5 @@
+T1	Disease 22 66	desdentado total superior y parcial inferior
+T2	Sign_or_Symptom 68 102	Prótesis desajustada (muy antigua)
+T3	Therapeutic_Procedure 130 148	cambio de prótesis
+T4	Clinical_Finding 9 21	adulto mayor
+A1	Pending T3

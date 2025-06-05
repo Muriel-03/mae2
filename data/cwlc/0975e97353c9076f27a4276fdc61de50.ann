@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA 4.5
+T3	Diagnostic_Procedure 63 82	EXAMEN RADIOGRAFICO
+T4	Disease 17 39	CARIES DISTAL PROFUNDA
+T5	Laboratory_or_Test_Result 97 110	LESION APICAL
+T6	Clinical_Finding 40 58	SIN SINTOMATOLOGIA
+R1	Has Arg1:T3 Arg2:T5	
+A1	Negated T5

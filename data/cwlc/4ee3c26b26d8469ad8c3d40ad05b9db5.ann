@@ -1,0 +1,17 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 212 215	mgs
+T3	Abbreviation 331 334	feb
+T4	Abbreviation 462 464	vs
+T5	Body_Part 261 267	cuello
+T6	Body_Part 318 326	tiroides
+T7	Body_Part 418 425	lobulos
+T8	Diagnostic_Procedure 303 326	ultrasonido de tiroides
+T9	Disease 2 16	HIPOTIROIDISMO
+T10	Disease 102 116	hipotiroidismo
+T11	Disease 465 484	bocio multinodular.
+T12	Disease 526 540	Hipotiroidismo
+T13	Laboratory_or_Test_Result 357 483	nodulos tiroideos isocogenoicos con halo periferico en ambos lobulos  sugerentes de  adenomas tiroideos  vs bocio multinodular
+T14	Medication 190 202	levotiroxina
+T15	Sign_or_Symptom 230 267	aumento de volumen en base del cuello
+R1	Has Arg1:T8 Arg2:T13	
+T16	Disease 442 460	adenomas tiroideos

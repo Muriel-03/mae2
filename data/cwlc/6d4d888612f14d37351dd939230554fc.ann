@@ -1,0 +1,11 @@
+T1	Abbreviation 249 255	cesfam
+T2	Abbreviation 303 306	tto
+T3	Abbreviation 386 389	Tto
+T4	Abbreviation 411 414	APS
+T5	Abbreviation 469 472	tto
+T6	Abbreviation 501 504	tto
+T7	Body_Part 18 25	DIENTES
+T8	Disease 2 25	FRACTURA DE LOS DIENTES
+T9	Clinical_Finding 41 82	sin antecdentes sistemicos de importancia
+T10	Therapeutic_Procedure 303 320	tto rehabilitador
+A1	Pending T10

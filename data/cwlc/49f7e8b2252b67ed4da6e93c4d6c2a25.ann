@@ -1,0 +1,16 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 11 14	ACO
+T3	Abbreviation 15 16	X
+T4	Abbreviation 36 38	UT
+T5	Abbreviation 49 52	ECO
+T6	Abbreviation 53 57	GINE
+T7	Body_Part 88 103	PARED POSTERIOR
+T8	Diagnostic_Procedure 49 57	ECO GINE
+T10	Disease 59 64	MIOMA
+T11	Clinical_Finding 0 2	M2
+T12	Disease 25 38	MIOMATOSIS UT
+T13	Laboratory_or_Test_Result 59 75	MIOMA INTRAMURAL
+T14	Medication 11 14	ACO
+R1	Has Arg1:T8 Arg2:T13	
+T9	Laboratory_or_Test_Result 25 38	MIOMATOSIS UT
+T15	Abbreviation 82 84	mm

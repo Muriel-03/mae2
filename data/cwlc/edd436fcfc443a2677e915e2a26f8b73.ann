@@ -1,0 +1,5 @@
+T1	Abbreviation 87 90	APS
+T2	Disease 2 63	HERNIA ABDOMINAL NO ESPECIFICADA, SIN OBSTRUCCIÓN NI GANGRENA
+T3	Disease 109 125	hernia abdominal
+T5	Sign_or_Symptom 109 183	hernia abdominal de larga data en relacion a cicatriz de laparotomia media
+T6	Sign_or_Symptom 196 227	aumento de volumen con valsalva

@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	pac
+T2	Abbreviation 8 11	tto
+T3	Abbreviation 50 53	tps
+T4	Disease 55 93	desdentada parcial superior unilateral
+T5	Disease 95 122	desdentada parcial inferior
+T6	Sign_or_Symptom 162 189	no es portadora de protesis
+T7	Sign_or_Symptom 123 148	clase II mod 1 de Kennedy
+T8	Therapeutic_Procedure 8 23	tto periodontal
+T9	Therapeutic_Procedure 50 53	tps

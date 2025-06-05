@@ -1,0 +1,14 @@
+T1	Body_Part 2 9	DIENTES
+T2	Body_Part 36 47	Dientes 3.8
+T3	Body_Part 59 62	4.8
+T4	Body_Part 91 94	4.7
+T5	Body_Part 109 112	4.8
+T6	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T7	Disease 74 83	impactado
+T8	Disease 179 184	lupus
+T9	Clinical_Finding 148 158	embarazada
+T10	Laboratory_or_Test_Result 44 94	3.8 incluido y 4.8 incluido e impactado contra 4.7
+T12	Therapeutic_Procedure 191 217	tratamiento anticoagulante
+T13	Sign_or_Symptom 109 137	4.8 parcialmente erupcionado
+T14	Laboratory_or_Test_Result 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T15	Disease 63 71	incluido

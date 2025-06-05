@@ -1,0 +1,10 @@
+T1	Body_Part 94 101	dientes
+T2	Body_Part 132 148	dientes grupo VI
+T3	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T4	Sign_or_Symptom 60 101	movilidad patologica en multiples dientes
+T5	Sign_or_Symptom 103 115	sangramiento
+T6	Sign_or_Symptom 118 148	supuracion en dientes grupo VI
+T7	Sign_or_Symptom 150 169	sacos periodontales
+T8	Sign_or_Symptom 171 202	acumulacion de placa bacteriana
+T9	Sign_or_Symptom 205 220	depositos duros
+T10	Sign_or_Symptom 222 245	retracciones gingivales

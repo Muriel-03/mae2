@@ -1,0 +1,11 @@
+T1	Abbreviation 57 61	LPAE
+T2	Abbreviation 63 66	ROM
+T3	Abbreviation 140 142	UD
+T4	Abbreviation 236 240	ATTE
+T5	Body_Part 0 7	PIEZA 8
+T6	Disease 8 37	FRACTURA CORONARIA COMPLICADA
+T7	Laboratory_or_Test_Result 42 55	LESION APICAL
+T8	Laboratory_or_Test_Result 63 75	ROM MODERADA
+T9	Therapeutic_Procedure 187 197	EXTRACCION
+T10	Laboratory_or_Test_Result 57 61	LPAE
+A1	Pending T9

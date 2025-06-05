@@ -1,0 +1,13 @@
+T1	Abbreviation 72 74	ug
+T2	Abbreviation 78 79	l
+T3	Abbreviation 82 83	V
+T4	Abbreviation 90 92	ug
+T5	Abbreviation 97 98	D
+T6	Abbreviation 158 159	p
+T7	Disease 38 52	hipotiroidismo
+T8	Disease 255 286	Otros trastornos de la pubertad
+T9	Medication 61 68	Eutirox
+T10	Sign_or_Symptom 104 119	cefalea aislada
+T12	Clinical_Finding 168 186	desarrollo puberal
+T11	Laboratory_or_Test_Result 219 254	Edad ósea correspondiente a 13 años
+T13	Abbreviation 93 94	S

@@ -1,0 +1,7 @@
+T1	Abbreviation 59 62	pza
+T2	Body_Part 59 66	pza 1.5
+T3	Disease 88 99	apiñamiento
+T4	Clinical_Finding 9 27	clase I esqueletal
+T5	Sign_or_Symptom 28 53	mordida cruzada izquierda
+T6	Sign_or_Symptom 67 85	compresión maxilar
+T7	Sign_or_Symptom 88 133	apiñamiento leve superior y moderado inferior

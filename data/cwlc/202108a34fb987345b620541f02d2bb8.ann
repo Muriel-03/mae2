@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 94 110	PIEZAS 1.1 Y 2.1
+T4	Body_Part 246 252	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 217 252	Anomalias de la posicion del diente
+T7	Sign_or_Symptom 75 110	GIROVERSION DE LAS PIEZAS 1.1 Y 2.1
+T8	Sign_or_Symptom 156 172	MORDIDA PROFUNDA
+T9	Sign_or_Symptom 112 154	LEVE APÌÑAMIENTO EN ZONA ANTERIOR INFERIOR

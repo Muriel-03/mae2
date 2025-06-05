@@ -1,0 +1,12 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 131 133	IC
+T3	Body_Part 68 75	Maxilar
+T4	Body_Part 92 101	Mandibula
+T5	Body_Part 202 209	dientes
+T6	Disease 2 20	DESDENTADO PARCIAL
+T7	Disease 49 75	Desdentada parcial Maxilar
+T8	Disease 164 240	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Sign_or_Symptom 49 91	Desdentada parcial Maxilar Clase I Kennedy
+T10	Sign_or_Symptom 92 119	Mandibula clase III Kennedy
+T11	Therapeutic_Procedure 139 163	rehabilitación protesica
+A1	Pending T11

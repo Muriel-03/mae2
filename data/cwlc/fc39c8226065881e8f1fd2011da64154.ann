@@ -1,0 +1,11 @@
+T1	Abbreviation 19 23	pzas
+T2	Abbreviation 45 48	IRC
+T3	Abbreviation 128 130	rx
+T4	Body_Part 19 30	pzas 3 y 14
+T5	Body_Part 153 159	piezas
+T6	Diagnostic_Procedure 128 145	rx. retroalveolar
+T7	Disease 0 18	Restos radiculares
+T9	Disease 45 48	IRC
+T10	Medication 110 118	aspirina
+T8	Sign_or_Symptom 50 60	se dializa
+A1	Pending T6

@@ -1,0 +1,13 @@
+T1	Abbreviation 114 117	APS
+T2	Abbreviation 209 212	atm
+T3	Abbreviation 266 269	izq
+T4	Body_Part 209 212	atm
+T5	Body_Part 242 269	caninos temporales lado izq
+T6	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T7	Disease 54 90	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T8	Disease 273 321	Anomalias dentofaciales (incluso la maloclusion)
+T10	Sign_or_Symptom 128 155	clase molar tres unilateral
+T11	Sign_or_Symptom 157 172	Mordida visavis
+T12	Sign_or_Symptom 175 206	over jet y overbite disminuidos
+T13	Sign_or_Symptom 209 221	atm normales
+T14	Sign_or_Symptom 223 269	mordida cruzada en caninos temporales lado izq

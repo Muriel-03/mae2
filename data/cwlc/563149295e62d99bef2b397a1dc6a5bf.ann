@@ -1,0 +1,31 @@
+T1	Abbreviation 151 154	APS
+T2	Abbreviation 156 159	RNT
+T3	Abbreviation 171 174	GEG
+T4	Abbreviation 176 179	PVE
+T5	Abbreviation 223 226	ANT
+T6	Abbreviation 242 245	DLC
+T7	Abbreviation 257 259	RX
+T8	Abbreviation 354 357	IZQ
+T9	Abbreviation 388 392	ATTE
+T10	Body_Part 38 44	CADERA
+T11	Body_Part 59 66	CADERAS
+T12	Body_Part 83 97	CUELLO FEMORAL
+T13	Body_Part 114 126	VARA O VALGA
+T14	Body_Part 260 266	PELVIS
+T15	Body_Part 311 327	TECHO ACETABULAR
+T16	Body_Part 430 436	cadera
+T17	Body_Part 451 458	caderas
+T18	Body_Part 475 489	Cuello Femoral
+T19	Diagnostic_Procedure 257 266	RX PELVIS
+T20	Disease 2 126	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T22	Disease 242 245	DLC
+T23	Disease 394 519	Otras deformidades congenitas de la cadera (Displasia de caderas Anteversion del Cuello Femoral Coxa Congenita: Vara o Valga)
+T24	Clinical_Finding 156 159	RNT
+T25	Clinical_Finding 171 174	GEG
+T26	Clinical_Finding 176 179	PVE
+T27	Clinical_Finding 185 218	ANTECEDENTES MORBIDOS PERINATALES
+T28	Clinical_Finding 223 245	ANT. FAMILIARES DE DLC
+T29	Laboratory_or_Test_Result 282 357	ALTERADA. PRESENTA ANGULO DE TECHO ACETABULAR CON 32º A DERECHA Y 25º A IZQ
+A1	Negated T27
+A2	Negated T28
+R1	Has Arg1:T19 Arg2:T29	

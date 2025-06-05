@@ -1,0 +1,9 @@
+T1	Abbreviation 40 43	HTA
+T2	Abbreviation 55 58	ASA
+T3	Abbreviation 63 65	PD
+T4	Body_Part 63 68	PD 13
+T5	Disease 13 38	RESISTENCIA A LA INSULINA
+T6	Disease 40 43	HTA
+T7	Disease 69 98	PULPITIS CRONICA IRREVERSIBLE
+T8	Therapeutic_Procedure 99 108	TREPANADA
+T9	Sign_or_Symptom 55 61	ASA II

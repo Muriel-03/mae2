@@ -1,0 +1,11 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 17 32	CUERDAS VOCALES
+T3	Body_Part 154 169	cuerdas vocales
+T4	Body_Part 305 320	cuerdas vocales
+T5	Diagnostic_Procedure 123 138	nasofibroscopia
+T6	Disease 2 32	NÓDULOS DE LAS CUERDAS VOCALES
+T7	Disease 290 320	Nodulos de las cuerdas vocales
+T8	Laboratory_or_Test_Result 143 236	nodulos d ecuerdas vocales a nivel de union de tercios anteriores con dos tercios posteriores
+T9	Sign_or_Symptom 86 94	disfonia
+R1	Has Arg1:T5 Arg2:T8	
+T10	Disease 143 169	nodulos d ecuerdas vocales

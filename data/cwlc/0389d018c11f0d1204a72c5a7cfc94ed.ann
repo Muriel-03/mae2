@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 56 58	RL
+T3	Abbreviation 59 64	APROX
+T4	Abbreviation 67 69	CM
+T5	Body_Part 0 5	PZA 4
+T6	Laboratory_or_Test_Result 0 69	PZA 4 CON TRATAMIENTO ENDODONTICA , Y LESION PERIAPICAL RL APROX 1 CM
+T7	Therapeutic_Procedure 10 33	TRATAMIENTO ENDODONTICA
+T8	Therapeutic_Procedure 104 117	RETRATAMIENTO
+A1	Pending T8

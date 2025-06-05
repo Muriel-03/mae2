@@ -1,0 +1,5 @@
+T1	Body_Part 0 16	maxilar superior
+T2	Body_Part 18 24	piezas
+T3	Body_Part 68 74	piezas
+T4	Laboratory_or_Test_Result 18 67	piezas intraoseas en etapa de formación coronaria
+T5	Laboratory_or_Test_Result 68 129	piezas en evolución extra osea retenidas por falta de espacio

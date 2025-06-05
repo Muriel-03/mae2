@@ -1,0 +1,13 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 126 137	pieza # 1.5
+T3	Body_Part 202 215	camara pulpar
+T4	Body_Part 228 235	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 153 182	caries ocluso distal profunda
+T7	Disease 217 235	Caries del cemento
+T9	Clinical_Finding 111 121	embarazada
+T12	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T13	Laboratory_or_Test_Result 153 215	caries ocluso distal profunda sobreproyectada en camara pulpar
+T14	Therapeutic_Procedure 72 98	tratamiento  de endodoncia
+A1	Pending T14
+T8	Clinical_Finding 126 148	pieza # 1.5  Trepanada

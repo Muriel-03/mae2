@@ -1,0 +1,13 @@
+T1	Abbreviation 37 40	APS
+T2	Abbreviation 60 62	PZ
+T3	Abbreviation 75 77	PZ
+T4	Abbreviation 160 162	PZ
+T5	Body_Part 60 66	PZ 2.5
+T6	Body_Part 75 84	PZ DENTAL
+T7	Body_Part 160 169	PZ DENTAL
+T9	Sign_or_Symptom 2 13	DOLOR AGUDO
+T10	Sign_or_Symptom 42 66	DOLOR AGUDO EN LA PZ 2.5
+T11	Clinical_Finding 75 95	PZ DENTAL FUE TAPADA
+T12	Sign_or_Symptom 170 181	Dolor agudo
+T13	Therapeutic_Procedure 146 153	TREPANA
+T8	Clinical_Finding 116 141	TAPADURA ERA MUY PROFUNDA

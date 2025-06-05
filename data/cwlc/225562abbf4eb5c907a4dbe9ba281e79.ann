@@ -1,0 +1,8 @@
+T1	Abbreviation 27 31	pzas
+T2	Abbreviation 68 71	pza
+T3	Body_Part 27 31	pzas
+T4	Body_Part 68 74	pza 11
+T5	Disease 0 23	gingivitis generalizada
+T6	Disease 79 92	periodontitis
+T7	Sign_or_Symptom 47 65	acumulo de tartaro
+T8	Sign_or_Symptom 95 113	movilidad moderada

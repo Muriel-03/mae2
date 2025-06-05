@@ -1,0 +1,12 @@
+T1	Abbreviation 113 116	APS
+T2	Abbreviation 194 197	dte
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 194 202	dte. 1.1
+T5	Body_Part 221 224	2.1
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 41 89	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T8	Sign_or_Symptom 194 218	dte. 1.1 con giroversión
+T9	Disease 236 284	Anomalias dentofaciales (incluso la maloclusion)
+T10	Clinical_Finding 133 156	clase I molar bilateral
+T12	Laboratory_or_Test_Result 221 234	2.1 intraóseo
+T13	Sign_or_Symptom 158 192	discrepancia dentomaxilar negativa

@@ -1,0 +1,8 @@
+T1	Abbreviation 97 100	PFS
+T2	Body_Part 1 4	4.4
+T4	Sign_or_Symptom 31 57	GRAN DESTRUCCION CORONARIA
+T5	Clinical_Finding 5 29	TRATADA ENDODONTICAMENTE
+T6	Therapeutic_Procedure 82 94	INCRUSTACION
+T7	Therapeutic_Procedure 97 100	PFS
+A1	Pending T6
+A2	Pending T7

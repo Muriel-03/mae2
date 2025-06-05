@@ -1,0 +1,8 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 116 146	articulación temporomandibular
+T4	Body_Part 207 234	articulacion temporomaxilar
+T5	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Disease 190 234	Trastornos de la articulacion temporomaxilar
+T7	Disease 90 98	luxación
+T8	Sign_or_Symptom 90 188	luxación espontánea de la articulación temporomandibular en reiteradas ocaciones desde los 14 años

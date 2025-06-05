@@ -1,0 +1,14 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 302 304	mg
+T3	Body_Part 384 389	manos
+T4	Body_Part 391 397	muñeca
+T5	Body_Part 400 408	tobillos
+T6	Disease 2 38	ARTRITIS REUMATOIDE, NO ESPECIFICADA
+T7	Disease 95 115	artritis reumatoidea
+T8	Disease 446 482	Artritis reumatoide, no especificada
+T9	Medication 148 160	metrotrexato
+T10	Medication 163 173	prednisona
+T11	Medication 288 298	prednisona
+T12	Sign_or_Symptom 341 348	dolores
+T13	Sign_or_Symptom 350 408	aumeto de volumen de articulacion manos, muñeca y tobillos
+T14	Body_Part 371 383	articulacion

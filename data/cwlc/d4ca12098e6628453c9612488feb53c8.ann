@@ -1,0 +1,21 @@
+T1	Abbreviation 242 246	ATMs
+T2	Abbreviation 275 277	mm
+T3	Abbreviation 278 281	max
+T4	Abbreviation 435 438	tto
+T5	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T6	Body_Part 144 148	boca
+T7	Body_Part 195 215	musculos eleveadores
+T8	Body_Part 242 246	ATMs
+T9	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T10	Clinical_Finding 62 88	sin antecdentes ssitemicos
+T11	Sign_or_Symptom 104 113	molestias
+T12	Sign_or_Symptom 116 148	imposibilidad para abrir la boca
+T13	Sign_or_Symptom 218 246	solor a la palpacion de ATMs
+T14	Sign_or_Symptom 0 306	- TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+
+
+ PAciente sin antecdentes ssitemicos , consulta por molestias e imposibilidad para abrir la boca , al examen clinico se observa hipertrofia de musculos eleveadores , solor a la palpacion de ATMs  y apertura limitada (25-30 mm max) . 
+PAciente relata que
+T16	Sign_or_Symptom 180 215	hipertrofia de musculos eleveadores
+T17	Sign_or_Symptom 250 282	apertura limitada (25-30 mm max)
+T18	Sign_or_Symptom 307 408	episodios se han presentado en oportunidades anteriores pero actualmente con mayor intensidad y dolor

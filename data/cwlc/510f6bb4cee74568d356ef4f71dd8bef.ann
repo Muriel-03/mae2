@@ -1,0 +1,15 @@
+T1	Abbreviation 43 45	DC
+T2	Abbreviation 109 112	IRC
+T3	Abbreviation 145 149	TACO
+T4	Body_Part 20 25	RIÑÓN
+T7	Disease 109 143	IRC ESTADIO 5 DE CAUSA NO CONOCIDA
+T9	Disease 73 105	RECHAZO AGUDO CELULAR BORDERLINE
+T10	Laboratory_or_Test_Result 198 206	NORMALES
+T11	Laboratory_Procedure 176 197	PRUEBAS DE HEMOSTASIA
+T12	Medication 145 149	TACO
+T13	Therapeutic_Procedure 26 57	TRASPLANTE RENAL DC  PREEMPTIVE
+T5	Therapeutic_Procedure 0 4	Z940
+T14	Therapeutic_Procedure 5 25	TRANSPLANTE DE RIÑÓN
+T6	Clinical_Finding 208 218	CLIMATERIO
+T8	Clinical_Finding 145 160	TACO SUSPENDIDO
+R1	Has Arg1:T11 Arg2:T10	

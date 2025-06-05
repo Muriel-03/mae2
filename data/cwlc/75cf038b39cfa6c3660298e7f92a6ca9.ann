@@ -1,0 +1,13 @@
+T1	Abbreviation 12 15	OBS
+T2	Abbreviation 16 18	AR
+T3	Abbreviation 62 65	DEG
+T4	Abbreviation 106 108	+-
+T5	Abbreviation 120 123	TTO
+T6	Abbreviation 124 125	X
+T7	Disease 0 11	FIBROMALGIA
+T8	Disease 16 18	AR
+T9	Sign_or_Symptom 126 142	CUADRO DEPRESIVO
+T10	Sign_or_Symptom 19 46	DOLOR MUSCULAR GENERALIZADO
+T11	Sign_or_Symptom 62 65	DEG
+T12	Sign_or_Symptom 67 74	ASTENIA
+T13	Sign_or_Symptom 76 95	CAMBIOS EMOCIONALES

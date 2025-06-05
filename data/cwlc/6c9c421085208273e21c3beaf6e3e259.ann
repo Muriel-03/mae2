@@ -1,0 +1,7 @@
+T1	Body_Part 17 22	PULPA
+T2	Body_Part 29 38	pieza 2.4
+T3	Body_Part 56 61	pieza
+T4	Disease 2 22	NECROSIS DE LA PULPA
+T5	Disease 39 54	necrosis pulpar
+T6	Clinical_Finding 66 106	terapia endodontica previamente iniciada
+T7	Disease 111 129	fractura coronaria

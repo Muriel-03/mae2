@@ -1,0 +1,5 @@
+T1	Body_Part 50 62	cara oclusal
+T2	Body_Part 90 99	diente 18
+T3	Disease 100 143	PERIODONTITIS APICAL AGUDA DE ORIGEN PULPAR
+T4	Sign_or_Symptom 68 88	dolor a la percusion
+T5	Sign_or_Symptom 13 62	obturacion de ionomero defectuosa en cara oclusal

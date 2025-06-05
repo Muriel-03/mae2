@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	Pieza 1.8
+T4	Laboratory_or_Test_Result 0 24	Pieza 1.8, Semi Incluida
+T5	Sign_or_Symptom 42 47	Duele
+T6	Sign_or_Symptom 53 72	Signos De Infeccion
+T7	Therapeutic_Procedure 135 144	Exodoncia
+T3	Clinical_Finding 26 40	Dificil Acceso
+A1	Negated T6
+A2	Pending T7

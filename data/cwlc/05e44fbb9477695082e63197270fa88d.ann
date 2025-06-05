@@ -1,0 +1,5 @@
+T1	Body_Part 8 26	calcaneo izquierdo
+T2	Disease 0 26	Espolon calcaneo izquierdo
+T3	Medication 89 98	analgesia
+T4	Sign_or_Symptom 48 98	sintomatico doloroso cede parcialmente a analgesia
+T5	Clinical_Finding 110 120	plantillas

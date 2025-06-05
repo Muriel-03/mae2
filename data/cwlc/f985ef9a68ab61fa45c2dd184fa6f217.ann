@@ -1,0 +1,12 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 53	PACTE
+T3	Body_Part 2 9	DIENTES
+T4	Body_Part 78 88	DIENTE 2.8
+T5	Body_Part 116 123	Dientes
+T6	Disease 2 19	DIENTES INCLUIDOS
+T7	Disease 105 114	IMPACTADO
+T8	Disease 116 133	Dientes incluidos
+T9	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T10	Laboratory_or_Test_Result 78 114	DIENTE 2.8 (SEMIINCLUIDO E IMPACTADO
+T11	Sign_or_Symptom 58 63	DOLOR
+T12	Laboratory_or_Test_Result 116 133	Dientes incluidos

@@ -1,0 +1,29 @@
+T1	Abbreviation 38 40	dm
+T2	Abbreviation 42 45	hta
+T3	Abbreviation 47 50	dlp
+T4	Abbreviation 54 57	tto
+T5	Abbreviation 62 65	MTF
+T6	Abbreviation 80 83	AAS
+T7	Abbreviation 88 91	ATV
+T8	Abbreviation 167 170	tto
+T9	Disease 2 28	OTROS VÉRTIGOS PERIFÉRICOS
+T10	Disease 38 40	dm
+T11	Disease 42 45	hta
+T12	Disease 47 50	dlp
+T13	Medication 62 65	MTF
+T14	Medication 73 76	ENL
+T15	Medication 80 83	AAS
+T16	Medication 88 91	ATV
+T17	Medication 175 182	voltron
+T18	Medication 372 383	flunarizina
+T19	Sign_or_Symptom 132 139	vertigo
+T20	Abbreviation 73 76	ENL
+T21	Abbreviation 67 68	x
+T22	Abbreviation 76 77	x
+T23	Abbreviation 84 85	x
+T24	Abbreviation 92 93	x
+T25	Sign_or_Symptom 288 354	episodio vertigo que disminuia pero nuevamnete reinicia mas fuerte
+T26	Sign_or_Symptom 368 405	con flunarizina con regular resultado
+T27	Diagnostic_Procedure 441 455	exmaen del 8vo
+T28	Body_Part 452 459	8vo par
+T29	Abbreviation 452 455	8vo

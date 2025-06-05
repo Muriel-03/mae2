@@ -1,0 +1,14 @@
+T1	Abbreviation 126 127	G
+T2	Abbreviation 151 153	I/
+T3	Abbreviation 153 154	M
+T4	Abbreviation 172 174	MG
+T5	Body_Part 22 31	DIENTE 17
+T6	Body_Part 217 226	DIENTE 17
+T7	Diagnostic_Procedure 205 216	RADIOGRAFÍA
+T8	Disease 74 89	PERICORONARITIS
+T9	Medication 115 134	PENICILINA G SÓDICA
+T10	Medication 156 167	AMOXICILINA
+T11	Therapeutic_Procedure 9 18	EXODONCIA
+A1	Pending T11
+T12	Sign_or_Symptom 22 43	DIENTE 17 SEMINCLUIDO
+T13	Abbreviation 183 184	H

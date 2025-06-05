@@ -1,0 +1,13 @@
+T1	Abbreviation 74 78	pza.
+T2	Abbreviation 94 97	pza
+T3	Abbreviation 121 124	pza
+T5	Body_Part 33 42	denticion
+T6	Body_Part 74 82	pza. 1.6
+T7	Body_Part 94 107	pza 2.5 y 1.5
+T8	Body_Part 121 129	pza. 1.3
+T10	Disease 85 93	agenesia
+T12	Clinical_Finding 0 18	Clase I esqueletal
+T13	Clinical_Finding 33 64	denticion permanente incompleta
+T16	Sign_or_Symptom 65 82	ausencia pza. 1.6
+T17	Sign_or_Symptom 108 129	giro version pza. 1.3
+T4	Clinical_Finding 19 32	dolico facial

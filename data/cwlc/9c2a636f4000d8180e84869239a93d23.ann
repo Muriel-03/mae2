@@ -1,0 +1,8 @@
+T1	Abbreviation 34 37	APS
+T3	Body_Part 78 87	pieza 1.4
+T4	Disease 2 10	PULPITIS
+T5	Disease 203 211	Pulpitis
+T7	Sign_or_Symptom 120 129	molestias
+T8	Therapeutic_Procedure 61 71	endodoncia
+T9	Therapeutic_Procedure 173 200	re tratamieto de endodoncia
+A1	Pending T9

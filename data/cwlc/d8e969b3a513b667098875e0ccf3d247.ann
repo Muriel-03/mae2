@@ -1,0 +1,6 @@
+T1	Abbreviation 0 2	PD
+T2	Abbreviation 7 10	ROM
+T3	Abbreviation 44 47	PFU
+T4	Body_Part 0 6	PD 1.2
+T7	Therapeutic_Procedure 44 47	PFU
+T8	Laboratory_or_Test_Result 0 102	PD 1.2 ROM MODERADA, OBTURADO PENETRATANTE (PFU) TRATADO PARCIAL LESION APICAL Y PARO REDICULAR MESIAL

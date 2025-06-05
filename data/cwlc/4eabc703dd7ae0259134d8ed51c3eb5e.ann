@@ -1,0 +1,20 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 67 69	AP
+T3	Abbreviation 73 76	HTA
+T4	Abbreviation 79 81	DM
+T5	Abbreviation 113 116	TTO
+T6	Abbreviation 155 156	C
+T7	Abbreviation 161 164	HRS
+T8	Abbreviation 233 236	TTO
+T9	Abbreviation 274 278	EESS
+T10	Abbreviation 321 324	TEP
+T11	Body_Part 274 278	EESS
+T12	Disease 2 25	ENFERMEDAD DE PARKINSON
+T13	Disease 73 76	HTA
+T14	Disease 79 81	DM
+T15	Disease 87 96	PARKINSON
+T17	Medication 143 150	PROLOPA
+T18	Sign_or_Symptom 248 287	TEMBLORES EVIDENTES DE LA EESS Y FACIAL
+T19	Sign_or_Symptom 293 306	FASCIE RIGIDA
+T20	Clinical_Finding 308 324	ORIENTADO EN TEP
+T16	Clinical_Finding 326 335	COHERENTE

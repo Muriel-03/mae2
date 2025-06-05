@@ -1,0 +1,15 @@
+T1	Abbreviation 148 151	APS
+T2	Abbreviation 215 217	ex
+T3	Body_Part 65 68	PIE
+T4	Body_Part 97 100	Pie
+T5	Body_Part 171 175	pies
+T6	Body_Part 230 233	pie
+T7	Disease 2 51	DEFORMIDAD EN VALGO, NO CLASIFICADA EN OTRA PARTE
+T8	Disease 51 61	Genu Valgo
+T9	Disease 65 74	PIE PLANO
+T10	Disease 97 124	Pie Plano anterior relajado
+T11	Disease 358 407	Deformidad en valgo, no clasificada en otra parte
+T13	Sign_or_Symptom 162 211	dolor de pies al caminar, prefiere estar descalzo
+T15	Sign_or_Symptom 294 356	genu valgo importante, que dificulta la bipedestacion y marcha
+T16	Disease 75 97	PES PLANUS (ADQUIRIDO)
+T12	Disease 230 257	pie plano anterior relajado

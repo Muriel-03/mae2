@@ -1,0 +1,19 @@
+T1	Abbreviation 58 63	antec
+T2	Abbreviation 78 80	OH
+T3	Abbreviation 93 97	Pdte
+T4	Abbreviation 98 101	TAC
+T5	Abbreviation 140 143	Fde
+T6	Diagnostic_Procedure 98 101	TAC
+T7	Disease 67 80	consumo de OH
+T8	Laboratory_or_Test_Result 120 139	signos focalización
+T9	Sign_or_Symptom 19 32	desmotivación
+T10	Sign_or_Symptom 34 55	problemas de conducta
+T11	Sign_or_Symptom 161 168	Ansioso
+T12	Sign_or_Symptom 170 187	poco comunicativo
+T13	Sign_or_Symptom 0 7	cefalea
+A1	Negated T8
+A2	Pending T6
+T14	Diagnostic_Procedure 140 145	Fde o
+T15	Clinical_Finding 83 92	marihuana
+T16	Laboratory_or_Test_Result 146 159	papilas netas
+R1	Has Arg1:T14 Arg2:T16	

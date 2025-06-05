@@ -1,0 +1,9 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 71 74	HTA
+T3	Diagnostic_Procedure 167 186	ecografía abdominal
+T4	Disease 2 14	COLELITIASIS
+T5	Disease 71 74	HTA
+T6	Disease 208 220	Colelitiasis
+T7	Laboratory_or_Test_Result 199 207	alterada
+T8	Sign_or_Symptom 99 143	dolor abdominal tipo cólico de forma crónica
+R1	Has Arg1:T3 Arg2:T7	

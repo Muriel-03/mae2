@@ -1,0 +1,5 @@
+T1	Abbreviation 125 128	NIC
+T2	Disease 0 63	periodontitis cronica generalizada severa modificada por tabaco
+T3	Sign_or_Symptom 73 101	multiples sacos perodontales
+T4	Sign_or_Symptom 103 112	movilidad
+T5	Sign_or_Symptom 114 128	perdida de NIC

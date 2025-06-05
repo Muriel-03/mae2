@@ -1,0 +1,6 @@
+T1	Abbreviation 106 107	+
+T2	Body_Part 44 52	tiroides
+T3	Disease 34 52	cancer de tiroides
+T4	Laboratory_or_Test_Result 57 75	puncion bethesda V
+T5	Therapeutic_Procedure 86 105	tiroidectomia total
+T6	Therapeutic_Procedure 108 138	diseccion ganglionar bilateral

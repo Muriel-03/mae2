@@ -1,0 +1,16 @@
+T1	Abbreviation 3 7	ptve
+T2	Abbreviation 23 26	qca
+T3	Abbreviation 35 42	anteced
+T4	Abbreviation 86 89	HRT
+T5	Body_Part 232 239	trompas
+T6	Diagnostic_Procedure 111 121	mamografía
+T7	Sign_or_Symptom 56 61	obesa
+T8	Clinical_Finding 0 2	m3
+T9	Sign_or_Symptom 35 51	anteced mórbidos
+T10	Clinical_Finding 69 77	embarazo
+T11	Therapeutic_Procedure 3 7	ptve
+T12	Therapeutic_Procedure 8 26	esterilización qca
+T13	Therapeutic_Procedure 214 239	recanalización de trompas
+A1	Negated T9
+T14	Abbreviation 53 54	-
+A2	Pending T13

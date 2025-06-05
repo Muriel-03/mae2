@@ -1,0 +1,11 @@
+T1	Disease 2 40	TRASTORNO DEL PÁRPADO, NO ESPECIFICADO
+T2	Body_Part 16 23	PÁRPADO
+T3	Abbreviation 64 67	APS
+T4	Abbreviation 93 98	antec
+T5	Disease 158 174	ptosis bilateral
+T6	Abbreviation 188 190	cx
+T7	Therapeutic_Procedure 188 190	cx
+T8	Abbreviation 246 250	Atte
+T9	Abbreviation 253 255	Ud
+T10	Disease 258 296	Trastorno del parpado, no especificado
+T11	Body_Part 272 279	parpado

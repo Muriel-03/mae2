@@ -1,0 +1,10 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 107 110	PPR
+T3	Body_Part 228 235	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 58 96	desdentado parcial superior e inferior
+T6	Disease 190 255	Otras afecciones especificadas de los dientes y de sus estructura
+T7	Sign_or_Symptom 129 150	ha perdido remanentes
+T8	Therapeutic_Procedure 181 189	prótesis
+A1	Pending T8
+T9	Clinical_Finding 107 127	PPR de base acrílica

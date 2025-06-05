@@ -1,0 +1,9 @@
+T1	Abbreviation 69 73	PMCF
+T2	Body_Part 0 10	p. 1.6 (3)
+T3	Clinical_Finding 0 55	p. 1.6 (3) con terapia previamente iniciada (trepanada)
+T4	Clinical_Finding 89 95	Fermín
+T5	Medication 69 73	PMCF
+T6	Therapeutic_Procedure 15 43	terapia previamente iniciada
+T7	Therapeutic_Procedure 118 128	endodoncia
+T8	Abbreviation 0 1	p
+A1	Pending T7

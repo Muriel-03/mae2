@@ -1,0 +1,9 @@
+T1	Abbreviation 34 38	ADAC
+T2	Abbreviation 63 66	APS
+T3	Body_Part 98 107	pieza 1.2
+T4	Body_Part 203 207	boca
+T5	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T6	Disease 68 97	Absceso dentoalveolar Crónica
+T7	Disease 180 207	Celulitis y absceso de boca
+T8	Therapeutic_Procedure 120 131	trepanación
+T9	Therapeutic_Procedure 136 178	obturación temporal con ionómero de vidrio

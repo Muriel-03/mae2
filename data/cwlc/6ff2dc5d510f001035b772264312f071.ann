@@ -1,0 +1,35 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 38 41	ANT
+T3	Abbreviation 47 49	QX
+T4	Abbreviation 51 53	OP
+T5	Abbreviation 117 120	FUR
+T6	Abbreviation 129 132	SEM
+T7	Abbreviation 399 401	EV
+T8	Abbreviation 454 459	AINES
+T9	Abbreviation 463 465	NL
+T10	Body_Part 71 79	COSTILLA
+T11	Body_Part 274 305	REGION FRONTOPARIETAL IZQUIERDA
+T12	Disease 2 9	CEFALEA
+T13	Disease 54 79	TUMOR BENIGNO DE COSTILLA
+T14	Disease 518 533	CAUSA ORGANICA.
+T15	Disease 534 541	Cefalea
+T16	Medication 391 398	DROGRAS
+T17	Sign_or_Symptom 203 305	CEFALEA REITERADA (ANTES NO LO PRESENTABA), QUE SE LOCALIZA SIEMPRE EN REGION FRONTOPARIETAL IZQUIERDA
+T19	Disease 43 47	ASMA
+T18	Therapeutic_Procedure 81 104	PROTESIS DE 2 COSTILLAS
+T20	Abbreviation 132 135	MAC
+T21	Clinical_Finding 104 112	ALERGIAS
+A1	Negated T21
+T22	Therapeutic_Procedure 132 135	MAC
+T23	Abbreviation 140 141	G
+T24	Abbreviation 142 143	P
+T25	Abbreviation 144 145	A
+T26	Clinical_Finding 140 142	G1
+T27	Clinical_Finding 142 144	P1
+T28	Clinical_Finding 144 146	A0
+T29	Medication 137 140	ACO
+T30	Abbreviation 137 140	ACO
+T31	Sign_or_Symptom 436 459	BUENA RESPUESTA A AINES
+T32	Medication 454 459	AINES
+T33	Abbreviation 460 462	EX
+T34	Clinical_Finding 460 479	EX NL SIN FOCALIDAD

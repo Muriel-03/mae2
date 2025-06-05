@@ -1,0 +1,9 @@
+T1	Abbreviation 2 5	AOD
+T2	Abbreviation 9 11	CL
+T3	Abbreviation 14 16	CL
+T4	Abbreviation 20 21	C
+T5	Abbreviation 52 55	OBS
+T6	Disease 2 11	AOD DE CL
+T7	Disease 57 91	PROGRECION DEL DETERIORO ARTROSICO
+T8	Sign_or_Symptom 22 49	ALGIAS MAYORES Y RECURRENTE
+T9	Sign_or_Symptom 95 110	AUMENTO DE PESO

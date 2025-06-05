@@ -1,0 +1,9 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 115 123	grupo V.
+T3	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T4	Disease 75 81	caries
+T5	Disease 92 103	apiñamiento
+T6	Family_Member 124 129	Madre
+T8	Clinical_Finding 166 192	Paciente Sano Odontologico
+T9	Sign_or_Symptom 92 123	apiñamiento en zona de grupo V.
+A1	Negated T4

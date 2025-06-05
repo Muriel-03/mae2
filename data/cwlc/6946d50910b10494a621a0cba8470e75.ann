@@ -1,0 +1,8 @@
+T1	Abbreviation 114 119	PMCFA
+T2	Body_Part 29 38	Pieza 1.4
+T4	Disease 39 56	caries penetrante
+T5	Clinical_Finding 12 27	alta operatoria
+T6	Clinical_Finding 155 161	Fermín
+T7	Laboratory_or_Test_Result 29 56	Pieza 1.4 caries penetrante
+T8	Medication 114 119	PMCFA
+T9	Therapeutic_Procedure 69 80	trepanación

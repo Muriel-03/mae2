@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	DTE
+T2	Body_Part 0 6	DTE 19
+T3	Diagnostic_Procedure 139 161	RADIOGRAFIA PERIAPICAL
+T5	Therapeutic_Procedure 8 17	DEPULPADO
+T6	Therapeutic_Procedure 89 112	TRATAMIENTO ENDODONTICO
+T7	Medication 27 50	MEDICACION INTRACAMERAL
+T4	Therapeutic_Procedure 55 78	RESTAURACION PROVISORIA
+A1	Pending T6

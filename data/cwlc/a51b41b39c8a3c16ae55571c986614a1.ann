@@ -1,0 +1,13 @@
+T1	Abbreviation 46 49	TAC
+T2	Abbreviation 128 131	NEO
+T3	Abbreviation 152 154	dl
+T5	Abbreviation 169 172	min
+T6	Diagnostic_Procedure 46 63	TAC con contraste
+T7	Laboratory_Procedure 133 143	creatinina
+T8	Laboratory_Procedure 155 163	clerence
+T9	Sign_or_Symptom 69 81	baja de peso
+T10	Sign_or_Symptom 94 114	constipación crónica
+A1	Pending T6
+T4	Abbreviation 166 168	ml
+T11	Abbreviation 149 151	md
+T12	Disease 128 131	NEO

@@ -1,0 +1,7 @@
+T1	Body_Part 25 52	TERCEROS MOLARES 1-16-17-32
+T2	Body_Part 53 59	PIEZAS
+T3	Therapeutic_Procedure 15 24	OXODONCIA
+A1	Pending T3
+T4	Laboratory_or_Test_Result 53 78	PIEZAS NO ERUPCONADAS AUN
+T5	Therapeutic_Procedure 98 107	OXODONCIA
+A2	Pending T5

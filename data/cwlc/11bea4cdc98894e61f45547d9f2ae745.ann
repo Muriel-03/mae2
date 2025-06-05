@@ -1,0 +1,17 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 100 102	RI
+T3	Abbreviation 106 109	tto
+T4	Abbreviation 136 139	HRC
+T5	Abbreviation 144 147	Dra
+T6	Abbreviation 307 310	APS
+T7	Abbreviation 404 408	Atte
+T8	Abbreviation 411 413	Ud
+T9	Body_Part 27 42	VESÍCULA BILIAR
+T10	Body_Part 440 455	vesicula biliar
+T11	Diagnostic_Procedure 219 228	ecografia
+T12	Disease 2 42	OTRAS ENFERMEDADES DE LA VESÍCULA BILIAR
+T13	Disease 100 102	RI
+T15	Disease 415 455	Otras enfermedades de la vesicula biliar
+T16	Laboratory_or_Test_Result 260 276	polipo vesicular
+T17	Sign_or_Symptom 181 196	dolor abdominal
+R1	Has Arg1:T11 Arg2:T16	

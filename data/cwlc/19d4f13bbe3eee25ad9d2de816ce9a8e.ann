@@ -1,0 +1,8 @@
+T1	Body_Part 44 60	piezas dentarias
+T2	Body_Part 94 101	grupo V
+T3	Disease 65 71	caries
+T4	Disease 131 151	MALOCLUSION DENTARIA
+T5	Sign_or_Symptom 13 71	perdida prematura de multiples piezas dentarias por caries
+T6	Sign_or_Symptom 82 101	apiñamiento grupo V
+T7	Sign_or_Symptom 104 130	alteracion de la oclusion.
+T8	Disease 82 93	apiñamiento

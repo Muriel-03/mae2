@@ -1,0 +1,11 @@
+T1	Abbreviation 58 61	sup
+T2	Abbreviation 65 68	inf
+T3	Abbreviation 142 145	izq
+T4	Body_Part 104 111	caninos
+T5	Disease 36 47	apiñamiento
+T6	Sign_or_Symptom 0 16	Mordida anterior
+T7	Sign_or_Symptom 19 35	mordida cubierta
+T8	Sign_or_Symptom 36 69	apiñamiento anterior (sup. e inf)
+T9	Sign_or_Symptom 71 111	falta de espacio pra erupciòn de caninos
+T10	Clinical_Finding 113 128	claseI(derecho)
+T11	Sign_or_Symptom 129 147	leve claseII(izq.)

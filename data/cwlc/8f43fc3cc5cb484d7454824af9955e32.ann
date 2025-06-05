@@ -1,0 +1,11 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 91 94	TVP
+T3	Abbreviation 309 312	CMF
+T4	Abbreviation 317 320	HRC
+T5	Body_Part 266 277	pieza.# 2.6
+T6	Disease 2 15	CARIES DENTAL
+T7	Disease 91 94	TVP
+T8	Disease 96 121	trombosis venosa profunda
+T9	Disease 343 356	Caries dental
+T11	Therapeutic_Procedure 250 259	exodoncia
+A1	Pending T11

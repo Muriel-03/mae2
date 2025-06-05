@@ -1,0 +1,39 @@
+T1	Abbreviation 0 3	HTA
+T3	Abbreviation 68 71	ENL
+T4	Abbreviation 84 87	EXS
+T5	Abbreviation 115 118	HRS
+T6	Abbreviation 131 134	ACT
+T7	Abbreviation 142 144	PL
+T8	Abbreviation 148 150	LS
+T9	Abbreviation 156 158	FX
+T10	Abbreviation 166 170	CREA
+T11	Abbreviation 172 173	P
+T12	Abbreviation 174 177	LIP
+T13	Abbreviation 179 182	ELP
+T14	Abbreviation 184 185	P
+T15	Abbreviation 186 189	TIR
+T16	Abbreviation 191 193	OC
+T17	Abbreviation 226 229	EXS
+T18	Diagnostic_Procedure 204 217	DOPPLER RENAL
+T19	Disease 0 3	HTA
+T21	Laboratory_or_Test_Result 194 202	NORMALES
+T22	Laboratory_or_Test_Result 218 224	NORMAL
+T23	Laboratory_Procedure 88 118	CORTISOL LIBRE URINARIO 24 HRS
+T24	Laboratory_Procedure 131 144	ACT RENINA PL
+T25	Laboratory_Procedure 166 170	CREA
+T26	Laboratory_Procedure 172 177	P LIP
+T27	Laboratory_Procedure 179 182	ELP
+T28	Laboratory_Procedure 184 189	P TIR
+T29	Laboratory_Procedure 191 193	OC
+T30	Laboratory_Procedure 226 229	EXS
+T31	Medication 68 71	ENL
+T32	Sign_or_Symptom 9 28	CEFALEAS FRECUENTES
+T2	Laboratory_Procedure 148 150	LS
+T20	Laboratory_Procedure 156 164	FX RENAL
+R1	Has Arg1:T29 Arg2:T21	
+R2	Has Arg1:T18 Arg2:T22	
+R3	Has Arg1:T28 Arg2:T21	
+R4	Has Arg1:T27 Arg2:T21	
+R5	Has Arg1:T26 Arg2:T21	
+R6	Has Arg1:T25 Arg2:T21	
+R7	Has Arg1:T20 Arg2:T21	

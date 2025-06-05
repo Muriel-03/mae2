@@ -1,0 +1,19 @@
+T1	Abbreviation 30 33	HTA
+T2	Abbreviation 44 47	NFD
+T3	Abbreviation 49 52	ATN
+T4	Abbreviation 54 57	ENL
+T5	Abbreviation 73 76	ATV
+T6	Abbreviation 78 80	FA
+T7	Abbreviation 81 82	X
+T8	Abbreviation 83 85	AC
+T9	Disease 30 42	HTA ESENCIAL
+T10	Disease 59 71	DISLIPIDEMIA
+T11	Disease 78 80	FA
+T12	Medication 14 29	ANTICOAGULANTES
+T13	Medication 44 47	NFD
+T14	Medication 49 52	ATN
+T15	Medication 54 57	ENL
+T16	Medication 73 76	ATV
+T17	Medication 83 85	AC
+T18	Medication 93 107	ANTICOAGULANTE
+T19	Medication 112 124	ACENOCUMAROL

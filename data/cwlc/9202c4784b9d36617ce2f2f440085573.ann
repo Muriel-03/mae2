@@ -1,0 +1,40 @@
+T1	Abbreviation 131 134	Ant
+T2	Abbreviation 228 231	eco
+T3	Abbreviation 309 312	Dra
+T5	Abbreviation 516 519	HRC
+T6	Abbreviation 534 537	Sd.
+T7	Abbreviation 880 882	TU
+T8	Body_Part 52 65	VÍAS BILIARES
+T9	Body_Part 763 782	hemiabdomen derecho
+T10	Body_Part 785 795	epigastrio
+T11	Body_Part 886 896	via biliar
+T12	Diagnostic_Procedure 228 231	eco
+T13	Disease 2 28	ICTERICIA, NO ESPECIFICADA
+T14	Disease 31 88	TUMOR MALIGNO DE LAS VÍAS BILIARES, PARTE NO ESPECIFICADA
+T15	Disease 91 121	INSUFICIENCIA HEPÁTICA CRÓNICA
+T16	Disease 390 416	hepatopatía crónica difusa
+T17	Disease 419 432	Hepatomegalia
+T18	Disease 534 546	Sd. icterico
+T19	Disease 861 877	Coledocolitiasis
+T20	Disease 880 896	TU de via biliar
+T21	Disease 958 973	Virus hepatitis
+T22	Clinical_Finding 140 153	Alergias:  no
+T23	Clinical_Finding 939 955	Medicamentos: no
+T24	Laboratory_or_Test_Result 360 416	signos moderados a severos de hepatopatía crónica difusa
+T25	Sign_or_Symptom 665 672	coluria
+T26	Sign_or_Symptom 703 709	acolia
+T27	Sign_or_Symptom 722 795	dolor abdominal ocasional tipo colico en hemiabdomen derecho y epigastrio
+T29	Sign_or_Symptom 801 807	fiebre
+T30	Sign_or_Symptom 817 840	ictericia es fluctuante
+T31	Therapeutic_Procedure 165 180	Colecistectomia
+T4	Laboratory_or_Test_Result 419 432	Hepatomegalia
+A1	Negated T26
+T28	Sign_or_Symptom 454 469	Muy meteorizado
+T32	Clinical_Finding 434 452	Colecistectomizado
+A2	Negated T29
+T33	Diagnostic_Procedure 279 298	Ecografía abdominal
+R3	Has Arg1:T33 Arg2:T24	
+R4	Has Arg1:T33 Arg2:T4	
+T34	Medication 853 859	Viadil
+A3	Negated T21
+T35	Clinical_Finding 899 937	Alcohol: escaso consumo en la juventud

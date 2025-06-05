@@ -1,0 +1,31 @@
+T1	Abbreviation 83 86	APS
+T2	Abbreviation 104 109	antec
+T3	Abbreviation 166 171	aprox
+T4	Abbreviation 206 209	tac
+T5	Abbreviation 275 280	aprox
+T6	Abbreviation 496 499	TAC
+T7	Abbreviation 675 680	aprox
+T8	Abbreviation 685 687	cm
+T9	Abbreviation 779 783	atte
+T10	Body_Part 22 46	PIEL DEL CUERO CABELLUDO
+T11	Body_Part 53 59	CUELLO
+T12	Body_Part 130 145	cuero cabelludo
+T13	Body_Part 146 162	region occipital
+T14	Body_Part 213 219	cabeza
+T15	Body_Part 222 228	cuello
+T16	Body_Part 804 828	piel del cuero cabelludo
+T17	Body_Part 835 841	cuello
+T18	Diagnostic_Procedure 206 228	tac de cabeza y cuello
+T19	Diagnostic_Procedure 496 499	TAC
+T20	Disease 2 59	TUMOR BENIGNO DE LA PIEL DEL CUERO CABELLUDO Y DEL CUELLO
+T21	Disease 784 841	Tumor benigno de la piel del cuero cabelludo y del cuello
+T22	Clinical_Finding 715 741	resto examen fisico normal
+T23	Sign_or_Symptom 113 162	tumor a nivel de cuero cabelludo region occipital
+T24	Sign_or_Symptom 591 671	palpa en misma region masa de consistencia irregular adherida a planos profundos
+T25	Sign_or_Symptom 691 714	dolorosa a la palpacion
+T26	Laboratory_or_Test_Result 371 385	origen benigno
+R1	Has Arg1:T18 Arg2:T26	
+T27	Sign_or_Symptom 515 534	cervicalgia cronica
+A1	Negated T25
+T28	Therapeutic_Procedure 403 424	indicacion quirurgica
+A2	Negated T28

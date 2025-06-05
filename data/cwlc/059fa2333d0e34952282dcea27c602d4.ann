@@ -1,0 +1,14 @@
+T1	Abbreviation 25 27	RR
+T2	Abbreviation 58 60	cx
+T3	Abbreviation 71 75	Pcte
+T4	Abbreviation 79 83	TACO
+T5	Abbreviation 92 95	INR
+T6	Abbreviation 102 104	Rx
+T7	Diagnostic_Procedure 102 104	Rx
+T10	Laboratory_Procedure 92 95	INR
+T11	Medication 79 83	TACO
+T12	Therapeutic_Procedure 15 27	exodoncia RR
+T13	Therapeutic_Procedure 58 69	cx cardiaca
+A1	Pending T12
+T14	Body_Part 28 30	16
+T8	Disease 25 27	RR

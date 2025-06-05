@@ -1,0 +1,13 @@
+T1	Abbreviation 38 41	APS
+T2	Body_Part 151 155	dedo
+T3	Body_Part 174 188	pulgar derecho
+T4	Disease 2 14	POLIDACTILIA
+T5	Disease 56 68	polidactilia
+T6	Disease 219 231	Polidactilia
+T7	Family_Member 111 116	madre
+T8	Sign_or_Symptom 151 188	dedo supernumerario en pulgar derecho
+T9	Sign_or_Symptom 56 68	polidactilia
+T10	Sign_or_Symptom 2 14	POLIDACTILIA
+T11	Laboratory_Procedure 194 217	examenes preoperatorios
+A1	Pending T11
+T12	Sign_or_Symptom 219 231	Polidactilia

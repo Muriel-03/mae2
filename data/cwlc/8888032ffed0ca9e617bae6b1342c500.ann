@@ -1,0 +1,8 @@
+T1	Abbreviation 17 20	IRC
+T2	Disease 0 3	K80
+T3	Disease 4 16	COLELITIASIS
+T4	Disease 17 20	IRC
+T5	Disease 47 59	COLELITIASIS
+T6	Therapeutic_Procedure 108 115	CIRUGÍA
+T7	Therapeutic_Procedure 24 41	PERITONEODIÁLISIS
+A1	Pending T6

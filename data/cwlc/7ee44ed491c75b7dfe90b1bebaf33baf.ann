@@ -1,0 +1,15 @@
+T1	Abbreviation 143 147	comp
+T2	Abbreviation 165 167	mg
+T3	Abbreviation 169 173	comp
+T4	Abbreviation 183 186	hrs
+T6	Abbreviation 216 219	CHX
+T7	Disease 0 41	Periodontitis crónica severa generalizada
+T8	Medication 125 136	amoxixilina
+T9	Medication 149 161	Metronidazol
+T10	Medication 216 219	CHX
+T11	Sign_or_Symptom 43 88	Múltiples piezas con indicación de extracción
+T12	Therapeutic_Procedure 78 88	extracción
+T13	Body_Part 53 59	piezas
+T14	Abbreviation 140 142	mg
+T15	Therapeutic_Procedure 101 120	terapia antibiotica
+A1	Pending T12

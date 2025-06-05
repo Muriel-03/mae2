@@ -1,0 +1,12 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 63 66	dte
+T4	Abbreviation 123 128	PMCFA
+T5	Body_Part 17 22	PULPA
+T6	Body_Part 51 98	diente 2.3 (dte. 11, canino superior izquierdo)
+T9	Body_Part 164 169	pulpa
+T10	Disease 2 22	NECROSIS DE LA PULPA
+T11	Disease 149 169	Necrosis de la pulpa
+T12	Clinical_Finding 131 147	cemento temporal
+T13	Medication 123 128	PMCFA
+T3	Therapeutic_Procedure 99 108	trepanado
+T7	Therapeutic_Procedure 110 128	medicado con PMCFA

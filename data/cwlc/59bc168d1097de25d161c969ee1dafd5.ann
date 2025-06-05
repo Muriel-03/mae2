@@ -1,0 +1,9 @@
+T1	Abbreviation 58 61	APS
+T2	Body_Part 113 144	7, 8, 9, 10, 11, 14, 24, 25, 26
+T3	Body_Part 156 163	dientes
+T4	Disease 2 17	RESTO RADICULAR
+T5	Disease 21 34	CARIES DENTAL
+T6	Disease 145 225	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T9	Sign_or_Symptom 88 144	remanentes en mal estado 7, 8, 9, 10, 11, 14, 24, 25, 26
+T10	Therapeutic_Procedure 75 84	exodoncia
+A1	Pending T10

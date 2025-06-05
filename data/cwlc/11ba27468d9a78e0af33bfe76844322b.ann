@@ -1,0 +1,11 @@
+T1	Abbreviation 9 12	hta
+T2	Abbreviation 143 144	+
+T3	Abbreviation 152 156	poli
+T4	Disease 9 12	hta
+T5	Disease 17 42	intolerancia a la lactosa
+T6	Disease 157 163	chagas
+T7	Disease 60 66	chagas
+T8	Laboratory_Procedure 126 143	trypanosoma cruzi
+T9	Laboratory_or_Test_Result 143 144	+
+R1	Has Arg1:T8 Arg2:T9	
+A1	Negated T7

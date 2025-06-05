@@ -1,0 +1,12 @@
+T1	Abbreviation 49 52	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 54 61	dientes
+T4	Body_Part 119 161	diente 3.3 3.4 y 4.3 4.4 en la zona apical
+T5	Body_Part 163 170	Dientes
+T6	Disease 2 25	DIENTES SUPERNUMERARIOS
+T7	Disease 54 77	dientes supernumerarios
+T8	Disease 163 186	Dientes supernumerarios
+T9	Sign_or_Symptom 95 106	dolor agudo
+T10	Laboratory_or_Test_Result 2 25	DIENTES SUPERNUMERARIOS
+T11	Laboratory_or_Test_Result 54 77	dientes supernumerarios
+T12	Laboratory_or_Test_Result 163 186	Dientes supernumerarios

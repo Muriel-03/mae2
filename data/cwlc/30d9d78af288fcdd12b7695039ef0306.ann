@@ -1,0 +1,44 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 473 476	lme
+T3	Abbreviation 1080 1083	p/e
+T4	Abbreviation 1093 1096	p/t
+T5	Abbreviation 1105 1108	t/e
+T6	Abbreviation 1792 1795	GRS
+T7	Abbreviation 1806 1808	ML
+T9	Disease 2 25	ALERGIA NO ESPECIFICADA
+T10	Therapeutic_Procedure 133 138	parto
+T11	Disease 256 275	alergia alimentaria
+T13	Disease 624 644	dermatitis del pañal
+T14	Disease 646 664	dermatitis atópica
+T16	Disease 1166 1172	anemia
+T18	Disease 1998 2021	Alergia no especificada
+T19	Family_Member 765 770	madre
+T20	Family_Member 1893 1898	madre
+T21	Clinical_Finding 321 367	sin otros antecedentes mórbidos de importancia
+T22	Clinical_Finding 448 456	alergias
+T23	Clinical_Finding 1135 1160	estado nutricional normal
+T24	Medication 1766 1787	NUTRILON PEPTI JUNIOR
+T25	Sign_or_Symptom 581 590	urticaria
+T26	Sign_or_Symptom 592 602	angioedema
+T27	Sign_or_Symptom 604 622	erupción peribucal
+T28	Sign_or_Symptom 666 673	vómitos
+T29	Sign_or_Symptom 675 695	distensión abdominal
+T30	Sign_or_Symptom 732 749	estrías de sangre
+T32	Laboratory_or_Test_Result 1433 1512	importante sensibilización de tipo retardada a yema de huevo, acelga y espinaca
+T33	Disease 25 44	ALERGIA ALIMENTARIA
+T34	Clinical_Finding 369 423	sin antecedentes patológicos familiares de importancia
+A1	Negated T22
+T12	Clinical_Finding 193 223	sin complicaciones perinatales
+T15	Laboratory_Procedure 989 1018	examen de hemorragias ocultas
+T36	Laboratory_or_Test_Result 1031 1039	positivo
+R1	Has Arg1:T15 Arg2:T36	
+A2	Negated T16
+T31	Diagnostic_Procedure 1205 1225	prick test alimentos
+T35	Laboratory_or_Test_Result 1267 1367	sensibilidad de tipo inmediata a extracto comercial de leche de vaca y a alimento nativo de espinaca
+R2	Has Arg1:T31 Arg2:T35	
+T17	Diagnostic_Procedure 1375 1399	test de parche alimentos
+R3	Has Arg1:T17 Arg2:T32	
+T37	Laboratory_or_Test_Result 1525 1634	sensibilización de tipo retardada a clara de huevo, harina de trigo, maní, pollo, zapallo italiano y lentejas
+T38	Laboratory_or_Test_Result 1640 1731	dudosa sensibilización de tipo retardada a leche de soya, Merluza,zanahoria y zapato camote
+R4	Has Arg1:T17 Arg2:T37	
+R5	Has Arg1:T17 Arg2:T38	

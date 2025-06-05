@@ -1,0 +1,23 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 83	pcte
+T3	Abbreviation 216 218	rx
+T4	Body_Part 88 97	Dentición
+T5	Body_Part 146 149	2.4
+T6	Body_Part 242 269	terceros molares inferiores
+T7	Body_Part 282 291	3.8 y 4.8
+T8	Body_Part 295 301	canino
+T9	Body_Part 312 315	1.3
+T10	Diagnostic_Procedure 216 229	rx panoramica
+T11	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T12	Disease 320 368	Anomalias dentofaciales (incluso la maloclusion)
+T13	Clinical_Finding 176 208	CLase molar I de Angle bilateral
+T14	Laboratory_or_Test_Result 242 292	terceros molares inferiores impactados (3.8 y 4.8)
+T15	Laboratory_or_Test_Result 295 316	canino retenido (1.3)
+T16	Sign_or_Symptom 110 125	Ausencia de 1.3
+T17	Sign_or_Symptom 127 144	Overjet aumentado
+T18	Sign_or_Symptom 146 173	2.4 mordida cruzada con 3.4
+T20	Clinical_Finding 88 108	Dentición definitiva
+R1	Has Arg1:T10 Arg2:T14	
+R2	Has Arg1:T10 Arg2:T15	
+T19	Body_Part 122 125	1.3
+T21	Body_Part 170 173	3.4

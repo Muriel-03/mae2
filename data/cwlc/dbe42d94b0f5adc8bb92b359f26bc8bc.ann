@@ -1,0 +1,17 @@
+T1	Abbreviation 9 12	TDA
+T2	Abbreviation 14 16	pz
+T3	Abbreviation 107 109	pz
+T4	Abbreviation 133 137	CAOH
+T5	Body_Part 14 20	pz 1.2
+T6	Body_Part 50 53	1.1
+T7	Body_Part 72 75	2.1
+T8	Body_Part 93 96	2.2
+T9	Body_Part 107 121	pz 1.1-2.1-1.2
+T10	Disease 9 12	TDA
+T11	Disease 21 49	fractura coronaria corlicada
+T12	Disease 54 71	luxacion exhusiva
+T13	Disease 76 92	luxacion lateral
+T14	Disease 97 106	concusion
+T15	Therapeutic_Procedure 122 132	trepanadas
+T16	Medication 133 137	CAOH
+T17	Therapeutic_Procedure 138 162	radicacion intraconducto

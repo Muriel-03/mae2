@@ -1,0 +1,7 @@
+T1	Abbreviation 78 81	DLP
+T2	Disease 2 35	OTROS TRASTORNOS DE LA REFRACCIÓN
+T3	Disease 78 81	DLP
+T4	Disease 84 98	hipotiroidismo
+T5	Clinical_Finding 111 125	lentes opticos
+T6	Sign_or_Symptom 134 222	disminucion de la agudeza visual tanto cercana como lejana mas pronunciada durante noche
+T7	Sign_or_Symptom 256 283	dificulta reconocer rostros

@@ -1,0 +1,17 @@
+T1	Abbreviation 45 48	pta
+T2	Abbreviation 57 60	TEL
+T3	Abbreviation 154 158	1ero
+T4	Abbreviation 169 172	PIE
+T5	Abbreviation 336 340	Trat
+T7	Disease 57 66	TEL mixto
+T9	Disease 356 400	Trastorno mixto de las habilidades escolares
+T10	Family_Member 237 243	padres
+T11	Medication 345 355	Anfetamina
+T12	Sign_or_Symptom 69 110	problemas en la interacción con sus pares
+T13	Sign_or_Symptom 116 143	poca intención comunicativa
+T14	Sign_or_Symptom 4 43	dificultades globales en su aprendizaje
+T8	Clinical_Finding 216 235	disfunción familiar
+T15	Clinical_Finding 237 253	padres separados
+T6	Sign_or_Symptom 254 271	Distracción fácil
+T16	Sign_or_Symptom 273 308	no sigue instruciones en la escuela
+T17	Sign_or_Symptom 310 321	hiperactivo

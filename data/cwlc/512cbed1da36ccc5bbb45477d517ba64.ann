@@ -1,0 +1,10 @@
+T1	Disease 50 65	RESTO RADICULAR
+T2	Laboratory_or_Test_Result 30 65	LESION APICAL  PZA9.RESTO RADICULAR
+T3	Therapeutic_Procedure 79 105	TRATAMIENTO REHABILITACION
+T4	Abbreviation 0 3	PZA
+T5	Body_Part 0 4	PZA8
+T6	Clinical_Finding 5 27	RESTAURACION DE RESINA
+T7	Laboratory_or_Test_Result 30 43	LESION APICAL
+T8	Abbreviation 45 48	PZA
+T9	Body_Part 45 49	PZA9
+A1	Pending T3

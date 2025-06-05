@@ -1,0 +1,5 @@
+T1	Body_Part 38 47	pieza 1.3
+T2	Diagnostic_Procedure 89 100	radiografía
+T3	Therapeutic_Procedure 21 31	endodoncia
+T4	Therapeutic_Procedure 70 79	trepanada
+A1	Pending T3

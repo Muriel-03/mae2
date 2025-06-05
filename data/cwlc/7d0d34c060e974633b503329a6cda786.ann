@@ -1,0 +1,16 @@
+T1	Abbreviation 61 63	AC
+T2	Abbreviation 64 65	X
+T3	Abbreviation 66 68	FA
+T4	Abbreviation 70 75	DM II
+T5	Abbreviation 77 80	HTA
+T6	Abbreviation 171 175	TACO
+T7	Abbreviation 236 240	TACO
+T8	Abbreviation 244 248	POST
+T9	Disease 0 4	K402
+T10	Disease 5 59	HERNIA INGUINAL BILATERAL, SIN OBSTRUCCION NI GANGRENA
+T11	Disease 66 68	FA
+T12	Disease 70 75	DM II
+T13	Disease 77 80	HTA
+T14	Medication 61 63	AC
+T15	Medication 171 175	TACO
+T16	Medication 236 240	TACO

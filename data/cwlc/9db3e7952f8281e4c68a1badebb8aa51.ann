@@ -1,0 +1,15 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 518 523	aprox
+T3	Abbreviation 528 530	cm
+T4	Body_Part 168 189	lobulo de ambas orjas
+T5	Body_Part 250 278	pabellon auricular izquierdo
+T6	Body_Part 381 388	lobulos
+T7	Body_Part 546 562	lobulo izquierdo
+T8	Body_Part 597 611	lobulo derecho
+T9	Disease 2 43	LIPOMATOSIS, NO CLASIFICADA EN OTRA PARTE
+T10	Disease 235 278	traumatismo en pabellon auricular izquierdo
+T11	Sign_or_Symptom 341 346	edema
+T12	Sign_or_Symptom 351 388	cambio de coloracion en ambos lobulos
+T13	Sign_or_Symptom 391 409	aumento de volumen
+T14	Sign_or_Symptom 491 514	masa  palpable dolorosa
+T15	Body_Part 572 588	lobulo izquierdo

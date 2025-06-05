@@ -1,0 +1,7 @@
+T1	Body_Part 18 27	denticion
+T2	Body_Part 105 121	piezas 1.3 y 2.3
+T3	Clinical_Finding 18 47	denticion mixta  segunda fase
+T4	Sign_or_Symptom 48 64	clase tres molar
+T5	Sign_or_Symptom 88 121	falta de espacio piezas 1.3 y 2.3
+T6	Disease 65 76	apiñamiento
+T7	Body_Part 77 88	grupo cinco

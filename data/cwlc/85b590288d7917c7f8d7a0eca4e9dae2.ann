@@ -1,0 +1,10 @@
+T1	Clinical_Finding 20 24	sano
+T2	Clinical_Finding 32 60	descenso de ambos testiculos
+A1	Negated T2
+T3	Family_Member 62 66	mamá
+T4	Body_Part 50 60	testiculos
+T5	Body_Part 101 111	testiculos
+T6	Body_Part 118 125	escroto
+T7	Body_Part 140 147	ortejos
+T8	Body_Part 155 159	pies
+T9	Clinical_Finding 76 111	nunca le han palpado los testiculos

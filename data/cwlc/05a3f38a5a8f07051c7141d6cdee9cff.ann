@@ -1,0 +1,6 @@
+T1	Body_Part 9 23	columna lumbar
+T2	Disease 0 8	Artrosis
+T3	Disease 58 68	Escoliosis
+T4	Laboratory_or_Test_Result 58 101	Escoliosis conuexidad izquierda dorsolumbar
+T5	Laboratory_or_Test_Result 24 57	espondiloartrosis moderada-severa
+T6	Laboratory_or_Test_Result 0 23	Artrosis columna lumbar

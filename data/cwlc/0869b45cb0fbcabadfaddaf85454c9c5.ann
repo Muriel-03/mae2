@@ -1,0 +1,7 @@
+T1	Body_Part 92 107	piezas dentales
+T2	Therapeutic_Procedure 0 18	protesis removible
+T4	Sign_or_Symptom 42 107	no puede comer ni hablar ni reirse solo tiene dos piezas dentales
+T5	Therapeutic_Procedure 143 181	protesis removible superior e inferior
+T6	Disease 20 40	paciente desdenteado
+A1	Pending T2
+A2	Pending T5

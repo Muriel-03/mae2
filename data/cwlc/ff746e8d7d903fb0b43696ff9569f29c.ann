@@ -1,0 +1,10 @@
+T1	Abbreviation 13 16	HTA
+T2	Abbreviation 25 28	ERT
+T3	Abbreviation 133 136	Psa
+T4	Disease 13 16	HTA
+T5	Disease 25 28	ERT
+T6	Disease 37 55	infección urinaria
+T7	Sign_or_Symptom 82 100	cuadro obstructivo
+T8	Laboratory_Procedure 133 136	Psa
+T9	Sign_or_Symptom 121 128	Disuria
+T10	Abbreviation 33 35	Dg

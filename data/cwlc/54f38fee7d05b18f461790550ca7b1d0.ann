@@ -1,0 +1,14 @@
+T1	Abbreviation 0 3	obs
+T2	Abbreviation 37 40	izq
+T3	Abbreviation 66 69	izq
+T4	Abbreviation 85 88	izq
+T5	Abbreviation 150 153	itu
+T6	Abbreviation 166 169	hta
+T7	Body_Part 59 69	ureter izq
+T9	Disease 119 140	artritis reumatoidesd
+T10	Disease 141 148	sjogren
+T11	Disease 150 164	itu recurrente
+T12	Disease 166 169	hta
+T13	Laboratory_or_Test_Result 4 69	masa retroperitareal infrarrenal izq con compromiso de ureter izq
+T14	Laboratory_or_Test_Result 71 88	hidronefrosis izq
+T8	Laboratory_or_Test_Result 90 117	adenopatias retroperitareal

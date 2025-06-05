@@ -1,0 +1,8 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 93 106	pieza 3 (1.6)
+T3	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T5	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T6	Therapeutic_Procedure 80 89	exodoncia
+A1	Pending T6
+T4	Laboratory_or_Test_Result 111 147	caries cervical extensa y penetrante
+T7	Disease 111 147	caries cervical extensa y penetrante

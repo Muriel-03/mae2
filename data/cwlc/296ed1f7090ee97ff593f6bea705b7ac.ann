@@ -1,0 +1,10 @@
+T1	Abbreviation 9 12	asa
+T2	Body_Part 47 56	denticion
+T3	Disease 25 46	anomaliadentomaxilar.
+T4	Disease 132 152	apinamiento dentario
+T5	Clinical_Finding 47 69	denticion mixta 1 fase
+T6	Clinical_Finding 71 84	clase i molar
+T9	Sign_or_Symptom 95 113	compresion maxilar
+T10	Sign_or_Symptom 115 130	mordida abierta
+T11	Sign_or_Symptom 132 161	apinamiento dentario anterior
+T12	Clinical_Finding 9 14	asa i

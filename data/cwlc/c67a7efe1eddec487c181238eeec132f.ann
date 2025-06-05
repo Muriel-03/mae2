@@ -1,0 +1,23 @@
+T1	Abbreviation 450 451	G
+T2	Body_Part 264 272	diente 8
+T3	Body_Part 313 319	diente
+T4	Body_Part 420 428	Diente 9
+T5	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T6	Disease 62 84	Desdentamiento parcial
+T7	Disease 277 297	pérdida de inserción
+T8	Sign_or_Symptom 440 456	movilidad G. III
+T9	Sign_or_Symptom 34 60	Mordida invertida anterior
+T11	Sign_or_Symptom 85 117	MOvilidad aumentada generalizada
+T12	Sign_or_Symptom 118 151	Pérdida de inserción generalizada
+T13	Sign_or_Symptom 153 174	recesiones gingivales
+T14	Sign_or_Symptom 175 192	Abundante tártaro
+T15	Sign_or_Symptom 252 297	avulsión de diente 8 por pérdida de inserción
+T16	Sign_or_Symptom 390 399	7 ausente
+T17	Therapeutic_Procedure 205 230	destartraje supragingival
+T10	Disease 252 260	avulsión
+T18	Body_Part 346 350	raíz
+T19	Body_Part 380 388	6-8-9-10
+T20	Body_Part 390 391	7
+T21	Therapeutic_Procedure 355 379	se ferulizan rígidamente
+T22	Therapeutic_Procedure 299 351	Se prepara el diente para provisionalizar (sin raíz)
+T23	Clinical_Finding 401 417	diastema cerrado

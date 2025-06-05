@@ -1,0 +1,5 @@
+T1	Body_Part 66 81	3.1 y 3.2 y 4.2
+T2	Body_Part 112 115	3.2
+T3	Laboratory_or_Test_Result 60 115	pilar 3.1 y 3.2 y 4.2. Presenta lesión apical pilar 3.2
+T4	Therapeutic_Procedure 35 55	prótesis fija plural
+A1	Pending T4

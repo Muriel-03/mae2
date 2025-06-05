@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	Ada
+T2	Body_Part 11 19	PIEZA 19
+T3	Body_Part 96 101	PIEZA
+T4	Disease 0 3	Ada
+T5	Disease 11 20	PIEZA 19.
+T10	Therapeutic_Procedure 43 75	TERAPIA ANTIBIOTICA Y ANALGESICA
+T11	Therapeutic_Procedure 78 89	TREPANACION

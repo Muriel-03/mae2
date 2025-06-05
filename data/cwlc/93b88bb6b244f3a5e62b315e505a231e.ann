@@ -1,0 +1,7 @@
+T1	Abbreviation 189 192	HRT
+T2	Body_Part 0 8	Pieza 23
+T3	Disease 37 68	abceso vestibulares recurrentes
+T4	Laboratory_or_Test_Result 0 32	Pieza 23 fusinada, lesión apical
+T5	Therapeutic_Procedure 106 119	retratamiento
+T6	Therapeutic_Procedure 162 185	tratamiento endodontico
+A1	Pending T5

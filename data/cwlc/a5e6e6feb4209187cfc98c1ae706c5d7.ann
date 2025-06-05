@@ -1,0 +1,10 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 254 269	arcos dentarios
+T4	Disease 158 169	apiñamiento
+T5	Disease 219 269	Anomalias de la relacion entre los arcos dentarios
+T6	Clinical_Finding 56 83	sin antecedentes sistémicos
+T7	Sign_or_Symptom 2 17	MORDIDA CRUZADA
+T8	Sign_or_Symptom 94 119	mordida cruzada bilateral
+T9	Sign_or_Symptom 121 156	clase III molar derecha e izquierda
+T10	Sign_or_Symptom 158 200	apiñamiento dentario anterosuperior severo
+T11	Sign_or_Symptom 202 217	mordica abierta

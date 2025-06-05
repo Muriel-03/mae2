@@ -1,0 +1,24 @@
+T1	Abbreviation 118 121	APS
+T2	Abbreviation 136 139	ANT
+T3	Abbreviation 207 209	NC
+T4	Abbreviation 865 869	AINE
+T5	Abbreviation 870 872	EV
+T6	Body_Part 37 51	PLEXOS NERVIOS
+T7	Body_Part 256 261	L5-S1
+T8	Body_Part 649 672	EXTREMIDADES SUPERIORES
+T9	Body_Part 951 965	plexos nervios
+T10	Disease 2 94	COMPRENSIÓN DE LAS RAÍCES Y DE LOS PLEXOS NERVIOS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T11	Sign_or_Symptom 153 167	LUMBOCIATALGIA
+T12	Disease 241 254	HERNIA LUMBAR
+T13	Disease 916 1008	Comprension de las raices y de los plexos nervios en enfermedades clasificadas en otra parte
+T15	Therapeutic_Procedure 714 723	ANALGESIA
+T18	Medication 865 869	AINE
+T19	Sign_or_Symptom 489 501	DOLOR LUMBAR
+T20	Sign_or_Symptom 516 537	IRRADIACION RADICULAR
+T21	Sign_or_Symptom 552 577	SIGNO DE LASSEGE POSITIVO
+T22	Sign_or_Symptom 638 672	DUELEN LAS EXTREMIDADES SUPERIORES
+A1	Negated T20
+T14	Body_Part 21 27	RAÍCES
+T23	Body_Part 935 941	raices
+T24	Therapeutic_Procedure 756 793	MANEJO ANALGESICO CONTINUO ENDOVENOSO
+T16	Therapeutic_Procedure 853 872	TRATAMIENTO AINE EV

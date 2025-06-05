@@ -1,0 +1,17 @@
+T1	Abbreviation 486 489	atm
+T2	Body_Part 291 309	dientes superiores
+T3	Body_Part 357 375	dientes infeirores
+T4	Body_Part 486 489	atm
+T5	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T6	Clinical_Finding 106 136	relacion canina neutrooclusion
+T7	Clinical_Finding 44 71	relacion esqueletal clase I
+T8	Clinical_Finding 74 103	relacion molar neutrooclusion
+T11	Sign_or_Symptom 139 250	relacion incisiva mordida invertida entre incisivo lateral derecho inferior e incisivo laterla derecho superior
+T12	Sign_or_Symptom 253 316	milimetros faltantes para ordenar los dientes superiores severo
+T13	Sign_or_Symptom 319 380	milimetros faltantes para ordenar los dientes infeirores leve
+T14	Clinical_Finding 383 429	no presenta alteracion en la erupcion dentaria
+T15	Clinical_Finding 432 459	no presenta mordida cruzada
+T16	Clinical_Finding 462 489	no presenta dolor en la atm
+T17	Clinical_Finding 492 520	no presenta asimetria facial
+T9	Body_Part 181 214	incisivo lateral derecho inferior
+T10	Body_Part 217 250	incisivo laterla derecho superior

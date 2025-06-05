@@ -1,0 +1,14 @@
+T1	Abbreviation 121 124	APS
+T2	Abbreviation 126 130	pcte
+T3	Abbreviation 192 194	+-
+T4	Abbreviation 308 310	+-
+T5	Abbreviation 406 409	obs
+T6	Body_Part 72 97	VÍAS URINARIAS INFERIORES
+T7	Diagnostic_Procedure 382 401	ecografia abdominal
+T8	Disease 2 46	DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR
+T9	Disease 50 97	OTROS CÁLCULOS DE LAS VÍAS URINARIAS INFERIORES
+T10	Disease 170 186	calculos renales
+T11	Disease 413 425	colelitiasis
+T13	Sign_or_Symptom 223 249	dolor abdominal recurrente
+T14	Sign_or_Symptom 264 296	intolerancia a ciertos alimentos
+A1	Pending T7

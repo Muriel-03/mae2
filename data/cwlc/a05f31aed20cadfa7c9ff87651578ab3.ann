@@ -1,0 +1,14 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 69 73	SERV
+T3	Abbreviation 130 133	ECO
+T4	Abbreviation 134 137	ABD
+T5	Body_Part 134 137	ABD
+T6	Diagnostic_Procedure 130 137	ECO ABD
+T7	Disease 2 14	COLELITIASIS
+T9	Disease 164 176	Colelitiasis
+T10	Laboratory_or_Test_Result 150 162	COLELITIASIS
+T11	Sign_or_Symptom 90 117	DOLOR ABDOMINAL TIPO COLICO
+R1	Has Arg1:T6 Arg2:T10	
+T8	Disease 150 162	COLELITIASIS
+T12	Laboratory_or_Test_Result 164 176	Colelitiasis
+T13	Laboratory_or_Test_Result 2 14	COLELITIASIS

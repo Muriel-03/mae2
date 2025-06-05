@@ -1,0 +1,9 @@
+T1	Abbreviation 117 122	PMCFA
+T2	Body_Part 37 45	Diente 7
+T3	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T4	Disease 46 60	caries extensa
+T5	Clinical_Finding 124 140	cemento temporal
+T6	Medication 117 122	PMCFA
+T7	Sign_or_Symptom 62 80	fístula inactiva V
+T8	Therapeutic_Procedure 93 104	trepanación
+T9	Abbreviation 79 80	V

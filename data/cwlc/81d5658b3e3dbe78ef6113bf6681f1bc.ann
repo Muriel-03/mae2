@@ -1,0 +1,9 @@
+T1	Abbreviation 0 2	PD
+T2	Abbreviation 25 27	PD
+T3	Body_Part 0 6	PD 2.5
+T4	Body_Part 25 31	PD 2.1
+T5	Disease 7 24	CARIES PENETRANTE
+T6	Disease 113 131	FRACTURA RADICULAR
+T7	Disease 32 54	CARIES MESIAL Y DISTAL
+T8	Laboratory_or_Test_Result 0 24	PD 2.5 CARIES PENETRANTE
+T10	Therapeutic_Procedure 72 86	CIRUGIA APICAL

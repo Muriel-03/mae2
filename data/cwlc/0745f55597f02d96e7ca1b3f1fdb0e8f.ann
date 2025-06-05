@@ -1,0 +1,7 @@
+T1	Abbreviation 63 66	app
+T2	Body_Part 170 195	region testicular derecha
+T3	Body_Part 258 276	region  testicular
+T4	Disease 2 28	HIDROCELE, NO ESPECIFICADO
+T5	Family_Member 117 122	madre
+T6	Sign_or_Symptom 148 195	aumento de volumen en region testicular derecha
+T7	Sign_or_Symptom 249 314	dolor en region  testicular refractaria a tratamiento ambulatorio

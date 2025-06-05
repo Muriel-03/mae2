@@ -1,0 +1,7 @@
+T1	Body_Part 57 66	Dentición
+T2	Body_Part 140 149	diente 13
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Clinical_Finding 79 102	clase I molar bilateral
+T6	Clinical_Finding 57 77	Dentición definitiva
+T7	Sign_or_Symptom 104 126	Sobremordida aumentada
+T4	Sign_or_Symptom 128 149	Giroversión diente 13

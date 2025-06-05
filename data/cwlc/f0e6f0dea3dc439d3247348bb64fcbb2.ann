@@ -1,0 +1,11 @@
+T2	Abbreviation 196 199	CRS
+T3	Body_Part 35 50	ARCOS DENTARIOS
+T4	Body_Part 111 120	laterales
+T5	Body_Part 122 132	canino p11
+T6	Disease 0 50	ANOMALÍAS DE LA RELACIÓN ENTRE LOS ARCOS DENTARIOS
+T7	Disease 99 107	agenesia
+T8	Sign_or_Symptom 61 97	Clase III esqueletal, ortoquirurgica
+T9	Disease 146 154	odontoma
+T10	Sign_or_Symptom 99 120	agenesia de laterales
+T1	Laboratory_or_Test_Result 122 188	canino p11 incluido con odontoma que impidió su correcta ubicacion
+T11	Abbreviation 129 130	p

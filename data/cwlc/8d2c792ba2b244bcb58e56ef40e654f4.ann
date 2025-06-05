@@ -1,0 +1,12 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 44 49	pacte
+T3	Abbreviation 177 180	tto
+T4	Body_Part 54 63	pieza 4.5
+T5	Disease 2 15	CARIES DENTAL
+T6	Disease 123 138	caries profunda
+T7	Disease 193 206	Caries dental
+T10	Sign_or_Symptom 68 94	gran destruccion coronaria
+T11	Therapeutic_Procedure 107 138	trepanacion con caries profunda
+T12	Therapeutic_Procedure 177 191	tto endodoncia
+T8	Therapeutic_Procedure 140 158	se deja medicacion
+A1	Pending T12

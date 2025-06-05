@@ -1,0 +1,48 @@
+T1	Abbreviation 87 90	HTA
+T2	Abbreviation 163 166	SOS
+T3	Abbreviation 179 181	MG
+T4	Abbreviation 204 206	MG
+T5	Abbreviation 233 235	MG
+T6	Abbreviation 264 266	MG
+T7	Abbreviation 299 301	MG
+T8	Abbreviation 470 473	IZQ
+T9	Abbreviation 695 697	MG
+T10	Abbreviation 758 761	EVA
+T11	Abbreviation 818 820	++
+T12	Abbreviation 906 910	POLI
+T13	Body_Part 12 28	MIEMBRO INFERIOR
+T14	Body_Part 452 473	EXTREMIDAD PIERNA IZQ
+T15	Body_Part 846 864	TEJIDO ESFASCELADO
+T16	Disease 2 51	HERIDA DE MIEMBRO INFERIOR, NIVEL NO ESPECIFICADO
+T17	Disease 87 90	HTA
+T18	Disease 92 103	GONARTROSIS
+T19	Disease 327 353	ULCERA VARICOSA COMPLICADA
+T21	Laboratory_or_Test_Result 499 601	Escherichia coli
+Cefotazima Sensible
+Ceftazidima Sensible
+Cefuroxima Sensible
+Gentamicina Sensible
+T24	Medication 154 162	CELCOXIB
+T25	Medication 168 174	CALCIO
+T26	Medication 192 200	TRAMADOL
+T27	Medication 217 228	PARACETAMOL
+T28	Medication 252 260	LOSARTAN
+T29	Medication 284 294	METFORMINA
+T30	Medication 382 393	ANTIBIOTICO
+T31	Medication 603 617	Ciprofloxacino
+T32	Medication 628 637	Amikacina
+T33	Medication 679 690	CEFADROXILO
+T34	Medication 791 799	TRAMADOL
+T35	Medication 801 810	CELECOXIB
+T36	Sign_or_Symptom 442 498	SECRECION EXTREMIDAD PIERNA IZQ.  IDENTIFICACION DE CEPA
+T37	Sign_or_Symptom 733 757	DOLOR DE ALTA INTENSIDAD
+T38	Sign_or_Symptom 812 817	EDEMA
+T39	Sign_or_Symptom 822 864	LESION ERITEMATOSA, CON TEJIDO ESFASCELADO
+T40	Therapeutic_Procedure 911 931	CURACIONES AVANZADAS
+T41	Disease 104 124	INTOLERANCIA GLUCOSA
+T42	Disease 125 135	TABAQUISMO
+T20	Laboratory_or_Test_Result 499 516;517 537;538 559;560 580;581 601	Escherichia coli
+ Cefotazima Sensible
+ Ceftazidima Sensible
+ Cefuroxima Sensible
+ Gentamicina Sensible

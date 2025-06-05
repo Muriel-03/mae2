@@ -1,0 +1,29 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 315 320	aprox
+T3	Abbreviation 346 348	mm
+T4	Abbreviation 411 416	aprox
+T5	Abbreviation 437 439	mm
+T6	Abbreviation 530 533	ATM
+T7	Body_Part 158 165	caninos
+T8	Body_Part 295 313	dientes superiores
+T9	Body_Part 391 409	dientes inferiores
+T10	Body_Part 530 533	ATM
+T11	Body_Part 693 703	diente 3.6
+T12	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T13	Disease 708 714	caries
+T14	Disease 717 752	Maloclusion de tipo no especificado
+T16	Clinical_Finding 136 177	Relación canina - Sin caninos antagonista
+T18	Clinical_Finding 182 223	Relación incisiva - Resalte Normal(2.5mm)
+T19	Sign_or_Symptom 226 252	Sobremordida Normal(2.5mm)
+T20	Sign_or_Symptom 257 332	Milímetros faltantes para ordenar los dientes superiores (aprox) - Moderado
+T21	Sign_or_Symptom 353 424	Milímetros faltantes para ordenar los dientes inferiores (aprox) - Leve
+T22	Clinical_Finding 487 519	Mordida cruzada (Posterior) - No
+T24	Therapeutic_Procedure 679 688	exodoncia
+T25	Clinical_Finding 68 98	Relación Esqueletal  - Clase I
+T26	Sign_or_Symptom 103 132	Relación molar - Distoclusión
+T17	Abbreviation 220 222	mm
+T27	Abbreviation 249 251	mm
+T28	Clinical_Finding 444 483	Alteración en la erupción dentaria - No
+T29	Clinical_Finding 523 538	Dolor  ATM - No
+T30	Clinical_Finding 543 564	Asimetría facial - No
+T31	Clinical_Finding 569 620	Alteración en respiración, deglución, succión. - No

@@ -1,0 +1,18 @@
+T1	Abbreviation 12 13	S
+T2	Abbreviation 14 17	MAC
+T3	Abbreviation 40 43	OBS
+T4	Abbreviation 64 67	FUP
+T5	Abbreviation 81 85	PTVE
+T6	Abbreviation 87 90	FUR
+T7	Abbreviation 100 103	VII
+T8	Abbreviation 130 133	PAP
+T9	Abbreviation 142 146	F.N.
+T10	Diagnostic_Procedure 130 133	PAP
+T11	Disease 44 63	INFERTILIDAD 2DARIA
+T12	Clinical_Finding 0 11	MULTIPARA 1
+T14	Therapeutic_Procedure 14 17	MAC
+T15	Therapeutic_Procedure 81 85	PTVE
+T13	Abbreviation 57 63	2DARIA
+T16	Clinical_Finding 112 128	CICLOS REGULARES
+T17	Laboratory_or_Test_Result 142 146	F.N.
+R1	Has Arg1:T10 Arg2:T17	

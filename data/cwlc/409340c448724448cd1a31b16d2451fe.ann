@@ -1,0 +1,8 @@
+T1	Abbreviation 174 177	CIP
+T2	Abbreviation 179 182	CRC
+T3	Abbreviation 206 209	HCP
+T4	Body_Part 33 49	PIEZA DENTAL 2.1
+T5	Body_Part 248 255	dientes
+T6	Disease 0 18	DESDENTADO PARCIAL
+T8	Disease 210 286	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Sign_or_Symptom 21 49	AUSENCIA DE PIEZA DENTAL 2.1

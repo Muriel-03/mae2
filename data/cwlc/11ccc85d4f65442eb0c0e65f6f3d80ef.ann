@@ -1,0 +1,18 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 72 74	m2
+T3	Abbreviation 170 173	der
+T4	Abbreviation 175 180	Antec
+T5	Abbreviation 185 188	pap
+T6	Abbreviation 216 219	upc
+T7	Abbreviation 221 224	pap
+T8	Body_Part 158 173	fosa iliaca der
+T9	Diagnostic_Procedure 221 224	pap
+T13	Clinical_Finding 72 74	m2
+T15	Laboratory_or_Test_Result 189 196	atipico
+T16	Laboratory_or_Test_Result 225 231	normal
+T17	Sign_or_Symptom 76 87	metrorragia
+T18	Sign_or_Symptom 97 143	sangrado vaginal hace 3 dias, regular cantidad
+T19	Sign_or_Symptom 148 173	algias en fosa iliaca der
+T10	Diagnostic_Procedure 185 188	pap
+R1	Has Arg1:T10 Arg2:T15	
+R2	Has Arg1:T9 Arg2:T16	

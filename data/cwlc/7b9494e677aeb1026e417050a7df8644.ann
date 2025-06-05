@@ -1,0 +1,22 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 84 87	ant
+T3	Abbreviation 91 94	hta
+T4	Abbreviation 118 121	tto
+T5	Abbreviation 135 136	+
+T6	Abbreviation 137 140	aas
+T7	Abbreviation 141 142	+
+T8	Body_Part 177 191	oido izquierdo
+T9	Body_Part 212 239	conducto auditivo izquierdo
+T10	Body_Part 322 326	oido
+T11	Disease 2 42	OTRAS OTITIS MEDIAS CRÓNICAS SUPURATIVAS
+T12	Disease 91 103	hta primaria
+T13	Disease 365 385	otitis media crònica
+T14	Disease 402 442	Otras otitis medias cronicas supurativas
+T15	Medication 126 134	losartan
+T16	Medication 137 140	aas
+T17	Medication 143 153	isosorbide
+T18	Sign_or_Symptom 165 191	sangrado de oido izquierdo
+T19	Sign_or_Symptom 212 255	conducto auditivo izquierdo con sangre seca
+T20	Sign_or_Symptom 261 269	otaklgia
+T21	Sign_or_Symptom 291 326	supuraciòn frecuente del mismo oido
+A1	Negated T20

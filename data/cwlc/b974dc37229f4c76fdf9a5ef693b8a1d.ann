@@ -1,0 +1,6 @@
+T1	Abbreviation 50 53	APS
+T2	Abbreviation 92 95	sup
+T3	Disease 55 75	Apiñamiento dentario
+T4	Sign_or_Symptom 55 106	Apiñamiento dentario severo moderado sup e inferior
+T5	Therapeutic_Procedure 16 26	ORTODONCIA
+A1	Pending T5

@@ -1,0 +1,16 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 59 62	Pac
+T3	Abbreviation 121 124	pza
+T4	Abbreviation 273 276	Pac
+T5	Body_Part 121 124	pza
+T6	Body_Part 171 178	grupo 5
+T7	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T8	Disease 63 88	desdentada total superior
+T9	Disease 230 272	periodontitis crónica generalizada severa.
+T10	Clinical_Finding 157 179	remanencia de grupo 5.
+T12	Laboratory_or_Test_Result 189 214	reabsorción ósea marginal
+T13	Therapeutic_Procedure 108 117	exodoncia
+T14	Therapeutic_Procedure 346 364	Prótesis removible
+T11	Sign_or_Symptom 277 292	no usa prótesis
+A1	Pending T14
+A2	Pending T13

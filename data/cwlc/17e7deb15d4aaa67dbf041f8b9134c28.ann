@@ -1,0 +1,5 @@
+T1	Disease 0 41	periodontitis crónica generalizada severa
+T2	Therapeutic_Procedure 54 65	destartraje
+T3	Therapeutic_Procedure 113 136	tratamiento periodontal
+A1	Pending T3
+T4	Therapeutic_Procedure 68 90	instrucción de higiene

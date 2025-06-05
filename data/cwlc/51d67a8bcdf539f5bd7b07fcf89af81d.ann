@@ -1,0 +1,9 @@
+T1	Body_Part 0 9	diente 16
+T2	Disease 10 44	pulpitis irreversible asintomatica
+T3	Disease 89 116	trombopatia storage de pool
+T4	Disease 119 142	trastorno de agragacion
+T6	Sign_or_Symptom 145 166	secrecion plaquetaria
+T7	Sign_or_Symptom 167 190	problema de coagulacion
+T8	Sign_or_Symptom 221 226	dolor
+T9	Therapeutic_Procedure 60 70	extraccion
+A1	Pending T9

@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 66 71	pacte
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 138 144	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 76 85	mesiodens
+T8	Disease 109 144	Anomalias de la posicion del diente
+T9	Laboratory_or_Test_Result 76 85	mesiodens
+T10	Disease 87 107	apiñamiento dentario

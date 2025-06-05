@@ -1,0 +1,7 @@
+T1	Body_Part 205 217	extremidades
+T2	Disease 304 320	Rinitis alérgica
+T3	Sign_or_Symptom 30 48	cefalea recurrente
+T4	Sign_or_Symptom 105 132	disnea a pequeños esfuerzos
+T5	Sign_or_Symptom 199 217	edema extremidades
+T6	Sign_or_Symptom 151 193	duerme con una almohada , pero "bien alta"
+A1	Negated T5

@@ -1,0 +1,8 @@
+T1	Body_Part 77 81	boca
+T2	Disease 2 18	DESDENTADO TOTAL
+T3	Disease 128 167	desdentado completo superior e inferior
+T4	Sign_or_Symptom 45 81	restos radiculares presentes en boca
+T5	Therapeutic_Procedure 99 109	exodoncias
+T6	Therapeutic_Procedure 184 219	tratramiento en rehabilitacion oral
+T7	Disease 45 63	restos radiculares
+A1	Pending T6

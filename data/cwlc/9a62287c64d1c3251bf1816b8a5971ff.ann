@@ -1,0 +1,8 @@
+T2	Disease 0 28	trastorno depresivo moderado
+T3	Disease 75 92	depresion atipica
+T4	Disease 105 130	trastorno de personalidad
+T6	Disease 28 60	trastorno estres post traumatico
+T1	Sign_or_Symptom 92 105	animo bipolar
+T5	Abbreviation 71 74	obs
+T7	Abbreviation 68 71	vif
+T8	Sign_or_Symptom 60 71	victima vif

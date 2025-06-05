@@ -1,0 +1,9 @@
+T1	Body_Part 11 19	grupo II
+T2	Body_Part 48 62	caninos 6 - 11
+T3	Body_Part 94 106	pieza 7 a 10
+T4	Sign_or_Symptom 0 19	protrusión grupo II
+T5	Sign_or_Symptom 22 47	diastemas sector anterior
+T7	Abbreviation 20 21	+
+T6	Laboratory_or_Test_Result 48 106	caninos 6 - 11 incluidos impactados distal de pieza 7 a 10
+T8	Disease 73 83	impactados
+T9	Disease 63 72	incluidos

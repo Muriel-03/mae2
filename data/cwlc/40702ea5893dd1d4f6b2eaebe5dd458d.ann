@@ -1,0 +1,18 @@
+T1	Abbreviation 42 47	antec
+T2	Abbreviation 51 54	hta
+T3	Abbreviation 63 66	dlp
+T4	Abbreviation 109 111	ex
+T5	Abbreviation 112 115	fco
+T6	Body_Part 158 165	timpano
+T7	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T8	Disease 51 54	hta
+T9	Disease 81 91	hipoacusia
+T10	Disease 140 156	tapon de cerumen
+T11	Clinical_Finding 124 183	otoscopia : sin tapon de cerumen. timpano se observa normal
+T12	Therapeutic_Procedure 230 239	audifonos
+T13	Sign_or_Symptom 81 107	hipoacusia larga evolucion
+T15	Abbreviation 55 62	dm2 nir
+T16	Disease 55 58	dm2
+T17	Disease 63 66	dlp
+A1	Negated T10
+A2	Pending T12

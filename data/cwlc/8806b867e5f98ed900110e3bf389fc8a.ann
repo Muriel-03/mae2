@@ -1,0 +1,5 @@
+T1	Abbreviation 76 79	TTO
+T2	Disease 9 34	DESDENTADO TOTAL SUPERIOR
+T3	Sign_or_Symptom 37 49	SIN PROTESIS
+T4	Therapeutic_Procedure 76 90	TTO. PROTESICO
+A1	Pending T4

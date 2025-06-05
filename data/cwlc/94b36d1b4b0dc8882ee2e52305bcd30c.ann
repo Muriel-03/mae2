@@ -1,0 +1,9 @@
+T1	Abbreviation 169 172	ATM
+T2	Abbreviation 182 185	HTA
+T3	Body_Part 169 180	ATM derecha
+T4	Disease 9 52	desdentada total superior, parcial inferior
+T5	Disease 182 185	HTA
+T6	Disease 198 216	artrosis sistémica
+T7	Sign_or_Symptom 67 96	prótesis superior desajustada
+T8	Sign_or_Symptom 98 124	no posee prótesis inferior
+T9	Sign_or_Symptom 160 180	dolor en ATM derecha

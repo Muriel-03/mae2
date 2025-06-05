@@ -1,0 +1,11 @@
+T1	Abbreviation 100 103	enf
+T2	Body_Part 16 31	VESÍCULA BILIAR
+T3	Body_Part 168 192	via biliar extrahepatica
+T4	Body_Part 215 223	vesicula
+T5	Diagnostic_Procedure 134 153	ecografia abdominal
+T6	Disease 2 53	CÁLCULO DE LA VESÍCULA BILIAR CON OTRA COLECISTITIS
+T7	Disease 100 114	enf. alzhemier
+T8	Sign_or_Symptom 327 353	ocasionalmente sintomática
+T10	Laboratory_or_Test_Result 168 316	via biliar extrahepatica con diametro 6mm, con vesicula amplia, completamente ocupada por contenido ecogenico que poryecta sombra acustica posterior
+R1	Has Arg1:T5 Arg2:T10	
+T9	Abbreviation 207 209	mm

@@ -1,0 +1,13 @@
+T1	Abbreviation 20 23	A.R
+T2	Abbreviation 57 59	OP
+T3	Abbreviation 173 176	TTO
+T4	Disease 0 17	SD.TUNEL CARPIANO
+T5	Disease 20 40	A.R SECUELAR CRONICA
+T6	Medication 105 116	CORITCOIDES
+T7	Medication 181 193	BIFOSFONATOS
+T8	Body_Part 3 17	TUNEL CARPIANO
+T9	Abbreviation 0 2	SD
+T10	Diagnostic_Procedure 147 150	DMO
+A1	Pending T10
+T11	Abbreviation 147 150	DMO
+T12	Disease 57 59	OP

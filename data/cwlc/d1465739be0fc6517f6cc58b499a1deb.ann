@@ -1,0 +1,13 @@
+T1	Abbreviation 23 26	EMB
+T2	Abbreviation 55 58	TSH
+T3	Abbreviation 80 83	ECO
+T4	Abbreviation 84 87	EMB
+T5	Diagnostic_Procedure 80 83	ECO
+T6	Disease 40 54	HIPOTIROIDISMO
+T7	Clinical_Finding 0 8	EMBARAZO
+T8	Clinical_Finding 20 22	M1
+T9	Clinical_Finding 23 26	EMB
+T10	Laboratory_or_Test_Result 84 87	EMB
+T11	Laboratory_Procedure 55 58	TSH
+T12	Abbreviation 20 21	M
+R1	Has Arg1:T5 Arg2:T10	

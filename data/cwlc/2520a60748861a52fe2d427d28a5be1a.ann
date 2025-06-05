@@ -1,0 +1,9 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 52 56	pcte
+T3	Abbreviation 57 61	dmii
+T4	Body_Part 77 80	pie
+T5	Disease 2 23	RETINOPATÍA DIABÉTICA
+T6	Disease 57 61	dmii
+T7	Disease 77 90	pie diabetico
+T8	Sign_or_Symptom 99 131	disminucion de la agudeza visual
+T9	Therapeutic_Procedure 66 80	amputacion pie

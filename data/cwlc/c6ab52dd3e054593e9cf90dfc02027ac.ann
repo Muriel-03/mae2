@@ -1,0 +1,14 @@
+T1	Abbreviation 114 115	+
+T2	Abbreviation 123 131	paramono
+T3	Abbreviation 131 132	+
+T4	Body_Part 17 22	PULPA
+T5	Body_Part 45 55	diente 1.5
+T6	Disease 2 22	NECROSIS DE LA PULPA
+T7	Disease 29 44	Necrosis pulpar
+T8	Therapeutic_Procedure 80 91	trepanación
+T9	Therapeutic_Procedure 93 131	irrigación con suero + motita paramono
+T10	Medication 108 113	suero
+T11	Medication 123 131	paramono
+T12	Sign_or_Symptom 62 67	dolor
+A1	Negated T12
+T13	Medication 133 141	augenato

@@ -1,0 +1,12 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 98 103	PAROX
+T3	Disease 2 15	PROLAPSO ANAL
+T4	Disease 73 84	HEMORROIDES
+T5	Disease 116 124	PROLAPSO
+T6	Sign_or_Symptom 228 251	PERSISTENCIA DEL CUADRO
+T7	Therapeutic_Procedure 278 298	OPERACION CORRECTIVA
+T8	Therapeutic_Procedure 73 92	HEMORROIDES OPERADA
+T9	Clinical_Finding 180 203	ENFERMEDAD DE LA PAREJA
+A1	Implicit_Family_Background T9
+T10	Family_Member 197 203	PAREJA
+A2	Pending T7

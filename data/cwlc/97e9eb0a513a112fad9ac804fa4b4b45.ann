@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 55 69	dolor toracico
+T2	Sign_or_Symptom 159 164	dolor
+T3	Sign_or_Symptom 166 179	palpitaciones
+T4	Disease 0 31	SOPLO CARDÍACO, NO ESPECIFICADO
+T5	Sign_or_Symptom 0 14	SOPLO CARDÍACO
+T6	Abbreviation 83 84	S
+T7	Sign_or_Symptom 83 97	SSistolico 2/6

@@ -1,0 +1,11 @@
+T1	Abbreviation 65 68	APS
+T2	Disease 2 41	MENSTRUACIÓN IRREGULAR, NO ESPECIFICADA
+T3	Disease 157 196	Menstruacion irregular, no especificada
+T4	Sign_or_Symptom 135 144	amenorrea
+T5	Abbreviation 70 71	G
+T6	Abbreviation 72 73	P
+T7	Abbreviation 74 75	A
+T8	Clinical_Finding 70 72	Go
+T9	Clinical_Finding 72 74	Po
+T10	Clinical_Finding 74 76	Ao
+T11	Sign_or_Symptom 81 100	ciclos  irregulares

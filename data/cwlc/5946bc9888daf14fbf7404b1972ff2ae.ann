@@ -1,0 +1,17 @@
+T1	Abbreviation 109 112	APS
+T2	Abbreviation 163 166	eco
+T3	Abbreviation 236 239	izq
+T4	Abbreviation 272 275	PSA
+T5	Body_Part 17 26	TESTÍCULO
+T6	Body_Part 33 42	EPIDÍDIMO
+T7	Body_Part 198 215	epididimo derecho
+T8	Diagnostic_Procedure 163 166	eco
+T9	Disease 2 85	TRASTORNOS DEL TESTÍCULO Y DEL EPIDÍDIMO EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T10	Disease 218 239	quiste testicular izq
+T11	Laboratory_or_Test_Result 179 215	quistes simples en epididimo derecho
+T12	Laboratory_or_Test_Result 218 268	quiste testicular izq, asociado a mínimo hidrocele
+T13	Laboratory_Procedure 272 275	PSA
+T14	Sign_or_Symptom 127 158	dolores testiculares frecuentes
+R1	Has Arg1:T8 Arg2:T11	
+R2	Has Arg1:T8 Arg2:T12	
+T15	Disease 259 268	hidrocele

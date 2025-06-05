@@ -1,0 +1,23 @@
+T1	Abbreviation 51 54	APS
+T2	Body_Part 178 194	pierna izquierda
+T3	Body_Part 218 232	zona del muslo
+T4	Body_Part 470 476	pierna
+T5	Body_Part 549 553	piel
+T6	Body_Part 572 577	manos
+T7	Body_Part 607 623	pierna izquierda
+T8	Body_Part 645 661	pierna izquierda
+T9	Body_Part 741 757	pierna izquierda
+T10	Disease 2 27	DISTONÍA, NO ESPECIFICADA
+T11	Disease 282 301	paralisis espastica
+T12	Clinical_Finding 785 808	sensibilidad conservada
+T13	Sign_or_Symptom 132 194	disminucion de la movilidad y la fuerza de la pierna izquierda
+T14	Sign_or_Symptom 206 232	dolor en la zona del muslo
+T15	Sign_or_Symptom 436 476	dificultad incluso para apoyar la pierna
+T16	Sign_or_Symptom 514 553	lesiones cafe con leche en toda la piel
+T17	Sign_or_Symptom 556 577	soriasis en las manos
+T18	Sign_or_Symptom 629 700	debilidad de la pierna izquierda y derecha mas maracada en la izquierda
+T21	Sign_or_Symptom 707 783	dolor e hipertonia muscular de la pierna izquierda al intentar el movimiento
+T23	Disease 329 337	distonia
+T24	Body_Part 308 318	extramidad
+T25	Sign_or_Symptom 583 623	babinski no reactivo en pierna izquierda
+T26	Disease 556 564	soriasis

@@ -1,0 +1,12 @@
+T1	Abbreviation 73 76	Pza
+T2	Body_Part 73 80	Pza 2.3
+T3	Body_Part 111 126	molares derecho
+T4	Disease 33 44	apiñamiento
+T5	Clinical_Finding 0 18	Clase I esqueletal
+T6	Clinical_Finding 134 157	clase I molar isquierda
+T7	Sign_or_Symptom 33 72	apiñamiento severo. Superior e inferior
+T8	Sign_or_Symptom 73 100	Pza 2.3 Ectopica vestibular
+T9	Sign_or_Symptom 158 175	overjet aumentado
+T10	Clinical_Finding 19 32	dolico facial
+T11	Sign_or_Symptom 176 195	overbite disminuido
+T12	Sign_or_Symptom 101 131	clase III molares derecho leve

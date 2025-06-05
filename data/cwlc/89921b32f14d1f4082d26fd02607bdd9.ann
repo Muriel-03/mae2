@@ -1,0 +1,20 @@
+T1	Abbreviation 77 80	PSR
+T2	Disease 33 55	Periodontitis Agresiva
+T3	Abbreviation 82 83	G
+T4	Abbreviation 87 88	G
+T5	Abbreviation 92 93	G
+T6	Abbreviation 97 98	G
+T7	Abbreviation 102 103	G
+T8	Abbreviation 108 109	G
+T9	Sign_or_Symptom 82 86	G1:4
+T10	Sign_or_Symptom 87 91	G2:4
+T11	Sign_or_Symptom 92 96	G3:4
+T12	Sign_or_Symptom 97 101	G4:4
+T13	Sign_or_Symptom 102 105	G54
+T14	Sign_or_Symptom 108 112	G6:4
+T15	Body_Part 82 84	G1
+T16	Body_Part 87 89	G2
+T17	Body_Part 92 94	G3
+T18	Body_Part 97 99	G4
+T19	Body_Part 102 104	G5
+T20	Body_Part 108 110	G6

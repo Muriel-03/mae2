@@ -1,0 +1,8 @@
+T1	Body_Part 0 10	diente 3.8
+T2	Body_Part 54 64	diente 4.8
+T3	Clinical_Finding 54 89	diente 4.8 en evolucion de erupcion
+T4	Therapeutic_Procedure 42 52	extraccion
+T5	Therapeutic_Procedure 109 119	extraccion
+T6	Clinical_Finding 0 26	diente 3.8 semierupcionada
+A1	Pending T5
+A2	Pending T4

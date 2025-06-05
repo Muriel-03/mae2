@@ -1,0 +1,6 @@
+T1	Disease 87 106	neuralgia trigemino
+T2	Sign_or_Symptom 25 68	dolor hemifacial que no cede a medicamentos
+T3	Abbreviation 70 72	s/
+T4	Disease 72 78	caries
+A1	Negated T4
+T5	Body_Part 97 106	trigemino

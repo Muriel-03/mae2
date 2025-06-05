@@ -1,0 +1,8 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 72 75	ECO
+T3	Diagnostic_Procedure 72 75	ECO
+T4	Disease 2 14	COLELITIASIS
+T5	Disease 91 103	COLELITIASIS
+T6	Laboratory_or_Test_Result 91 103	COLELITIASIS
+T7	Sign_or_Symptom 43 70	DOLOR ABDOMINAL RECURRENTES
+R1	Has Arg1:T3 Arg2:T6	

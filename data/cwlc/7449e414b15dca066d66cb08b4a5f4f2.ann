@@ -1,0 +1,7 @@
+T1	Abbreviation 58 60	RN
+T2	Abbreviation 72 75	PEG
+T3	Abbreviation 77 80	GII
+T4	Disease 72 75	PEG
+T5	Sign_or_Symptom 91 101	talla baja
+T6	Clinical_Finding 58 71	RN 38 semanas
+T7	Disease 91 101	talla baja

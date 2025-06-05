@@ -1,0 +1,12 @@
+T1	Abbreviation 31 33	FA
+T2	Abbreviation 37 41	Taco
+T3	Disease 0 29	Insuficiencia cardiaca severa
+T4	Disease 31 33	FA
+T5	Disease 43 70	insuficiencia mitral severa
+T6	Disease 72 93	hipertensión pulmonar
+T7	Laboratory_or_Test_Result 72 93	hipertensión pulmonar
+T8	Medication 37 41	Taco
+T9	Sign_or_Symptom 111 136	disnea de mínimo esfuerzo
+T10	Sign_or_Symptom 141 157	edema periférico
+A1	Negated T10
+T11	Laboratory_or_Test_Result 43 70	insuficiencia mitral severa

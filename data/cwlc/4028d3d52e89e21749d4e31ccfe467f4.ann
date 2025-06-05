@@ -1,0 +1,15 @@
+T1	Abbreviation 127 131	prof
+T2	Abbreviation 192 194	rx
+T3	Body_Part 88 99	diente  3.1
+T4	Body_Part 195 201	diente
+T5	Body_Part 253 279	tercio cervical radicular.
+T6	Diagnostic_Procedure 192 194	rx
+T7	Disease 2 34	OTRAS ENFERMEDADES PERIODONTALES
+T8	Disease 39 58	ABSCESO PERIODONTAL
+T9	Laboratory_or_Test_Result 228 292	imagen radiolucida desde tercio cervical radicular. hacia apical
+T10	Sign_or_Symptom 113 125	movilidad II
+T11	Sign_or_Symptom 127 157	prof sondaje 10mm mesiolingual
+T12	Sign_or_Symptom 159 185	aumento de volumen lingual
+T13	Therapeutic_Procedure 308 324	pulido radicular
+T14	Clinical_Finding 195 226	diente tratado endodonticamente
+R1	Has Arg1:T6 Arg2:T9	

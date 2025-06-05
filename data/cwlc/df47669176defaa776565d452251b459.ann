@@ -1,0 +1,41 @@
+T1	Abbreviation 60 63	APS
+T2	Abbreviation 65 67	MC
+T3	Abbreviation 94 97	SUR
+T4	Abbreviation 253 256	BEG
+T5	Abbreviation 311 313	EX
+T6	Abbreviation 433 435	EX
+T7	Abbreviation 446 448	MP
+T8	Abbreviation 448 449	+
+T9	Abbreviation 450 453	SRA
+T10	Abbreviation 455 457	EX
+T11	Abbreviation 468 471	BDI
+T12	Abbreviation 493 497	EEII
+T13	Body_Part 272 279	MUCOSAS
+T14	Body_Part 289 297	TIROIDES
+T15	Body_Part 493 497	EEII
+T16	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T17	Laboratory_or_Test_Result 102 118	ARRITMIA SINUSAL
+T18	Disease 530 564	Arritmia cardiaca, no especificada
+T19	Clinical_Finding 253 256	BEG
+T20	Clinical_Finding 272 287	MUCOSAS ROSADAS
+T21	Clinical_Finding 468 471	BDI
+T23	Medication 182 190	LOSARTAN
+T24	Medication 196 205	METILDOPA
+T25	Medication 209 221	NITRENDIPINO
+T26	Sign_or_Symptom 120 136	MAREOS FRECUENTE
+T27	Sign_or_Symptom 138 158	CEFALEA A REPETICION
+T28	Clinical_Finding 289 309	TIROIDES NO PALPABLE
+T29	Sign_or_Symptom 314 338	CARDIACO RITMO IRREGULAR
+T30	Sign_or_Symptom 356 431	SOPLO SISTOLICO EN FOCO AORTICO II/VI, SIN IRRADIACION A RESTO DE PRECORDIO
+T32	Sign_or_Symptom 446 453	MP+ SRA
+T34	Sign_or_Symptom 476 491	VISCEROMEGALIAS
+T36	Clinical_Finding 498 511	PULSOS PEDIOS
+T37	Sign_or_Symptom 514 519	EDEMA
+T38	Sign_or_Symptom 521 528	ULCERAS
+T39	Disease 169 172	HTA
+T22	Medication 233 238	AINES
+T40	Abbreviation 233 238	AINES
+A1	Negated T34
+A2	Negated T37
+A3	Negated T38
+T31	Abbreviation 269 270	+

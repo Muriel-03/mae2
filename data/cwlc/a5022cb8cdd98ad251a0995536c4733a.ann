@@ -1,0 +1,5 @@
+T1	Diagnostic_Procedure 51 60	ECOGRAFÍA
+T2	Disease 2 14	COLELITIASIS
+T4	Sign_or_Symptom 31 46	DOLOR ABDOMINAL
+T3	Laboratory_or_Test_Result 90 116	DOS CÁLCULOS ENDOLUMINLAES
+R1	Has Arg1:T1 Arg2:T3	

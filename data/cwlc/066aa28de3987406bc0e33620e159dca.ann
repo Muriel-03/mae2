@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	diente 13
+T2	Body_Part 30 38	conducto
+T3	Medication 44 64	hidroxido  de calcio
+T4	Therapeutic_Procedure 10 21	trepanacion
+T5	Therapeutic_Procedure 99 109	endodoncia
+A1	Pending T5

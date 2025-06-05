@@ -1,0 +1,16 @@
+T1	Abbreviation 63 66	APS
+T2	Abbreviation 211 214	RNM
+T3	Body_Part 22 39	GLÁNDULA PARÓTIDA
+T4	Body_Part 396 413	glandula parotida
+T5	Diagnostic_Procedure 211 214	RNM
+T6	Disease 2 39	TUMOR BENIGNO DE LA GLÁNDULA PARÓTIDA
+T7	Disease 96 110	retraso mental
+T8	Disease 323 339	Tumor de Warthin
+T9	Disease 376 413	Tumor benigno de la glandula parotida
+T10	Laboratory_or_Test_Result 227 306	tumor parotideo heterogeneo, sin inflitracion local, sin adenopatias cervicales
+T12	Sign_or_Symptom 125 197	aumento de volumen cervical izquierdo 4cm espesor, indurado, no doloroso
+T13	Sign_or_Symptom 284 306	adenopatias cervicales
+R1	Has Arg1:T5 Arg2:T10	
+T14	Abbreviation 164 166	cm
+T11	Laboratory_or_Test_Result 312 339	impresiona Tumor de Warthin
+R2	Has Arg1:T5 Arg2:T11	

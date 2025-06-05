@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 5	pza 3
+T3	Disease 55 76	pulpitis irreversible
+T4	Clinical_Finding 10 38	terapia previamente iniciada
+T5	Therapeutic_Procedure 96 118	rehabilitacion directa
+A1	Pending T5

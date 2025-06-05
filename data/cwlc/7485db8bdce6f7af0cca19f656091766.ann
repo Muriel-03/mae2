@@ -1,0 +1,16 @@
+T1	Abbreviation 16 19	MAC
+T2	Abbreviation 49 52	PAP
+T3	Abbreviation 76 79	TTO
+T4	Abbreviation 83 86	PTO
+T5	Abbreviation 122 125	TTO
+T6	Diagnostic_Procedure 49 52	PAP
+T7	Diagnostic_Procedure 135 157	ECOGRAFIA TRANSVAGINAL
+T8	Disease 102 117	MIOMAS UTERINOS
+T9	Clinical_Finding 0 6	G3P2A1
+T11	Laboratory_or_Test_Result 53 61	ALTERADO
+R1	Has Arg1:T6 Arg2:T11	
+A1	Pending T7
+T12	Therapeutic_Procedure 16 19	MAC
+T10	Abbreviation 0 1	G
+T13	Abbreviation 2 3	P
+T14	Abbreviation 4 5	A

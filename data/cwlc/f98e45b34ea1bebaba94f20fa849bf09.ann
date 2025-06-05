@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	PIEZA 2.5
+T2	Body_Part 79 88	PIEZA 2.5
+T3	Disease 11 32	PULPITIS IRREVERSIBLE
+T4	Clinical_Finding 34 42	EMBARAZO
+T5	Therapeutic_Procedure 68 78	TREPANCION
+T6	Therapeutic_Procedure 90 100	OPERATORIA
+A1	Pending T6

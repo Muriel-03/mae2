@@ -1,0 +1,11 @@
+T1	Body_Part 66 75	dentición
+T2	Body_Part 141 156	piezas 1.1/ 2.1
+T3	Body_Part 192 210	molares temporales
+T4	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T5	Disease 92 112	apiñamiento dentario
+T6	Disease 245 251	caries
+T7	Clinical_Finding 66 81	dentición mixta
+T8	Sign_or_Symptom 92 121	apiñamiento dentario anterior
+T9	Sign_or_Symptom 123 156	rotaciones de las piezas 1.1/ 2.1
+T10	Sign_or_Symptom 159 177	Over yet aumentado
+T11	Sign_or_Symptom 180 251	peridida de molares temporales antes del periodo de recambio por caries

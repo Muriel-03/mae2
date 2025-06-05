@@ -1,0 +1,13 @@
+T1	Abbreviation 43 46	izq
+T2	Abbreviation 143 145	rx
+T4	Body_Part 133 137	piel
+T5	Diagnostic_Procedure 143 145	rx
+T7	Sign_or_Symptom 0 46	aumento de volumen granoso suprocloricular izq
+T8	Sign_or_Symptom 60 110	aumento de volumen no adherido  a planos profundos
+T10	Sign_or_Symptom 115 120	edema
+T11	Sign_or_Symptom 125 132	eritema
+A1	Negated T10
+A2	Negated T11
+T6	Laboratory_or_Test_Result 146 152	normal
+R1	Has Arg1:T5 Arg2:T6	
+T9	Clinical_Finding 133 142	piel sana

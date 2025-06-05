@@ -1,0 +1,32 @@
+T1	Abbreviation 93 96	APS
+T2	Abbreviation 130 133	ant
+T3	Diagnostic_Procedure 183 195	colonoscopia
+T4	Disease 2 42	HEMORRAGIA, NO CLASIFICADA EN OTRA PARTE
+T5	Disease 452 463	hemorroides
+T6	Disease 467 478	fisura anal
+T7	Disease 595 635	Hemorragia, no clasificada en otra parte
+T8	Family_Member 565 570	madre
+T9	Clinical_Finding 126 158	sin ant. mòrbidos de importancia
+T10	Clinical_Finding 527 534	afebril
+T12	Sign_or_Symptom 402 413	hematemesis
+T13	Sign_or_Symptom 419 425	melena
+T14	Sign_or_Symptom 431 438	sincope
+T15	Sign_or_Symptom 452 463	hemorroides
+T16	Sign_or_Symptom 467 478	fisura anal
+T17	Sign_or_Symptom 484 507	alteraciòn en las heces
+T18	Sign_or_Symptom 513 525	baja de peso
+T20	Disease 42 67	HEMORRAGIA DIGESTIVA BAJA
+A1	Pending T3
+T21	Sign_or_Symptom 210 235	hemorragia digestiva baja
+A2	Negated T12
+T11	Sign_or_Symptom 330 385	sangre es fresca, brillante no viene mezclada con heces
+A3	Negated T13
+A4	Negated T14
+A5	Negated T15
+A6	Negated T5
+A7	Negated T16
+A8	Negated T6
+A9	Negated T17
+A10	Negated T18
+T19	Disease 572 593	càncer cervicouterino
+R1	Has Arg1:T8 Arg2:T19	

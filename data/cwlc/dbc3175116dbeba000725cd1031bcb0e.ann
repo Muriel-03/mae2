@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 7	pza 2.2
+T3	Disease 191 200	granuloma
+T4	Laboratory_or_Test_Result 51 129	tratada endodonticamente con relleno radiopalo que se encuentra sobre odturado
+T5	Laboratory_or_Test_Result 144 200	lesion apical de bordes rectos compatibles con granuloma
+T6	Therapeutic_Procedure 12 22	obturacion

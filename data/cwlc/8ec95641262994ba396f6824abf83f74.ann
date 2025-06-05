@@ -1,0 +1,14 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 97 100	HTA
+T3	Disease 2 40	ANEMIA POR DEFICIENCIA DE VITAMINA B12
+T4	Disease 97 100	HTA
+T5	Laboratory_or_Test_Result 219 258	anemia macrocìtica e hipercròmica, leve
+T6	Disease 308 346	Anemia por deficiencia de vitamina B12
+T7	Laboratory_or_Test_Result 160 166	normal
+T8	Laboratory_or_Test_Result 206 214	alterado
+T10	Laboratory_Procedure 146 159	funciòn renal
+T11	Laboratory_Procedure 171 181	creatinina
+T12	Laboratory_Procedure 196 205	hemograma
+R1	Has Arg1:T12 Arg2:T8	
+R2	Has Arg1:T12 Arg2:T5	
+R3	Has Arg1:T10 Arg2:T7	

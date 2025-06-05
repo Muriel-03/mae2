@@ -1,0 +1,9 @@
+T1	Abbreviation 53 54	+
+T2	Abbreviation 91 92	+
+T3	Body_Part 36 52	terceros molares
+T4	Disease 85 91	caries
+T5	Disease 123 129	caries
+T6	Therapeutic_Procedure 19 52	exodoncia de los terceros molares
+T7	Sign_or_Symptom 55 91	superiores ocupcionados y con caries
+T8	Sign_or_Symptom 93 129	inferiores semincluidos y con caries
+A1	Pending T6

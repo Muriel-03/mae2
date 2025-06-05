@@ -1,0 +1,9 @@
+T1	Abbreviation 78 81	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 26 35	pieza 3.5
+T4	Disease 2 22	NECROSIS DE LA PULPA
+T5	Disease 36 51	necrosis pulpar
+T6	Disease 83 100	absceso submucoso
+T7	Therapeutic_Procedure 53 64	trepanación
+T8	Therapeutic_Procedure 83 121	absceso submucoso drenado por conducto
+T9	Body_Part 113 121	conducto

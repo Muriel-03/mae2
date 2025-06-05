@@ -1,0 +1,8 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 50 54	pcte
+T3	Body_Part 68 74	cuello
+T4	Disease 2 21	NEVO, NO NEOPLÁSICO
+T5	Sign_or_Symptom 76 93	cambio coloracion
+T6	Sign_or_Symptom 95 102	prurito
+T7	Disease 103 122	Nevo, no neoplasico
+T8	Sign_or_Symptom 63 74	nevo cuello

@@ -1,0 +1,8 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 212 219	dientes
+T3	Disease 2 20	DESDENTADO PARCIAL
+T4	Disease 49 94	Desdentada total maxilar y parcial mandibular
+T5	Disease 174 250	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T6	Sign_or_Symptom 95 136	Clasificacion Kennedy: I larga mandibular
+T7	Therapeutic_Procedure 149 173	rehabilitacion protésica
+A1	Pending T7

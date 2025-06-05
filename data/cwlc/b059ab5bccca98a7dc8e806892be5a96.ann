@@ -1,0 +1,7 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 108 110	PT
+T3	Body_Part 170 177	dientes
+T4	Disease 2 18	DESDENTADO TOTAL
+T5	Disease 57 94	desdentado total maxilar y mandibular
+T6	Disease 132 208	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Sign_or_Symptom 108 131	PT data mayor a 10 años

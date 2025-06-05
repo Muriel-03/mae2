@@ -1,0 +1,6 @@
+T1	Abbreviation 77 81	diag
+T2	Abbreviation 133 137	diag
+T3	Body_Part 90 96	diente
+T4	Clinical_Finding 90 132	diente con tratamiento prevamente iniciado
+T5	Disease 146 172	periodontitis apical agudo
+T7	Sign_or_Symptom 13 76	dolor a repeticion agudo al morder, no puede morder por el lado

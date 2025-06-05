@@ -1,0 +1,13 @@
+T1	Abbreviation 139 142	APS
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Disease 95 106	apiñamiento
+T4	Disease 189 200	apiñamiento
+T5	Disease 265 313	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 50 61	maloclusión
+T7	Sign_or_Symptom 74 92	overbite aumentado
+T8	Sign_or_Symptom 95 115	apiñamiento anterior
+T9	Sign_or_Symptom 168 186	overbite aumentado
+T10	Sign_or_Symptom 189 209	apiñamiento anterior
+T11	Clinical_Finding 62 69	clase I
+T12	Sign_or_Symptom 144 155	maloclusión
+T13	Clinical_Finding 156 163	clase I

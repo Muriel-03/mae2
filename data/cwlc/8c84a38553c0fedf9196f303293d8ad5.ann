@@ -1,0 +1,9 @@
+T1	Abbreviation 31 34	HNP
+T2	Abbreviation 93 96	TTO
+T3	Body_Part 35 37	L3
+T4	Body_Part 40 42	L4
+T5	Disease 0 30	SINDROME LUMBOCIATICO DERECHO.
+T6	Disease 31 34	HNP
+T7	Disease 52 76	RAQUIETENOSIS SECUNDARIA
+T9	Laboratory_or_Test_Result 31 51	HNP L3 - L4 EXTRUIDA
+T8	Laboratory_or_Test_Result 52 76	RAQUIETENOSIS SECUNDARIA

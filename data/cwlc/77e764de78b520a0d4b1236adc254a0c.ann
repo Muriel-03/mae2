@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	Pieza 8.5
+T2	Disease 10 38	Caries dentinaria penetrante
+T3	Disease 39 54	Necrosis pulpar
+T4	Therapeutic_Procedure 85 116	tratamiento en necropulpectomia
+T5	Laboratory_or_Test_Result 10 38	Caries dentinaria penetrante
+A1	Pending T4

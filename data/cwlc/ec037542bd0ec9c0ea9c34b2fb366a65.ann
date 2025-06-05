@@ -1,0 +1,7 @@
+T1	Disease 2 10	PULPITIS
+T2	Disease 65 82	caries penetrante
+T3	Disease 84 92	pulpitis
+T4	Clinical_Finding 37 47	embarazada
+T5	Laboratory_or_Test_Result 65 82	caries penetrante
+T7	Therapeutic_Procedure 109 119	endodoncia
+A1	Pending T7

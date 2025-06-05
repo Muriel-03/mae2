@@ -1,0 +1,12 @@
+T1	Body_Part 17 33	APARATO LAGRIMAL
+T2	Body_Part 85 101	aparato lagrimal
+T3	Body_Part 203 210	pupilas
+T4	Body_Part 281 306	glandula lagrimal derecha
+T5	Disease 2 33	TRASTORNOS DEL APARATO LAGRIMAL
+T6	Disease 72 101	trastorno de aparato lagrimal
+T7	Sign_or_Symptom 138 155	epifora constante
+T8	Clinical_Finding 223 247	normorreactivas a la luz
+T9	Sign_or_Symptom 262 306	leve eritema de la glandula lagrimal derecha
+T10	Sign_or_Symptom 312 319	epifora
+T11	Sign_or_Symptom 161 184	no cede con tratamiento
+T12	Clinical_Finding 203 221	pupilas isocoricas

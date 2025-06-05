@@ -1,0 +1,7 @@
+T1	Body_Part 131 140	Dentición
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Disease 76 96	apiñamiento dentario
+T4	Clinical_Finding 131 159	Dentición mixta primera fase
+T5	Sign_or_Symptom 54 75	Anomalía dentomaxilar
+T6	Sign_or_Symptom 76 111	apiñamiento dentario anteroinferior
+T7	Sign_or_Symptom 113 129	falta de espacio

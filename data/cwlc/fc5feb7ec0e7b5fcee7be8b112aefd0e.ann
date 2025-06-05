@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	dte
+T3	Abbreviation 98 102	PMCF
+T4	Body_Part 0 8	dte. 2.6
+T6	Disease 36 58	absceso apical crónico
+T8	Clinical_Finding 119 125	fermin
+T10	Medication 98 102	PMCF
+T12	Therapeutic_Procedure 71 82	trepanación
+T13	Therapeutic_Procedure 139 164	tratamiento de endodoncia
+A1	Pending T13
+T2	Therapeutic_Procedure 87 102	medica con PMCF

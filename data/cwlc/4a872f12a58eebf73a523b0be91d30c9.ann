@@ -1,0 +1,9 @@
+T1	Abbreviation 11 15	EMB.
+T2	Abbreviation 19 23	SEM.
+T3	Abbreviation 127 130	ARO
+T5	Disease 24 45	SINDROME HIPERTENSIVO
+T7	Clinical_Finding 0 10	PRIMIGESTA
+T8	Clinical_Finding 11 14	EMB
+T9	Clinical_Finding 46 54	EMBARAZO
+T6	Laboratory_or_Test_Result 73 77	P.12
+T4	Abbreviation 99 104	MATER

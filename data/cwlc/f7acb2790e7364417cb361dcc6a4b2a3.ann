@@ -1,0 +1,9 @@
+T1	Body_Part 87 103	Piezas 3.3 y 4.3
+T2	Body_Part 107 111	boca
+T3	Body_Part 113 120	Maxilar
+T4	Body_Part 122 131	2.1 y 2.3
+T5	Body_Part 135 139	boca
+T6	Disease 2 20	DESDENTADO PARCIAL
+T7	Disease 33 72	desdentada parcial maxilar y mandibular
+T8	Clinical_Finding 113 139	Maxilar: 2.1 y 2.3 en boca
+T9	Clinical_Finding 75 111	Mandibular: Piezas 3.3 y 4.3 en boca

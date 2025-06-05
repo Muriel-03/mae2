@@ -1,0 +1,13 @@
+T1	Abbreviation 0 5	antec
+T2	Abbreviation 9 11	ca
+T3	Abbreviation 59 64	aprox
+T4	Abbreviation 128 133	aprox
+T5	Abbreviation 137 139	cm
+T6	Abbreviation 183 185	qx
+T7	Body_Part 12 18	vejiga
+T8	Disease 9 18	ca vejiga
+T9	Disease 85 117	hernia supraumbilcial incisional
+T13	Therapeutic_Procedure 51 58	bricker
+T14	Therapeutic_Procedure 172 185	resolucion qx
+T10	Therapeutic_Procedure 27 46	cistectomia radical
+A1	Pending T14

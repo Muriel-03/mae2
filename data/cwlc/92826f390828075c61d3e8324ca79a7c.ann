@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 101 123	pieza anterosuperiores
+T3	Body_Part 159 174	arcos dentarios
+T5	Disease 124 174	Anomalias de la relacion entre los arcos dentarios
+T6	Sign_or_Symptom 2 17	MORDIDA ABIERTA
+T7	Sign_or_Symptom 55 75	clase iii esqueleral
+T8	Sign_or_Symptom 76 91	mordida vis vis
+T9	Sign_or_Symptom 92 123	atricion pieza anterosuperiores

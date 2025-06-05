@@ -1,0 +1,14 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 52 56	Pact
+T3	Abbreviation 77 79	DM
+T4	Abbreviation 80 83	ins
+T5	Abbreviation 84 87	Req
+T6	Abbreviation 88 91	HTA
+T7	Body_Part 164 177	ojo izquierdo
+T8	Disease 2 23	RETINOPATÍA DIABÉTICA
+T9	Disease 77 79	DM
+T10	Disease 88 91	HTA
+T11	Disease 92 104	Dislipidemia
+T12	Disease 249 270	Retinopatia diabetica
+T13	Sign_or_Symptom 117 177	disminucion de la agudeza visual sobre todo en ojo izquierdo
+T14	Sign_or_Symptom 193 248	sensacion sombra negra que lo disminuye el campo visual

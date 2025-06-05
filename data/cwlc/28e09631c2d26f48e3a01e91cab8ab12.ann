@@ -1,0 +1,9 @@
+T1	Abbreviation 101 104	APS
+T2	Body_Part 128 162	grupo anterior superior e inferior
+T3	Body_Part 193 199	diente
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Disease 164 199	Anomalias de la posicion del diente
+T6	Sign_or_Symptom 106 162	mal posición dentaria grupo anterior superior e inferior
+T7	Body_Part 31 37	DIENTE
+T8	Sign_or_Symptom 37 76	Apiñamiento antrior superior e inferior
+T9	Disease 37 48	Apiñamiento

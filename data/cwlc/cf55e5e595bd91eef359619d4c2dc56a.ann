@@ -1,0 +1,8 @@
+T1	Abbreviation 127 132	PMCLF
+T2	Body_Part 77 86	diente 21
+T3	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T4	Disease 50 76	caries dentinaria profunda
+T5	Clinical_Finding 135 151	cemento temporal
+T6	Medication 127 132	PMCLF
+T7	Therapeutic_Procedure 99 110	trepanación
+T8	Therapeutic_Procedure 112 132	medicación con PMCLF

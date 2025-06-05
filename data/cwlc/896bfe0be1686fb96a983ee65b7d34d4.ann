@@ -1,0 +1,15 @@
+T1	Abbreviation 68 71	APS
+T2	Body_Part 2 10	PREPUCIO
+T3	Body_Part 83 91	prepusio
+T4	Body_Part 119 125	glande
+T5	Body_Part 135 141	vejiga
+T6	Body_Part 251 259	Prepucio
+T7	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T8	Disease 191 213	Fimosis no fisiológica
+T9	Therapeutic_Procedure 227 249	resolución quirúrgica.
+T10	Disease 251 293	Prepucio redundante, fimosis y parafimosis
+T11	Sign_or_Symptom 83 125	prepusio estrecho, no desciende por glande
+T12	Sign_or_Symptom 135 151	vejiga prepusial
+T13	Disease 173 182	balanitis
+A1	Negated T13
+A2	Pending T9

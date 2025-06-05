@@ -1,0 +1,22 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 324 327	BEG
+T3	Disease 2 58	OTROS TRASTORNOS DEL DESARROLLO DEL HABLA Y DEL LENGUAJE
+T4	Disease 578 634	Otros trastornos del desarrollo del habla y del lenguaje
+T5	Family_Member 87 92	madre
+T6	Family_Member 101 105	hijo
+T7	Family_Member 392 397	madre
+T8	Family_Member 467 472	padre
+T9	Family_Member 517 523	abuela
+T10	Clinical_Finding 324 327	BEG
+T11	Clinical_Finding 374 381	alergia
+T12	Sign_or_Symptom 121 170	alteraciones de comportamiento  y de comunicicion
+T13	Sign_or_Symptom 171 180	irritable
+T14	Sign_or_Symptom 187 195	inquieto
+T15	Clinical_Finding 298 319	sin alteracion fisica
+T16	Sign_or_Symptom 181 186	tenso
+T17	Sign_or_Symptom 209 217	agresivo
+T18	Clinical_Finding 349 370	no ingesta de farmaco
+T19	Clinical_Finding 328 348	no enfermedad alguna
+A1	Negated T11
+T20	Disease 402 412	epileptica
+R1	Has Arg1:T7 Arg2:T20	

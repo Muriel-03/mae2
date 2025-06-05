@@ -1,0 +1,6 @@
+T1	Body_Part 48 53	pulpa
+T2	Body_Part 60 78	tejido  periapical
+T3	Body_Part 79 91	pieza 9 y 10
+T4	Disease 0 78	otras enfermedades y las no especificadas de la pulpa y del tejido  periapical
+T5	Disease 92 105	quiste apical
+T6	Laboratory_or_Test_Result 92 105	quiste apical

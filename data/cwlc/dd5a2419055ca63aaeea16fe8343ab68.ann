@@ -1,0 +1,14 @@
+T1	Abbreviation 0 2	Dg
+T2	Abbreviation 6 10	Post
+T3	Abbreviation 43 44	+
+T4	Abbreviation 85 88	HTA
+T5	Abbreviation 118 119	+
+T6	Abbreviation 120 123	IUE
+T8	Disease 85 88	HTA
+T9	Disease 89 117	Prolapso genital (cistocele)
+T10	Disease 120 123	IUE
+T11	Clinical_Finding 3 5	M2
+T12	Clinical_Finding 6 22	Post. menopausia
+T13	Therapeutic_Procedure 23 42	Histerectomia total
+T14	Therapeutic_Procedure 45 59	salpingestomia
+T15	Therapeutic_Procedure 62 84	ooforectomia bilateral

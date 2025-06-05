@@ -1,0 +1,5 @@
+T1	Disease 33 69	Desdentada parcial superior inferior
+T2	Sign_or_Symptom 71 115	clase II modificación II de Kennedy superior
+T3	Sign_or_Symptom 117 150	clase II modificación I inferior.
+T4	Therapeutic_Procedure 172 209	prótesis acrílica superior e inferior
+A1	Pending T4

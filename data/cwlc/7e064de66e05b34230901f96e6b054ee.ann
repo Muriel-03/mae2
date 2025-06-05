@@ -1,0 +1,8 @@
+T1	Body_Part 128 131	pie
+T2	Body_Part 209 225	cadera izquierda
+T3	Disease 62 67	cohen
+T4	Disease 199 225	Displasia cadera izquierda
+T5	Sign_or_Symptom 114 131	deformidad en pie
+T6	Sign_or_Symptom 134 159	dificultad para la marcha
+T7	Laboratory_or_Test_Result 199 225	Displasia cadera izquierda
+T8	Laboratory_or_Test_Result 230 249	subluxación femoral

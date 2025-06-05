@@ -1,0 +1,5 @@
+T1	Abbreviation 50 55	diag.
+T2	Body_Part 0 10	diente 1.5
+T4	Disease 64 81	caries penetrante
+T5	Disease 82 115	pulpitis irreversible sintomatica
+T6	Clinical_Finding 15 47	tratamiento previamente iniciado

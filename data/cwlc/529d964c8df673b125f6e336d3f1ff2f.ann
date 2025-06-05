@@ -1,0 +1,10 @@
+T1	Abbreviation 69 72	APS
+T2	Body_Part 121 137	pierna izquierda
+T3	Body_Part 201 217	pierna izquierda
+T4	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T5	Disease 92 137	insuficiencia venosa cronica pierna izquierda
+T6	Disease 171 217	insufiencia venosa cronica en pierna izquierda
+T7	Disease 275 318	Insuficiencia venosa (cronica) (periferica)
+T8	Therapeutic_Procedure 250 272	medidas farmacologicas
+T9	Therapeutic_Procedure 84 91	operada
+T10	Sign_or_Symptom 236 272	no alivia con medidas farmacologicas

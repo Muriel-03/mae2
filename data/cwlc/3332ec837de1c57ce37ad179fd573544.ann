@@ -1,0 +1,5 @@
+T1	Body_Part 31 36	MANOS
+T2	Diagnostic_Procedure 104 120	ELECTROMIOGRAFIA
+T3	Sign_or_Symptom 22 36	DOLOR DE MANOS
+T4	Sign_or_Symptom 39 50	DISESTESIAS
+T5	Sign_or_Symptom 51 75	DISMINUCION DE LA FUERZA

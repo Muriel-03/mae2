@@ -1,0 +1,11 @@
+T1	Abbreviation 9 12	TTO
+T2	Abbreviation 24 27	PZA
+T3	Abbreviation 71 74	PZA
+T4	Body_Part 24 32	PZA. 3.6
+T5	Body_Part 71 74	PZA
+T7	Disease 53 59	CARIES
+T12	Sign_or_Symptom 71 100	PZA. CON DOLOR A LA PERCUCION
+T13	Sign_or_Symptom 102 118	CAMBIOS TERMICOS
+T14	Sign_or_Symptom 132 148	DOLOR ESPONTANEO
+T15	Therapeutic_Procedure 9 32	TTO. RADICULAR PZA. 3.6
+T6	Therapeutic_Procedure 37 59	INACTIVACION DE CARIES

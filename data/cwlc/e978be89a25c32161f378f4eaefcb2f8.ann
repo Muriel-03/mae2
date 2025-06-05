@@ -1,0 +1,8 @@
+T1	Body_Part 2 5	PIE
+T2	Body_Part 84 90	cadera
+T3	Body_Part 160 164	pies
+T4	Body_Part 167 174	piernas
+T5	Disease 2 21	PIE PLANO CONGÉNITO
+T6	Disease 71 90	displasia de cadera
+T8	Sign_or_Symptom 145 174	dolores de los pies y piernas
+T9	Sign_or_Symptom 193 220	deformidades de los zapatos

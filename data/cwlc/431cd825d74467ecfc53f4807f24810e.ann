@@ -1,0 +1,5 @@
+T1	Disease 0 6	SSMO91
+T2	Disease 9 60	TRASTORNO DE LA GENERACION DEL IMPULSO Y CONDUCCIÓN
+T3	Disease 71 120	Trastornos De Generacion Del Impulso Y Conduccion
+T4	Therapeutic_Procedure 165 174	Marcapaso
+A1	Pending T4

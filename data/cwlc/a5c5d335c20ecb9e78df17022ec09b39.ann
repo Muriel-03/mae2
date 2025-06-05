@@ -1,0 +1,22 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 71 74	Pza
+T3	Abbreviation 170 174	hipo
+T4	Abbreviation 202 205	obt
+T5	Abbreviation 221 223	vi
+T6	Abbreviation 225 228	Pac
+T7	Abbreviation 243 246	tto
+T8	Abbreviation 257 260	APS
+T9	Body_Part 71 78	Pza 1.4
+T10	Disease 2 10	PULPITIS
+T11	Disease 14 42	CARIES DENTINARIA PENETRANTE
+T12	Disease 93 114	pulpitis irreversible
+T13	Disease 120 137	caries penetrante
+T15	Clinical_Finding 221 223	vi
+T16	Clinical_Finding 229 239	embarazada
+T17	Laboratory_or_Test_Result 14 42	CARIES DENTINARIA PENETRANTE
+T18	Laboratory_or_Test_Result 120 137	caries penetrante
+T19	Medication 170 174	hipo
+T20	Medication 210 218	eugenato
+T23	Clinical_Finding 79 88	trepanada
+T24	Therapeutic_Procedure 156 196	se irriga con hipo. Se deja mota estéril
+T25	Therapeutic_Procedure 202 223	obt con eugenato y vi

@@ -1,0 +1,5 @@
+T1	Abbreviation 86 89	PZA
+T2	Body_Part 86 91	PZA 8
+T3	Disease 47 74	DESDENTADA PARCIAL SUPERIOR
+T4	Therapeutic_Procedure 76 85	EXODONCIA
+A1	Pending T4

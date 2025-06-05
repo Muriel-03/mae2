@@ -1,0 +1,15 @@
+T1	Abbreviation 70 72	OI
+T2	Abbreviation 136 139	HRC
+T3	Abbreviation 187 189	OI
+T4	Body_Part 44 69	vena central de la retina
+T5	Body_Part 70 72	OI
+T6	Body_Part 161 186	vena central de la retina
+T7	Body_Part 187 189	OI
+T8	Body_Part 231 244	nervio optico
+T9	Body_Part 293 296	Ojo
+T10	Diagnostic_Procedure 283 296	Fondo de  Ojo
+T12	Disease 2 32	OCLUSIÓN VASCULAR DE LA RETINA
+T13	Laboratory_or_Test_Result 193 229	Hemorragias en llama en 4 cuadrantes
+T14	Laboratory_or_Test_Result 231 254	nervio optico tumefacto
+T15	Laboratory_or_Test_Result 256 276	tortuosidad vascular
+T11	Disease 32 69	Oclusion de vena central de la retina

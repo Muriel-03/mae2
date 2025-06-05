@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 156 175	caninos permanentes
+T3	Body_Part 177 184	paladar
+T4	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T5	Disease 97 117	apiñamiento dentario
+T6	Disease 218 266	Anomalias dentofaciales (incluso la maloclusion)
+T7	Clinical_Finding 193 216	CLase I molar bilateral
+T9	Sign_or_Symptom 126 175	sin espacio para erupciñon de caninos permanentes
+T10	Sign_or_Symptom 177 191	paladar ojival

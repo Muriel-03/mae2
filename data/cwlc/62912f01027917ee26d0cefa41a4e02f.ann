@@ -1,0 +1,21 @@
+T1	Abbreviation 0 3	DM2
+T2	Abbreviation 4 6	IR
+T3	Abbreviation 21 24	HTA
+T4	Abbreviation 48 51	DLP
+T5	Abbreviation 110 113	NPH
+T6	Abbreviation 121 124	MTF
+T7	Abbreviation 132 135	ATV
+T8	Abbreviation 139 142	ENL
+T9	Abbreviation 148 153	DIGOX
+T10	Disease 0 3	DM2
+T11	Disease 21 24	HTA
+T12	Disease 48 51	DLP
+T13	Disease 63 71	ARTROSIS
+T14	Disease 72 94	INSUFICIENCIA CARDIACA
+T15	Medication 110 113	NPH
+T16	Medication 121 124	MTF
+T17	Medication 132 135	ATV
+T18	Medication 139 142	ENL
+T19	Medication 148 153	DIGOX
+T20	Medication 159 169	FUROSEMIDA
+T21	Medication 176 189	ESPIROLACTONA

@@ -1,0 +1,9 @@
+T1	Body_Part 94 99	dedos
+T3	Body_Part 128 136	antepiés
+T4	Disease 20 43	Toxoplasmosis congénita
+T5	Disease 46 54	obesidad
+T6	Sign_or_Symptom 64 80	dolor al caminar
+T7	Sign_or_Symptom 94 109	dedos en garras
+T8	Sign_or_Symptom 112 136	callosidades en antepiés
+T2	Sign_or_Symptom 137 165	PIE PLANO ANTERIOR BILATERAL
+T9	Body_Part 137 140	PIE

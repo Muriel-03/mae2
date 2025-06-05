@@ -1,0 +1,9 @@
+T1	Abbreviation 66 69	dte
+T2	Body_Part 66 73	dte 1.3
+T3	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T4	Disease 44 65	pulpitis irreversible
+T5	Disease 78 104	caries dentinaria profunda
+T6	Clinical_Finding 158 175	cemento tremporal
+T7	Sign_or_Symptom 66 104	dte 1.3 con caries dentinaria profunda
+T8	Therapeutic_Procedure 118 129	trepanacion
+T9	Therapeutic_Procedure 131 175	medicacion intraconducto y cemento tremporal

@@ -1,0 +1,9 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 119 122	PPR
+T3	Body_Part 27 33	LENGUA
+T4	Body_Part 62 78	Frenillo lingual
+T5	Body_Part 173 179	lengua
+T6	Disease 2 33	OTRAS ENFERMEDADES DE LA LENGUA
+T7	Disease 148 179	Otras enfermedades de la lengua
+T8	Sign_or_Symptom 62 147	Frenillo lingual corto, interfiere con conector mayor de PPR mandibular base metalica
+T9	Therapeutic_Procedure 119 147	PPR mandibular base metalica

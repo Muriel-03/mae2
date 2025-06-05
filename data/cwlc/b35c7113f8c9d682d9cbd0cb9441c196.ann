@@ -1,0 +1,8 @@
+T1	Body_Part 58 71	grupos II y V
+T2	Body_Part 73 103	incisivos centrales superiores
+T3	Body_Part 122 152	incisivos laterales superiores
+T4	Disease 18 38	apiñamiento dentario
+T5	Sign_or_Symptom 18 71	apiñamiento dentario muy marcado de los grupos II y V
+T6	Sign_or_Symptom 73 120	incisivos centrales superiores vestibularizados
+T7	Sign_or_Symptom 122 165	incisivos laterales superiores por paletino
+T8	Sign_or_Symptom 168 202	desviacion de linea media superior

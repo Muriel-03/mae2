@@ -1,0 +1,13 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 30 36	CADERA
+T3	Body_Part 96 110	cadera derecha
+T4	Body_Part 247 266	miembros inferiores
+T5	Body_Part 302 315	pie izquierdo
+T6	Body_Part 374 380	cadera
+T7	Disease 2 37	COXARTROSIS (ARTROSIS DE LA CADERA)
+T8	Disease 346 381	Coxartrosis (artrosis de la cadera)
+T9	Sign_or_Symptom 87 204	dolor en cadera derecha desde hace  3 meses de forma constante  el cual se incrementa con la bipedestacion prolongada
+T10	Sign_or_Symptom 234 266	asimetria de miembros inferiores
+T11	Disease 41 49	ARTROSIS
+T12	Disease 385 393	artrosis
+T13	Therapeutic_Procedure 278 298	plantilla ortopedica

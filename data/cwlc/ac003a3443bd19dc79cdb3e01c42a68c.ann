@@ -1,0 +1,9 @@
+T1	Abbreviation 72 75	APS
+T2	Disease 2 48	HIPOACUSIA CONDUCTIVA, SIN OTRA ESPECIFICACIÓN
+T3	Disease 116 130	OTITIS CRONICA
+T4	Disease 219 265	Hipoacusia conductiva, sin otra especificacion
+T5	Sign_or_Symptom 147 156	MOLESTIAS
+T6	Sign_or_Symptom 159 189	PERDIDA PROGRESIVA DE AUDICION
+T7	Sign_or_Symptom 205 218	TAPON CERUMEN
+T8	Therapeutic_Procedure 104 130	CIRUGIA POR OTITIS CRONICA
+A1	Negated T7

@@ -1,0 +1,8 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 155 170	tejido dentario
+T3	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T4	Disease 252 300	Anomalias dentofaciales (incluso la maloclusion)
+T5	Clinical_Finding 88 115	sin antecedentes sistemicos
+T6	Sign_or_Symptom 144 213	perdida de tejido dentario y alteraciones por extracciones prematuras
+T7	Therapeutic_Procedure 190 202	extracciones
+T8	Disease 118 139	anomalia intermaxilar

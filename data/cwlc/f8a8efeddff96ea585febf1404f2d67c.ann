@@ -1,0 +1,9 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 86 88	MG
+T3	Abbreviation 123 125	QX
+T4	Body_Part 140 157	GLANDULA TIROIDEA
+T5	Disease 2 16	HIPOTIROIDISMO
+T6	Medication 68 80	LEVOTIROXINA
+T7	Therapeutic_Procedure 129 157	EXTRACCION GLANDULA TIROIDEA
+T8	Laboratory_Procedure 173 176	TSH
+T9	Laboratory_Procedure 184 186	T4

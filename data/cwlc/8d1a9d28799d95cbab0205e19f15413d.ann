@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	Pac
+T2	Disease 21 39	Dependencia Severa
+T3	Clinical_Finding 81 96	Silla De Ruedas
+T4	Therapeutic_Procedure 107 124	Cojin Antiescaras
+A1	Pending T4
+T5	Clinical_Finding 4 16	Adulta Mayor

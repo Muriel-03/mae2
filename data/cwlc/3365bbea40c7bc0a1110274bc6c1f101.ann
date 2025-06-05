@@ -1,0 +1,27 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 69 73	PCTE
+T4	Abbreviation 128 131	HRS
+T6	Abbreviation 151 152	C
+T7	Abbreviation 173 174	C
+T8	Abbreviation 198 199	C
+T9	Abbreviation 351 354	CDT
+T10	Abbreviation 369 371	IC
+T11	Abbreviation 403 409	CESFAM
+T12	Abbreviation 425 427	RX
+T14	Body_Part 428 433	TORAX
+T15	Diagnostic_Procedure 425 433	RX TORAX
+T16	Diagnostic_Procedure 437 449	ESPIROMETRIA
+T17	Disease 2 40	NEUMOCONIOSIS DEBIDA A POLVO DE SÍLICE
+T18	Disease 451 489	Neumoconiosis debida a polvo de silice
+T19	Medication 93 114	BROMURO DE IPRATROPIO
+T22	Medication 133 143	BUDESONIDA
+T24	Medication 159 167	LOSARTAN
+T25	Medication 180 191	PARACETAMOL
+T3	Abbreviation 155 158	HRS
+T5	Abbreviation 170 172	MG
+T13	Abbreviation 177 180	HRS
+T20	Abbreviation 195 197	MG
+T21	Sign_or_Symptom 208 239	MULTIPLES CONSULTAS EN URGENCIA
+T23	Sign_or_Symptom 287 322	DESCOMPENSACION CUADRO RESPIRATORIO
+A1	Pending T15
+A2	Pending T16

@@ -1,0 +1,29 @@
+T1	Abbreviation 36 39	ANT
+T2	Abbreviation 43 45	EC
+T3	Abbreviation 46 47	C
+T4	Abbreviation 48 51	IAM
+T5	Abbreviation 59 61	FA
+T6	Abbreviation 62 64	CV
+T7	Abbreviation 65 67	RS
+T8	Abbreviation 81 82	C
+T9	Abbreviation 83 85	FA
+T10	Abbreviation 86 88	CR
+T11	Abbreviation 92 96	TACO
+T12	Abbreviation 113 115	MP
+T13	Abbreviation 116 119	VVI
+T14	Abbreviation 120 122	CF
+T15	Abbreviation 148 152	TACO
+T16	Abbreviation 156 159	HSR
+T17	Abbreviation 160 163	INR
+T18	Disease 0 4	I482
+T19	Disease 5 34	FIBRILACIÓN AURICULAR CRÓNICA
+T20	Disease 48 51	IAM
+T21	Disease 59 61	FA
+T22	Disease 83 85	FA
+T24	Laboratory_or_Test_Result 120 129	CF NORMAL
+T25	Laboratory_Procedure 160 163	INR
+T26	Medication 92 96	TACO
+T27	Medication 148 152	TACO
+T28	Therapeutic_Procedure 113 115	MP
+T29	Abbreviation 57 58	C
+T30	Laboratory_or_Test_Result 65 67	RS

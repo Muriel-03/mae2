@@ -1,0 +1,19 @@
+T1	Abbreviation 80 83	APS
+T3	Abbreviation 151 154	PVE
+T4	Abbreviation 285 288	CMS
+T5	Body_Part 50 56	PELVIS
+T6	Body_Part 264 268	FFII
+T8	Disease 30 56	TUMOR MALIGNO DE LA PELVIS
+T9	Disease 129 141	DISLIPIDEMIA
+T10	Disease 175 185	MENOPAUSIA
+T12	Abbreviation 143 144	G
+T14	Sign_or_Symptom 2 26	DOLOR PÉLVICO Y PERINEAL
+T15	Sign_or_Symptom 211 229	DOLOR HIPOGASTRICO
+T16	Sign_or_Symptom 247 309	MASA PALPABLE EN FFII DE MAS MENOS 10 CMS, INDOLROA E IRREGLAR
+T17	Sign_or_Symptom 312 336	Dolor pelvico y perineal
+T2	Abbreviation 145 146	A
+T18	Abbreviation 147 148	P
+T19	Clinical_Finding 143 145	G2
+T20	Clinical_Finding 145 147	A0
+T21	Clinical_Finding 147 149	P2
+T22	Therapeutic_Procedure 151 154	PVE

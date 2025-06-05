@@ -1,0 +1,11 @@
+T1	Abbreviation 10 13	ASA
+T2	Abbreviation 94 97	ATB
+T3	Abbreviation 143 146	TTO
+T4	Abbreviation 157 159	RX
+T5	Body_Part 0 8	PIEZA 14
+T6	Diagnostic_Procedure 157 170	RX PERIAPICAL
+T8	Disease 17 49	PULPITIS RREVERSIBLE SINTOMATICA
+T9	Clinical_Finding 10 15	ASA I
+T10	Medication 100 116	ANTIINFLAMATORIO
+T7	Therapeutic_Procedure 62 84	TERAPIA PREVIA INICIAL
+T11	Therapeutic_Procedure 86 97	TERAPIA ATB

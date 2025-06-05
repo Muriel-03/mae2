@@ -1,0 +1,8 @@
+T1	Abbreviation 0 2	M3
+T3	Abbreviation 42 45	OBS
+T4	Disease 47 61	HIPOTIROIDISMO
+T5	Disease 62 72	TABAQUISMO
+T6	Disease 73 93	TRASTORNO ADAPTATIVO
+T7	Clinical_Finding 94 107	ANALFABETISMO
+T8	Clinical_Finding 0 2	M3
+T10	Clinical_Finding 9 17	EMBARAZO

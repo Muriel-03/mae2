@@ -1,0 +1,10 @@
+T1	Abbreviation 45 48	APS
+T2	Body_Part 2 5	PIE
+T3	Body_Part 178 181	PIE
+T4	Body_Part 226 229	Pie
+T5	Disease 2 21	PIE PLANO CONGÉNITO
+T6	Disease 226 245	Pie plano congenito
+T7	Sign_or_Symptom 92 116	ALTERACIONES A LA MARCHA
+T8	Sign_or_Symptom 117 126	TROPIESOS
+T9	Disease 178 187	PIE PLANO
+T10	Clinical_Finding 144 168	NO ALTERACION MORFOLOGIA

@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	VOD
+T2	Abbreviation 16 17	S
+T3	Abbreviation 18 19	L
+T4	Abbreviation 20 23	VOI
+T5	Abbreviation 36 37	S
+T6	Body_Part 20 23	VOI
+T7	Body_Part 75 86	OJO DERECHO
+T8	Disease 63 86	CATARATA EN OJO DERECHO
+T9	Clinical_Finding 101 106	LENTE
+T10	Abbreviation 38 39	L

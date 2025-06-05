@@ -1,0 +1,9 @@
+T1	Abbreviation 52 56	ENF.
+T2	Body_Part 11 18	DIENTES
+T3	Disease 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T4	Disease 77 93	desdentada total
+T5	Clinical_Finding 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T6	Sign_or_Symptom 107 133	protesis en regular estado
+T7	Disease 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T8	Disease 77 93	desdentada total
+T9	Sign_or_Symptom 94 133	portadora de protesis en regular estado

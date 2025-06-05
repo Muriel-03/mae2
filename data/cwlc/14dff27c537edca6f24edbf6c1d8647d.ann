@@ -1,0 +1,12 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 148 151	pfu
+T3	Abbreviation 164 166	rx
+T4	Body_Part 93 100	molares
+T5	Body_Part 192 199	dentina
+T6	Diagnostic_Procedure 164 177	rx periapical
+T7	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T8	Disease 179 199	Caries de la dentina
+T10	Sign_or_Symptom 57 115	policaries, dentinaria profunda, de molares gran extension
+T12	Therapeutic_Procedure 148 151	pfu
+A1	Pending T12
+A2	Pending T6

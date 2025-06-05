@@ -1,0 +1,11 @@
+T1	Abbreviation 3 6	i.c
+T2	Abbreviation 96 99	PFU
+T3	Abbreviation 147 150	PFU
+T4	Body_Part 8 16	diente 4
+T5	Body_Part 56 68	seno maxilar
+T6	Therapeutic_Procedure 17 41	tratada endodonticamente
+T7	Therapeutic_Procedure 96 99	PFU
+T8	Therapeutic_Procedure 147 150	PFU
+T9	Laboratory_or_Test_Result 8 103	diente 4 tratada endodonticamente en relacion a seno maxilar neumatizada, relacion para PFU 1,1
+A1	Pending T8
+A2	Pending T7

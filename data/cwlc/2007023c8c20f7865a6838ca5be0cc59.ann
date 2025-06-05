@@ -1,0 +1,12 @@
+T1	Body_Part 289 298	diente 32
+T2	Disease 2 20	DESDENTADO PARCIAL
+T3	Disease 24 40	DESDENTADO TOTAL
+T4	Disease 45 70	Desdentado total superior
+T5	Disease 129 156	Desdentado parcial inferior
+T6	Clinical_Finding 84 108	prótesis con buen ajuste
+T8	Sign_or_Symptom 157 180	Clase II modificación 2
+T9	Sign_or_Symptom 193 213	prótesis desajustada
+T10	Sign_or_Symptom 215 239	Recesiones generalizadas
+T11	Sign_or_Symptom 241 261	aumento de movilidad
+T12	Therapeutic_Procedure 276 285	exodoncia
+A1	Pending T12

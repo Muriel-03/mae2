@@ -1,0 +1,5 @@
+T1	Body_Part 30 34	PIEL
+T2	Body_Part 40 69	TEJIDO SUBCUTÁNEO DE MIEMBROS
+T3	Body_Part 124 138	cadera derecha
+T4	Disease 2 69	TUMOR BENIGNO LIPOMATOSO DE PIEL Y DE TEJIDO SUBCUTÁNEO DE MIEMBROS
+T5	Sign_or_Symptom 100 179	masa dolorosa a nvel de cadera derecha movil, aumenta intensidad dolor al tacto

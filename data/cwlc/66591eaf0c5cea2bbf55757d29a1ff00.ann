@@ -1,0 +1,5 @@
+T1	Disease 12 21	Talasemia
+T2	Disease 24 37	Hemosiderosis
+T3	Sign_or_Symptom 74 84	fragilidad
+T4	Sign_or_Symptom 85 90	dolor
+T5	Sign_or_Symptom 91 100	fracturas

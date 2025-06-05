@@ -1,0 +1,9 @@
+T1	Abbreviation 13 16	tto
+T2	Abbreviation 84 86	rx
+T3	Abbreviation 122 125	L.p
+T4	Body_Part 31 38	pieza 8
+T5	Diagnostic_Procedure 84 86	rx
+T6	Laboratory_or_Test_Result 98 125	leve ensanchamiento del L.p
+T7	Sign_or_Symptom 55 79	molestias a la percusión
+T8	Therapeutic_Procedure 13 30	tto de endodoncia
+R1	Has Arg1:T5 Arg2:T6	

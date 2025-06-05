@@ -1,0 +1,8 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 161 188	articulacion temporomaxilar
+T4	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T5	Disease 144 188	Trastornos de la articulacion temporomaxilar
+T6	Sign_or_Symptom 75 103	DESVIACION MANIDULAR DERECHA
+T7	Sign_or_Symptom 105 119	DOLOR AL ABRIR
+T8	Sign_or_Symptom 120 141	LIMITACION DE APERTUR

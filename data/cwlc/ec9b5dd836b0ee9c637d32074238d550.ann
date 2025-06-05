@@ -1,0 +1,5 @@
+T1	Abbreviation 0 2	PD
+T2	Body_Part 0 6	PD 4.8
+T3	Laboratory_or_Test_Result 0 43	PD 4.8 SEMI ERUPCIONADA , POSICION VERTICAL
+T4	Sign_or_Symptom 62 78	TRAMOS PAROTIDEO
+T5	Disease 94 111	TRAMOS DE WARTHIN

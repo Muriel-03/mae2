@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 79 88	PIEZA 2.1
+T3	Body_Part 105 114	PIEZA 1.1
+T4	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T5	Clinical_Finding 105 125	PIEZA 1.1 EN ERPCION
+T6	Clinical_Finding 200 226	Paciente Sano Odontologico
+T7	Sign_or_Symptom 79 103	PIEZA 2.1 EN GIROVERSION
+T9	Sign_or_Symptom 127 156	APIÑAMIENTO ANTERIOR INFERIOR
+T8	Disease 127 138	APIÑAMIENTO

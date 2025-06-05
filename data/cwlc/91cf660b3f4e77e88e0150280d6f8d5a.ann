@@ -1,0 +1,14 @@
+T1	Abbreviation 37 40	EPB
+T2	Abbreviation 68 72	pzas
+T3	Abbreviation 91 94	mov
+T4	Abbreviation 114 117	mov
+T5	Body_Part 68 89	pzas . 1.2   2.1  2.2
+T6	Body_Part 106 113	grupo V
+T7	Body_Part 130 138	1.6  1.7
+T8	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T11	Sign_or_Symptom 37 89	EPB 3- 4*-2         3- 2- 3    pzas . 1.2   2.1  2.2
+T12	Sign_or_Symptom 91 113	mov. grado  3  grupo V
+T13	Sign_or_Symptom 114 138	mov. grado 2    1.6  1.7
+T14	Sign_or_Symptom 130 175	1.6  1.7  retraccion gingival severa palatina
+T9	Sign_or_Symptom 68 104	pzas . 1.2   2.1  2.2  mov. grado  3
+T10	Sign_or_Symptom 106 126	grupo V mov. grado 2

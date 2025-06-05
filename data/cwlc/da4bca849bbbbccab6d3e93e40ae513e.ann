@@ -1,0 +1,21 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 109 111	rx
+T3	Body_Part 14 29	VÉRTEBRA LUMBAR
+T4	Body_Part 115 132	columna vertebral
+T5	Body_Part 210 235	cuerpo vertebral de en L4
+T6	Body_Part 263 265	l2
+T7	Body_Part 268 270	l3
+T8	Body_Part 285 300	vertebra lumbar
+T9	Diagnostic_Procedure 109 132	rx de columna vertebral
+T10	Disease 2 29	FRACTURA DE VÉRTEBRA LUMBAR
+T11	Disease 137 154	artrosis cervical
+T12	Disease 169 186	escoliosis lumbar
+T13	Disease 273 300	Fractura de vertebra lumbar
+T14	Laboratory_or_Test_Result 137 168	artrosis cervical no estenotica
+T16	Laboratory_or_Test_Result 273 300	Fractura de vertebra lumbar
+T17	Sign_or_Symptom 77 96	dolor lumbar severo
+R1	Has Arg1:T9 Arg2:T14	
+T18	Laboratory_or_Test_Result 169 270	escoliosis lumbar con imagen de fractura cuerpo vertebral de en L4, con severos osteofitos en l2 y l3
+R2	Has Arg1:T9 Arg2:T16	
+R3	Has Arg1:T9 Arg2:T18	
+T15	Disease 201 226	fractura cuerpo vertebral

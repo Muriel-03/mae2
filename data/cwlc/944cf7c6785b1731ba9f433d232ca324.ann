@@ -1,0 +1,12 @@
+T1	Abbreviation 80 83	APS
+T2	Abbreviation 299 302	IAM
+T4	Disease 2 56	HERNIA INGUINAL BILATERAL, SIN OBSTRUCCIÓN NI GANGRENA
+T5	Disease 269 279	hipertenso
+T6	Disease 299 302	IAM
+T8	Disease 323 377	Hernia inguinal bilateral, sin obstruccion ni gangrena
+T9	Sign_or_Symptom 98 200	hernias inguinales mayor a izquierda, reducible, pero con valsalva reproducibles, de caracter directas
+T10	Sign_or_Symptom 228 233	dolor
+T11	Sign_or_Symptom 236 256	sensación de presión
+T12	Therapeutic_Procedure 305 321	By pas coronario
+T3	Sign_or_Symptom 206 223	alteran la marcha
+T7	Clinical_Finding 284 321	antecedente de IAM y By pas coronario

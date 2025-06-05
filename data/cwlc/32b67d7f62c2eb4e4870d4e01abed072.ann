@@ -1,0 +1,19 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 233 236	min
+T3	Abbreviation 298 303	CLOTE
+T4	Abbreviation 305 308	GSC
+T5	Abbreviation 383 386	ECG
+T6	Disease 2 19	SINCOPE Y COLAPSO
+T7	Disease 542 559	Sincope y colapso
+T8	Clinical_Finding 298 303	CLOTE
+T9	Clinical_Finding 312 341	sin alteraciones neurologicas
+T10	Laboratory_or_Test_Result 415 433	otras alteraciones
+T11	Sign_or_Symptom 90 98	sincopes
+T12	Sign_or_Symptom 201 208	sincope
+T13	Sign_or_Symptom 220 227	amnesia
+T14	Clinical_Finding 305 311	GSC 15
+T15	Diagnostic_Procedure 383 386	ECG
+T16	Laboratory_or_Test_Result 387 406	bradicardia sinusal
+R1	Has Arg1:T15 Arg2:T16	
+R2	Has Arg1:T15 Arg2:T10	
+A1	Negated T10

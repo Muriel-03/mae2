@@ -1,0 +1,25 @@
+T1	Abbreviation 93 95	dm
+T2	Abbreviation 135 138	acv
+T3	Abbreviation 193 195	ca
+T4	Abbreviation 201 204	der
+T5	Abbreviation 205 207	op
+T6	Abbreviation 282 285	EDA
+T7	Abbreviation 286 289	qeu
+T8	Body_Part 53 61	ESTOMAGO
+T9	Body_Part 196 200	mama
+T10	Body_Part 361 380	union  subepitelial
+T11	Diagnostic_Procedure 282 285	EDA
+T12	Disease 2 61	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DEL ESTOMAGO
+T13	Disease 93 95	dm
+T14	Disease 97 100	ERC
+T17	Disease 193 204	ca mama der
+T20	Laboratory_or_Test_Result 331 435	metaplasia intestinal y en la union  subepitelial por curvatura mayor lesion elevada subeíteñial de 15mm
+T21	Sign_or_Symptom 242 258	diarrea melenica
+T22	Sign_or_Symptom 449 468	inapetencia severa.
+T23	Therapeutic_Procedure 152 167	colecistectomia
+T24	Therapeutic_Procedure 169 191	herniorrafia umbilical
+T25	Disease 100 114	mielodisplasia
+T15	Abbreviation 97 100	ERC
+T26	Sign_or_Symptom 139 150	afasia leve
+R1	Has Arg1:T11 Arg2:T20	
+T16	Abbreviation 433 435	mm

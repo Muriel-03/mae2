@@ -1,0 +1,42 @@
+T1	Abbreviation 72 75	APS
+T3	Abbreviation 181 182	+
+T4	Abbreviation 244 247	SBO
+T5	Abbreviation 271 274	VCM
+T6	Abbreviation 328 329	+
+T7	Abbreviation 355 356	+
+T8	Abbreviation 377 380	EX.
+T9	Abbreviation 553 554	x
+T10	Disease 2 24	TROMBOCITOSIS ESENCIAL
+T11	Disease 107 120	TROMBOSITOSIS
+T12	Disease 163 180	DEFICIT DE HIERRO
+T13	Disease 185 228	INFECCIONES RESPIRATORIAS BAJAS RECURRENTES
+T14	Disease 244 247	SBO
+T15	Disease 259 265	ANEMIA
+T17	Family_Member 450 455	MADRE
+T18	Clinical_Finding 77 85	LACTANTE
+T21	Laboratory_or_Test_Result 2 15	TROMBOCITOSIS
+T22	Laboratory_or_Test_Result 259 270	ANEMIA LEVE
+T23	Laboratory_or_Test_Result 276 280	BAJO
+T25	Laboratory_or_Test_Result 314 329	ANISIOCITOSIS +
+T26	Laboratory_or_Test_Result 330 344	MICROSITOSIS++
+T27	Laboratory_or_Test_Result 344 356	ANISOCROMIA+
+T28	Laboratory_or_Test_Result 356 371	POIQUILOCITOSIS
+T29	Laboratory_or_Test_Result 519 537	TROMBOSITOSIS LEVE
+T30	Laboratory_or_Test_Result 589 595	NORMAL
+T31	Laboratory_Procedure 271 274	VCM
+T32	Laboratory_Procedure 539 548	PLAQUETAS
+T33	Laboratory_Procedure 564 586	PRUEBAS DE COAGULACIÒN
+T34	Sign_or_Symptom 400 423	EQUIMOSIS GENERALIZADAS
+T35	Sign_or_Symptom 425 446	HEMATOMAS Y PETEQUIAS
+T37	Disease 24 48	TROMBOCITOSIS SECUNDARIA
+T38	Laboratory_or_Test_Result 24 37	TROMBOCITOSIS
+T2	Laboratory_or_Test_Result 107 120	TROMBOSITOSIS
+T39	Abbreviation 342 344	++
+R1	Has Arg1:T31 Arg2:T23	
+T16	Laboratory_Procedure 283 313	CARACTERISTICAS DE ERITROCITOS
+R2	Has Arg1:T16 Arg2:T25	
+R3	Has Arg1:T16 Arg2:T26	
+R4	Has Arg1:T16 Arg2:T27	
+R5	Has Arg1:T16 Arg2:T28	
+T19	Sign_or_Symptom 499 508	MORETONES
+R6	Has Arg1:T33 Arg2:T30	

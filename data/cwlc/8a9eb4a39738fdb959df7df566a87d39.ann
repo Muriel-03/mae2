@@ -1,0 +1,15 @@
+T1	Abbreviation 0 3	pza
+T2	Abbreviation 91 94	pza
+T3	Abbreviation 157 160	pza
+T4	Body_Part 0 8	pza. 1.4
+T5	Body_Part 60 78	espacio periopical
+T6	Body_Part 91 99	pza. 1.6
+T7	Body_Part 142 155	camara pulpar
+T8	Disease 9 56	caries ocluso palativodistal extensa penetrante
+T9	Disease 100 113	caries oclusa
+T10	Disease 166 190	caries coronario extenso
+T14	Laboratory_or_Test_Result 91 155	pza. 1.6 caries oclusa palativo profundo proximo a camara pulpar
+T15	Laboratory_or_Test_Result 0 89	pza. 1.4 caries ocluso palativodistal extensa penetrantecon espacio periopical ensanchado
+T17	Therapeutic_Procedure 222 243	obsturación indirecta
+T11	Body_Part 157 165	pza. 4.6
+A1	Pending T17

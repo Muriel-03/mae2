@@ -1,0 +1,11 @@
+T1	Abbreviation 21 23	IR
+T2	Abbreviation 47 51	EEII
+T3	Abbreviation 79 82	SCA
+T4	Abbreviation 96 99	ERC
+T5	Body_Part 47 51	EEII
+T6	Disease 0 19	DIABETES MELLITUS 2
+T7	Disease 24 51	INSUFICIENCIA ARTERIAL EEII
+T8	Disease 79 82	SCA
+T9	Disease 96 102	ERC IV
+T10	Therapeutic_Procedure 67 77	AMPUTACION
+A1	Pending T10

@@ -1,0 +1,5 @@
+T1	Body_Part 18 27	dentición
+T2	Body_Part 114 132	caninos superiores
+T4	Clinical_Finding 18 38	dentición permanente
+T5	Sign_or_Symptom 40 78	mordida vis a vis posterior y anterior
+T6	Sign_or_Symptom 80 132	falta de espacio para erupción de caninos superiores

@@ -1,0 +1,6 @@
+T1	Disease 38 49	APIÑAMIENTO
+T2	Sign_or_Symptom 18 35	MORDIDA INVERTIDA
+T4	Therapeutic_Procedure 72 82	ORTODONCIA
+A1	Pending T4
+T3	Therapeutic_Procedure 109 128	CIRUGIA ORTOGMATICA
+A2	Pending T3

@@ -1,0 +1,20 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 74 77	rge
+T3	Abbreviation 108 111	eda
+T4	Abbreviation 147 149	H.
+T5	Abbreviation 193 196	eda
+T6	Body_Part 2 9	ESÓFAGO
+T7	Body_Part 162 169	ESOFAGO
+T8	Diagnostic_Procedure 108 111	eda
+T9	Diagnostic_Procedure 193 196	eda
+T10	Disease 2 20	ESÓFAGO DE BARRETT
+T11	Disease 74 78	rge.
+T13	Disease 162 180	ESOFAGO DE BARRET.
+T15	Laboratory_or_Test_Result 127 144	GASTRITIS CRONICA
+T16	Laboratory_or_Test_Result 162 180	ESOFAGO DE BARRET.
+R1	Has Arg1:T8 Arg2:T15	
+R2	Has Arg1:T8 Arg2:T16	
+T17	Diagnostic_Procedure 147 156	H. PYLORI
+T18	Laboratory_or_Test_Result 158 159	+
+R3	Has Arg1:T17 Arg2:T18	
+A1	Pending T9

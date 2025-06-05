@@ -1,0 +1,7 @@
+T1	Abbreviation 4 7	pip
+T2	Disease 4 7	pip
+T5	Disease 56 66	esofagitis
+T6	Disease 68 93	reflujo biliosos gastrico
+T7	Disease 95 104	gastritis
+T8	Disease 106 125	colopatia funcional
+T3	Laboratory_or_Test_Result 68 93	reflujo biliosos gastrico

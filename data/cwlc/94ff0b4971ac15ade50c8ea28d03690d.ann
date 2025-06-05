@@ -1,0 +1,9 @@
+T1	Abbreviation 58 61	APS
+T2	Body_Part 29 34	NARIZ
+T3	Body_Part 413 430	cartilagos alares
+T4	Body_Part 494 499	nariz
+T5	Disease 2 34	DEFORMIDAD ADQUIRIDA DE LA NARIZ
+T6	Disease 467 499	Deformidad adquirida de la nariz
+T7	Sign_or_Symptom 77 185	aumento de volumen nasal de 3 años de evolucion que en el ultimo tiempo aumenta mas de tamaño y mas doloroso
+T9	Sign_or_Symptom 207 430	aumento de volumen de bordes bien definidos, de 1,5x1,5cm de diametro, de coloracion normal, sin solucion de continuidad en su superficie, de consistencia dura, no movil, en relacion a linea media en ambis cartilagos alares
+T10	Abbreviation 262 264	cm

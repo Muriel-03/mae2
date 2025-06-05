@@ -1,0 +1,5 @@
+T1	Abbreviation 94 97	tto
+T2	Disease 9 47	desdentada parcial superior e inferior
+T3	Sign_or_Symptom 48 72	no portadora de protesis
+T4	Therapeutic_Procedure 94 118	tto con protesis parcial
+A1	Pending T4

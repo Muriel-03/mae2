@@ -1,0 +1,6 @@
+T1	Disease 251 261	HIPOACUSIA
+T2	Sign_or_Symptom 174 204	no responde cuando se le habla
+T3	Sign_or_Symptom 20 62	dificultades del aprendizaje y el lenguaje
+T4	Sign_or_Symptom 128 158	dificultades de la comprensión
+T5	Diagnostic_Procedure 86 102	estudio auditivo
+T6	Sign_or_Symptom 225 249	problemas de la audición

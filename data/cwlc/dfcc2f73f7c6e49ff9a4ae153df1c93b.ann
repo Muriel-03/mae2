@@ -1,0 +1,7 @@
+T1	Abbreviation 12 15	tto
+T2	Abbreviation 180 185	rehab
+T3	Disease 56 94	desdentada parcial superior e inferior
+T4	Sign_or_Symptom 96 131	superior clase II mod 1 de Kennedy.
+T5	Therapeutic_Procedure 12 27	tto periodontal
+T6	Therapeutic_Procedure 180 217	rehab con protesis removible superior
+A1	Pending T6

@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	Pza
+T2	Abbreviation 77 80	Pza
+T3	Abbreviation 109 112	Pza
+T4	Body_Part 56 68	Pza 8.5- 3.1
+T5	Body_Part 77 84	Pza 7.2
+T6	Body_Part 109 116	Pza 7.1
+T7	Sign_or_Symptom 85 116	Retraido En La Erupcion Pza 7.1
+T9	Disease 69 76	Agencia
+T8	Sign_or_Symptom 0 68	Agrandamiento Grigival Extenso Localizado En Relacion A Pza 8.5- 3.1
+T10	Disease 0 22	Agrandamiento Grigival

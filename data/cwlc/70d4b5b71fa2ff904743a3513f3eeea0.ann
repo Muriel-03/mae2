@@ -1,0 +1,10 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 65 73	paramono
+T4	Body_Part 39 42	4.5
+T5	Disease 2 10	PULPITIS
+T6	Disease 122 130	Pulpitis
+T8	Medication 65 73	paramono
+T9	Medication 112 120	eugenato
+T11	Therapeutic_Procedure 43 52	trepanada
+T12	Therapeutic_Procedure 86 120	obturacion provisoria con eugenato
+T10	Body_Part 77 83	camara

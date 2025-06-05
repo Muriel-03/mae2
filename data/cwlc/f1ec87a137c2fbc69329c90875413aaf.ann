@@ -1,0 +1,11 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 144 148	dte.
+T3	Abbreviation 184 187	dte
+T6	Body_Part 184 192	dte. 1.2
+T7	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T9	Disease 214 250	Alteraciones en la erupcion dentaria
+T10	Clinical_Finding 83 106	clase I molar bilateral
+T11	Body_Part 144 152	dte. 1.3
+T14	Sign_or_Symptom 108 142	discrepancia dentomaxilar negativa
+T15	Sign_or_Symptom 144 182	dte. 1.3 fuera del arco por vestibular
+T16	Sign_or_Symptom 184 211	dte. 1.2 con trauma oclusal

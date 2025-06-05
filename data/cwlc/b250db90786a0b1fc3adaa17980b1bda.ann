@@ -1,0 +1,8 @@
+T1	Body_Part 116 133	dientes 2.7 y 3.3
+T2	Disease 2 18	DESDENTADO TOTAL
+T3	Disease 62 98	desdentada total superior e inferior
+T4	Disease 164 185	periodontitis crónica
+T5	Therapeutic_Procedure 221 231	exodoncias
+T6	Sign_or_Symptom 24 45	DESAJUSTE DE PRÓTESIS
+A1	Pending T5
+T7	Sign_or_Symptom 234 288	portadora de prótesis acrílica removible en mal estado

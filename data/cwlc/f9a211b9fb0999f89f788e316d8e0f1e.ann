@@ -1,0 +1,5 @@
+T1	Disease 9 24	dsdentado total
+T2	Sign_or_Symptom 26 62	usa protesis para desdentado parcial
+T3	Therapeutic_Procedure 76 105	instalacion de nueva protesis
+T4	Disease 44 62	desdentado parcial
+A1	Pending T3

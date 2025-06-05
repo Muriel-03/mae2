@@ -1,0 +1,9 @@
+T1	Abbreviation 94 96	DG
+T2	Abbreviation 150 153	DIU
+T3	Disease 2 16	ESTERILIZACIÓN
+T4	Disease 75 91	PARIDAD COMPLETA
+T5	Clinical_Finding 98 107	MULTIPARA
+T6	Clinical_Finding 142 153	USUARIA DIU
+T7	Therapeutic_Procedure 45 70	ESTERILIZACION QUIRURGICA
+T8	Therapeutic_Procedure 150 153	DIU
+A1	Pending T7

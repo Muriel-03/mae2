@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 81 92	1.1-2.1 1.1
+T4	Body_Part 147 153	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 118 153	Anomalias de la posicion del diente
+T7	Sign_or_Symptom 66 92	diastema entre 1.1-2.1 1.1
+T8	Sign_or_Symptom 93 117	inclinacion hacia distal

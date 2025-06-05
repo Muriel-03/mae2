@@ -1,0 +1,11 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 73 76	Ant
+T3	Abbreviation 94 98	ttdo
+T4	Body_Part 15 21	VAGINA
+T5	Body_Part 87 93	ovario
+T6	Body_Part 129 135	vagina
+T7	Disease 2 21	PÓLIPO DE LA VAGINA
+T8	Disease 80 93	Cancer ovario
+T9	Disease 101 115	Polipo vaginal
+T10	Disease 116 135	Polipo de la vagina
+T11	Clinical_Finding 52 66	Gran Multipara

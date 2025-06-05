@@ -1,0 +1,8 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 57 60	PTA
+T3	Abbreviation 75 79	PZAS
+T4	Body_Part 2 9	DIENTES
+T5	Body_Part 75 85	PZAS 17-32
+T6	Disease 2 19	DIENTES INCLUIDOS
+T7	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T8	Laboratory_or_Test_Result 61 85	SEMIINCLUIDOS PZAS 17-32

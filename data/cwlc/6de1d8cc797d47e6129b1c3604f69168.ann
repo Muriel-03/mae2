@@ -1,0 +1,9 @@
+T1	Abbreviation 51 54	PAF
+T2	Abbreviation 59 62	PAF
+T3	Body_Part 93 101	TIROIDES
+T4	Diagnostic_Procedure 51 54	PAF
+T5	Diagnostic_Procedure 59 62	PAF
+T6	Sign_or_Symptom 29 36	NODULOS
+T7	Laboratory_or_Test_Result 63 80	NO ES CONCLUYENTE
+R1	Has Arg1:T5 Arg2:T7	
+T8	Laboratory_or_Test_Result 82 145	ASPECTO DE TIROIDES DISCUTIBLE.IMPRESIONA HABER CALCIFICACIONES

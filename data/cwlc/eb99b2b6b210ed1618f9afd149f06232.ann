@@ -1,0 +1,15 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 14 17	der
+T3	Abbreviation 32 35	izq
+T4	Abbreviation 180 183	pza
+T5	Body_Part 60 69	6.3 y 7.3
+T6	Body_Part 180 187	pza 1.1
+T7	Clinical_Finding 18 35	clase I molar izq
+T8	Clinical_Finding 70 103	iniciando 2do periodo de recambio
+T9	Sign_or_Symptom 5 17	clase II der
+T10	Sign_or_Symptom 37 69	entrecruzamiento entre 6.3 y 7.3
+T11	Sign_or_Symptom 105 140	Línea media desviada a la izquierda
+T12	Sign_or_Symptom 142 178	Diastemas interincisivos importantes
+T13	Sign_or_Symptom 180 211	pza 1.1 levemente distoangulada
+T14	Sign_or_Symptom 213 230	Overjet aumentado
+T15	Abbreviation 80 83	2do

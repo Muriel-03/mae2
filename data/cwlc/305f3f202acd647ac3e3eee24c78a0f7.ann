@@ -1,0 +1,10 @@
+T1	Body_Part 88 96	diente 4
+T2	Disease 2 32	ABSCESO PERIAPICAL SIN FÍSTULA
+T3	Clinical_Finding 48 78	sin antecedentes de relevancia
+T4	Clinical_Finding 239 255	cemento temporal
+T5	Sign_or_Symptom 135 172	aumento de volumen fondo de vestibulo
+T6	Sign_or_Symptom 174 212	sintomatologíadolorosa poco recurrente
+T7	Therapeutic_Procedure 217 224	trepana
+T8	Therapeutic_Procedure 227 255	se deja con cemento temporal
+T9	Clinical_Finding 101 133	restauración amplia de composite
+T10	Body_Part 154 172	fondo de vestibulo

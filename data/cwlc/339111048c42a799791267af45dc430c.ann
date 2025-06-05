@@ -1,0 +1,8 @@
+T1	Abbreviation 56 58	DR
+T2	Body_Part 26 35	MAXILARES
+T3	Disease 0 4	K092
+T4	Disease 5 35	OTROS QUISTES DE LOS MAXILARES
+T5	Therapeutic_Procedure 86 97	ENDODONCIAS
+T6	Laboratory_or_Test_Result 99 114	LESION PERSISTE
+T7	Therapeutic_Procedure 140 154	CIRUGIA APICAL
+A1	Pending T7

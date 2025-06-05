@@ -1,0 +1,20 @@
+T1	Abbreviation 77 80	irc
+T2	Abbreviation 107 109	FE
+T3	Abbreviation 121 122	+
+T4	Body_Part 84 97	cara inferior
+T5	Disease 21 26	SAHOS
+T7	Disease 145 160	Apnea del sueño
+T8	Laboratory_or_Test_Result 101 121	caida FE post stress
+T9	Abbreviation 21 26	SAHOS
+T10	Disease 27 39	Enf.  Chagas
+T11	Abbreviation 27 30	Enf
+T12	Disease 8 20	C. coronaria
+T13	Abbreviation 8 9	C
+T14	Diagnostic_Procedure 47 63	spect miocardico
+T15	Laboratory_or_Test_Result 77 97	irc da cara inferior
+R1	Has Arg1:T14 Arg2:T15	
+R2	Has Arg1:T14 Arg2:T8	
+T6	Laboratory_Procedure 123 139	serologia Chagas
+T16	Laboratory_or_Test_Result 141 142	+
+R3	Has Arg1:T6 Arg2:T16	
+T17	Abbreviation 141 142	+

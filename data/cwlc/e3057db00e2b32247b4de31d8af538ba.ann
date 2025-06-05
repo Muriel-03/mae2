@@ -1,0 +1,7 @@
+T1	Abbreviation 53 59	H.B.L.
+T2	Abbreviation 84 86	RX
+T3	Body_Part 0 8	PIEZA 10
+T4	Diagnostic_Procedure 84 86	RX
+T5	Disease 10 27	GRANULOMA APICAL.
+T8	Laboratory_or_Test_Result 0 26	PIEZA 10: GRANULOMA APICAL
+R1	Has Arg1:T4 Arg2:T8	

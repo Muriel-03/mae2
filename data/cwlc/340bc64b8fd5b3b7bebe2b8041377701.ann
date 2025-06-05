@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	Pza
+T2	Body_Part 0 7	Pza 3.8
+T3	Body_Part 49 55	pza3.7
+T4	Body_Part 57 60	4.8
+T5	Body_Part 93 109	canal mandibular
+T6	Laboratory_or_Test_Result 0 55	Pza 3.8 semi incluida en medio versión impactada pza3.7
+T7	Laboratory_or_Test_Result 57 109	4.8 mal posición sobre proyectada o canal mandibular
+T8	Disease 39 48	impactada

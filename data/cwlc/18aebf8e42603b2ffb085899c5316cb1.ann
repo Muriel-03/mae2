@@ -1,0 +1,9 @@
+T1	Abbreviation 88 91	APS
+T2	Body_Part 27 34	DIENTES
+T3	Disease 2 34	ATRICIÓN EXCESIVA DE LOS DIENTES
+T4	Disease 38 64	HIPERSENSIBILIDAD CERVICAL
+T6	Clinical_Finding 122 147	sin antecedentes mórbidos
+T7	Sign_or_Symptom 196 213	atrición moderada
+T8	Sign_or_Symptom 215 234	lesiones cervicales
+T9	Sign_or_Symptom 237 254	hipersensibilidad
+T5	Clinical_Finding 172 194	múltiples obturaciones

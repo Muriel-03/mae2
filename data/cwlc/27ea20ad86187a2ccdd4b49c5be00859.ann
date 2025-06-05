@@ -1,0 +1,7 @@
+T1	Body_Part 68 77	pieza 3.2
+T2	Body_Part 117 122	encia
+T3	Disease 2 34	OTRAS ENFERMEDADES PERIODONTALES
+T4	Sign_or_Symptom 103 131	supuracion de encia marginal
+T5	Therapeutic_Procedure 79 88	trepanada
+T6	Disease 34 63	lesion endoperiodontal tipo 2
+T7	Laboratory_or_Test_Result 34 63	lesion endoperiodontal tipo 2

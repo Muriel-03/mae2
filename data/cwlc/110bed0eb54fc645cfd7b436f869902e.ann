@@ -1,0 +1,10 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 46 51	pacte
+T3	Abbreviation 72 75	pza
+T4	Body_Part 72 79	pza 2.4
+T5	Body_Part 108 112	raiz
+T6	Body_Part 131 138	dientes
+T7	Disease 2 17	RESTO RADICULAR
+T8	Disease 56 71	resto radicular
+T9	Disease 120 200	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T11	Laboratory_or_Test_Result 72 118	pza 2.4  tratada endodonticamenre y raiz curva

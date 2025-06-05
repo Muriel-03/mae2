@@ -1,0 +1,15 @@
+T1	Abbreviation 90 93	APS
+T3	Abbreviation 138 141	DIU
+T4	Disease 2 66	SUPERVISIÓN DEL USO DE DISPOSITIVO ANTICONCEPTIVO (INTRAUTERINO)
+T5	Disease 105 109	ASMA
+T6	Disease 111 136	RESISTENCIA A LA INSULINA
+T7	Disease 153 217	Supervisión del uso de dispositivo anticonceptivo (intrauterino)
+T8	Clinical_Finding 25 67	DISPOSITIVO ANTICONCEPTIVO (INTRAUTERINO)/
+T9	Sign_or_Symptom 138 152	DIU EXTRAVIADO
+T10	Abbreviation 97 98	G
+T2	Abbreviation 99 100	P
+T11	Abbreviation 101 102	A
+T12	Clinical_Finding 97 99	G2
+T13	Clinical_Finding 99 101	P2
+T14	Clinical_Finding 101 103	A0
+T15	Clinical_Finding 176 217	dispositivo anticonceptivo (intrauterino)

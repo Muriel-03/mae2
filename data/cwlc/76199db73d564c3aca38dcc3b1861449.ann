@@ -1,0 +1,12 @@
+T1	Abbreviation 51 53	KG
+T2	Abbreviation 70 72	CM
+T3	Abbreviation 73 76	P/E
+T4	Abbreviation 77 78	N
+T5	Abbreviation 79 82	T/E
+T6	Abbreviation 90 93	P/T
+T7	Abbreviation 99 101	DS
+T8	Disease 10 19	SOBREPESO
+T9	Sign_or_Symptom 90 101	P/T = +1 DS
+T10	Disease 22 32	TALLA BAJA
+T11	Abbreviation 87 89	DS
+T12	Sign_or_Symptom 79 89	T/E = -2DS

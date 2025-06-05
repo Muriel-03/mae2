@@ -1,0 +1,6 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 102 105	ATM
+T3	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T4	Body_Part 102 115	ATM Izquierda
+T5	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Sign_or_Symptom 93 155	salto en ATM Izquierda en apertura y cierre con sintomatologia

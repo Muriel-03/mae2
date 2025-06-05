@@ -1,0 +1,19 @@
+T1	Abbreviation 18 22	MOrb
+T2	Abbreviation 33 35	Qx
+T3	Body_Part 106 114	vesicula
+T4	Diagnostic_Procedure 57 66	ecografia
+T5	Disease 2 14	COLELITIASIS
+T6	Clinical_Finding 24 32	Alergia-
+T7	Laboratory_or_Test_Result 94 114	calculos en vesicula
+T8	Laboratory_or_Test_Result 200 216	limites normales
+T9	Sign_or_Symptom 126 131	dolor
+T10	Sign_or_Symptom 222 234	baja de peso
+T11	Therapeutic_Procedure 33 52	Qx ligadura tubaria
+T12	Laboratory_or_Test_Result 2 14	COLELITIASIS
+T13	Clinical_Finding 18 23	MOrb-
+R1	Has Arg1:T4 Arg2:T7	
+A1	Negated T10
+T14	Abbreviation 22 23	-
+T15	Abbreviation 31 32	-
+T16	Laboratory_Procedure 173 196	examenes preoperatorios
+R2	Has Arg1:T16 Arg2:T8	

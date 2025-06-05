@@ -1,0 +1,4 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Clinical_Finding 73 101	dentición mixta primera fase
+T3	Sign_or_Symptom 103 137	mordida cruzada unilateral derecha
+T4	Body_Part 73 82	dentición

@@ -1,0 +1,12 @@
+T1	Body_Part 113 119	diente
+T2	Body_Part 138 146	diente 3
+T3	Body_Part 294 302	diente 3
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 25 41	DESDENTADO TOTAL
+T6	Disease 152 178	caries dentinaria profunda
+T7	Disease 181 202	pulpitis irreversible
+T8	Sign_or_Symptom 222 257	prótesis total inferior desajustada
+T9	Therapeutic_Procedure 281 290	exodoncia
+A1	Pending T9
+T10	Clinical_Finding 58 105	portador de prótesis removible parcial superior
+T11	Clinical_Finding 208 219	buen ajuste

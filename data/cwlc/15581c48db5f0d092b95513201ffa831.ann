@@ -1,0 +1,26 @@
+T1	Abbreviation 63 66	DM2
+T2	Abbreviation 69 72	HTA
+T3	Abbreviation 162 165	aas
+T4	Abbreviation 267 270	NPH
+T5	Abbreviation 277 279	ui
+T6	Abbreviation 292 294	mg
+T7	Abbreviation 298 301	hrs
+T9	Abbreviation 385 388	odi
+T10	Body_Part 385 388	odi
+T11	Disease 2 23	RETINOPATÍA DIABÉTICA
+T12	Disease 63 66	DM2
+T13	Disease 69 72	HTA
+T14	Laboratory_or_Test_Result 77 99	mal control metabolico
+T15	Medication 162 165	aas
+T16	Medication 172 180	losartan
+T17	Medication 190 200	furosemida
+T18	Medication 205 215	metformina
+T19	Medication 223 233	nifedipino
+T20	Medication 240 253	atorvastatina
+T21	Medication 258 270	insulina NPH
+T22	Medication 280 288	atenolol
+T23	Abbreviation 169 171	mg
+T24	Abbreviation 183 185	mg
+T26	Therapeutic_Procedure 342 388	fotocuagulacion focal + panfotocuagulacion odi
+T8	Abbreviation 364 365	+
+T25	Sign_or_Symptom 77 99	mal control metabolico

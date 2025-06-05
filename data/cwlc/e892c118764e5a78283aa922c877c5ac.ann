@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 148 165	piezas superiores
+T3	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T4	Disease 247 295	Anomalias dentofaciales (incluso la maloclusion)
+T5	Clinical_Finding 88 114	sin antecdentes sistemicos
+T6	Sign_or_Symptom 126 165	mañposicion severa de piezas superiores
+T7	Sign_or_Symptom 168 194	mordida invertida anterior
+T8	Therapeutic_Procedure 220 244	trtamiento de ortodoncia
+A1	Pending T8

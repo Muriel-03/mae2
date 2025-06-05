@@ -1,0 +1,9 @@
+T1	Abbreviation 22 25	HTA
+T2	Abbreviation 27 30	DLP
+T3	Body_Part 76 80	ojos
+T4	Disease 22 25	HTA
+T5	Disease 27 30	DLP
+T6	Disease 61 69	glaucoma
+T7	Disease 99 138	desdentado parcial maxilar y mandibular
+T10	Laboratory_or_Test_Result 32 47	Visión alterada
+T11	Sign_or_Symptom 140 157	No porta prótesis

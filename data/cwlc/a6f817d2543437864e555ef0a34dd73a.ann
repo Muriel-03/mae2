@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 133 139	diente
+T3	Body_Part 185 192	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 58 85	desdentada parcial superior
+T6	Disease 147 223	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Clinical_Finding 133 145	diente pilar
+T8	Sign_or_Symptom 95 145	protesis desajustada por exodoncia de diente pilar
+T9	Therapeutic_Procedure 120 129	exodoncia

@@ -1,0 +1,13 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 239 249	diente 4.3
+T3	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T4	Disease 116 127	apiñamiento
+T5	Disease 292 340	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 79 101	Clase molar II derecha
+T7	Sign_or_Symptom 116 154	apiñamiento severo superior e inferior
+T8	Sign_or_Symptom 159 183	mordida abierta anterior
+T9	Sign_or_Symptom 185 201	respirador bucal
+T10	Sign_or_Symptom 203 237	interposición lingual en deglución
+T11	Sign_or_Symptom 239 269	diente 4.3 lingualizado severo
+T12	Sign_or_Symptom 271 290	sin espacio en arco
+T13	Body_Part 286 290	arco

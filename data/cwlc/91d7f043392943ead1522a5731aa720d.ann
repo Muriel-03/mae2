@@ -1,0 +1,6 @@
+T1	Body_Part 0 6	p. 1.4
+T2	Clinical_Finding 11 39	terapia previamente iniciada
+T3	Clinical_Finding 65 71	Fermín
+T4	Therapeutic_Procedure 94 119	tratamiento de endodoncia
+T5	Clinical_Finding 41 50	trepanada
+A1	Pending T4

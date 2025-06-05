@@ -1,0 +1,10 @@
+T1	Abbreviation 85 88	APS
+T2	Body_Part 41 47	CADERA
+T3	Body_Part 122 128	cadera
+T4	Body_Part 131 138	rodilla
+T5	Therapeutic_Procedure 2 9	ORTESIS
+T6	Disease 13 48	COXARTROSIS (ARTROSIS DE LA CADERA)
+T7	Disease 52 60	ARTROSIS
+T8	Disease 103 138	artrosis severa de cadera y rodilla
+T9	Therapeutic_Procedure 170 185	silla de ruedas
+A1	Pending T9

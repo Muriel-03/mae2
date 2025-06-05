@@ -1,0 +1,12 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 2 11	TESTÍCULO
+T3	Body_Part 154 162	Prepucio
+T4	Body_Part 196 202	glande
+T5	Body_Part 204 223	Testículo izquierdo
+T6	Body_Part 261 270	Testiculo
+T7	Disease 2 37	TESTÍCULO NO DESCENDIDO, UNILATERAL
+T8	Disease 204 235	Testículo izquierdo en ascensor
+T9	Disease 261 296	Testiculo no descendido, unilateral
+T10	Sign_or_Symptom 88 136	falta de descenso testicular bilateral, indoloro
+T12	Clinical_Finding 154 202	Prepucio desfunda exponiendo totaldiad de glande
+T11	Disease 237 258	Criptorquidea derecha

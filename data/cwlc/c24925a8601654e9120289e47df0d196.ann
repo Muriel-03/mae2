@@ -1,0 +1,7 @@
+T1	Body_Part 38 54	terceros morales
+T2	Body_Part 55 67	pieza 1 y 16
+T3	Body_Part 86 94	pieza 17
+T4	Disease 68 74	caries
+T5	Laboratory_or_Test_Result 86 123	pieza 17 impactada y semierupcionadas
+T7	Therapeutic_Procedure 25 34	exodoncia
+A1	Pending T7

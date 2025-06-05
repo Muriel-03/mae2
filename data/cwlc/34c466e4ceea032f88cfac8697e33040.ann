@@ -1,0 +1,10 @@
+T1	Body_Part 18 25	pieza 8
+T2	Body_Part 194 201	pieza 8
+T3	Disease 57 72	granuloma apica
+T4	Laboratory_or_Test_Result 57 118	granuloma apica, la endodoncia presenta resto de instrumental
+T5	Therapeutic_Procedure 30 40	endodoncia
+T6	Therapeutic_Procedure 77 87	endodoncia
+T7	Therapeutic_Procedure 162 175	desobturacion
+T8	Therapeutic_Procedure 178 190	reobturación
+A1	Pending T7
+A2	Pending T8

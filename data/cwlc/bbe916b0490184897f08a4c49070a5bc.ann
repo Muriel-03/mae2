@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	Dte
+T2	Abbreviation 169 171	VI
+T3	Body_Part 0 8	Dte. 2.1
+T5	Clinical_Finding 9 18	trepanado
+T6	Clinical_Finding 169 171	VI
+T4	Body_Part 106 114	conducto
+T7	Therapeutic_Procedure 92 137	irrigación de conducto y obturación de Fermín
+T8	Therapeutic_Procedure 139 171	reconstrucción de paredes con VI
+T9	Clinical_Finding 131 137	Fermín

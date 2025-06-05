@@ -1,0 +1,16 @@
+T1	Abbreviation 19 21	OD
+T2	Abbreviation 45 48	APS
+T3	Abbreviation 96 98	OD
+T4	Abbreviation 149 152	tto
+T5	Abbreviation 167 170	dte
+T7	Body_Part 50 53	4.5
+T8	Body_Part 167 174	dte 4.5
+T9	Disease 2 15	CARIES DENTAL
+T10	Disease 89 95	caries
+T11	Disease 175 188	Caries dental
+T12	Laboratory_or_Test_Result 113 130	lesión periapical
+T13	Therapeutic_Procedure 65 79	biopulpectomía
+T14	Therapeutic_Procedure 149 163	tto endodoncia
+T15	Body_Part 15 18	4.5
+A1	Negated T12
+A2	Pending T14

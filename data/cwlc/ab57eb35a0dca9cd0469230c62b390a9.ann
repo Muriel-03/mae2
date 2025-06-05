@@ -1,0 +1,11 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 163 179	piezas 2.1 y 2.2
+T3	Body_Part 350 357	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 312 388	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T6	Sign_or_Symptom 64 123	protesis parcial removible deterioradas superior e inferior
+T7	Sign_or_Symptom 141 159	movilidad grado II
+T8	Therapeutic_Procedure 261 270	exodoncia
+T9	Therapeutic_Procedure 302 310	protesis
+A1	Pending T9
+A2	Pending T8

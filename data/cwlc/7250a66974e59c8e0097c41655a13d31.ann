@@ -1,0 +1,17 @@
+T1	Abbreviation 14 17	der
+T2	Abbreviation 34 37	izq
+T3	Abbreviation 74 77	der
+T4	Abbreviation 80 83	izq
+T5	Abbreviation 85 89	Pzas
+T6	Abbreviation 135 138	Pza
+T7	Body_Part 85 96	Pzas 6 y 11
+T8	Body_Part 127 134	grupo V
+T9	Body_Part 135 141	Pza 10
+T11	Disease 112 123	Apiñamiento
+T12	Clinical_Finding 0 17	Clase I molar der
+T14	Sign_or_Symptom 19 37	clase II molar izq
+T15	Sign_or_Symptom 39 56	Overjet aumentado
+T16	Sign_or_Symptom 58 83	Mordida cruzada der e izq
+T17	Sign_or_Symptom 85 110	Pzas 6 y 11 en inoclusion
+T18	Sign_or_Symptom 112 134	Apiñamiento en grupo V
+T19	Sign_or_Symptom 135 163	Pza 10 palatinizacion severa

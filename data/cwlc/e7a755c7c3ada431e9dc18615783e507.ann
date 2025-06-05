@@ -1,0 +1,5 @@
+T1	Body_Part 67 85	dientes 1-16-17-32
+T2	Body_Part 136 145	diente 17
+T3	Body_Part 156 182	borde basilar de mandibula
+T4	Clinical_Finding 31 55	sin antecedentes medicos
+T5	Laboratory_or_Test_Result 67 182	dientes 1-16-17-32: incluidos se observa lesion radiopaca a nivel de diente 17 cercana a borde basilar de mandibula

@@ -1,0 +1,9 @@
+T1	Abbreviation 217 220	Tto
+T2	Body_Part 74 96	encias de grupo V y II
+T3	Body_Part 155 162	grupo V
+T4	Body_Part 172 180	grupo II
+T5	Diagnostic_Procedure 101 120	examen radiográfico
+T6	Disease 132 154	periodontitis moderada
+T7	Laboratory_or_Test_Result 132 180	periodontitis moderada grupo V y severa grupo II
+T8	Sign_or_Symptom 52 96	aumento de volumen de encias de grupo V y II
+R1	Has Arg1:T5 Arg2:T7	

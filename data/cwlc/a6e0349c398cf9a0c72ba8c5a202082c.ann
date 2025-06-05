@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	pieza 3.7
+T2	Body_Part 54 67	camara pulpar
+T3	Disease 10 25	caries profunda
+T4	Disease 36 42	caries
+T6	Therapeutic_Procedure 126 135	trepanada
+T5	Sign_or_Symptom 27 67	eliminar caries se llega a camara pulpar

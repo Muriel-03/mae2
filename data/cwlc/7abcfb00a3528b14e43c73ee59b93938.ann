@@ -1,0 +1,13 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 53 56	HTA
+T3	Body_Part 16 21	ÚTERO
+T4	Body_Part 158 163	utero
+T5	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T6	Disease 53 56	HTA
+T7	Disease 57 71	HIPOTIROIDISMO
+T8	Disease 72 88	PROLAPSO UTERINO
+T9	Disease 98 116	MIOMATOSIS UTERINA
+T10	Disease 144 163	Leiomioma del utero
+T11	Clinical_Finding 50 52	M3
+T12	Abbreviation 50 51	M
+T13	Laboratory_or_Test_Result 129 141	HEMATROMETRA

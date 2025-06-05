@@ -1,0 +1,7 @@
+T1	Abbreviation 39 42	APS
+T2	Disease 2 15	CARIES DENTAL
+T4	Therapeutic_Procedure 167 185	operatoria directa
+T3	Sign_or_Symptom 78 119	Habito parafuncional de mamadera nocturna
+T5	Sign_or_Symptom 56 78	dificil comportamiento
+T6	Disease 128 155	caries de infancia temprana
+A1	Pending T4

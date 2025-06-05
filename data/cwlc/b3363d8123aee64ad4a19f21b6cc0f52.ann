@@ -1,0 +1,13 @@
+T1	Abbreviation 68 71	APS
+T2	Body_Part 32 44	MUCOSA BUCAL
+T3	Body_Part 169 200	cara interna de mejilla derecha
+T4	Body_Part 283 295	mucosa bucal
+T5	Disease 2 44	HIPERPLASIA IRRRITATIVA DE LA MUCOSA BUCAL
+T6	Disease 82 92	hipertensa
+T7	Disease 147 165	fibroma irritativo
+T8	Disease 253 295	Hiperplasia irrritativa de la mucosa bucal
+T9	Medication 99 107	losartan
+T10	Medication 109 117	aspirina
+T11	Medication 120 137	hidroclorotiazida
+T12	Therapeutic_Procedure 240 251	extirpación
+A1	Pending T12

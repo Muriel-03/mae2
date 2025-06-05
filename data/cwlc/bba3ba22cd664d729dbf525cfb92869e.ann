@@ -1,0 +1,10 @@
+T1	Body_Part 63 68	P.1.1
+T2	Body_Part 70 74	P1.2
+T3	Body_Part 88 92	P2.1
+T4	Body_Part 129 137	GRUPO II
+T5	Disease 31 49	LUXACION INTRUSIVA
+T6	Disease 93 111	LUXACION EXTRUSIVA
+T7	Abbreviation 56 58	mm
+T8	Abbreviation 113 115	mm
+T9	Therapeutic_Procedure 120 128	FERULIZA
+T10	Disease 75 86	SUBLUXACION

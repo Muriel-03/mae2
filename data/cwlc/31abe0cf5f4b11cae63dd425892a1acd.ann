@@ -1,0 +1,12 @@
+T1	Abbreviation 43 47	EEDP
+T2	Family_Member 169 173	mamá
+T3	Family_Member 252 256	papá
+T4	Disease 304 331	Caries de infancia temprana
+T5	Sign_or_Symptom 2 25	PACIENTE DIFICIL MANEJO
+T6	Sign_or_Symptom 57 75	caracter irritable
+T7	Sign_or_Symptom 32 47	Retraso en EEDP
+T8	Sign_or_Symptom 97 102	Grita
+T9	Sign_or_Symptom 104 125	no sigue indicaciones
+T10	Sign_or_Symptom 359 376	mamadera nocturna
+T11	Sign_or_Symptom 378 406	cepillado sin pasta fluorada
+T12	Medication 392 406	pasta fluorada

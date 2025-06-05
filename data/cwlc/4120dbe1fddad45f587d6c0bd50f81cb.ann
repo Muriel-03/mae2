@@ -1,0 +1,20 @@
+T1	Abbreviation 22 25	OBS
+T2	Abbreviation 146 148	RX
+T3	Abbreviation 161 162	+
+T4	Abbreviation 163 165	FR
+T5	Abbreviation 168 171	VHS
+T6	Body_Part 101 116	REGION CERVICAL
+T7	Body_Part 132 140	RODILLAS
+T8	Diagnostic_Procedure 146 148	RX
+T9	Disease 27 42	MESENQUIMOPATIA
+T10	Disease 152 160	ARTROSIS
+T12	Laboratory_or_Test_Result 152 162	ARTROSIS +
+T13	Laboratory_Procedure 163 165	FR
+T14	Laboratory_or_Test_Result 172 181	ALTERADOS
+T15	Laboratory_Procedure 168 171	VHS
+T16	Sign_or_Symptom 0 10	ARTRALGIAS
+T17	Sign_or_Symptom 67 140	ARTRALGIAS NO BIEN TIPIFICADAS EN REGION CERVICAL, COXOFEMORAL Y RODILLAS
+T11	Body_Part 118 129	COXOFEMORAL
+R1	Has Arg1:T8 Arg2:T12	
+R2	Has Arg1:T13 Arg2:T14	
+R3	Has Arg1:T15 Arg2:T14	

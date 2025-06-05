@@ -1,0 +1,9 @@
+T1	Abbreviation 16 19	2da
+T2	Body_Part 0 9	Denticion
+T3	Body_Part 78 91	arco superior
+T4	Clinical_Finding 0 24	Denticion mixta 2da fase
+T5	Clinical_Finding 118 141	clase I bilateral molar
+T6	Disease 25 51	discrepancia osea dentaria
+T7	Sign_or_Symptom 56 91	protuccion apiñada en arco superior
+T8	Abbreviation 114 116	mm
+T9	Sign_or_Symptom 92 111	arvegente aumentado

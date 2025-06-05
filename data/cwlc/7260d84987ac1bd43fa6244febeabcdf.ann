@@ -1,0 +1,18 @@
+T1	Abbreviation 89 94	DM II
+T2	Abbreviation 98 100	IR
+T3	Abbreviation 102 105	HTA
+T4	Abbreviation 115 118	ACV
+T5	Abbreviation 138 146	AngioTAC
+T6	Body_Part 26 42	ARTERIA CARÓTIDA
+T7	Body_Part 228 253	arteria vertebral derecha
+T8	Diagnostic_Procedure 138 155	AngioTAC cervical
+T9	Disease 2 42	OCLUSIÓN Y ESTENOSIS DE ARTERIA CARÓTIDA
+T10	Disease 89 94	DM II
+T11	Disease 102 105	HTA
+T12	Disease 107 118	Secuela ACV
+T13	Disease 170 203	ateromatosis bicarotidea moderada
+T14	Disease 215 245	estenosis de arteria vertebral
+T15	Laboratory_or_Test_Result 170 203	ateromatosis bicarotidea moderada
+T16	Laboratory_or_Test_Result 215 260	estenosis de arteria vertebral derecha del 50
+R1	Has Arg1:T8 Arg2:T15	
+R2	Has Arg1:T8 Arg2:T16	

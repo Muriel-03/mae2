@@ -1,0 +1,12 @@
+T1	Abbreviation 36 39	TDA
+T2	Abbreviation 73 76	PZA
+T3	Abbreviation 103 107	RPTA
+T4	Abbreviation 112 115	PZA
+T5	Body_Part 73 78	PZA 8
+T6	Body_Part 112 117	PZA 9
+T8	Disease 0 4	K029
+T9	Disease 5 35	CARIES DENTAL, NO ESPECIFICADA
+T10	Disease 36 39	TDA
+T12	Sign_or_Symptom 85 117	TEST TERMICO SIN  RPTA EN  PZA 9
+T13	Therapeutic_Procedure 119 130	TREPANACION
+T7	Body_Part 132 137	8 Y 9

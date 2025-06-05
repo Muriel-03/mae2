@@ -1,0 +1,6 @@
+T1	Abbreviation 36 41	pacte
+T2	Disease 99 114	cancer gastrico
+T3	Medication 12 21	omeprazol
+T4	Medication 24 35	domperidona
+T5	Disease 46 69	reflujo gastroesofágico
+A1	Implicit_Family_Background T2

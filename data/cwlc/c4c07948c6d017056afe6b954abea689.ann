@@ -1,0 +1,10 @@
+T1	Abbreviation 90 91	+
+T2	Abbreviation 104 105	+
+T3	Abbreviation 131 132	+
+T4	Body_Part 49 58	diente 12
+T5	Disease 14 48	pulptitis irreversible sintomatica
+T6	Therapeutic_Procedure 92 103	pulpectomia
+T7	Therapeutic_Procedure 106 130	medicacion intraconducto
+T8	Disease 2 10	PULPITIS
+T9	Clinical_Finding 133 152	obturacion temporal
+T10	Therapeutic_Procedure 71 89	acceso endodontico

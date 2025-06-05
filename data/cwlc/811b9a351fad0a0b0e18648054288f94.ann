@@ -1,0 +1,8 @@
+T1	Abbreviation 122 125	APS
+T3	Disease 2 98	OTRAS ENFERMEDADES ESPECIFICADAS Y AFECCIONES QUE COMPLICAN EL EMBARAZO, EL PARTO Y EL PUERPERIO
+T4	Disease 154 250	Otras enfermedades especificadas y afecciones que complican el embarazo, el parto y el puerperio
+T5	Clinical_Finding 127 137	PRIMIGESTA
+T6	Clinical_Finding 137 145	EMBARAZO
+T2	Abbreviation 150 153	EVP
+T7	Clinical_Finding 217 225	embarazo
+T8	Clinical_Finding 65 73	EMBARAZO

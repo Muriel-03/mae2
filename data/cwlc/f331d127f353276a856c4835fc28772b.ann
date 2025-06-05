@@ -1,0 +1,5 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Disease 34 52	GINGIVITIS CRÓNICA
+T3	Disease 98 139	Periodontitis crónica severa generalizada
+T4	Clinical_Finding 65 75	embarazada
+T5	Clinical_Finding 86 96	primigesta

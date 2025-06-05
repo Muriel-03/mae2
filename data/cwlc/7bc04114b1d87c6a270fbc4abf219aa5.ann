@@ -1,0 +1,7 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 100 103	+/-
+T3	Body_Part 32 40	PRÓSTATA
+T4	Body_Part 178 186	PROSTATA
+T5	Disease 2 40	CONGESTIÓN Y HEMORRAGIA DE LA PRÓSTATA
+T6	Therapeutic_Procedure 167 186	CIRUGIA DE PROSTATA
+T7	Sign_or_Symptom 200 209	HEMATURIA

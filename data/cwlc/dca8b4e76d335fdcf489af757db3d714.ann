@@ -1,0 +1,12 @@
+T1	Abbreviation 75 78	APS
+T2	Body_Part 21 28	DIENTES
+T3	Body_Part 110 120	diente 2.8
+T4	Disease 2 17	PERICORONARITIS
+T5	Disease 21 51	DIENTES INCLUIDOS E IMPACTADOS
+T6	Disease 80 95	Pericoronaritis
+T7	Disease 138 147	impactado
+T8	Disease 200 215	Pericoronaritis
+T9	Laboratory_or_Test_Result 21 51	DIENTES INCLUIDOS E IMPACTADOS
+T10	Laboratory_or_Test_Result 110 147	diente 2.8 , semiincluido e impactado
+T11	Therapeutic_Procedure 165 174	exodoncia
+A1	Pending T11

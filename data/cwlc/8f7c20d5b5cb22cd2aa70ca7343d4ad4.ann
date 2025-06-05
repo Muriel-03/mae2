@@ -1,0 +1,27 @@
+T1	Abbreviation 96 99	APS
+T2	Abbreviation 101 104	ECO
+T3	Abbreviation 213 216	TSH
+T4	Abbreviation 222 224	T4
+T5	Abbreviation 232 235	TTO
+T6	Abbreviation 240 244	LVTX
+T7	Abbreviation 386 389	HRC
+T8	Body_Part 138 155	TIROPIDEO DERECHO
+T9	Diagnostic_Procedure 101 113	ECO TIROIDEA
+T10	Disease 2 33	HIPOTIROIDISMO, NO ESPECIFICADO
+T11	Disease 37 72	NÓDULO TIROIDEO SOLITARIO NO TÓXICO
+T12	Disease 464 495	Hipotiroidismo, no especificado
+T13	Laboratory_or_Test_Result 124 164	ENGROSAMIENTO TIROPIDEO DERECHO DISCRETO
+T14	Laboratory_or_Test_Result 166 186	ESTRUCTURA IRREGULAR
+T15	Laboratory_or_Test_Result 187 212	NODULO ECOGENUICO DERECHO
+T16	Laboratory_Procedure 213 216	TSH
+T17	Laboratory_Procedure 222 224	T4
+T18	Medication 240 244	LVTX
+T19	Sign_or_Symptom 306 329	DOLOR CERVICAL ANTERIOR
+T20	Sign_or_Symptom 334 367	SINTOMATOLOGIA DE DESCOMPENSACION
+R1	Has Arg1:T9 Arg2:T13	
+R2	Has Arg1:T9 Arg2:T14	
+R3	Has Arg1:T9 Arg2:T15	
+T21	Abbreviation 248 252	Mcgr
+T22	Abbreviation 277 281	Mcgr
+A1	Negated T19
+A2	Negated T20

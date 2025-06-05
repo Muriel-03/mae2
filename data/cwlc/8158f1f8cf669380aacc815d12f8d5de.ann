@@ -1,0 +1,13 @@
+T1	Abbreviation 90 93	APS
+T2	Abbreviation 97 99	M2
+T3	Abbreviation 113 116	DIU
+T4	Abbreviation 155 158	DIU
+T6	Clinical_Finding 160 224	Supervisión del uso de dispositivo anticonceptivo (intrauterino)
+T7	Clinical_Finding 2 66	SUPERVISIÓN DEL USO DE DISPOSITIVO ANTICONCEPTIVO (INTRAUTERINO)
+T8	Clinical_Finding 97 99	M2
+T9	Clinical_Finding 102 116	USUARIA DE DIU
+T10	Therapeutic_Procedure 113 116	DIU
+T11	Therapeutic_Procedure 144 158	EXTRACCIÓN DIU
+T5	Therapeutic_Procedure 25 66	DISPOSITIVO ANTICONCEPTIVO (INTRAUTERINO)
+T12	Therapeutic_Procedure 183 224	dispositivo anticonceptivo (intrauterino)
+A1	Pending T11

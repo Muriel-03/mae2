@@ -1,0 +1,7 @@
+T1	Abbreviation 10 13	1ER
+T2	Body_Part 0 9	DIENTE 12
+T4	Sign_or_Symptom 81 102	DESTRUCCION CORONARIA
+T5	Therapeutic_Procedure 33 57	TRATADO ENDODONTICAMENTE
+T6	Therapeutic_Procedure 148 156	IMPLANTE
+T7	Body_Part 10 32	1ER PREMOLAR IZQUIERDO
+A1	Pending T6

@@ -1,0 +1,14 @@
+T1	Disease 2 19	SINUSITIS CRÓNICA
+T2	Disease 23 92	OTROS TRASTORNOS ESPECIFICADOS DE LA NARIZ Y DE LOS SENOS PARANASALES
+T3	Body_Part 60 65	NARIZ
+T4	Body_Part 75 92	SENOS PARANASALES
+T5	Abbreviation 92 95	obs
+T6	Abbreviation 96 98	tu
+T7	Disease 96 116	tu senos paranasales
+T8	Sign_or_Symptom 120 127	CEFALEA
+T9	Body_Part 99 116	senos paranasales
+T10	Disease 140 150	schwannoma
+T11	Therapeutic_Procedure 183 190	operado
+T12	Sign_or_Symptom 201 208	cefalea
+T13	Disease 210 232	rinorrea sanguinolenta
+T14	Abbreviation 288 289	x

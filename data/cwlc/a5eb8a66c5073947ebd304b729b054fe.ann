@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	Pieza 1.5
+T5	Body_Part 117 126	pieza 1.5
+T6	Disease 25 46	pulpitis irreversible
+T7	Sign_or_Symptom 14 19	dolor
+T8	Clinical_Finding 68 76	medicada
+T9	Therapeutic_Procedure 92 113	tratamiento radicular
+A1	Pending T9
+T10	Clinical_Finding 47 56	trepanada

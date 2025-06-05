@@ -1,0 +1,9 @@
+T1	Abbreviation 110 113	HRT
+T2	Body_Part 51 61	DIENTE 2/3
+T3	Body_Part 62 68	DIENTE
+T4	Body_Part 156 166	DIENTE 2.6
+T5	Therapeutic_Procedure 15 46	REHABILITACION DE PROTESIS FIJA
+T6	Therapeutic_Procedure 73 96	TRATAMIENTO DE CONDUCTO
+T7	Therapeutic_Procedure 137 166	REHABILITACION DEL DIENTE 2.6
+A1	Pending T5
+A2	Pending T7

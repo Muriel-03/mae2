@@ -1,0 +1,16 @@
+T1	Abbreviation 65 68	APS
+T2	Abbreviation 187 190	APE
+T3	Abbreviation 196 198	ng
+T4	Abbreviation 199 201	ml
+T5	Abbreviation 248 251	UFC
+T6	Abbreviation 252 254	ml
+T7	Disease 2 41	INCONTINENCIA URINARIA, NO ESPECIFICADA
+T8	Sign_or_Symptom 93 152	INCONTINENCIA HACE VARIOS MESES , SIN MEJORIA DE SU SINTOMA
+T9	Disease 296 335	Incontinencia urinaria, no especificada
+T11	Laboratory_or_Test_Result 213 221	NEGATIVO
+T12	Laboratory_Procedure 187 190	APE
+T13	Laboratory_Procedure 202 212	UROCULTIVO
+T14	Laboratory_Procedure 222 242	RECUENTO DE COLONIAS
+R1	Has Arg1:T13 Arg2:T11	
+T10	Laboratory_or_Test_Result 243 254	Cero UFC/ml
+R2	Has Arg1:T14 Arg2:T10	

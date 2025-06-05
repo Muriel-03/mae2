@@ -1,0 +1,12 @@
+T1	Abbreviation 21 25	TTO.
+T2	Abbreviation 71 74	EX.
+T3	Abbreviation 110 113	TTO
+T4	Body_Part 0 9	DIENTE 30
+T5	Body_Part 10 16	DIENTE
+T6	Body_Part 99 105	DIENTE
+T7	Diagnostic_Procedure 71 87	EX. RADIOGRAFICO
+T8	Clinical_Finding 10 46	DIENTE CON TTO. PREVIEMENTE INICIADO
+T13	Therapeutic_Procedure 141 151	ENDODONCIA
+A1	Pending T13
+T9	Laboratory_or_Test_Result 99 113	DIENTE CON TTO
+R1	Has Arg1:T7 Arg2:T9	

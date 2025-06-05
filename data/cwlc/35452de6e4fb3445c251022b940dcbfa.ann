@@ -1,0 +1,9 @@
+T1	Body_Part 184 200	piezas 7.5 y 8.5
+T2	Disease 2 15	CARIES DENTAL
+T3	Disease 205 212	caries.
+T4	Family_Member 110 115	madre
+T5	Clinical_Finding 31 58	sin antecedentes sistemicos
+T6	Clinical_Finding 60 72	sin alergias
+T7	Sign_or_Symptom 184 212	piezas 7.5 y 8.5 con caries.
+T8	Clinical_Finding 84 100	no toma mamadera
+T9	Sign_or_Symptom 127 173	come mucho chocapic con yoghurt todos los dias

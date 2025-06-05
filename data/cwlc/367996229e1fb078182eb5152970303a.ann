@@ -1,0 +1,7 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 96 112	terceros molares
+T4	Clinical_Finding 2 15	PACIENTE SANO
+T5	Clinical_Finding 154 167	Paciente Sano
+T6	Therapeutic_Procedure 83 92	exodoncia
+T3	Sign_or_Symptom 117 151	dificultades al comer e higienizar
+A1	Pending T6

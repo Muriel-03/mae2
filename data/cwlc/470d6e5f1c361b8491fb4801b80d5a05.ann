@@ -1,0 +1,11 @@
+T1	Abbreviation 0 2	PD
+T2	Body_Part 0 6	PD 2.6
+T3	Sign_or_Symptom 41 54	PERCUSION (+)
+T4	Therapeutic_Procedure 65 88	TRATAMIENTO ENDODONTICO
+T5	Therapeutic_Procedure 99 122	TRATAMIENTO ORTODONCICO
+T6	Therapeutic_Procedure 152 161	TREPANADA
+T7	Abbreviation 52 53	+
+T8	Clinical_Finding 11 39	OBSTURACION EXTENSA PROFUNDA
+A1	Pending T4
+A2	Pending T5
+A3	Pending T6

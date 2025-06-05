@@ -1,0 +1,12 @@
+T1	Abbreviation 62 66	ADAA
+T2	Abbreviation 116 119	APS
+T3	Abbreviation 136 140	ADAA
+T4	Body_Part 121 131	Diente 1.5
+T5	Disease 2 28	HIPERSENSIBILIDAD CERVICAL
+T6	Disease 32 66	ABSCESO DENTO ALVEOLAR AGUDO (ADAA
+T7	Disease 71 92	OTRAS CARIES DENTALES
+T8	Disease 136 140	ADAA
+T9	Disease 186 203	caries cervicales
+T10	Sign_or_Symptom 176 203	multiples caries cervicales
+T11	Disease 206 232	hipersensibilidad cervical
+T12	Medication 154 166	antibióticos

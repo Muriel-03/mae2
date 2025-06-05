@@ -1,0 +1,6 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 106 109	PPR
+T3	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T4	Disease 120 141	Periodontitis cronica
+T6	Therapeutic_Procedure 106 118	PPR INFERIOR
+A1	Pending T6

@@ -1,0 +1,6 @@
+T1	Body_Part 0 7	PIEZA 8
+T2	Body_Part 72 80	CONDUCTO
+T3	Clinical_Finding 8 17	TREPANADA
+T4	Laboratory_or_Test_Result 72 105	CONDUCTO PARCIALMENTE CALCIFICADO
+T5	Therapeutic_Procedure 40 50	ENDODONCIA
+A1	Pending T5

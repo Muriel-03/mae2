@@ -1,0 +1,15 @@
+T1	Abbreviation 75 78	HTA
+T2	Abbreviation 90 93	TTO
+T3	Abbreviation 161 164	TTO
+T4	Abbreviation 209 212	ACV
+T5	Disease 69 73	ASMA
+T6	Disease 75 78	HTA
+T7	Disease 143 157	HIPOTIROIDISMO
+T8	Disease 194 204	HIPOACUSIA
+T9	Disease 209 212	ACV
+T10	Medication 98 106	LOSARTAN
+T11	Medication 129 141	NITRENDIPINO
+T12	Medication 169 181	LEVOTIROXINA
+T13	Abbreviation 109 112	MGS
+T14	Abbreviation 184 187	MGS
+T15	Sign_or_Symptom 245 255	DEFORMIDAD

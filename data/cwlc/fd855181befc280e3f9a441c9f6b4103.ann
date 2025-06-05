@@ -1,0 +1,21 @@
+T1	Abbreviation 201 204	com
+T2	Abbreviation 446 450	RR2T
+T3	Abbreviation 451 453	SS
+T4	Abbreviation 455 457	MP
+T5	Abbreviation 457 458	+
+T6	Abbreviation 459 462	SRA
+T7	Abbreviation 566 569	GES
+T8	Body_Part 273 286	brazo derecho
+T9	Body_Part 355 363	esfinter
+T10	Body_Part 428 435	Mucosas
+T11	Disease 2 25	ENFERMEDAD DE PARKINSON
+T12	Disease 86 109	enfermedad de parkinson
+T14	Clinical_Finding 397 425	buenas condiciones generales
+T15	Clinical_Finding 428 444	Mucosas indemnes
+T16	Clinical_Finding 446 453	RR2T SS
+T17	Medication 181 188	Saniter
+T18	Sign_or_Symptom 252 286	temblor de reposo en brazo derecho
+T19	Sign_or_Symptom 290 318	enlentecimiento en la marcha
+T22	Clinical_Finding 455 462	MP+ SRA
+T24	Clinical_Finding 329 338	orientado
+T25	Clinical_Finding 344 363	control de esfinter

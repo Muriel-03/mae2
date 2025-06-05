@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 108 110	mm
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 141 147	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 112 147	Anomalias de la posicion del diente
+T7	Sign_or_Symptom 66 86	mesioversion 1.1-2.1
+T8	Sign_or_Symptom 87 110	overjet aumentado: 9 mm

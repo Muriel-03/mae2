@@ -1,0 +1,17 @@
+T1	Abbreviation 72 76	dent
+T2	Abbreviation 140 143	ADM
+T3	Abbreviation 233 236	tto
+T4	Body_Part 189 198	2.2 y 3.2
+T5	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T6	Disease 92 112	trastorno congnitivo
+T8	Clinical_Finding 114 136	sin historia de caries
+T9	Sign_or_Symptom 0 199	- ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+
+
+ Paciente sana, dent permanente con trastorno congnitivo, sin historia de caries
+- ADM: clase II de Angle subtipo 2 Vis a vis entre 2.2 y 3.2.
+T7	Clinical_Finding 72 87	dent permanente
+T10	Body_Part 72 76	dent
+T11	Disease 140 143	ADM
+T12	Sign_or_Symptom 145 172	clase II de Angle subtipo 2
+T13	Sign_or_Symptom 173 198	Vis a vis entre 2.2 y 3.2

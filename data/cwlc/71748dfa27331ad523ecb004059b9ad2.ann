@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	TTO
+T2	Abbreviation 76 79	PZ.
+T3	Body_Part 14 17	2.6
+T4	Body_Part 76 82	PZ. 26
+T5	Disease 31 52	PULPITIS IRREVERSIBLE
+T10	Therapeutic_Procedure 0 13	TTO RADICULAR
+T11	Therapeutic_Procedure 107 118	TREPANACION
+A1	Pending T10
+T12	Disease 87 93	ACRIES

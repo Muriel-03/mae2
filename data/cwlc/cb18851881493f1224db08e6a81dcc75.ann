@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	dte
+T2	Body_Part 41 53	dte. 1.1/2.2
+T3	Disease 0 21	periodontitis crónica
+T5	Sign_or_Symptom 31 53	movilidad dte. 1.1/2.2
+T6	Therapeutic_Procedure 65 74	exodoncia
+T7	Therapeutic_Procedure 119 135	cirugía cardiaca
+A1	Pending T7
+A2	Pending T6

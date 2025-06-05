@@ -1,0 +1,27 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 61	pcte
+T3	Abbreviation 101 104	HTA
+T4	Abbreviation 107 111	DMII
+T5	Abbreviation 115 118	tto
+T6	Abbreviation 171 174	PSA
+T7	Abbreviation 202 204	ng
+T8	Abbreviation 205 207	ml
+T9	Abbreviation 225 226	g
+T10	Abbreviation 227 229	dl
+T11	Body_Part 20 28	PRÓSTATA
+T12	Diagnostic_Procedure 526 533	biopsia
+T13	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T14	Disease 101 104	HTA
+T15	Disease 107 111	DMII
+T16	Laboratory_or_Test_Result 175 183	alterado
+T18	Laboratory_Procedure 171 174	PSA
+T19	Laboratory_Procedure 209 220	hemoglobina
+T20	Laboratory_Procedure 231 242	hematocrito
+R1	Has Arg1:T18 Arg2:T16	
+T21	Sign_or_Symptom 323 374	(tacto rectal) observó próstata aumentada de tamaño
+T22	Diagnostic_Procedure 394 401	biopsia
+T17	Sign_or_Symptom 454 498	orinar con mayor frecuencia durante la noche
+T23	Abbreviation 402 406	pcte
+T24	Clinical_Finding 415 430	orinas normales
+T25	Clinical_Finding 432 445	chorro normal
+T26	Body_Part 346 354	próstata

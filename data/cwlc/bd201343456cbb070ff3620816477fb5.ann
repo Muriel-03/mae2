@@ -1,0 +1,13 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 148 153	4.3mp
+T3	Abbreviation 156 158	dp
+T4	Abbreviation 197 200	APS
+T5	Body_Part 148 158	4.3mp y dp
+T7	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T8	Disease 61 72	apiñamiento
+T9	Disease 246 267	Periodontitis cronica
+T10	Sign_or_Symptom 61 122	apiñamiento antero inferior que facilita formaciòn de calculo
+T11	Sign_or_Symptom 125 193	sacos periodontales en 4.3mp y dp persistentes a terapia periodontal
+T12	Therapeutic_Procedure 174 193	terapia periodontal
+T13	Therapeutic_Procedure 211 244	terapia y control de especialidad
+A1	Pending T13

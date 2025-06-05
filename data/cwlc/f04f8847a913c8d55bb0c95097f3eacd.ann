@@ -1,0 +1,12 @@
+T1	Body_Part 125 131	Higado
+T2	Diagnostic_Procedure 25 34	Ecografia
+T3	Laboratory_or_Test_Result 43 80	via Biliar Intra Y Extrahepatica Fina
+T4	Laboratory_or_Test_Result 80 99	vesicula Distendida
+T5	Laboratory_or_Test_Result 105 123	Multiples Calculos
+T6	Laboratory_or_Test_Result 125 154	Higado Con Infiltracion Grasa
+R1	Has Arg1:T2 Arg2:T3	
+R2	Has Arg1:T2 Arg2:T4	
+R3	Has Arg1:T2 Arg2:T5	
+R4	Has Arg1:T2 Arg2:T6	
+T7	Body_Part 80 88	vesicula
+T8	Body_Part 43 75	via Biliar Intra Y Extrahepatica

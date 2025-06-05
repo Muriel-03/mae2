@@ -1,0 +1,6 @@
+T1	Abbreviation 26 29	Sup
+T2	Abbreviation 32 35	Inf
+T3	Disease 9 35	Desdentado Total Sup E Inf
+T4	Clinical_Finding 36 67	Portador De Protesis Removibles
+T5	Therapeutic_Procedure 86 109	Sobredentadura Inferior
+A1	Pending T5

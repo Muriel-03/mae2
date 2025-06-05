@@ -1,0 +1,15 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 339 344	aprox
+T3	Abbreviation 348 351	min
+T4	Body_Part 15 20	COLON
+T5	Body_Part 568 573	colon
+T6	Disease 2 30	SÍNDROME DEL COLON IRRITABLE
+T7	Disease 137 159	obstruccion intestinal
+T8	Disease 555 583	Sindrome del colon irritable
+T9	Medication 377 393	antiespasmodicos
+T10	Sign_or_Symptom 193 233	dolor abdominal a repeticion tipo colico
+T11	Sign_or_Symptom 236 258	intolerancia a lacteos
+T12	Sign_or_Symptom 318 335	dolor tipo colico
+T13	Sign_or_Symptom 415 455	expulsion de flatos  de forma permanente
+T14	Sign_or_Symptom 458 474	acidez estomacal
+T15	Therapeutic_Procedure 109 132	laparatomia exploradora

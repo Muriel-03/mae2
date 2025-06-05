@@ -1,0 +1,14 @@
+T1	Abbreviation 152 153	p
+T2	Body_Part 152 164	p. 2.3 y 1.4
+T3	Disease 2 18	DESDENTADO TOTAL
+T4	Disease 24 42	DESDENTADO PARCIAL
+T5	Clinical_Finding 61 76	silla de ruedas
+T6	Clinical_Finding 152 202	p. 2.3 y 1.4.   Reborde inferior filo de chuchillo
+T7	Laboratory_or_Test_Result 152 235	p. 2.3 y 1.4.   Reborde inferior filo de chuchillo y tuberocidades poco prominentes
+T9	Sign_or_Symptom 168 202	Reborde inferior filo de chuchillo
+T10	Sign_or_Symptom 205 235	tuberocidades poco prominentes
+T11	Sign_or_Symptom 78 90	semipostrada
+T12	Disease 92 136	Dedestanda total inferior y superior parcial
+T13	Body_Part 168 184	Reborde inferior
+T14	Body_Part 205 218	tuberocidades
+T8	Clinical_Finding 141 164	remanentes p. 2.3 y 1.4

@@ -1,0 +1,20 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 233 236	BEG
+T3	Abbreviation 265 267	mp
+T4	Abbreviation 268 269	+
+T5	Abbreviation 270 275	r2tss
+T6	Body_Part 122 127	torax
+T7	Body_Part 249 254	torax
+T8	Sign_or_Symptom 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T9	Sign_or_Symptom 402 433	Soplo cardiaco, no especificado
+T10	Family_Member 82 87	madre
+T11	Clinical_Finding 149 171	no antecede enfermedad
+T12	Clinical_Finding 172 182	no alergia
+T13	Clinical_Finding 233 236	BEG
+T14	Clinical_Finding 249 264	torax simetrico
+T15	Sign_or_Symptom 113 127	dolor de torax
+T16	Sign_or_Symptom 265 269	mp +
+T17	Sign_or_Symptom 270 275	r2tss
+T18	Sign_or_Symptom 276 295	soplo holosistolico
+T19	Clinical_Finding 237 248	normocraneo
+T20	Sign_or_Symptom 296 322	sin fremito a la palpacion

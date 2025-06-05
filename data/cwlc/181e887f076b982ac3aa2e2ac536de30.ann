@@ -1,0 +1,22 @@
+T1	Abbreviation 0 3	TDA
+T2	Abbreviation 9 14	APROX
+T3	Abbreviation 36 39	PZA
+T4	Abbreviation 168 170	RX
+T5	Abbreviation 258 261	PZA
+T6	Abbreviation 304 307	PZA
+T7	Body_Part 36 42	PZA. 9
+T8	Body_Part 258 264	PZA. 9
+T9	Body_Part 304 307	PZA
+T10	Diagnostic_Procedure 168 191	RX PERIAPICAL Y OCLUSAL
+T11	Disease 0 3	TDA
+T13	Disease 193 222	FRACTURA RADICULAR HORIZONTAL
+T15	Disease 353 371	Fractura Radicular
+T19	Laboratory_or_Test_Result 193 264	FRACTURA RADICULAR HORIZONTAL A NIVEL CERVICAL SUBGINGIVAL DE LA PZA. 9
+T21	Sign_or_Symptom 66 90	MOVILIDAD AUMENTADA LEVE
+T22	Sign_or_Symptom 92 109	DOLOR A PERCUSIÓN
+T23	Clinical_Finding 112 136	SIN CAMBIO DE COLORACIÓN
+T25	Therapeutic_Procedure 287 297	ENDODONCIA
+T26	Therapeutic_Procedure 326 340	REHABILITACIÓN
+A1	Pending T25
+A2	Pending T26
+R1	Has Arg1:T10 Arg2:T19	

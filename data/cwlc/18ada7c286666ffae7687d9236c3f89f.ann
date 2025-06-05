@@ -1,0 +1,5 @@
+T1	Body_Part 0 8	diente 4
+T2	Disease 91 119	periodontitis apical cronica
+T3	Clinical_Finding 13 45	tratamiento previamente iniciado
+T4	Laboratory_or_Test_Result 77 90	lesion apical
+T5	Laboratory_or_Test_Result 158 178	lesion periradicular

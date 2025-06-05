@@ -1,0 +1,23 @@
+T1	Abbreviation 140 143	APS
+T2	Abbreviation 283 285	rx
+T3	Abbreviation 334 336	rx
+T4	Body_Part 64 73	troquiter
+T5	Body_Part 213 219	cuello
+T6	Body_Part 222 236	hombro derecho
+T7	Body_Part 289 303	hombro derecho
+T8	Body_Part 323 332	troquiter
+T9	Body_Part 340 356	columna cervical
+T10	Body_Part 378 404	articulaciones  de C2 A C6
+T11	Diagnostic_Procedure 261 280	estudio radiologico
+T12	Diagnostic_Procedure 283 303	rx de hombro derecho
+T13	Diagnostic_Procedure 334 356	rx de columna cervical
+T15	Disease 48 73	Sentesitis  del troquiter
+T16	Disease 78 104	OTRAS ARTROSIS ,(ARTROSIS)
+T18	Disease 309 332	entesitis del troquiter
+T19	Disease 454 480	Otras artrosis ,(artrosis)
+T20	Laboratory_or_Test_Result 309 332	entesitis del troquiter
+T21	Laboratory_or_Test_Result 361 404	uncoartrosis  de articulaciones  de C2 A C6
+T22	Sign_or_Symptom 189 236	fuerte dolor a nivel de cuello y hombro derecho
+T14	Disease 104 116	uncoartrosis
+R1	Has Arg1:T12 Arg2:T20	
+R2	Has Arg1:T13 Arg2:T21	

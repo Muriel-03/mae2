@@ -1,0 +1,8 @@
+T1	Abbreviation 103 106	APS
+T2	Abbreviation 199 201	cm
+T3	Body_Part 22 26	PIEL
+T4	Body_Part 72 77	torax
+T5	Body_Part 142 146	piel
+T6	Body_Part 147 162	region toracica
+T9	Sign_or_Symptom 49 77	maculas  color cafe en torax
+T10	Sign_or_Symptom 130 280	maculas  en piel region toracica en numero de 5 de aproximadamente 1 cm de diametro cada una ,  de color cafe  , pruriginosas  de 3 meses de evolucion

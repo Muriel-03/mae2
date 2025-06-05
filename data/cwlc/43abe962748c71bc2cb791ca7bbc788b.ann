@@ -1,0 +1,18 @@
+T1	Abbreviation 29 32	BOT
+T2	Abbreviation 107 109	GS
+T4	Abbreviation 123 124	+
+T5	Abbreviation 246 250	EEII
+T6	Body_Part 25 28	PIE
+T7	Body_Part 246 250	EEII
+T8	Diagnostic_Procedure 205 221	ELECTROMIOGRAFÍA
+T9	Disease 0 4	Q660
+T10	Disease 5 24	TALIPES EQUINOVARUS
+T11	Disease 25 42	PIE BOT BILATERAL
+T13	Sign_or_Symptom 116 134	STEPAGE+ BILATERAL
+T16	Disease 167 188	NEUROPATÍA PERIFÉRICA
+T14	Sign_or_Symptom 85 101	ATROFIA MUSCULAR
+T17	Abbreviation 102 105	+++
+T18	Diagnostic_Procedure 224 250	ESTUDIO DE CONDUCCIÓN EEII
+T19	Abbreviation 112 114	TA
+A1	Pending T8
+A2	Pending T18

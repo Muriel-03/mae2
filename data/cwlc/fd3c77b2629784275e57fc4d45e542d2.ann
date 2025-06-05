@@ -1,0 +1,8 @@
+T1	Abbreviation 156 158	pd
+T2	Body_Part 156 162	pd 1.1
+T3	Body_Part 184 193	pieza 3.5
+T4	Disease 97 135	desdentado parcial superior e inferior
+T5	Disease 149 155	caries
+T6	Disease 165 180	resto radicular
+T7	Sign_or_Symptom 13 40	limitacion de apertura oral
+T8	Sign_or_Symptom 50 95	cicatrices producidas por quemaduras faciales

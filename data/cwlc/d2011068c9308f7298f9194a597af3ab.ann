@@ -1,0 +1,10 @@
+T2	Body_Part 50 58	pieza1.5
+T3	Body_Part 119 128	pieza 2.5
+T4	Disease 0 18	desdentada parcial
+T6	Disease 63 78	caries cervical
+T8	Laboratory_or_Test_Result 129 172	tratada endodonticamente con rebalse apical
+T9	Clinical_Finding 20 36	poliobturaciones
+T10	Sign_or_Symptom 38 48	policaries
+T12	Therapeutic_Procedure 193 207	legrado apical
+T1	Sign_or_Symptom 90 117	invasión de ancho biológico
+A1	Pending T12

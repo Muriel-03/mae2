@@ -1,0 +1,21 @@
+T1	Abbreviation 252 255	APS
+T2	Abbreviation 297 299	ca
+T3	Abbreviation 396 399	sat
+T4	Abbreviation 561 563	O2
+T5	Body_Part 22 26	MAMA
+T6	Body_Part 303 315	mama derecha
+T7	Disease 2 49	TUMOR MALIGNO DE LA MAMA, PARTE NO ESPECIFICADA
+T8	Disease 53 132	MANIFESTACIONES PULMONARES CRÓNICAS Y OTRAS MANIFESTACIONES DEBIDAS A RADIACIÓN
+T9	Disease 136 176	DIABETES MELLITUS NO INSULINODEPENDIENTE
+T10	Disease 180 211	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T11	Disease 216 228	DISLIPIDEMIA
+T12	Disease 297 315	ca de mama derecha
+T13	Disease 445 485	necrosis pulmonar secundaria a radiacion
+T14	Sign_or_Symptom 364 390	disnea a esfuerzos minimos
+T16	Therapeutic_Procedure 123 132	RADIACIÓN
+T17	Clinical_Finding 316 325	irradiado
+T18	Sign_or_Symptom 396 427	sat 02 digital hasta 68 cronica
+T19	Therapeutic_Procedure 476 485	radiacion
+T20	Therapeutic_Procedure 561 576	O2 domiciliario
+T15	Abbreviation 400 402	02
+A1	Pending T20

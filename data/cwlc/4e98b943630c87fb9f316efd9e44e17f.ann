@@ -1,0 +1,9 @@
+T1	Abbreviation 27 29	dg
+T2	Abbreviation 69 72	eco
+T3	Abbreviation 153 156	dlp
+T4	Diagnostic_Procedure 69 81	eco tiroidea
+T5	Disease 0 14	hipotiroidismo
+T6	Disease 95 101	chagas
+T7	Disease 103 124	cardiopatia coronaria
+T8	Disease 126 151	intolerancia a la glucosa
+T9	Disease 153 156	dlp

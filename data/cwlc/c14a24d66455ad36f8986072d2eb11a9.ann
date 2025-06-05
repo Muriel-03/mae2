@@ -1,0 +1,10 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 261 273	grupo II y V
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 274 322	Anomalias dentofaciales (incluso la maloclusion)
+T5	Clinical_Finding 79 97	Clase I esqueletal
+T6	Clinical_Finding 99 119	neutrooclusion molar
+T8	Clinical_Finding 121 150	relacion canina indeterminada
+T9	Sign_or_Symptom 152 193	relacion incisiva  sobremordida aumentada
+T10	Sign_or_Symptom 195 247	milimetros faltantes moderado en superior e inferior
+T11	Disease 249 260	apiñamiento

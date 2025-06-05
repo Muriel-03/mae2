@@ -1,0 +1,14 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 273 277	Atte
+T3	Abbreviation 280 282	Ud
+T5	Body_Part 111 117	cuello
+T6	Body_Part 120 134	zona occipital
+T7	Disease 2 15	ACNÉ QUELOIDE
+T8	Disease 285 298	Acne queloide
+T9	Sign_or_Symptom 78 134	lesiones pustulares y pápulas en cuello y zona occipital
+T10	Sign_or_Symptom 157 164	prurito
+T11	Sign_or_Symptom 166 171	dolor
+T12	Sign_or_Symptom 174 181	costras
+T13	Sign_or_Symptom 209 216	pápulas
+T4	Sign_or_Symptom 219 227	pústulas
+T14	Sign_or_Symptom 200 207	costras

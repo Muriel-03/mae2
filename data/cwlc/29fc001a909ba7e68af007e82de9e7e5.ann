@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	Pieza 2.2
+T2	Diagnostic_Procedure 43 63	control radiografico
+T3	Disease 19 38	traumatismo antiguo
+T4	Laboratory_or_Test_Result 73 90	lesion periapical
+T5	Sign_or_Symptom 93 116	molestia a la percusion
+T6	Therapeutic_Procedure 165 185	tratamiento conducto
+R1	Has Arg1:T2 Arg2:T4	
+A1	Pending T6

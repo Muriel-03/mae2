@@ -1,0 +1,8 @@
+T1	Abbreviation 103 105	PD
+T2	Body_Part 103 124	PD 1.5, 2.5, 3.5, 4.5
+T3	Disease 23 34	APIÑAMIENTO
+T4	Disease 94 102	AGENESIA
+T5	Clinical_Finding 0 22	DENTICIA MIXTA 1ª FACE
+T6	Sign_or_Symptom 46 63	COMPRESIONMAXILAR
+T7	Sign_or_Symptom 66 93	MORDIDA INTENSIBA IZQUIERDO
+T8	Abbreviation 15 17	1ª

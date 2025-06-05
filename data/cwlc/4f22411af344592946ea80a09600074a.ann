@@ -1,0 +1,13 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 140 149	pieza 2.3
+T3	Body_Part 204 218	zona 1.1 y 2.1
+T4	Body_Part 234 237	2.2
+T5	Body_Part 240 243	1.2
+T6	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T8	Disease 274 310	Alteraciones en la erupcion dentaria
+T9	Clinical_Finding 76 101	clase 1 uniateral derecha
+T10	Sign_or_Symptom 102 139	mordida cruzada unilateral izquierda.
+T11	Sign_or_Symptom 140 163	pieza 2.3 vestibulizada
+T12	Sign_or_Symptom 164 182	over jet aumentado
+T13	Sign_or_Symptom 185 243	over disminuido en zona 1.1 y 2.1 y aumentado en 2.2 y 1.2
+T14	Sign_or_Symptom 244 273	apiñamiento dentario inferior

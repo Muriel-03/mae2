@@ -1,0 +1,15 @@
+T1	Abbreviation 354 357	HTA
+T2	Body_Part 197 204	Grupo V
+T3	Disease 2 23	PERIODONTITIS CRÓNICA
+T4	Disease 335 351	Diabetes tipo II
+T5	Disease 354 357	HTA
+T6	Sign_or_Symptom 28 58	CÁLCULO DENTARIO SUPRAGINGIVAL
+T7	Sign_or_Symptom 83 129	abundante cálculo dentario supra y subgingival
+T8	Sign_or_Symptom 131 150	supuración gingival
+T9	Sign_or_Symptom 152 195	dolor irradiado hemiarcada derecha superior
+T10	Sign_or_Symptom 197 235	Grupo V movilidad patológica aumentada
+T11	Sign_or_Symptom 250 269	sacos periodontales
+T12	Sign_or_Symptom 272 305	inflamación gingival generalizada
+T13	Therapeutic_Procedure 387 412	destartraje supragingival
+T14	Body_Part 168 195	hemiarcada derecha superior
+A1	Pending T13

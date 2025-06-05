@@ -1,0 +1,9 @@
+T1	Abbreviation 69 72	HTA
+T2	Abbreviation 184 187	ROM
+T3	Body_Part 159 179	piezas 23,24,25 y 26
+T4	Disease 13 48	ENFERMEDAD ARTERIAL OCLUSIVA SEVERA
+T5	Disease 50 67	DIABETES MELLITUS
+T6	Disease 69 72	HTA
+T7	Disease 101 142	periodontitis crónica generalizada severa
+T8	Laboratory_or_Test_Result 184 193	ROM total
+T10	Therapeutic_Procedure 77 99	TERAPIA ANTICOAGULANTE

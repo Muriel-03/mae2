@@ -1,0 +1,16 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 44 47	HTA
+T3	Abbreviation 49 54	DM II
+T4	Abbreviation 78 81	EKG
+T5	Abbreviation 133 136	ave
+T7	Abbreviation 153 157	ST-T
+T8	Body_Part 180 202	PARED ANTERIOR EXTERNA
+T9	Diagnostic_Procedure 78 81	EKG
+T10	Disease 44 47	HTA
+T11	Disease 49 54	DM II
+T12	Laboratory_or_Test_Result 105 120	ritmo sensorial
+T13	Laboratory_or_Test_Result 122 143	Conducción ave normal
+T14	Laboratory_or_Test_Result 145 202	set del ST-T SUGERENTE DE IZQUEMIA PARED ANTERIOR EXTERNA
+R1	Has Arg1:T9 Arg2:T12	
+R2	Has Arg1:T9 Arg2:T13	
+R3	Has Arg1:T9 Arg2:T14	

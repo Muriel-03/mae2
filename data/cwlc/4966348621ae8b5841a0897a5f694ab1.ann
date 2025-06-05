@@ -1,0 +1,5 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Clinical_Finding 127 149	subdivisión 1 de angle
+T3	Sign_or_Symptom 75 93	clase 3 esqueletal
+T4	Sign_or_Symptom 95 149	maloclusión dentaria clase III, subdivisión 1 de angle
+T5	Sign_or_Symptom 151 183	mordida abierta anterior parcial

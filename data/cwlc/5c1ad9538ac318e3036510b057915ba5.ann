@@ -1,0 +1,14 @@
+T1	Abbreviation 34 37	APS
+T3	Body_Part 39 49	Diente 2.5
+T4	Body_Part 138 148	Diente 2.4
+T5	Disease 2 10	PULPITIS
+T7	Disease 159 176	Necrosis aseptica
+T9	Disease 232 240	Pulpitis
+T11	Laboratory_or_Test_Result 178 207	Lesion radiolucida periapical
+T13	Sign_or_Symptom 50 75	desalojo de restauracion.
+T14	Disease 76 97	Pulpitis irreversible
+T17	Therapeutic_Procedure 111 135	trtamiento de endodoncia
+T18	Therapeutic_Procedure 221 231	endodoncia
+A1	Pending T17
+T2	Clinical_Finding 149 157	Obturada
+A2	Pending T18

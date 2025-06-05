@@ -1,0 +1,14 @@
+T1	Abbreviation 203 205	rx
+T2	Body_Part 2 5	PIE
+T3	Body_Part 198 201	pie
+T4	Body_Part 215 219	pies
+T6	Body_Part 257 260	pie
+T7	Diagnostic_Procedure 203 229	rx de ambos pies con carga
+T8	Disease 2 34	PIE PLANO PES PLANUS (ADQUIRIDO)
+T10	Disease 257 276	pie plano bilateral
+T11	Family_Member 62 67	madre
+T12	Sign_or_Symptom 160 201	falta de estabilidad a la posicion de pie
+T13	Clinical_Finding 68 110	antecedentes de caminar en forma de patito
+T14	Sign_or_Symptom 114 157	imposibilidad para saltar en forma adecuada
+T5	Laboratory_or_Test_Result 257 276	pie plano bilateral
+R1	Has Arg1:T7 Arg2:T5	

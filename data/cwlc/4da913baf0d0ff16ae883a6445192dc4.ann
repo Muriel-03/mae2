@@ -1,0 +1,11 @@
+T1	Abbreviation 35 38	APS
+T2	Abbreviation 155 158	APS
+T3	Disease 2 11	PRESBICIA
+T4	Disease 68 76	artrosis
+T5	Disease 78 90	hipertension
+T6	Disease 92 106	hipotiroidismo
+T7	Disease 109 139	intolerancia a la glucosa oral
+T8	Disease 407 416	Presbicia
+T9	Clinical_Finding 260 266	lentes
+T10	Sign_or_Symptom 168 208	disminución progresiva de agudeza visual
+T11	Sign_or_Symptom 214 247	afecta su normal desempeño diario

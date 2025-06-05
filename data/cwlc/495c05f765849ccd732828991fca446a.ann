@@ -1,0 +1,14 @@
+T1	Abbreviation 111 114	APS
+T2	Abbreviation 195 197	Dr
+T3	Body_Part 55 58	PIE
+T4	Body_Part 145 148	pie
+T5	Body_Part 310 313	pie
+T6	Body_Part 341 349	calcaneo
+T7	Disease 2 51	DEFORMIDAD EN VALGO, NO CLASIFICADA EN OTRA PARTE
+T8	Disease 55 86	PIE PLANO PES PLANUS (ADQUIRIDO
+T9	Disease 145 154	pie plano
+T10	Disease 310 319	pie plano
+T11	Disease 393 442	Deformidad en valgo, no clasificada en otra parte
+T12	Family_Member 242 247	madre
+T13	Sign_or_Symptom 310 355	pie plano grado 3 flexible con calcaneo valgo
+T14	Therapeutic_Procedure 218 240	plantillas correctivas

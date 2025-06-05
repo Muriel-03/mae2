@@ -1,0 +1,12 @@
+T1	Abbreviation 186 189	pza
+T2	Abbreviation 233 236	pza
+T4	Body_Part 186 193	pza 3.3
+T5	Body_Part 233 240	pza 3.2
+T7	Disease 220 229	impactada
+T8	Laboratory_or_Test_Result 186 240	pza 3.3 incluida en mesio versión impactada en pza 3.2
+T9	Sign_or_Symptom 30 83	línea media pentoria inferior desviada a la izquierda
+T10	Sign_or_Symptom 85 118	clase II molar de angle bilateral
+T11	Sign_or_Symptom 119 164	sobre mordida vertical y horizontal aumentada
+T12	Disease 165 185	apiñamiento dentario
+T13	Sign_or_Symptom 17 29	perfil recto
+T14	Clinical_Finding 0 16	Biotipo temporal

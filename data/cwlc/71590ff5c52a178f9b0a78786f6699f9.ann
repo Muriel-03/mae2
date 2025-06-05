@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	VFG
+T2	Abbreviation 8 11	DM2
+T3	Abbreviation 84 87	HTA
+T4	Body_Part 103 121	ORTJO DERECHO 5 Y4
+T5	Disease 8 11	DM2
+T6	Disease 84 87	HTA
+T8	Laboratory_Procedure 0 3	VFG
+T9	Sign_or_Symptom 77 82	DOLOR
+T10	Therapeutic_Procedure 89 121	AMPUTACION DE ORTJO DERECHO 5 Y4
+A1	Negated T9
+T11	Sign_or_Symptom 52 61	HEMATURIA
+T12	Sign_or_Symptom 29 50	DAÑO DE ORGANO BLANCO

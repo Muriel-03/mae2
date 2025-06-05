@@ -1,0 +1,7 @@
+T1	Abbreviation 124 127	sup
+T2	Abbreviation 130 133	inf
+T3	Disease 2 20	DESDENTADO PARCIAL
+T4	Disease 27 65	desdentado parcial superior e inferior
+T5	Sign_or_Symptom 66 85	clase II de kennedy
+T6	Therapeutic_Procedure 105 133	protesis removible sup e inf
+A1	Pending T6

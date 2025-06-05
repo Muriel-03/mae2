@@ -1,0 +1,5 @@
+T1	Disease 0 26	PUBERTAD PRECOZ PERIFERICA
+T2	Disease 28 51	PUBERTAD PRECOZ CENTRAL
+T3	Clinical_Finding 53 62	telarquia
+T4	Abbreviation 71 74	OBS
+T5	Disease 76 109	hiperplasia suprarrenal congenita

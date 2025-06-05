@@ -1,0 +1,9 @@
+T1	Abbreviation 145 148	TTO
+T2	Body_Part 46 77	DIENTES 5.4, 5.5, 7.5, 7.4, 8.4
+T3	Body_Part 80 89	INSICIVOS
+T7	Sign_or_Symptom 0 10	POLICARIES
+T8	Sign_or_Symptom 92 119	ACUMULO DE PLACA BACTERIANA
+T9	Therapeutic_Procedure 145 162	TTO REHABILITADOR
+T4	Sign_or_Symptom 12 34	NIÑO DE DIFICIL MANEJO
+T5	Disease 36 42	CARIES
+A1	Pending T9

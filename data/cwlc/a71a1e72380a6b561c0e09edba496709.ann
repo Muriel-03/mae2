@@ -1,0 +1,13 @@
+T1	Abbreviation 146 149	RGE
+T2	Abbreviation 166 168	Dg
+T3	Abbreviation 216 220	EEII
+T4	Body_Part 28 51	Extremidades inferiores
+T5	Body_Part 216 220	EEII
+T7	Body_Part 308 321	ambas piernas
+T8	Disease 2 51	VARICES EN OTROS SITIOSDe Extremidades inferiores
+T9	Disease 56 110	HERNIA INGUINAL BILATERAL, SIN OBSTRUCCIÓN NI GANGRENA
+T10	Disease 146 149	RGE
+T11	Disease 151 164	hernia hiatal
+T12	Sign_or_Symptom 274 348	sangrados y heridas en várices de ambas piernas, principalmente la derecha
+T13	Sign_or_Symptom 394 518	bultos pequeños bilaterales que se hacían poco más grandes al hacer fuerza, hoy acude ya que han ido creciendo con el tiempo
+T16	Sign_or_Symptom 205 220	várices de EEII

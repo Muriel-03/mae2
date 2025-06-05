@@ -1,0 +1,21 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 165 167	cm
+T3	Abbreviation 236 238	mm
+T4	Abbreviation 240 245	aprox
+T6	Body_Part 184 193	1.1 y 2.1
+T7	Body_Part 206 215	dentición
+T8	Body_Part 250 259	1.3 y 2.3
+T9	Body_Part 305 308	3.6
+T10	Body_Part 357 367	diente 1.2
+T11	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T12	Disease 95 109	supernumerario
+T13	Disease 111 120	mesiodens
+T14	Disease 314 328	supernumerario
+T15	Disease 369 417	Anomalias dentofaciales (incluso la maloclusion)
+T16	Clinical_Finding 250 275	1.3 y 2.3 no erupcionados
+T18	Sign_or_Symptom 95 133	supernumerario (mesiodens) erupcionado
+T19	Sign_or_Symptom 135 141	rotado
+T20	Sign_or_Symptom 206 221	dentición mixta
+T21	Sign_or_Symptom 223 246	Overjet de 5 mm (aprox)
+T22	Sign_or_Symptom 279 367	Antecedentes de exodoncia 3.6 y de supernumerario erupcionado por palatino de diente 1.2
+T23	Therapeutic_Procedure 295 304	exodoncia

@@ -1,0 +1,7 @@
+T1	Abbreviation 137 141	pzas
+T2	Body_Part 28 37	denticion
+T3	Body_Part 89 96	dientes
+T4	Body_Part 137 149	pzas 3.1 4.1
+T5	Clinical_Finding 28 43	denticion mixta
+T6	Sign_or_Symptom 57 108	escaso espacio para erupcion de dientes permanentes
+T7	Sign_or_Symptom 119 149	lingualizacion de pzas 3.1 4.1

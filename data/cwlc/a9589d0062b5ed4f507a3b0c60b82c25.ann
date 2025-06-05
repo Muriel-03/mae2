@@ -1,0 +1,10 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 94 110	piezas 1.1 y 2.1
+T3	Body_Part 165 181	piezas dentarias
+T4	Body_Part 183 209	piezas del sector anterior
+T5	Body_Part 224 231	dentina
+T6	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T7	Disease 211 231	Caries de la dentina
+T9	Sign_or_Symptom 81 110	dolor en las piezas 1.1 y 2.1
+T10	Therapeutic_Procedure 120 145	tratamiento de endodoncia
+A1	Pending T10

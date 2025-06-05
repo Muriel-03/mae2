@@ -1,0 +1,10 @@
+T1	Abbreviation 125 128	APS
+T2	Body_Part 50 55	PULPA
+T3	Body_Part 62 79	TEJIDO PERIAPICAL
+T4	Body_Part 246 253	dientes
+T5	Disease 2 79	OTRAS ENFERMEDADES Y LAS NO ESPECIFICADAS DE LA PULPA Y DEL TEJIDO PERIAPICAL
+T6	Disease 83 101	DESDENTADO PARCIAL
+T7	Disease 139 166	desdentado parcial superior
+T8	Disease 208 284	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Therapeutic_Procedure 182 207	protesis parcial superior
+A1	Pending T9

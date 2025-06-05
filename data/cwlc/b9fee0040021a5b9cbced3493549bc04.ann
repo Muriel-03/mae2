@@ -1,0 +1,7 @@
+T1	Abbreviation 50 53	APS
+T2	Body_Part 87 94	Paladar
+T3	Disease 55 75	Apiñamiento denatrio
+T4	Sign_or_Symptom 55 84	Apiñamiento denatrio Inferior
+T5	Sign_or_Symptom 87 101	Paladar ojival
+T6	Therapeutic_Procedure 16 26	ORTODONCIA
+A1	Pending T6

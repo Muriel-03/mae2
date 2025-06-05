@@ -1,0 +1,12 @@
+T1	Abbreviation 16 18	AR
+T2	Abbreviation 53 57	MTTF
+T3	Abbreviation 106 108	qx
+T4	Body_Part 12 15	pie
+T5	Body_Part 20 26	Hallux
+T6	Body_Part 70 77	ortejos
+T7	Disease 16 18	AR
+T8	Disease 20 40	Hallux valgus severa
+T9	Therapeutic_Procedure 106 108	qx
+T10	Body_Part 53 57	MTTF
+T11	Disease 42 57	Luxaciones MTTF
+A1	Pending T9

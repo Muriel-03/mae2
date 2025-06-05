@@ -1,0 +1,14 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 322 325	EKG
+T4	Diagnostic_Procedure 322 325	EKG
+T5	Disease 2 45	CONVULSIONES, NO CLASIFICADAS EN OTRA PARTE
+T8	Disease 567 610	Convulsiones, no clasificadas en otra parte
+T9	Family_Member 90 95	madre
+T10	Laboratory_or_Test_Result 345 377	posible ritmo ectopico auricular
+T11	Laboratory_or_Test_Result 384 398	aumento del ST
+T12	Laboratory_or_Test_Result 420 453	posible  ritmo ectopico auricular
+T13	Sign_or_Symptom 157 175	convulsion  tonica
+T14	Sign_or_Symptom 192 207	desvanecimiento
+R1	Has Arg1:T4 Arg2:T10	
+R2	Has Arg1:T4 Arg2:T11	
+R3	Has Arg1:T4 Arg2:T12	

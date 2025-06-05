@@ -1,0 +1,10 @@
+T1	Abbreviation 32 36	ADAA
+T2	Abbreviation 75 78	APS
+T3	Body_Part 144 152	pieza 16
+T4	Body_Part 176 180	boca
+T5	Disease 2 37	ABSCESO DENTO ALVEOLAR AGUDO (ADAA)
+T6	Disease 93 119	caries penetrante profunda
+T7	Disease 153 180	Celulitis y absceso de boca
+T8	Laboratory_or_Test_Result 93 119	caries penetrante profunda
+T9	Therapeutic_Procedure 132 143	trepanacion
+T10	Disease 37 51	absceos dental

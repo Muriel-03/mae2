@@ -1,0 +1,20 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 82 87	ALERG
+T3	Abbreviation 169 171	CM
+T4	Abbreviation 187 189	CM
+T5	Abbreviation 190 192	PC
+T6	Abbreviation 196 198	DS
+T7	Abbreviation 280 282	DS
+T8	Abbreviation 359 362	DSM
+T9	Body_Part 412 418	CABEZA
+T10	Disease 2 14	MICROCEFALIA
+T11	Disease 347 363	RETRASO DEL DSM.
+T12	Disease 478 490	Microcefalia
+T13	Family_Member 367 372	MADRE
+T14	Family_Member 390 397	FAMILIA
+T15	Clinical_Finding 46 71	SIN ANTECEDENTES MORBIDOS
+T16	Clinical_Finding 82 87	ALERG
+T17	Clinical_Finding 312 332	EXAMEN FISICO NORMAL
+T19	Abbreviation 44 45	A
+A2	Negated T11
+T18	Sign_or_Symptom 412 426	CABEZA PEQUEÑA

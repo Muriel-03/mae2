@@ -1,0 +1,7 @@
+T1	Abbreviation 77 81	ATM.
+T2	Body_Part 77 80	ATM
+T3	Disease 92 109	BRUXISMO NOCTURNO
+T4	Sign_or_Symptom 28 53	CLIC DE APERTURA Y CIERRE
+T5	Sign_or_Symptom 55 80	DOLOR A ALA PALPACION ATM
+A1	Negated T3
+T6	Clinical_Finding 9 18	EMBRAZADA

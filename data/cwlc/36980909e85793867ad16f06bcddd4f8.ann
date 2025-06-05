@@ -1,0 +1,11 @@
+T1	Abbreviation 72 75	rom
+T2	Abbreviation 100 103	rom
+T3	Abbreviation 104 105	H
+T4	Body_Part 69 71	p1
+T5	Body_Part 96 99	p22
+T6	Laboratory_or_Test_Result 19 68	reabsoricón ósea marginal horizontal generalizada
+T7	Laboratory_or_Test_Result 69 95	p1 rom h profunda proximal
+T8	Laboratory_or_Test_Result 96 123	p22 rom H profunda proximal
+T9	Abbreviation 76 77	h
+T10	Abbreviation 69 70	p
+T11	Abbreviation 96 97	p

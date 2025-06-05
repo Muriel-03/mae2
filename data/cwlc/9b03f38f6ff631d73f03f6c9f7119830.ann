@@ -1,0 +1,7 @@
+T1	Body_Part 0 15	Dientes 13 y 14
+T2	Body_Part 144 149	Pieza
+T3	Disease 53 73	periodontitis apical
+T5	Clinical_Finding 144 174	Pieza Tratada Endodonticamente
+T7	Clinical_Finding 16 41	tratados endodonticamente
+T8	Therapeutic_Procedure 129 142	retratamiento
+A1	Pending T8

@@ -1,0 +1,9 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 44 49	PACTE
+T3	Body_Part 66 73	GRUPO 5
+T4	Disease 2 15	CARIES DENTAL
+T5	Disease 102 115	Caries dental
+T7	Sign_or_Symptom 54 73	APIÑAMIENTO GRUPO 5
+T8	Sign_or_Symptom 75 88	GIROVERSIONES
+T9	Sign_or_Symptom 90 100	ROTACIONES
+T6	Disease 54 65	APIÑAMIENTO

@@ -1,0 +1,11 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 2 6	DEDO
+T4	Body_Part 103 122	dedo anular derecho
+T5	Body_Part 159 195	articulacion interfalangica proximal
+T6	Body_Part 210 214	dedo
+T7	Body_Part 345 349	Dedo
+T8	Disease 2 17	DEDO EN GATILLO
+T9	Disease 345 360	Dedo en gatillo
+T10	Family_Member 79 84	madre
+T11	Sign_or_Symptom 103 195	dedo anular derecho en semiflexion constante a nivel de articulacion interfalangica proximal
+T3	Sign_or_Symptom 197 321	al forzar el dedo, logra extenderse completamente, pero luego de hacer prensión, se vuelve a quedar en semiflexion constante

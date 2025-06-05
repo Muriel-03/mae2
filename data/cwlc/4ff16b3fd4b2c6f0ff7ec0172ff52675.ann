@@ -1,0 +1,11 @@
+T1	Body_Part 2 7	PIEZA
+T2	Body_Part 85 90	PULPA
+T3	Body_Part 97 114	TEJIDO PERIAPICAL
+T4	Body_Part 121 127	Diente
+T5	Disease 37 114	OTRAS ENFERMEDADES Y LAS NO ESPECIFICADAS DE LA PULPA Y DEL TEJIDO PERIAPICAL
+T6	Disease 149 181	periodontitis apical sintomática
+T7	Clinical_Finding 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T8	Clinical_Finding 121 147	Diente previamente tratado
+T9	Therapeutic_Procedure 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T10	Therapeutic_Procedure 183 196	Retratamiento
+A1	Pending T10

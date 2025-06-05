@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	Dentición
+T2	Body_Part 74 84	grupo II-V
+T3	Disease 59 70	apiñamiento
+T4	Clinical_Finding 0 29	Dentición permanente completa
+T6	Sign_or_Symptom 59 84	apiñamiento en grupo II-V
+T7	Sign_or_Symptom 86 121	múltiples versiones sector anterior
+T8	Clinical_Finding 30 57	oclusión clase I, bilateral

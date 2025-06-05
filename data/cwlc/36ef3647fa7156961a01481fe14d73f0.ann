@@ -1,0 +1,9 @@
+T1	Abbreviation 80 83	APS
+T2	Body_Part 17 23	HÍGADO
+T3	Diagnostic_Procedure 114 123	ecografia
+T4	Disease 2 40	ENFERMEDAD DEL HÍGADO, NO ESPECIFICADA
+T5	Disease 44 56	COLELITIASIS
+T6	Disease 98 110	colelitiasis
+T7	Sign_or_Symptom 138 147	dispepsia
+T8	Laboratory_or_Test_Result 98 110	colelitiasis
+R1	Has Arg1:T3 Arg2:T8	

@@ -1,0 +1,7 @@
+T1	Disease 38 74	ESTERILIZACIÓN       MULTIPARA DE 4.
+T2	Clinical_Finding 38 68	ESTERILIZACIÓN       MULTIPARA
+T3	Therapeutic_Procedure 83 108	ESTERILIZACION QUIRURGICA
+A1	Pending T3
+T4	Clinical_Finding 59 68	MULTIPARA
+T5	Therapeutic_Procedure 38 52	ESTERILIZACIÓN
+A2	Pending T5

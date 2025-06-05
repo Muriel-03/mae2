@@ -1,0 +1,9 @@
+T1	Abbreviation 112 115	Ud.
+T2	Body_Part 73 81	pieza 12
+T3	Sign_or_Symptom 58 99	Debe extraerse pieza 12 pilar de prótesis
+T4	Sign_or_Symptom 13 56	prótesis parcial removible acrílica suerior
+T5	Therapeutic_Procedure 91 99	prótesis
+T6	Therapeutic_Procedure 139 155	reparar prótesis
+T7	Therapeutic_Procedure 168 177	exodoncia
+A1	Pending T6
+A2	Pending T7

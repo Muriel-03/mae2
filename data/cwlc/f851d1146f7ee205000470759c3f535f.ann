@@ -1,0 +1,16 @@
+T1	Abbreviation 68 71	APS
+T2	Abbreviation 73 77	pcte
+T3	Abbreviation 197 199	Dg
+T4	Abbreviation 280 283	etc
+T5	Body_Part 35 44	MAXILARES
+T6	Body_Part 319 328	maxilares
+T7	Disease 2 44	TRASTORNOS DEL DESARROLLO DE LOS MAXILARES
+T8	Disease 130 150	apiñamiento dentario
+T9	Disease 286 328	Trastornos del desarrollo de los maxilares
+T10	Sign_or_Symptom 82 109	poco desarrollo transversal
+T11	Sign_or_Symptom 111 128	respiradora bucal
+T12	Sign_or_Symptom 130 173	apiñamiento dentario severo sector anterior
+T13	Therapeutic_Procedure 257 278	extracciones seriadas
+A1	Pending T13
+T14	Therapeutic_Procedure 235 255	desgastes selectivos
+A2	Pending T14

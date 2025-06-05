@@ -1,0 +1,12 @@
+T1	Abbreviation 64 67	ADA
+T2	Abbreviation 125 127	mg
+T3	Abbreviation 167 169	mg
+T4	Abbreviation 218 221	SOS
+T5	Body_Part 54 63	pieza 1.3
+T6	Clinical_Finding 9 34	sin antecedentes norbidos
+T7	Medication 109 120	amoxicilina
+T8	Medication 154 162	nefersil
+T9	Medication 172 183	paracetamol
+T10	Disease 64 67	ADA
+T11	Therapeutic_Procedure 69 80	trepanacion
+T12	Abbreviation 187 189	mg

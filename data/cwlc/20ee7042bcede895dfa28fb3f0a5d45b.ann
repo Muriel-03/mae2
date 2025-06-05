@@ -1,0 +1,5 @@
+T1	Body_Part 18 35	testículo derecho
+T2	Body_Part 64 83	testículo izquierdo
+T3	Disease 1 35	hidrocele severo testículo derecho
+T6	Disease 86 104	varicocele derecho
+T7	Laboratory_or_Test_Result 38 83	hidrocele leve a moderado testículo izquierdo

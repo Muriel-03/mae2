@@ -1,0 +1,19 @@
+T1	Abbreviation 73 77	EPOC
+T2	Abbreviation 82 85	tto
+T3	Abbreviation 241 244	Eco
+T4	Body_Part 33 39	VEJIGA
+T5	Body_Part 288 294	vejiga
+T6	Diagnostic_Procedure 241 244	Eco
+T7	Disease 2 56	DISFUNCIÓN NEUROMUSCULAR DE LA VEJIGA, NO ESPECIFICADA
+T8	Disease 73 77	EPOC
+T9	Disease 113 123	tabaquismo
+T10	Laboratory_or_Test_Result 268 294	refrigerancia en la vejiga
+T11	Laboratory_or_Test_Result 300 327	otros hallasgos patologicos
+T12	Medication 90 111	Bromuro de Ipratropio
+T14	Sign_or_Symptom 155 168	cuesta orinar
+T15	Sign_or_Symptom 179 186	disuria
+T16	Sign_or_Symptom 188 203	tenesmo vesical
+T13	Sign_or_Symptom 205 238	al orinar debe hacer mucha fuerza
+R1	Has Arg1:T6 Arg2:T10	
+R2	Has Arg1:T6 Arg2:T11	
+A1	Negated T11

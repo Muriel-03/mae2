@@ -1,0 +1,12 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 48 51	2.8
+T4	Body_Part 68 71	3.8
+T5	Body_Part 149 156	Dientes
+T6	Disease 2 19	DIENTES INCLUIDOS
+T7	Disease 149 166	Dientes incluidos
+T8	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T9	Laboratory_or_Test_Result 48 66	2.8: SEMI INCLUIDO
+T11	Therapeutic_Procedure 136 146	EXTRACCIÓN
+T10	Laboratory_or_Test_Result 68 105	3.8: ERUPCIONADO EN POSICION VERTICAL
+A1	Pending T11

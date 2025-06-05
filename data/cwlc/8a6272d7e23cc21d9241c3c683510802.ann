@@ -1,0 +1,7 @@
+T1	Abbreviation 155 159	tto.
+T2	Body_Part 44 53	Dentición
+T3	Body_Part 74 83	Pieza 1.1
+T4	Clinical_Finding 44 73	Dentición mixta primera fase.
+T6	Sign_or_Symptom 74 106	Pieza 1.1 con giroversión de 90°
+T7	Therapeutic_Procedure 155 172	tto. odontologico
+A1	Pending T7

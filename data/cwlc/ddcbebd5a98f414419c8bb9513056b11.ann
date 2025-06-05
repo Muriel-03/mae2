@@ -1,0 +1,10 @@
+T1	Abbreviation 87 90	APS
+T2	Body_Part 54 62	MIEMBROS
+T3	Body_Part 144 157	dedos del pie
+T4	Body_Part 214 222	miembros
+T5	Disease 2 36	DIABETES MELLITUS, NO ESPECIFICADA
+T6	Therapeutic_Procedure 40 62	AMPUTACIÓN DE MIEMBROS
+T7	Clinical_Finding 130 157	amputación de dedos del pie
+T8	Therapeutic_Procedure 182 198	bota de descarga
+T9	Therapeutic_Procedure 200 222	Amputacion de miembros
+A2	Pending T8

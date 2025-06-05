@@ -1,0 +1,12 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 52 53	G
+T3	Abbreviation 86 89	ECO
+T4	Diagnostic_Procedure 86 89	ECO
+T6	Clinical_Finding 2 21	EMBARAZO CONFIRMADO
+T7	Clinical_Finding 52 58	G1P1A0
+T8	Clinical_Finding 60 68	EMBARAZO
+T9	Clinical_Finding 92 111	Embarazo confirmado
+T5	Abbreviation 54 55	P
+T10	Abbreviation 56 57	A
+T11	Laboratory_or_Test_Result 60 81	EMBARAZO 39+4 SEMANAS
+R1	Has Arg1:T4 Arg2:T11	

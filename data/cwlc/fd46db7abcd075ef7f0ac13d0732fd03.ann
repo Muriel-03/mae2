@@ -1,0 +1,8 @@
+T1	Abbreviation 43 47	pcte
+T2	Abbreviation 48 51	DM2
+T3	Abbreviation 89 92	mtf
+T4	Disease 2 36	DIABETES MELLITUS, NO ESPECIFICADA
+T5	Disease 48 51	DM2
+T6	Laboratory_Procedure 136 144	glicemia
+T7	Medication 89 92	mtf
+T8	Medication 104 117	glibenclamida

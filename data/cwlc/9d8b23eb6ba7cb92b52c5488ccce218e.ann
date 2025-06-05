@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	diente 10
+T2	Disease 39 57	caries penetrantes
+T3	Clinical_Finding 10 19	trepanado
+T4	Medication 77 96	hidroxido de calcio
+T5	Therapeutic_Procedure 10 19	trepanado
+T6	Clinical_Finding 97 117	obsturacion temporal

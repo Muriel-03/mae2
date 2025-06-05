@@ -1,0 +1,80 @@
+T1	Abbreviation 209 212	ECG
+T2	Abbreviation 321 324	ANT
+T3	Abbreviation 326 328	DM
+T4	Abbreviation 337 340	HTA
+T5	Abbreviation 344 347	TTO
+T6	Abbreviation 367 369	MG
+T8	Abbreviation 392 394	MG
+T9	Abbreviation 403 406	HRS
+T10	Abbreviation 408 411	ASA
+T11	Abbreviation 416 418	MG
+T12	Abbreviation 429 433	HCTZ
+T13	Abbreviation 437 439	MG
+T14	Abbreviation 451 454	E.F
+T15	Abbreviation 468 471	ACG
+T16	Abbreviation 481 483	PA
+T17	Abbreviation 492 494	FC
+T18	Abbreviation 499 500	X
+T19	Abbreviation 501 504	MIN
+T20	Abbreviation 505 507	FR
+T21	Abbreviation 512 513	X
+T22	Abbreviation 514 517	MIN
+T23	Abbreviation 527 530	KGR
+T24	Abbreviation 532 535	CYC
+T25	Abbreviation 555 558	C/P
+T26	Abbreviation 650 653	ABD
+T28	Abbreviation 688 691	EXT
+T29	Abbreviation 703 706	NEU
+T31	Abbreviation 722 725	OBS
+T32	Abbreviation 816 819	IDX
+T33	Abbreviation 823 826	HTA
+T34	Abbreviation 830 833	TTO
+T35	Abbreviation 837 839	DM
+T36	Abbreviation 850 853	TTO
+T37	Body_Part 63 83	RAMA DERECHA DEL HAZ
+T38	Body_Part 261 273	RAMA DERECHA
+T39	Body_Part 532 535	CYC
+T40	Body_Part 610 618	PULMONES
+T41	Body_Part 650 653	ABD
+T42	Body_Part 688 691	EXT
+T43	Body_Part 776 788	RAMA DERECHA
+T44	Diagnostic_Procedure 209 212	ECG
+T45	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T46	Disease 37 106	OTROS TIPOS DE BLOQUEO DE RAMA DERECHA DEL HAZ Y LOS NO ESPECIFICADOS
+T47	Disease 110 134	CARDIOMIOPATÍA ISQUÉMICA
+T49	Disease 326 335	DM TIPO 2
+T50	Disease 337 340	HTA
+T54	Disease 791 812	CARDIOPATIA ISQUEMICA
+T55	Disease 823 826	HTA
+T56	Disease 837 846	DM TIPO 2
+T58	Laboratory_or_Test_Result 244 273	BLOQUEO COMPLETO RAMA DERECHA
+T59	Laboratory_or_Test_Result 278 300	T INVERTIDA DE V1 A V4
+T60	Laboratory_or_Test_Result 301 319	SIN MAS HALLAZGOS.
+T62	Laboratory_or_Test_Result 756 788	BLOQUEO COMPLETO DE RAMA DERECHA
+T63	Medication 352 362	METFORMINA
+T65	Medication 380 388	LOSARTAN
+T66	Medication 408 411	ASA
+T67	Medication 429 433	HCTZ
+T68	Sign_or_Symptom 151 165	SOPLO CARDIACO
+T69	Clinical_Finding 473 479	ALERTA
+T70	Clinical_Finding 541 553	ALTERACIONES
+T71	Sign_or_Symptom 565 608	SOPLO SISTOLICO EN FOCO AORTICO GRADO IV/VI
+T72	Clinical_Finding 610 649	PULMONES SIN AGREGADOS BIEN VENTILADOS.
+T73	Sign_or_Symptom 658 663	MASAS
+T74	Sign_or_Symptom 668 676	MEGALIAS
+T75	Sign_or_Symptom 681 687	DOLOR.
+T76	Sign_or_Symptom 696 701	EDEMA
+T77	Sign_or_Symptom 712 719	DEFICIT
+T78	Sign_or_Symptom 729 743	SOPLO CARDIACO
+R1	Has Arg1:T44 Arg2:T58	
+R2	Has Arg1:T44 Arg2:T59	
+R3	Has Arg1:T44 Arg2:T60	
+T7	Clinical_Finding 468 471	ACG
+A1	Negated T70
+T48	Clinical_Finding 560 564	RR2T
+T64	Abbreviation 560 564	RR2T
+A2	Negated T73
+A3	Negated T74
+A4	Negated T75
+A5	Negated T76
+A6	Negated T77

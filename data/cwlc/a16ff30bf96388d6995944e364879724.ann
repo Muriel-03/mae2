@@ -1,0 +1,24 @@
+T1	Abbreviation 97 100	APS
+T2	Abbreviation 142 145	HTA
+T3	Abbreviation 147 149	DM
+T4	Abbreviation 154 157	DLP
+T5	Abbreviation 160 162	Tu
+T6	Abbreviation 216 219	AVE
+T7	Abbreviation 327 329	Iº
+T8	Abbreviation 358 361	TAC
+T9	Body_Part 55 73	GLÁNDULA HIPÓFISIS
+T10	Body_Part 323 329	ojo Iº
+T11	Body_Part 365 372	CEREBRO
+T12	Body_Part 457 475	glandula hipofisis
+T13	Diagnostic_Procedure 358 372	TAC DE CEREBRO
+T14	Disease 2 73	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA GLÁNDULA HIPÓFISIS
+T15	Disease 142 145	HTA
+T16	Disease 147 151	DM 2
+T17	Disease 154 157	DLP
+T18	Disease 160 174	Tu silla turca
+T19	Disease 216 219	AVE
+T20	Disease 404 475	Tumor de comportamiento incierto o desconocido de la glandula hipofisis
+T22	Sign_or_Symptom 281 296	cefalea intensa
+T23	Sign_or_Symptom 308 329	vision borrosa ojo Iº
+T21	Body_Part 163 174	silla turca
+A1	Pending T13

@@ -1,0 +1,6 @@
+T1	Body_Part 14 23	trigémino
+T2	Body_Part 52 71	zona facial derecha
+T3	Disease 0 23	Neuralgia del trigémino
+T5	Disease 128 142	hipotiroidismo
+T6	Disease 144 156	asma crónica
+T7	Sign_or_Symptom 38 71	dolor intenso zona facial derecha

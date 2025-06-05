@@ -1,0 +1,51 @@
+T1	Abbreviation 55 57	CC
+T2	Abbreviation 204 212	OTORRINO
+T3	Abbreviation 356 359	ANT
+T4	Abbreviation 373 376	F.C
+T5	Abbreviation 379 382	E.F
+T6	Abbreviation 396 399	ACG
+T7	Abbreviation 409 411	PA
+T8	Abbreviation 420 422	FC
+T9	Abbreviation 427 428	X
+T10	Abbreviation 429 432	MIN
+T11	Abbreviation 434 436	FR
+T12	Abbreviation 441 442	X
+T13	Abbreviation 443 446	MIN
+T14	Abbreviation 457 460	KGR
+T15	Abbreviation 463 466	CYC
+T16	Abbreviation 499 502	C/P
+T17	Abbreviation 560 563	ABD
+T19	Abbreviation 598 601	EXT
+T20	Abbreviation 613 616	NEU
+T21	Abbreviation 631 634	OBS
+T22	Abbreviation 683 691	OTORRINO
+T23	Abbreviation 714 717	SOS
+T24	Body_Part 142 156	OIDO IZQUIERDO
+T25	Body_Part 463 466	CYC
+T26	Body_Part 520 528	PULMONES
+T27	Body_Part 560 563	ABD
+T28	Body_Part 598 601	EXT
+T29	Body_Part 649 663	OIDO IZQUIERDO
+T30	Diagnostic_Procedure 249 260	AUDIOMETRIA
+T31	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T32	Disease 638 663	HIPOACUSIA OIDO IZQUIERDO
+T33	Clinical_Finding 520 558	PULMONES SIN AGREGADOS BIEN VENTILADOS
+T34	Sign_or_Symptom 96 156	DISMINUCION PROGRESIVA DE LA AGUDEZA AUDITIVA OIDO IZQUIERDO
+T35	Clinical_Finding 401 407	ALERTA
+T36	Sign_or_Symptom 472 498	TAPON DE CERUMEN BILATERAL
+T37	Clinical_Finding 504 518	RR2T NO SOPLOS
+T39	Sign_or_Symptom 568 573	MASAS
+T40	Sign_or_Symptom 578 586	MEGALIAS
+T41	Sign_or_Symptom 591 596	DOLOR
+T42	Sign_or_Symptom 606 611	EDEMA
+T44	Diagnostic_Procedure 263 280	IMPENDANCIOMETRIA
+T45	Clinical_Finding 384 399	PACIENTE EN ACG
+A1	Negated T36
+T46	Abbreviation 504 508	RR2T
+A2	Negated T39
+A3	Negated T40
+A4	Negated T41
+A5	Negated T42
+T18	Clinical_Finding 613 629	NEU: SIN DEFICIT
+A6	Pending T30
+A7	Pending T44

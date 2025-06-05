@@ -1,0 +1,16 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 39 40	p
+T3	Abbreviation 108 112	PMCF
+T4	Abbreviation 184 187	APS
+T6	Body_Part 39 45	p. 2.6
+T7	Disease 2 10	PULPITIS
+T8	Disease 60 93	pulpitis irreversible sintomatica
+T9	Disease 219 227	Pulpitis
+T10	Therapeutic_Procedure 115 135	sellada con eugenato
+T11	Medication 108 112	PMCF
+T12	Medication 127 135	eugenato
+T15	Therapeutic_Procedure 46 55	trepanada
+T16	Therapeutic_Procedure 207 217	endodoncia
+T13	Therapeutic_Procedure 95 112	medicada con PMCF
+T14	Clinical_Finding 137 187	Acceso de extension discreta, rehabilitable en APS
+A1	Pending T16

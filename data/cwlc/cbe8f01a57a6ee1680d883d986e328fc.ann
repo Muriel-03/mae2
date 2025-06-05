@@ -1,0 +1,5 @@
+T1	Abbreviation 100 102	rx
+T4	Diagnostic_Procedure 100 102	rx
+T5	Disease 0 6	caries
+T6	Sign_or_Symptom 0 28	caries con compromiso pulpar
+T7	Therapeutic_Procedure 29 40	trepanación

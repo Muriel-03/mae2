@@ -1,0 +1,8 @@
+T1	Abbreviation 23 25	TR
+T2	Diagnostic_Procedure 110 122	colonoscopia
+T4	Sign_or_Symptom 0 20	rectorragia indolora
+T5	Sign_or_Symptom 71 77	fisura
+T6	Sign_or_Symptom 31 66	masa palpabel. a la inspeccion anal
+A1	Negated T6
+A2	Negated T5
+A3	Pending T2

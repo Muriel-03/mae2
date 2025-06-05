@@ -1,0 +1,8 @@
+T1	Abbreviation 64 67	APS
+T2	Disease 2 40	TRASTORNO DE ANSIEDAD, NO ESPECIFICADO
+T3	Family_Member 69 74	madre
+T4	Family_Member 90 94	hija
+T5	Sign_or_Symptom 104 124	alteracion emocional
+T6	Sign_or_Symptom 125 133	frialdad
+T7	Sign_or_Symptom 144 149	grito
+T8	Sign_or_Symptom 134 143	inquietus

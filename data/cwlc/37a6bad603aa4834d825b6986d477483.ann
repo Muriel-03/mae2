@@ -1,0 +1,31 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 58 61	ant
+T3	Abbreviation 62 65	HTA
+T4	Abbreviation 94 97	DLP
+T5	Abbreviation 129 132	TSH
+T7	Abbreviation 149 151	T4
+T8	Abbreviation 158 165	CEDIMED
+T9	Abbreviation 204 207	tto
+T10	Abbreviation 228 231	mcg
+T11	Abbreviation 285 287	cv
+T12	Abbreviation 296 299	tto
+T13	Abbreviation 305 308	mcg
+T14	Diagnostic_Procedure 252 270	ecografía tiroidea
+T15	Diagnostic_Procedure 425 434	ecografía
+T16	Disease 2 16	HIPOTIROIDISMO
+T17	Disease 62 65	HTA
+T18	Disease 67 92	Intolerancia a la glucosa
+T19	Disease 94 97	DLP
+T21	Disease 437 451	Hipotiroidismo
+T22	Laboratory_Procedure 108 116	examenes
+T23	Laboratory_Procedure 129 132	TSH
+T24	Laboratory_Procedure 139 141	T3
+T25	Laboratory_Procedure 149 151	T4
+T26	Laboratory_Procedure 325 342	pruebas tiroideas
+T27	Laboratory_Procedure 394 411	pruebas tiroideas
+T28	Medication 212 224	levotiroxina
+T20	Clinical_Finding 272 287	Asintomatico cv
+A1	Pending T27
+A2	Pending T15
+A3	Pending T14
+A4	Pending T26

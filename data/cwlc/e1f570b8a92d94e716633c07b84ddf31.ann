@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 113 120	molares
+T3	Body_Part 184 199	arcos dentarios
+T5	Disease 149 199	Anomalias de la relacion entre los arcos dentarios
+T6	Clinical_Finding 55 81	sin antecdentes sistemicos
+T7	Sign_or_Symptom 2 17	MORDIDA ABIERTA
+T8	Sign_or_Symptom 92 107	mordida abierta
+T9	Clinical_Finding 109 147	sin molares definitivos por el momento

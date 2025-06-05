@@ -1,0 +1,6 @@
+T1	Body_Part 83 113	1.4 , 4.4, 1.2, 4.2, 2.2 y 3.2
+T2	Sign_or_Symptom 65 113	mordida vis a vis 1.4 , 4.4, 1.2, 4.2, 2.2 y 3.2
+T3	Clinical_Finding 0 18	clase I esqueletal
+T4	Disease 18 29	apiñamiento
+T5	Sign_or_Symptom 18 63	apiñamientosevero superior, moderado inferior
+T6	Sign_or_Symptom 114 158	interposición lingualen deglusión y fenación

@@ -1,0 +1,6 @@
+T1	Abbreviation 10 11	C
+T2	Body_Part 0 9	PIEZA 1.2
+T3	Clinical_Finding 13 38	TRATAMIENTO DE ENDODONCIA
+T4	Clinical_Finding 41 72	PROVISIONAL CORONADO CON ESPIGA
+T5	Therapeutic_Procedure 86 92	CORONA
+A1	Pending T5

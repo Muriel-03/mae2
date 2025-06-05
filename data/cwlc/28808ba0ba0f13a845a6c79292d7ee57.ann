@@ -1,0 +1,11 @@
+T1	Abbreviation 16 19	1er
+T2	Abbreviation 90 93	DRA
+T3	Body_Part 0 9	denticion
+T5	Body_Part 129 138	DENTICION
+T6	Clinical_Finding 0 24	denticion mixta 1er fase
+T7	Sign_or_Symptom 25 71	malposicion dentaria severa en sector anterior
+T8	Sign_or_Symptom 176 220	LINEA MEDIA SUPERIOR DESVIADA A LA IZQUIERDA
+T9	Sign_or_Symptom 222 255	CANEMOLAR NEUTRO OCLUSION DERECHA
+T10	Therapeutic_Procedure 160 174	RESTAURACIONES
+T4	Body_Part 56 71	sector anterior
+T11	Clinical_Finding 129 154	DENTICION MJIXTA 1° PARTE

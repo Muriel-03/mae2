@@ -1,0 +1,6 @@
+T1	Body_Part 0 15	piezas  17 y 32
+T2	Body_Part 56 63	pieza 1
+T3	Laboratory_or_Test_Result 0 51	piezas  17 y 32  semiincluidas en posicion vertical
+T4	Therapeutic_Procedure 117 127	exodoncias
+T5	Sign_or_Symptom 56 106	pieza 1 cariada con destruccion coronaria  parcial
+A1	Pending T4

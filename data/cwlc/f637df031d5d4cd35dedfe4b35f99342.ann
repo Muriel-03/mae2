@@ -1,0 +1,5 @@
+T1	Abbreviation 104 107	PTR
+T2	Body_Part 72 80	RODILLAS
+T3	Disease 47 62	ARTROSIS SEVERA
+T4	Clinical_Finding 17 42	SIN ANTECEDENTES MORBIDOS
+T5	Therapeutic_Procedure 104 107	PTR

@@ -1,0 +1,14 @@
+T1	Abbreviation 73 75	FX
+T2	Abbreviation 77 79	RX
+T3	Abbreviation 97 100	P.D
+T4	Abbreviation 147 150	P.D
+T5	Body_Part 0 12	PIEZA Nº 2.3
+T6	Body_Part 34 43	PIEZA 1.3
+T7	Body_Part 55 59	BOCA
+T8	Body_Part 97 100	P.D
+T9	Body_Part 147 164	P.D 1.2, S.3, 1.4
+T10	Diagnostic_Procedure 77 79	RX
+T11	Laboratory_or_Test_Result 97 164	P.D INCLUIDA EN POSICION HORIZONTAL EN RELACION A P.D 1.2, S.3, 1.4
+T12	Sign_or_Symptom 0 33	PIEZA Nº 2.3 EN POSICION ECTOPICA
+T13	Sign_or_Symptom 34 59	PIEZA 1.3 AUSENTE EN BOCA
+R1	Has Arg1:T10 Arg2:T11	

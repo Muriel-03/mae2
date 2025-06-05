@@ -1,0 +1,12 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 130 157	Terceros molares inferiores
+T4	Body_Part 219 226	Dientes
+T5	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T6	Disease 219 249	Dientes incluidos e impactados
+T7	Clinical_Finding 89 128	sin antecedentes mórbidos de relevancia
+T8	Laboratory_or_Test_Result 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T9	Laboratory_or_Test_Result 130 185	Terceros molares inferiores semi incluidos e impactados
+T10	Therapeutic_Procedure 208 217	exodoncia
+A1	Pending T10
+T11	Laboratory_or_Test_Result 219 249	Dientes incluidos e impactados

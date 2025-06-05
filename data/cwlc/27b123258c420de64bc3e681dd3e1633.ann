@@ -1,0 +1,7 @@
+T1	Body_Part 0 7	DIENTES
+T2	Body_Part 26 33	Dientes
+T3	Body_Part 113 128	arcos dentarios
+T4	Disease 0 23	DIENTES SUPERNUMERARIOS
+T5	Disease 26 49	Dientes supernumerarios
+T7	Sign_or_Symptom 51 75	MORDIDA CRUZADA ANTERIOR
+T6	Disease 78 128	Anomalías de la relación entre los arcos dentarios

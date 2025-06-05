@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 147 177	incisivos centrales superiores
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Clinical_Finding 75 96	Clase I molar derecho
+T6	Sign_or_Symptom 99 130	clase III 1/4 cuspide izquierdo
+T7	Sign_or_Symptom 141 213	ambos incisivos centrales superiores con una leve mesiopalatogiroversión
+T8	Sign_or_Symptom 217 236	apiñamiento grupo V
+T9	Disease 217 228	apiñamiento
+T10	Body_Part 229 236	grupo V

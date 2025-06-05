@@ -1,0 +1,8 @@
+T1	Abbreviation 116 119	ROM
+T2	Body_Part 43 53	periodonto
+T3	Body_Part 104 111	Pieza 8
+T4	Disease 0 24	Diabetes Mellitus tipo I
+T5	Disease 26 64	gingivitis sobre periodonto disminuido
+T6	Sign_or_Symptom 127 144	movilidad grado 3
+T7	Therapeutic_Procedure 69 102	terapia de mantención periodontal
+T8	Sign_or_Symptom 104 125	Pieza 8 con ROM total

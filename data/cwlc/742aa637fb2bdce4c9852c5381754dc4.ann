@@ -1,0 +1,16 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 57 59	OD
+T3	Abbreviation 136 141	PMCFA
+T4	Body_Part 39 49	Diente 1.5
+T5	Disease 2 10	PULPITIS
+T6	Disease 61 82	Pulpitis irreversible
+T7	Disease 100 106	caries
+T8	Disease 190 198	Pulpitis
+T11	Clinical_Finding 143 166	restauracion provisoria
+T12	Medication 136 141	PMCFA
+T16	Therapeutic_Procedure 85 106	Eliminacion de caries
+T17	Therapeutic_Procedure 108 119	Trepanacion
+T18	Therapeutic_Procedure 121 141	medicacion con PMCFA
+T19	Therapeutic_Procedure 179 189	endodoncia
+T13	Disease 50 56	caries
+A1	Pending T19

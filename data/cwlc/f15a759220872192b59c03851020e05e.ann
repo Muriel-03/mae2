@@ -1,0 +1,17 @@
+T1	Abbreviation 13 15	AR
+T2	Abbreviation 103 105	Rx
+T3	Abbreviation 180 183	eco
+T4	Body_Part 77 93	hombro izquierdo
+T5	Body_Part 109 115	hombro
+T6	Body_Part 145 151	hombro
+T7	Body_Part 238 244	HOMBRO
+T8	Diagnostic_Procedure 103 115	Rx de hombro
+T9	Diagnostic_Procedure 180 197	eco osteomuscular
+T10	Disease 13 15	AR
+T11	Disease 133 151	artrosis de hombro
+T12	Disease 223 244	PSEUDOARTROSIS HOMBRO
+T13	Laboratory_or_Test_Result 133 169	artrosis de hombro secundaria severa
+T14	Sign_or_Symptom 41 46	dolor
+T15	Sign_or_Symptom 49 93	limitación severa abducción hombro izquierdo
+R1	Has Arg1:T8 Arg2:T13	
+A1	Pending T9

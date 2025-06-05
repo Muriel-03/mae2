@@ -1,0 +1,6 @@
+T1	Abbreviation 59 63	pzas
+T2	Body_Part 59 71	pzas 22 y 27
+T3	Disease 0 44	desdentado total superior y parcial inferior
+T4	Disease 49 55	caries
+T5	Therapeutic_Procedure 94 106	obturaciones
+A1	Pending T5

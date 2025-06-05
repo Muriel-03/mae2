@@ -1,0 +1,18 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 75 78	act
+T3	Abbreviation 176 179	Ant
+T4	Abbreviation 201 203	Qx
+T5	Abbreviation 248 250	ex
+T6	Body_Part 339 347	prepucio
+T7	Disease 2 18	VERRUGAS VIRICAS
+T8	Disease 318 327	condiloma
+T10	Disease 350 366	Verrugas viricas
+T11	Clinical_Finding 176 200	Ant morbidos: No refiere
+T12	Clinical_Finding 201 215	Qx: No refiere
+T13	Sign_or_Symptom 258 347	inspeccion genital impresionan dos lesiones compatibles con condiloma en zona de prepucio
+T14	Sign_or_Symptom 101 124	uso irregular de condón
+T15	Sign_or_Symptom 126 152	más de 10 parejas sexuales
+T9	Abbreviation 233 234	+
+T16	Disease 225 231	tabaco
+T17	Abbreviation 245 246	+
+T18	Sign_or_Symptom 236 247	alcohol (+)

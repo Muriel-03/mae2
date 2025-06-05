@@ -1,0 +1,9 @@
+T1	Abbreviation 0 2	PD
+T2	Body_Part 0 10	PD 1.4-1.5
+T3	Disease 11 28	CARIES PENETRANTE
+T4	Laboratory_or_Test_Result 0 28	PD 1.4-1.5 CARIES PENETRANTE
+T5	Sign_or_Symptom 103 135	PROTESIS REMOBIBLE EN MAL ESTADO
+T6	Therapeutic_Procedure 51 61	ENDODONCIA
+T7	Therapeutic_Procedure 74 87	PROTESIS FIJA
+A1	Pending T6
+A2	Pending T7

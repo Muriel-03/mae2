@@ -1,0 +1,17 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 161 164	LTI
+T3	Abbreviation 378 383	APROX
+T4	Abbreviation 394 397	TSH
+T5	Abbreviation 417 419	CD
+T6	Body_Part 161 164	LTI
+T7	Disease 2 30	BOCIO MULTINODULAR NO TÓXICO
+T8	Disease 137 165	NODULO HIPOECOGENICO EN LTI.
+T9	Disease 420 448	Bocio multinodular no toxico
+T10	Laboratory_or_Test_Result 122 164	BOCIO DIFUSO Y NODULO HIPOECOGENICO EN LTI
+T11	Laboratory_Procedure 394 397	TSH
+T12	Laboratory_or_Test_Result 225 264	ERAN 8 Y 3 ESTABAN DE COLOROCION OSCURA
+T13	Disease 122 134	BOCIO DIFUSO
+T14	Diagnostic_Procedure 191 209	PUNCION DE NODULOS
+R1	Has Arg1:T14 Arg2:T12	
+T15	Laboratory_Procedure 403 411	T4 LIBRE
+T16	Abbreviation 403 405	T4

@@ -1,0 +1,11 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 185 186	c
+T3	Abbreviation 187 191	PMCF
+T4	Body_Part 111 117	Pz 1,3
+T5	Disease 2 15	CARIES DENTAL
+T6	Disease 122 136	caries extensa
+T7	Disease 212 225	Caries dental
+T9	Clinical_Finding 194 210	cemento temporal
+T11	Medication 187 191	PMCF
+T12	Therapeutic_Procedure 149 163	biopulpectomia
+T8	Abbreviation 111 113	Pz

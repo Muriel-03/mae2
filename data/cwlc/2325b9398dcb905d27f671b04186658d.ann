@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 60 64	DIG.
+T3	Body_Part 0 13	PZA  30  Y 13
+T4	Disease 65 99	PULPITIS IRREVERSIBLE ASINTOMATICA
+T5	Clinical_Finding 26 54	TERAPIA PREVIAMENTE INICIADA
+T6	Therapeutic_Procedure 123 133	ENDODONCIA
+A1	Pending T6

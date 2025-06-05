@@ -1,0 +1,19 @@
+T1	Abbreviation 34 38	ADAC
+T2	Abbreviation 63 66	APS
+T3	Abbreviation 68 71	Dte
+T4	Abbreviation 76 80	ADAC
+T5	Abbreviation 106 109	PQM
+T6	Abbreviation 114 117	CHX
+T7	Abbreviation 144 148	H.C.
+T8	Abbreviation 201 204	v.i
+T9	Body_Part 68 75	Dte 1.4
+T10	Body_Part 229 233	boca
+T11	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T12	Disease 76 80	ADAC
+T13	Disease 206 233	Celulitis y absceso de boca
+T14	Clinical_Finding 192 205	fermin y v.i.
+T15	Medication 114 117	CHX
+T16	Medication 144 148	H.C.
+T17	Medication 151 155	Yodo
+T18	Therapeutic_Procedure 93 104	treapnacion
+T19	Therapeutic_Procedure 128 148	medicacion  con H.C.

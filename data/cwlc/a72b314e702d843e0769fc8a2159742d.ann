@@ -1,0 +1,9 @@
+T1	Abbreviation 261 263	cm
+T2	Body_Part 24 40	MIEMBRO INFERIOR
+T3	Body_Part 54 60	CADERA
+T4	Body_Part 99 116	rodilla izquierda
+T5	Disease 2 60	NEVO MELANOCÍTICO DEL MIEMBRO INFERIOR, INCLUIDA LA CADERA
+T6	Sign_or_Symptom 89 116	lesion en rodilla izquierda
+T7	Sign_or_Symptom 184 191	prurito
+T8	Sign_or_Symptom 193 205	sensibilidad
+T9	Sign_or_Symptom 236 326	lesion so levantada de 1 cm de diametro mayor, redondeada, de caracteristicas heterogeneas

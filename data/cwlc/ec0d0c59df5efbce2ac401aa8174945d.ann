@@ -1,0 +1,10 @@
+T1	Abbreviation 88 91	APS
+T2	Abbreviation 118 123	ANTEC
+T3	Abbreviation 212 215	PAP
+T4	Diagnostic_Procedure 212 215	PAP
+T5	Disease 2 64	OTRAS HEMORRAGIAS UTERINAS O VAGINALES ANORMALES ESPECIFICADAS
+T6	Disease 277 339	Otras hemorragias uterinas o vaginales anormales especificadas
+T7	Clinical_Finding 114 132	SIN ANTEC MORBIDOS
+T8	Laboratory_or_Test_Result 216 222	NORMAL
+T9	Sign_or_Symptom 148 193	SANGRADO GENITAL POSTERIOR A ACTIVIDAD SEXUAL
+R1	Has Arg1:T4 Arg2:T8	

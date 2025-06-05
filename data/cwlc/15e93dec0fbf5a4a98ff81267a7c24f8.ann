@@ -1,0 +1,10 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 63 83	pieza 1.8, 2.8 y 3.8
+T3	Body_Part 159 175	terceros molares
+T4	Body_Part 249 265	terceros molares
+T5	Disease 2 15	CARIES DENTAL
+T6	Disease 88 102	caries oclusal
+T7	Disease 267 280	Caries dental
+T11	Therapeutic_Procedure 235 245	extracción
+T8	Sign_or_Symptom 115 223	acumulación de placa bacteriana en zonas de terceros molares por dificultad para realizar técnica de higiene
+A1	Pending T11

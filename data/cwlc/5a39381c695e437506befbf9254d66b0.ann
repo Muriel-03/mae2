@@ -1,0 +1,9 @@
+T1	Abbreviation 30 33	V/S
+T2	Abbreviation 63 67	OBS.
+T3	Abbreviation 68 74	INSUF.
+T4	Abbreviation 99 103	EPOC
+T8	Sign_or_Symptom 0 46	DISNEA DE ORIGEN RESPIRATORIO V/S CARDIOLOGICO
+T5	Disease 68 97	INSUF. CARDIACA DESCOMPENSADA
+T6	Laboratory_or_Test_Result 48 61	CARDIOMAGALIA
+T7	Sign_or_Symptom 48 61	CARDIOMAGALIA
+T9	Disease 99 103	EPOC

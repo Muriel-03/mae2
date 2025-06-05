@@ -1,0 +1,17 @@
+T1	Abbreviation 0 2	IC
+T2	Abbreviation 3 5	CF
+T3	Abbreviation 11 13	FA
+T4	Abbreviation 17 21	TACO
+T5	Abbreviation 23 26	HTA
+T6	Abbreviation 28 31	PM2
+T7	Abbreviation 32 35	NIR
+T8	Abbreviation 48 51	TTO
+T9	Abbreviation 94 97	DPN
+T10	Disease 11 13	FA
+T11	Disease 23 26	HTA
+T12	Disease 28 31	PM2
+T14	Medication 17 21	TACO
+T15	Sign_or_Symptom 75 93	DISNEA DE ESFUERZO
+T16	Sign_or_Symptom 94 97	DPN
+T17	Sign_or_Symptom 100 108	ORTOPNEA
+T18	Disease 0 9	IC CF III

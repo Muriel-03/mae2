@@ -1,0 +1,5 @@
+T1	Abbreviation 42 45	PPR
+T2	Abbreviation 63 66	EXT
+T3	Therapeutic_Procedure 63 74	EXT. DENTAL
+T4	Disease 0 28	DESDENTADA PARCIAL BIMAXILAR
+T6	Clinical_Finding 42 53	PPR MAXILAR

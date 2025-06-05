@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	Dte
+T2	Abbreviation 63 67	Pcte
+T3	Abbreviation 176 178	rx
+T4	Body_Part 0 6	Dte 29
+T5	Diagnostic_Procedure 176 178	rx
+T6	Sign_or_Symptom 0 34	Dte 29 obturado con sintomatologia
+T7	Sign_or_Symptom 75 103	no poder morder por ese lado
+T8	Clinical_Finding 123 152	sin sintomatologia en clinica

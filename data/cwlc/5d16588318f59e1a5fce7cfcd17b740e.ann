@@ -1,0 +1,23 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 201 203	rx
+T3	Abbreviation 280 282	rx
+T4	Body_Part 23 30	RODILLA
+T5	Body_Part 90 107	rodilla izquierda
+T6	Body_Part 151 162	pie derecho
+T7	Body_Part 214 231	rodilla izquierda
+T8	Body_Part 239 256	espacio articular
+T9	Body_Part 286 297	pie derecho
+T10	Body_Part 396 403	rodilla
+T11	Diagnostic_Procedure 201 231	rx simple de rodilla izquierda
+T12	Diagnostic_Procedure 280 297	rx de pie derecho
+T13	Disease 2 30	OTRAS BURSITIS DE LA RODILLA
+T14	Disease 375 403	Otras bursitis de la rodilla
+T16	Laboratory_or_Test_Result 239 276	espacio articular dentro de lo normal
+T17	Laboratory_or_Test_Result 303 331	signos de lesiones aparentes
+T18	Sign_or_Symptom 81 107	dolor en rodilla izquierda
+T19	Sign_or_Symptom 142 162	dolor en pie derecho
+T20	Clinical_Finding 167 189	alivio de sus sintomas
+A1	Negated T20
+R1	Has Arg1:T11 Arg2:T16	
+R2	Has Arg1:T12 Arg2:T17	
+A2	Negated T17

@@ -1,0 +1,20 @@
+T1	Abbreviation 96 99	APS
+T2	Abbreviation 126 129	TSH
+T3	Abbreviation 151 154	mcg
+T4	Abbreviation 159 162	eco
+T5	Abbreviation 193 195	iq
+T6	Abbreviation 203 205	mm
+T7	Abbreviation 221 224	TSH
+T8	Diagnostic_Procedure 159 162	eco
+T9	Disease 2 33	HIPOTIROIDISMO, NO ESPECIFICADO
+T10	Disease 37 72	NÓDULO TIROIDEO SOLITARIO NO TÓXICO
+T11	Disease 314 349	Nodulo tiroideo solitario no toxico
+T12	Laboratory_or_Test_Result 177 219	nódulo tiroideo iq de 1,2 mm vascularizado
+T14	Laboratory_Procedure 126 129	TSH
+T15	Laboratory_Procedure 221 224	TSH
+T16	Medication 140 147	eutirox
+T17	Sign_or_Symptom 240 251	parestesias
+T18	Sign_or_Symptom 253 262	calambres
+T19	Sign_or_Symptom 264 283	lipotimia ocasional
+R1	Has Arg1:T8 Arg2:T12	
+T13	Clinical_Finding 285 313	sin otros exámenes alterados

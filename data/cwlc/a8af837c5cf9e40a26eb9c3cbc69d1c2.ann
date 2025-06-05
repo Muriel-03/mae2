@@ -1,0 +1,10 @@
+T1	Abbreviation 16 21	T.V.P
+T2	Abbreviation 97 102	T.E.P
+T3	Body_Part 157 166	vena cava
+T4	Disease 16 21	T.V.P
+T5	Disease 52 86	liposarcoma suprapúbico recidivado
+T6	Disease 97 102	T.E.P
+T7	Therapeutic_Procedure 36 51	hemipelvectomia
+T8	Therapeutic_Procedure 147 166	filtro de vena cava
+A1	Pending T7
+A2	Pending T8

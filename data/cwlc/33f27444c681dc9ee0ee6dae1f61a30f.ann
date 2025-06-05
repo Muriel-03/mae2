@@ -1,0 +1,15 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 66 70	Pact
+T4	Abbreviation 124 126	+-
+T5	Abbreviation 228 233	aines
+T6	Abbreviation 252 256	pact
+T7	Body_Part 161 173	oido derecho
+T8	Body_Part 203 211	conducto
+T9	Body_Part 347 372	conducto auditivo derecho
+T10	Disease 2 37	OTITIS EXTERNA AGUDA, NO INFECCIOSA
+T11	Disease 387 422	Otitis externa aguda, no infecciosa
+T12	Medication 228 233	aines
+T13	Medication 238 249	amoxicilina
+T14	Sign_or_Symptom 133 173	dolor de leve intensidad en oido derecho
+T15	Sign_or_Symptom 178 193	prurito intenso
+T3	Sign_or_Symptom 301 385	otoscopia se aprecia ligero enrojecimiento de conducto auditivo derecho en regresion

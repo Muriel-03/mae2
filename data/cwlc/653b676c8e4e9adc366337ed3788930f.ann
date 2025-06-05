@@ -1,0 +1,14 @@
+T1	Abbreviation 96 98	EA
+T2	Abbreviation 206 211	AINES
+T3	Body_Part 164 176	Hipogastrico
+T4	Body_Part 179 190	region anal
+T5	Disease 0 20	Hemorragia Digestiva
+T6	Disease 21 54	Infeccion de etiologia a precisos
+T7	Medication 206 211	AINES
+T8	Medication 216 231	antiesporadicos
+T9	Sign_or_Symptom 123 190	fuerte intensidad que se irradia luego a Hipogastrico y region anal
+T10	Sign_or_Symptom 255 286	rectorragia abudante permanente
+T11	Sign_or_Symptom 292 297	dolor
+T12	Sign_or_Symptom 299 306	tenesmo
+T13	Sign_or_Symptom 308 315	diarrea
+T14	Sign_or_Symptom 192 231	no alivia con AINES y/o antiesporadicos

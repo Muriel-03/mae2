@@ -1,0 +1,12 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 66 71	pacte
+T3	Abbreviation 98 101	sup
+T4	Body_Part 31 37	DIENTE
+T5	Body_Part 90 101	maxilar sup
+T6	Body_Part 179 185	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 130 141	apiñamiento
+T9	Disease 150 185	Anomalias de la posicion del diente
+T10	Sign_or_Symptom 76 101	compresion de maxilar sup
+T11	Sign_or_Symptom 104 128	falta de spacio inferior
+T12	Sign_or_Symptom 130 149	apiñamiento inferor

@@ -1,0 +1,13 @@
+T1	Abbreviation 21 23	Pd
+T2	Body_Part 21 27	Pd 1.5
+T3	Disease 49 77	caries radicular subgingival
+T4	Therapeutic_Procedure 130 152	alargamiento coronario
+T5	Therapeutic_Procedure 174 187	gingivectomía
+T6	Therapeutic_Procedure 209 232	restauración definitiva
+T7	Clinical_Finding 28 48	previamente tratada,
+T8	Sign_or_Symptom 79 106	invasión de ancho biológico
+A1	Pending T4
+T9	Therapeutic_Procedure 162 172	osteotomía
+A2	Pending T9
+A3	Pending T5
+A4	Pending T6

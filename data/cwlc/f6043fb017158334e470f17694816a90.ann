@@ -1,0 +1,4 @@
+T1	Body_Part 32 41	DENTICION
+T2	Clinical_Finding 32 55	DENTICION MIXTA 1° FASE
+T3	Clinical_Finding 89 102	CLASE I MOLAR
+T4	Sign_or_Symptom 65 84	CON PRESION MAXILAR

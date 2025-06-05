@@ -1,0 +1,6 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 44 60	pieza dental 1.2
+T3	Disease 2 15	CARIES DENTAL
+T4	Disease 82 97	caries profunda
+T6	Sign_or_Symptom 98 125	compromete vitalidad pulpar
+T7	Therapeutic_Procedure 63 72	trepanada

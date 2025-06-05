@@ -1,0 +1,11 @@
+T1	Abbreviation 60 63	APS
+T2	Body_Part 31 36	p.2.5
+T3	Body_Part 65 75	diente 2.5
+T4	Disease 2 10	PULPITIS
+T5	Disease 95 116	pulpitis irreversible
+T6	Sign_or_Symptom 119 133	caries extensa
+T7	Disease 230 238	Pulpitis
+T8	Therapeutic_Procedure 162 173	trepanación
+T10	Disease 10 30	pulpitis irrversible
+T11	Disease 119 125	caries
+T9	Abbreviation 31 32	p

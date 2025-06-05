@@ -1,0 +1,18 @@
+T1	Abbreviation 206 209	APS
+T2	Abbreviation 213 216	EMB
+T3	Abbreviation 220 223	SEM
+T4	Abbreviation 224 226	CS
+T5	Abbreviation 240 245	ANTEC
+T8	Disease 113 122	SOBREPESO
+T9	Disease 126 182	ANEMIA QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO
+T10	Disease 249 263	ROTURA UTERINA
+T11	Therapeutic_Procedure 294 332	Supervision de embarazo de alto riesgo
+T12	Clinical_Finding 211 213	M2
+T13	Therapeutic_Procedure 268 275	LEGRADO
+T14	Therapeutic_Procedure 279 284	PARTO
+T6	Disease 17 40	EMBARAZO DE ALTO RIESGO
+T7	Disease 88 109	FETO DEMASIADO GRANDE
+T16	Abbreviation 211 212	M
+T15	Therapeutic_Procedure 2 40	SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO
+T17	Therapeutic_Procedure 224 226	CS
+T18	Disease 309 332	embarazo de alto riesgo

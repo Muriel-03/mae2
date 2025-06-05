@@ -1,0 +1,5 @@
+T1	Disease 0 36	Desdentada total superior e inferior
+T2	Sign_or_Symptom 37 61	no portadora de protesis
+T3	Therapeutic_Procedure 85 105	exodoncias multiples
+A1	Pending T3
+T4	Disease 110 140	caries radiculares penetrantes

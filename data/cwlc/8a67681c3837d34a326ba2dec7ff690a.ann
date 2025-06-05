@@ -1,0 +1,6 @@
+T1	Body_Part 46 52	diente
+T2	Disease 22 42	granuloma periapical
+T4	Laboratory_or_Test_Result 22 65	granuloma periapical en diente endodonciado
+T5	Sign_or_Symptom 67 89	Infecciones recurentes
+T6	Therapeutic_Procedure 146 157	apicectomia
+A1	Pending T6

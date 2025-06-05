@@ -1,0 +1,16 @@
+T1	Abbreviation 39 42	ECO
+T2	Abbreviation 68 71	IMC
+T3	Diagnostic_Procedure 39 42	ECO
+T4	Disease 50 66	OBESIDAD MORBIDA
+T5	Disease 77 88	ANEMIA LEVE
+T6	Clinical_Finding 0 2	G1
+T7	Clinical_Finding 3 5	P0
+T8	Clinical_Finding 6 8	A0
+T9	Clinical_Finding 9 18	EMABARAZO
+T10	Medication 105 120	SULFATO FERROSO
+T11	Abbreviation 0 1	G
+T12	Abbreviation 3 4	P
+T13	Abbreviation 6 7	A
+T14	Sign_or_Symptom 91 120	INTOLERANTE A SULFATO FERROSO
+T15	Laboratory_or_Test_Result 9 34	EMABARAZO DE 30+6 SEMANAS
+R1	Has Arg1:T3 Arg2:T15	

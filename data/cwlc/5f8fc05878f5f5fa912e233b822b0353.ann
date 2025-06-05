@@ -1,0 +1,7 @@
+T1	Disease 30 43	CARIES DENTAL
+T2	Disease 48 63	RESTO RADICULAR
+T3	Disease 170 188	restos radiculares
+T5	Sign_or_Symptom 132 150	mala higiene bucal
+T6	Sign_or_Symptom 151 167	caries multiples
+T4	Sign_or_Symptom 2 25	PACIENTE DIFICIL MANEJO
+T7	Sign_or_Symptom 97 120	Paciente dificil manejo

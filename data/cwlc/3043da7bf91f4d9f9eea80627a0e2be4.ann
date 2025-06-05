@@ -1,0 +1,8 @@
+T1	Abbreviation 32 35	LID
+T2	Body_Part 32 35	LID
+T3	Diagnostic_Procedure 90 107	VIDEOTORACOSCOPIA
+T4	Laboratory_or_Test_Result 13 35	NODULO PULMONAR EN LID
+T5	Sign_or_Symptom 61 77	DISFONIA CRONICA
+T6	Disease 37 51	GRAN TABAQUICA
+A1	Pending T3
+T7	Laboratory_or_Test_Result 124 130	NODULO

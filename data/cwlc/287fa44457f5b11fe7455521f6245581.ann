@@ -1,0 +1,11 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 56 59	ant
+T3	Diagnostic_Procedure 98 118	ecografias abdominal
+T4	Disease 2 14	COLELITIASIS
+T5	Disease 63 76	colico biliar
+T6	Disease 138 155	colecistolitiasis
+T7	Disease 254 266	Colelitiasis
+T8	Laboratory_or_Test_Result 138 155	colecistolitiasis
+T9	Sign_or_Symptom 187 219	molestias digestivas permanentes
+T10	Sign_or_Symptom 220 253	sin tolerancia a alimentos grasos
+R1	Has Arg1:T3 Arg2:T8	

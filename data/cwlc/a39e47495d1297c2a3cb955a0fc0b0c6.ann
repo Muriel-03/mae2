@@ -1,0 +1,7 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 14 30	GLÁNDULA SALIVAL
+T3	Disease 2 30	MUCOCELE DE GLÁNDULA SALIVAL
+T4	Disease 137 145	mucocele
+T5	Sign_or_Symptom 115 223	lesion compatible con mucocele    interno  bucal  de un año de evolucion la cual ha ido aumentando de tamaño
+T7	Therapeutic_Procedure 252 273	resolucion quirurgica
+A1	Pending T7

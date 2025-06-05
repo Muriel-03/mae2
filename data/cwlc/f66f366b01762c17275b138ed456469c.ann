@@ -1,0 +1,7 @@
+T1	Disease 0 4	R42X
+T2	Disease 5 28	MAREO Y DESVANECIMIENTO
+T3	Family_Member 29 35	PADRES
+T4	Sign_or_Symptom 5 10	MAREO
+T5	Sign_or_Symptom 13 28	DESVANECIMIENTO
+T6	Sign_or_Symptom 85 105	MOVIMIENTOS OCUKARES
+T7	Sign_or_Symptom 119 124	MAREO

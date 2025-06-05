@@ -1,0 +1,26 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 262 265	sos
+T3	Abbreviation 360 363	vhs
+T4	Abbreviation 384 387	ENA
+T5	Body_Part 157 164	muñecas
+T6	Body_Part 166 171	codos
+T7	Disease 2 31	POLIARTRITIS, NO ESPECIFICADA
+T8	Disease 495 524	Poliartritis, no especificada
+T9	Laboratory_or_Test_Result 364 370	normal
+T10	Laboratory_or_Test_Result 421 429	negativo
+T11	Laboratory_or_Test_Result 457 465	negativo
+T12	Laboratory_or_Test_Result 486 494	negativo
+T13	Laboratory_Procedure 360 363	vhs
+T15	Laboratory_Procedure 384 387	ENA
+T16	Laboratory_Procedure 394 419	anticuerpo anticitoplasma
+T17	Laboratory_Procedure 430 455	anticuerpos antinucleares
+T18	Laboratory_Procedure 466 484	factor reumatoideo
+T19	Medication 244 256	dexametasona
+T20	Sign_or_Symptom 115 171	dolores articulares tipo inflamatorio, de muñecas, codos
+T22	Sign_or_Symptom 188 206	aumento de volumen
+T23	Sign_or_Symptom 210 215	dolor
+T24	Sign_or_Symptom 277 282	dolor
+R1	Has Arg1:T13 Arg2:T9	
+R3	Has Arg1:T16 Arg2:T10	
+R4	Has Arg1:T17 Arg2:T11	
+R5	Has Arg1:T18 Arg2:T12	

@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 52 55	OBS
+T3	Abbreviation 60 63	PZA
+T4	Abbreviation 96 99	PZA
+T5	Body_Part 0 8	PZA # 30
+T6	Body_Part 60 68	PZA # 31
+T7	Body_Part 96 104	PZA # 30
+T8	Disease 9 35	CARIES VESTIBULAR PROFUNDA
+T9	Disease 36 51	NECROSIS PULPAR
+T11	Clinical_Finding 60 104	PZA # 31 QUE ESTA OCUPANDO POSICION PZA # 30

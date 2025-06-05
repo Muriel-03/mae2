@@ -1,0 +1,9 @@
+T1	Abbreviation 100 102	mm
+T2	Body_Part 0 9	dentición
+T3	Clinical_Finding 0 15	dentición mixta
+T5	Clinical_Finding 16 23	clase 1
+T6	Sign_or_Symptom 24 55	apiñamiento dental generalizado
+T7	Sign_or_Symptom 56 69	clase 2 molar
+T8	Sign_or_Symptom 71 102	falta de espacion de 10 a 12 mm
+T9	Body_Part 105 120	sector anterior
+T10	Disease 24 42	apiñamiento dental

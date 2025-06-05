@@ -1,0 +1,13 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 10 13	HTA
+T3	Abbreviation 152 155	VAD
+T4	Abbreviation 316 319	VAD
+T5	Body_Part 223 234	zona lumbar
+T6	Disease 10 13	HTA
+T7	Disease 21 25	Gota
+T9	Disease 34 43	psoriasis
+T10	Disease 202 211	psoriasis
+T11	Therapeutic_Procedure 78 114	hernioplastia (umbilical e inguinal)
+T12	Disease 14 17	DM2
+T13	Abbreviation 14 19	DM2NR
+A1	Pending T11

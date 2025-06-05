@@ -1,0 +1,9 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 77 80	dte
+T3	Body_Part 77 85	dte. 2.1
+T4	Disease 2 32	ABSCESO PERIAPICAL SIN FÍSTULA
+T5	Disease 90 124	pulpitis irreversible asintomática
+T6	Sign_or_Symptom 127 152	lesión periapical crónica
+T7	Disease 182 212	Absceso periapical sin fistula
+T9	Clinical_Finding 154 163	Trepanado
+T11	Therapeutic_Procedure 154 163	Trepanado

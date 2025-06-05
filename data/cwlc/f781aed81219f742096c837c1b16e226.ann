@@ -1,0 +1,5 @@
+T1	Body_Part 117 124	arcadas
+T2	Disease 15 54	desdentado  parcial superior e inferior
+T3	Therapeutic_Procedure 75 103	protesis  removible  parcial
+T4	Clinical_Finding 0 13	paciente sano
+A1	Pending T3

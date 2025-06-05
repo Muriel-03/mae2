@@ -1,0 +1,15 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 146 151	PMCFA
+T3	Body_Part 48 58	Diente 1.1
+T4	Body_Part 78 88	Diente 2.2
+T5	Body_Part 222 226	boca
+T6	Disease 2 19	ABSCESO SUBMUCOSO
+T7	Disease 59 76	Absceso Submucoso
+T8	Disease 89 105	Granuloma apical
+T9	Disease 199 226	Celulitis y absceso de boca
+T11	Medication 146 151	PMCFA
+T13	Clinical_Finding 153 174	Obturacion provisoria
+T14	Therapeutic_Procedure 118 129	trepanación
+T15	Therapeutic_Procedure 188 198	endodoncia
+T12	Laboratory_or_Test_Result 78 105	Diente 2.2 Granuloma apical
+A1	Pending T15

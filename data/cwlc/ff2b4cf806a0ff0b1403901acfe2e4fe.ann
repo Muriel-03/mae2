@@ -1,0 +1,7 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 61	pcte
+T3	Disease 0 17	SINCOPE Y COLAPSO
+T4	Disease 21 28	MIGRAÑA
+T5	Disease 101 118	diabetes mellitus
+T6	Sign_or_Symptom 172 187	cefalea intensa
+T7	Sign_or_Symptom 220 229	lipotimia

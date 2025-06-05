@@ -1,0 +1,32 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 118 120	SU
+T3	Abbreviation 214 216	FI
+T4	Abbreviation 331 334	EVA
+T5	Abbreviation 659 660	+
+T6	Abbreviation 698 701	FII
+T8	Body_Part 214 226	FI izquierda
+T9	Body_Part 241 247	flanco
+T10	Body_Part 685 696	hipogastrio
+T11	Body_Part 698 701	FII
+T12	Body_Part 703 719	flanco izquierdo
+T13	Disease 2 31	CÓLICO RENAL, NO ESPECIFICADO
+T14	Disease 166 178	cólico renal
+T16	Disease 786 815	Colico renal, no especificado
+T17	Clinical_Finding 73 94	antecedentes mórbidos
+T18	Clinical_Finding 726 742	otros hallazgos.
+T19	Laboratory_or_Test_Result 429 451	hematuria microscopica
+T20	Laboratory_Procedure 398 415	examenes de orina
+T21	Laboratory_Procedure 457 467	urocultivo
+T22	Medication 578 586	nefersil
+T23	Sign_or_Symptom 181 259	Dolor abdominal que se inicia en FI izquierda, se irradia a flanco ipsilateral
+T24	Sign_or_Symptom 354 361	nauseas
+T25	Sign_or_Symptom 364 379	intranquilidad.
+T26	Sign_or_Symptom 488 512	orina clara, algo oscura
+T27	Sign_or_Symptom 549 586	Dolor cede parcialmente con  nefersil
+T28	Sign_or_Symptom 644 660	puño percusion +
+T29	Sign_or_Symptom 661 719	dolor a la palpacion en hipogastrio, FII, flanco izquierdo
+A1	Negated T17
+T30	Sign_or_Symptom 261 298	Dolor se presenta durante todo el día
+A2	Negated T18
+A3	Pending T21
+T7	Abbreviation 383 385	SU

@@ -1,0 +1,18 @@
+T1	Abbreviation 3 6	cca
+T2	Abbreviation 7 8	x
+T3	Abbreviation 9 12	she
+T4	Abbreviation 38 41	obs
+T5	Abbreviation 42 45	she
+T7	Abbreviation 101 102	+
+T8	Disease 9 12	she
+T9	Disease 42 45	she
+T10	Clinical_Finding 0 2	m1
+T11	Clinical_Finding 13 21	embarazo
+T12	Sign_or_Symptom 95 100	edema
+T13	Therapeutic_Procedure 3 6	cca
+T14	Abbreviation 0 1	m
+T15	Sign_or_Symptom 47 54	tinitus
+T16	Sign_or_Symptom 55 63	fotopsia
+T17	Abbreviation 63 64	+
+T18	Sign_or_Symptom 66 93	aumento de 6 kilos en 1 mes
+T6	Clinical_Finding 130 148	presiones normales

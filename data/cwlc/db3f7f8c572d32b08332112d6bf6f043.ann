@@ -1,0 +1,18 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 83	REST
+T3	Abbreviation 85 87	IP
+T4	Abbreviation 181 182	+
+T5	Body_Part 45 50	PULPA
+T6	Body_Part 102 115	CAMARA PULPAR
+T7	Body_Part 261 266	pulpa
+T8	Disease 2 50	PERIODONTITIS APICAL AGUDA ORIGINADA EN LA PULPA
+T10	Disease 218 266	Periodontitis apical aguda originada en la pulpa
+T11	Laboratory_or_Test_Result 79 115	REST. IP EN RELACION A CAMARA PULPAR
+T12	Medication 171 179	PANOMOCL
+T13	Medication 183 191	EUGENATO
+T14	Sign_or_Symptom 125 145	DOLOR A LA PERCUSION
+T15	Therapeutic_Procedure 146 157	TREPANACION
+T16	Therapeutic_Procedure 159 179	SE DEJA CON PANOMOCL
+T17	Therapeutic_Procedure 205 215	ENDODONCIA
+A1	Pending T17
+T9	Abbreviation 171 179	PANOMOCL

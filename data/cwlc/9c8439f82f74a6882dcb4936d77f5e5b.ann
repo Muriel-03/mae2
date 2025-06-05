@@ -1,0 +1,10 @@
+T1	Abbreviation 23 26	pza
+T3	Body_Part 23 30	pza. 19
+T4	Body_Part 39 45	diente
+T6	Disease 104 110	Caries
+T7	Disease 159 181	Mioperiocarditis Aguda
+T8	Disease 182 204	CARIES DENTAL COMPLEJA
+T12	Sign_or_Symptom 55 81	gran destrucción coronaria
+T13	Sign_or_Symptom 87 101	focos apicales
+T15	Therapeutic_Procedure 12 22	extracción
+A1	Pending T15

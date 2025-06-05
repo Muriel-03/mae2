@@ -1,0 +1,6 @@
+T1	Abbreviation 101 103	RN
+T2	Body_Part 38 44	CADERA
+T3	Body_Part 91 97	CADERA
+T4	Diagnostic_Procedure 78 97	ECOGRAFIA DE CADERA
+T5	Disease 25 44	DISPLASIA DE CADERA
+A1	Pending T4

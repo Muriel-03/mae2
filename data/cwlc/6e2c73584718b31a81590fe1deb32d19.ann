@@ -1,0 +1,9 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 151 154	tto
+T3	Body_Part 68 74	encías
+T4	Body_Part 113 120	grupo V
+T5	Disease 9 29	apiñamiento dentario
+T7	Sign_or_Symptom 9 57	apiñamiento dentario que dificulta higienización
+T8	Sign_or_Symptom 68 87	encías eritematosas
+T9	Sign_or_Symptom 90 120	tártaro subgingival en grupo V
+T10	Therapeutic_Procedure 151 166	tto periodontal

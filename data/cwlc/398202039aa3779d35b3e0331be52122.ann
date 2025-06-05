@@ -1,0 +1,8 @@
+T1	Abbreviation 60 62	AC
+T2	Abbreviation 65 67	FA
+T3	Body_Part 43 58	VALVULA AORTICA
+T5	Disease 60 67	AC X FA
+T7	Medication 80 111	ANTICOALGULANTE ORAL NEOCINTRON
+T8	Therapeutic_Procedure 26 58	REPARACION DE LA VALVULA AORTICA
+T9	Laboratory_or_Test_Result 0 24	DOBLE LESION MICRAORTICA
+T4	Abbreviation 63 64	X

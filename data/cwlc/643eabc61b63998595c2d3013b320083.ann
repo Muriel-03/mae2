@@ -1,0 +1,7 @@
+T1	Body_Part 31 46	conducto biliar
+T2	Disease 0 17	COLECISTOLITIASIS
+T3	Disease 20 77	Cálculo de conducto biliar sin colangitis ni colecistitis
+T4	Disease 79 98	VICIO DE REFRACCION
+T5	Disease 101 144	Trastorno de la refracción, no especificado
+T6	Laboratory_or_Test_Result 20 77	Cálculo de conducto biliar sin colangitis ni colecistitis
+T7	Laboratory_or_Test_Result 0 17	COLECISTOLITIASIS

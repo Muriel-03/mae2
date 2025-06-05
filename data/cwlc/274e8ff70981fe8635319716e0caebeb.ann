@@ -1,0 +1,9 @@
+T1	Abbreviation 83 86	APS
+T2	Abbreviation 88 91	PAP
+T3	Abbreviation 92 95	NIE
+T4	Body_Part 45 59	CUELLO UTERINO
+T5	Diagnostic_Procedure 2 59	EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DEL CUELLO UTERINO
+T6	Diagnostic_Procedure 88 91	PAP
+T7	Disease 35 59	TUMOR DEL CUELLO UTERINO
+T8	Laboratory_or_Test_Result 92 99	NIE III
+R1	Has Arg1:T6 Arg2:T8	

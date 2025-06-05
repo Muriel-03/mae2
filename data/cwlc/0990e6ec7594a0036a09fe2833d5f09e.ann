@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 173 181	grupo II
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 152 163	apiñamiento
+T5	Disease 205 253	Anomalias dentofaciales (incluso la maloclusion)
+T6	Clinical_Finding 183 201	Clase I esqueletal
+T7	Sign_or_Symptom 98 123	clase III molar bilateral
+T8	Sign_or_Symptom 125 149	mordida abierta anterior
+T9	Sign_or_Symptom 152 181	apiñamiento dentario grupo II

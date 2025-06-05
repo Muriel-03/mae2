@@ -1,0 +1,27 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 52 56	pcte
+T3	Abbreviation 291 293	+-
+T4	Abbreviation 370 372	RX
+T5	Abbreviation 476 478	mg
+T6	Abbreviation 479 481	dL
+T7	Body_Part 11 23	ARTICULACIÓN
+T8	Body_Part 174 187	tibia derecha
+T9	Body_Part 244 259	robilla derecha
+T10	Body_Part 262 279	tobillo izquierdo
+T11	Body_Part 376 390	articulaciones
+T12	Body_Part 576 588	articulacion
+T13	Diagnostic_Procedure 370 390	RX de articulaciones
+T15	Disease 156 187	displasia fibrosa tibia derecha
+T16	Family_Member 189 196	hermano
+T17	Clinical_Finding 80 115	antecedentes patológicos personales
+T19	Laboratory_or_Test_Result 405 430	sin hallazgos patológicos
+T20	Laboratory_or_Test_Result 451 459	NEGATIVO
+T21	Laboratory_Procedure 432 450	Factor Reumatoideo
+T22	Laboratory_Procedure 460 471	Acido Urico
+T23	Sign_or_Symptom 2 23	DOLOR EN ARTICULACIÓN
+T24	Sign_or_Symptom 231 279	artralgia de robilla derecha y tobillo izquierdo
+T26	Sign_or_Symptom 567 588	Dolor en articulacion
+A1	Negated T17
+R1	Has Arg1:T16 Arg2:T15	
+R2	Has Arg1:T13 Arg2:T19	
+R3	Has Arg1:T21 Arg2:T20	

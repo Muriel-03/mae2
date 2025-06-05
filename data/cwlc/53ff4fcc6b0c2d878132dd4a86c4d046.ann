@@ -1,0 +1,17 @@
+T1	Abbreviation 99 102	DM2
+T2	Abbreviation 104 107	HTA
+T3	Abbreviation 127 130	TTO
+T4	Abbreviation 537 542	aprox
+T5	Abbreviation 545 547	cm
+T6	Disease 2 33	LINFANGIOMA, DE CUALQUIER SITIO
+T7	Disease 99 102	DM2
+T8	Disease 104 107	HTA
+T10	Medication 136 149	glibenclamida
+T11	Medication 151 161	metformina
+T12	Medication 163 176	atorvastatina
+T13	Medication 178 187	enalapril
+T14	Sign_or_Symptom 228 278	aumento de volumen progresivo, blando, no doloroso
+T17	Sign_or_Symptom 390 532	aumento de volumen el cual no se modifica con movimientos respiratorios, de superficie renitente, adherido a planos profundos, de bordes lisos
+T19	Sign_or_Symptom 564 587	doloroso a la palpacion
+T9	Sign_or_Symptom 313 336	dificultad respiratoria
+A1	Negated T19

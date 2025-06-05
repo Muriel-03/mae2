@@ -1,0 +1,15 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 102 105	HTA
+T3	Abbreviation 107 112	DM2IR
+T4	Abbreviation 131 134	ERC
+T5	Disease 2 45	ANEMIA REFRACTARIA, SIN OTRA ESPECIFICACIÓN
+T6	Disease 102 105	HTA
+T7	Disease 107 112	DM2IR
+T8	Disease 114 128	hipotiroidismo
+T9	Disease 131 138	ERC III
+T10	Disease 149 192	anemia de arga data microcitica hipocrómica
+T11	Disease 297 340	Anemia refractaria, sin otra especificacion
+T13	Medication 221 236	sulfato ferroso
+T14	Sign_or_Symptom 198 294	pese a tratamiento con sulfato ferroso no recupera niveles normales de Hematocrito y hemoglobina
+T15	Laboratory_Procedure 269 280	Hematocrito
+T16	Laboratory_Procedure 283 294	hemoglobina

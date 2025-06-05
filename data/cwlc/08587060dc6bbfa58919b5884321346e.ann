@@ -1,0 +1,17 @@
+T1	Abbreviation 113 115	ac
+T2	Abbreviation 134 137	hrs
+T3	Abbreviation 149 150	+
+T4	Abbreviation 151 156	Aines
+T5	Abbreviation 234 236	pd
+T6	Body_Part 70 86	piezas 4.7 y 4.6
+T7	Body_Part 234 240	pd 4.7
+T8	Diagnostic_Procedure 200 219	examen radiográfico
+T9	Disease 38 55	absceso submucoso
+T10	Disease 241 255	quiste lateral
+T11	Clinical_Finding 11 26	alta operatoria
+T12	Laboratory_or_Test_Result 234 255	pd 4.7 quiste lateral
+T13	Medication 101 128	amoxicilina/ac. clavulanico
+T14	Medication 151 156	Aines
+T15	Clinical_Finding 158 183	aumento de volumen remite
+T16	Abbreviation 130 132	c/
+R1	Has Arg1:T8 Arg2:T12	

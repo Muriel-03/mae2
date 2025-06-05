@@ -1,0 +1,6 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 102 105	EDA
+T3	Diagnostic_Procedure 102 105	EDA
+T4	Disease 2 40	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO
+T5	Disease 133 171	Enfermedad del reflujo gastroesofagico
+A1	Pending T3

@@ -1,0 +1,15 @@
+T1	Body_Part 31 37	DIENTE
+T2	Body_Part 42 49	DIENTES
+T3	Body_Part 113 140	terceros molares inferiores
+T4	Body_Part 142 152	Diente 3.8
+T5	Body_Part 237 247	Diente 4.8
+T6	Body_Part 306 323	conducto dentario
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 42 72	DIENTES INCLUIDOS E IMPACTADOS
+T9	Disease 325 334	Impactado
+T10	Laboratory_or_Test_Result 158 363	erupcionado con falta de espacio para la higiene. Clasificaciòn de Winter IIB  Diente 4.8 Sin erupcionar, mesializado. Sin cierre apical a nivel de conducto dentario. Impactado. Clasificaciòn de Winter IIB
+T14	Therapeutic_Procedure 103 112	exodoncia
+A1	Pending T14
+T15	Laboratory_or_Test_Result 42 72	DIENTES INCLUIDOS E IMPACTADOS
+T16	Laboratory_or_Test_Result 142 235	Diente 3.8 Semi erupcionado con falta de espacio para la higiene. Clasificaciòn de Winter IIB
+T17	Laboratory_or_Test_Result 237 363	Diente 4.8 Sin erupcionar, mesializado. Sin cierre apical a nivel de conducto dentario. Impactado. Clasificaciòn de Winter IIB

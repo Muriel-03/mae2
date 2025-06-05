@@ -1,0 +1,23 @@
+T1	Abbreviation 101 104	APS
+T2	Abbreviation 146 149	HTA
+T3	Abbreviation 151 154	DLP
+T4	Abbreviation 248 252	HSJC
+T5	Body_Part 56 70	pared anterior
+T6	Body_Part 386 399	esfinter anal
+T7	Disease 2 44	PROLAPSO GENITAL FEMENINO, NO ESPECIFICADO
+T8	Disease 146 149	HTA
+T9	Disease 151 154	DLP
+T10	Disease 156 167	gonartrosis
+T11	Disease 179 195	prolapso genital
+T13	Disease 710 752	Prolapso genital femenino, no especificado
+T14	Medication 514 532	estrogenos tópicos
+T15	Medication 535 548	amitriptilina
+T16	Medication 580 590	diuréticos
+T18	Sign_or_Symptom 289 313	masa genital perceptible
+T19	Sign_or_Symptom 372 399	disfunción de esfinter anal
+T20	Sign_or_Symptom 431 476	prolapso psoterior discreto, sin ulceraciones
+T21	Sign_or_Symptom 626 635	molestias
+T22	Disease 44 75	Porlapso de pared anterior leve
+T17	Sign_or_Symptom 326 360	incontinencia de orina de urgencia
+T12	Therapeutic_Procedure 200 221	resolución quirurgica
+T23	Disease 431 439	prolapso

@@ -1,0 +1,6 @@
+T1	Body_Part 91 99	sector V
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Sign_or_Symptom 57 99	apiñamiento dentairio dector II y sector V
+T4	Sign_or_Symptom 118 158	protusion dentaria sector anterosuperior
+T5	Disease 57 68	apiñamiento
+T6	Body_Part 79 88	dector II

@@ -1,0 +1,25 @@
+T1	Abbreviation 157 160	Obs
+T2	Abbreviation 179 182	Obs
+T3	Abbreviation 183 185	Tr
+T4	Abbreviation 219 222	TAC
+T5	Abbreviation 231 234	c/c
+T6	Abbreviation 523 525	RM
+T7	Abbreviation 562 565	EEG
+T8	Body_Part 223 230	cerebro
+T9	Body_Part 455 484	complejo comunicante anterior
+T10	Diagnostic_Procedure 219 234	TAC cerebro c/c
+T11	Diagnostic_Procedure 523 539	RM con contraste
+T12	Diagnostic_Procedure 562 565	EEG
+T13	Disease 52 94	Trastorno de los hábitos y de los impulsos
+T14	Disease 95 154	Trastorno del comportamiento debido al uso de cannabinoides
+T15	Disease 161 177	Episodio maniaco
+T16	Disease 183 193	Tr Bipolar
+T17	Disease 377 397	adenoma hipofisiario
+T19	Laboratory_or_Test_Result 249 309	lesión intraselar que capta lesiones de contraste redondeada
+T20	Laboratory_or_Test_Result 350 484	resto de la lesión de tipo adenoma hipofisiario sin poder descartar una lesión de tipo aneurismática del complejo comunicante anterior
+R1	Has Arg1:T10 Arg2:T19	
+R2	Has Arg1:T10 Arg2:T20	
+T21	Diagnostic_Procedure 544 560	estudio vascular
+A1	Pending T21
+A2	Pending T11
+A3	Pending T12

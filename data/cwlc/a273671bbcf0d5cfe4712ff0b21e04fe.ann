@@ -1,0 +1,23 @@
+T1	Abbreviation 59 63	ADAC
+T2	Abbreviation 115 117	Rx
+T3	Abbreviation 349 351	Rx
+T4	Body_Part 17 22	PULPA
+T5	Body_Part 71 80	diente 10
+T6	Body_Part 181 196	apice diente 10
+T7	Body_Part 292 301	diente 10
+T8	Body_Part 303 308	pulpa
+T9	Body_Part 366 375	conductos
+T10	Diagnostic_Procedure 115 129	Rx soliciitada
+T11	Diagnostic_Procedure 349 351	Rx
+T12	Disease 2 22	NECROSIS DE LA PULPA
+T13	Disease 27 64	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T15	Laboratory_or_Test_Result 142 213	imagen radiolucida extensa en relación apice diente 10, de 1cm diametro
+T16	Sign_or_Symptom 81 108	fistula vestibular asociada
+T17	Therapeutic_Procedure 244 267	tratamiento endodontico
+T18	Therapeutic_Procedure 280 291	trepanación
+T14	Abbreviation 202 204	cm
+R1	Has Arg1:T10 Arg2:T15	
+T19	Sign_or_Symptom 303 318	pulpa necrosada
+T20	Laboratory_or_Test_Result 352 375	se observan 2 conductos
+R2	Has Arg1:T11 Arg2:T20	
+A1	Pending T17

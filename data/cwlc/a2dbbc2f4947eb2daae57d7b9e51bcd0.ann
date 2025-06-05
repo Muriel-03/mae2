@@ -1,0 +1,16 @@
+T1	Abbreviation 71 74	APS
+T2	Body_Part 17 47	ARTICULACIÓN ESTERNOCLAVICULAR
+T3	Body_Part 141 150	clavicula
+T4	Body_Part 154 167	tercio medial
+T5	Body_Part 196 226	articulacion esternoclavicular
+T6	Body_Part 271 311	espacio intraarticular esternoclavicular
+T7	Body_Part 327 357	articulacion esternoclavicular
+T8	Diagnostic_Procedure 236 247	radiografia
+T9	Disease 2 47	LUXACIÓN DE LA ARTICULACIÓN ESTERNOCLAVICULAR
+T10	Disease 312 357	Luxacion de la articulacion esternoclavicular
+T11	Laboratory_or_Test_Result 260 311	aumento de espacio intraarticular esternoclavicular
+T12	Laboratory_or_Test_Result 312 357	Luxacion de la articulacion esternoclavicular
+T13	Sign_or_Symptom 103 132	aumento de volumen clavicular
+T14	Sign_or_Symptom 141 226	clavicula en tercio medial con trasposicion respecto a articulacion esternoclavicular
+R1	Has Arg1:T8 Arg2:T11	
+R2	Has Arg1:T8 Arg2:T12	

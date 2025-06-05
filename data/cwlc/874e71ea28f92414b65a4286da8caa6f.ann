@@ -1,0 +1,7 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 173 177	ATTE
+T3	Diagnostic_Procedure 146 171	ENDOSCOPIA DIGESTIVA ALTA
+T4	Disease 2 17	ULCERA GÁSTRICA
+T5	Disease 82 99	SINDROME ULCEROSO
+T6	Disease 179 194	Ulcera gastrica
+A1	Pending T3

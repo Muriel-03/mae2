@@ -1,0 +1,7 @@
+T1	Abbreviation 72 74	pz
+T2	Body_Part 72 78	pz 1.5
+T3	Disease 0 11	Apiñamiento
+T4	Sign_or_Symptom 0 40	Apiñamiento dentario superior e inferior
+T5	Sign_or_Symptom 42 57	mordida cruzada
+T6	Sign_or_Symptom 80 106	línea media no coincidente
+T7	Clinical_Finding 108 134	clase I dentaria bilateral

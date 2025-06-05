@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 28	compresion maxcilar superior
+T2	Sign_or_Symptom 30 58	mordida cruzada lado derecho
+T3	Sign_or_Symptom 60 84	mordida abierta anterior
+T4	Sign_or_Symptom 86 122	apiñamiento anterior superior severo
+T5	Disease 86 97	apiñamiento

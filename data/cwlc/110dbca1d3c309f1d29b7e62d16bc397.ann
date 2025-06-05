@@ -1,0 +1,10 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 66 81	pieza 1,3 y 2,3
+T4	Body_Part 180 187	caninos
+T5	Disease 2 19	DIENTES INCLUIDOS
+T6	Sign_or_Symptom 66 90	pieza 1,3 y 2,3 retenida
+T7	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T8	Therapeutic_Procedure 141 197	tratamiento para llevar a posición los caninos retenidos
+T9	Clinical_Finding 91 118	mucosa de coloracion normal
+A1	Pending T8

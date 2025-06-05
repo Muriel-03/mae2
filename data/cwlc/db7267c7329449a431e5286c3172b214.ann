@@ -1,0 +1,8 @@
+T1	Body_Part 56 79	cuello de femur derecho
+T2	Body_Part 178 184	CADERA
+T3	Disease 81 102	Gonartrosis grado III
+T4	Disease 165 184	LUXOFRACTURA CADERA
+T5	Sign_or_Symptom 107 112	dolor
+T6	Sign_or_Symptom 115 140	limitación para la marcha
+T7	Laboratory_or_Test_Result 23 79	fractura antigua mal consolidada cuello de femur derecho
+T8	Disease 23 31	fractura

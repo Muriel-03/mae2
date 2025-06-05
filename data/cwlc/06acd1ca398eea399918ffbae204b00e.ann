@@ -1,0 +1,11 @@
+T1	Abbreviation 16 19	PZA
+T2	Abbreviation 67 70	PZA
+T3	Abbreviation 92 95	PZA
+T4	Body_Part 16 23	PZA 4.4
+T5	Body_Part 67 70	PZA
+T6	Body_Part 92 95	PZA
+T7	Disease 0 15	NECROSIS PULPAR
+T8	Disease 73 89	GRANULOMA APICAL
+T9	Laboratory_or_Test_Result 40 70	LESION EN RELACION A DICHA PZA
+T10	Laboratory_or_Test_Result 73 89	GRANULOMA APICAL
+T11	Therapeutic_Procedure 96 105	TREPANADA

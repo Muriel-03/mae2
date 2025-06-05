@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 5 44	desdentada parcial maxilar y mandibular
+T4	Therapeutic_Procedure 95 153	rehabilitación protésica protesis acrílica parcial maxilar
+T5	Therapeutic_Procedure 155 207	protesis acrílica o metalica (idealmente) mandibular
+A1	Pending T5
+A2	Pending T4

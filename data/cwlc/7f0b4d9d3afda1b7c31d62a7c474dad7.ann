@@ -1,0 +1,48 @@
+T1	Abbreviation 34 38	LCFA
+T2	Abbreviation 63 66	APS
+T3	Abbreviation 88 91	ANT
+T4	Abbreviation 104 107	IZQ
+T5	Abbreviation 153 157	LCFA
+T6	Abbreviation 202 204	CV
+T7	Abbreviation 209 213	LCFA
+T8	Abbreviation 269 270	+
+T9	Abbreviation 271 274	SBT
+T10	Abbreviation 275 276	+
+T11	Abbreviation 287 288	+
+T12	Abbreviation 289 292	PCT
+T13	Abbreviation 293 296	SOS
+T14	Abbreviation 297 298	+
+T16	Abbreviation 415 418	SBT
+T17	Abbreviation 427 431	PUFF
+T19	Abbreviation 548 551	BEG
+T20	Abbreviation 598 602	RR2T
+T21	Abbreviation 615 617	MP
+T22	Abbreviation 618 619	+
+T23	Abbreviation 667 671	LCFA
+T24	Body_Part 139 151	CUERDA VOCAL
+T25	Disease 2 38	LIMITACION CRONICA FLUJO AEREO (LCFA
+T26	Disease 112 127	QUISTE PULMONAR
+T27	Disease 129 151	PARALISIS CUERDA VOCAL
+T28	Disease 153 157	LCFA
+T29	Disease 159 176	ESPONDILOARTROSIS
+T30	Disease 209 213	LCFA
+T31	Disease 635 672	Limitacion cronica flujo aereo (LCFA)
+T32	Clinical_Finding 178 190	ALERGIAS: NO
+T33	Clinical_Finding 548 551	BEG
+T34	Clinical_Finding 584 594	NORMOTENSA
+T35	Medication 258 268	BUDESONIDA
+T36	Medication 271 274	SBT
+T37	Medication 277 286	OMEPRAZOL
+T38	Medication 289 292	PCT
+T39	Medication 299 309	LORATADINA
+T40	Medication 415 418	SBT
+T43	Sign_or_Symptom 346 386	DISNEA DE MODERADOS A PEQUEÑOS ESFUERZOS
+T44	Sign_or_Symptom 553 582	DISENA DE MODERADOS ESFUERZOS
+T45	Clinical_Finding 598 602	RR2T
+T46	Sign_or_Symptom 607 613	SOPLOS
+T47	Clinical_Finding 615 619	MP +
+T48	Sign_or_Symptom 620 634	ESCASOS RONCUS
+T49	Therapeutic_Procedure 93 107	LOBECTOMIA IZQ
+T50	Therapeutic_Procedure 227 237	LOBECTOMIA
+A1	Negated T46
+T15	Abbreviation 440 442	HR

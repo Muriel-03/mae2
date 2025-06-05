@@ -1,0 +1,9 @@
+T1	Abbreviation 28 31	dte
+T2	Abbreviation 90 92	rx
+T3	Body_Part 28 33	dte 8
+T4	Diagnostic_Procedure 90 92	rx
+T5	Laboratory_or_Test_Result 105 120	relleno parcial
+T6	Sign_or_Symptom 2 21	DESALOJO OBTURACIÓN
+T7	Sign_or_Symptom 34 88	desalojo de obturación y presencia de conducto abierto
+T8	Body_Part 72 80	conducto
+R1	Has Arg1:T4 Arg2:T5	

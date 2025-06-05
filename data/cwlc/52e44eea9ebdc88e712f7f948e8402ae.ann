@@ -1,0 +1,7 @@
+T1	Body_Part 93 102	pieza 2.2
+T2	Disease 32 43	apiñamiento
+T3	Clinical_Finding 9 27	clase I esqueletal
+T4	Sign_or_Symptom 32 70	apiñamiento severo superior e inferior
+T5	Sign_or_Symptom 72 102	mordida invertida de pieza 2.2
+T6	Sign_or_Symptom 120 137	ectopica palatina
+T7	Sign_or_Symptom 142 158	falta de espacio

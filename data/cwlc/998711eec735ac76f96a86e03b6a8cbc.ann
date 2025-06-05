@@ -1,0 +1,22 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 94 97	APP
+T3	Abbreviation 109 112	APF
+T4	Abbreviation 119 122	HTA
+T5	Abbreviation 171 174	EKG
+T6	Abbreviation 269 271	EX
+T7	Abbreviation 280 282	AP
+T8	Abbreviation 283 286	RES
+T9	Abbreviation 288 290	RC
+T10	Abbreviation 314 316	FC
+T11	Abbreviation 320 322	TA
+T12	Diagnostic_Procedure 171 174	EKG
+T13	Disease 2 33	CARDIOMIOPATÍA, NO ESPECIFICADA
+T14	Disease 119 122	HTA
+T15	Disease 229 266	ENFERMEDADES REPIRATORIA A REPETICION
+T16	Family_Member 113 118	PADRE
+T17	Clinical_Finding 94 107	APP NEGATIVOS
+T18	Clinical_Finding 211 223	ASINTOMATICO
+T19	Clinical_Finding 288 312	RC RITMICOS DE BUEN TONO
+T21	Laboratory_or_Test_Result 190 199	ANORMALES
+R1	Has Arg1:T12 Arg2:T21	
+R2	Has Arg1:T16 Arg2:T14	

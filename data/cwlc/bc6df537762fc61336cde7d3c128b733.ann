@@ -1,0 +1,11 @@
+T1	Abbreviation 114 117	APS
+T2	Abbreviation 260 263	cto
+T3	Body_Part 176 190	piezas 3.1-4.1
+T4	Body_Part 195 202	2.1-1.1
+T5	Body_Part 206 234	primeros molares permanentes
+T6	Body_Part 249 255	piezas
+T7	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T8	Disease 54 90	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T9	Disease 288 336	Anomalias dentofaciales (incluso la maloclusion)
+T10	Sign_or_Symptom 137 152	mordida abierta
+T11	Sign_or_Symptom 268 285	clase 2 bilateral

@@ -1,0 +1,27 @@
+T1	Abbreviation 35 37	ef
+T2	Abbreviation 49 52	ant
+T3	Abbreviation 81 83	Rx
+T4	Abbreviation 88 91	izq
+T5	Abbreviation 126 129	ant
+T6	Abbreviation 155 158	KNT
+T7	Body_Part 39 42	pie
+T8	Body_Part 84 91	pie izq
+T9	Body_Part 102 114	arco plantar
+T10	Body_Part 116 119	pie
+T11	Diagnostic_Procedure 81 91	Rx pie izq
+T12	Disease 39 48	pie plano
+T14	Disease 116 125	pie plano
+T15	Laboratory_or_Test_Result 93 114	ascecion arco plantar
+T16	Medication 163 172	analgesia
+T17	Sign_or_Symptom 2 15	METATARSALGIA
+T18	Sign_or_Symptom 54 78	hiperqueratosis plantar.
+T20	Sign_or_Symptom 132 158	Dolor no disminuye con KNT
+T21	Therapeutic_Procedure 155 158	KNT
+T22	Therapeutic_Procedure 223 233	plantillas
+T23	Sign_or_Symptom 39 48	pie plano
+T24	Sign_or_Symptom 20 33	Metatarsalgia
+T13	Laboratory_or_Test_Result 116 129	pie plano ant
+R1	Has Arg1:T11 Arg2:T15	
+A1	Pending T22
+R2	Has Arg1:T11 Arg2:T13	
+T19	Clinical_Finding 16 19	   	   	   

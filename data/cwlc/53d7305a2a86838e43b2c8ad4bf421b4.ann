@@ -1,0 +1,20 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 394 396	TR
+T3	Body_Part 53 58	COLON
+T4	Body_Part 408 416	esfinter
+T5	Body_Part 483 497	Ampolla rectal
+T6	Disease 2 58	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DEL COLON
+T10	Clinical_Finding 96 121	sin antecedentes morbidos
+T11	Sign_or_Symptom 209 221	hematoquezia
+T12	Sign_or_Symptom 224 251	cambio en habito intestinal
+T13	Sign_or_Symptom 253 283	deposiciones caprinas, escasas
+T14	Sign_or_Symptom 297 325	baja de peso no cuantificada
+T15	Sign_or_Symptom 328 335	palidez
+T18	Sign_or_Symptom 437 448	palpo masas
+T19	Clinical_Finding 483 512	Ampolla rectal con bolo fecal
+T7	Clinical_Finding 394 432	TR impresiona esfinter con tono normal
+A1	Negated T18
+T16	Sign_or_Symptom 462 481	evidencia de sangre
+A2	Negated T16
+T8	Therapeutic_Procedure 578 590	colonoscopía
+A3	Pending T8

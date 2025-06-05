@@ -1,0 +1,7 @@
+T1	Abbreviation 97 100	Pza
+T2	Body_Part 12 44	sector anterosuperior e inferior
+T3	Body_Part 97 104	Pza 5.3
+T4	Disease 0 11	Apiñamiento
+T5	Clinical_Finding 46 77	clase I bilateral, mixta I fase
+T6	Sign_or_Symptom 0 44	Apiñamiento sector anterosuperior e inferior
+T7	Sign_or_Symptom 79 104	mordida invertida Pza 5.3

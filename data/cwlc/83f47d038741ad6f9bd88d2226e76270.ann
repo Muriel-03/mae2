@@ -1,0 +1,8 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 83 99	maxilar superior
+T3	Body_Part 251 258	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 58 113	desdentado parcial tanto maxilar superior como inferior
+T6	Disease 213 289	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Therapeutic_Procedure 159 212	protesis parcial superior y protesis parcial inferior
+A1	Pending T7

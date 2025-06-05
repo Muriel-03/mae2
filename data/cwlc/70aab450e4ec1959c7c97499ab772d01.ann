@@ -1,0 +1,13 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 28 31	der
+T3	Abbreviation 43 46	izq
+T4	Abbreviation 205 208	tto
+T5	Body_Part 60 68	grupo II
+T6	Clinical_Finding 14 31	clase I molar der
+T7	Sign_or_Symptom 48 68	apiñamiento grupo II
+T8	Sign_or_Symptom 70 105	línea media desviada a la izquierda
+T9	Sign_or_Symptom 107 130	overjet aumentado (6mm)
+T10	Sign_or_Symptom 140 158	deglución infantil
+T11	Sign_or_Symptom 161 178	respiradora bucal
+T12	Sign_or_Symptom 34 46	II molar izq
+T13	Abbreviation 127 129	mm

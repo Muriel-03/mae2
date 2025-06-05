@@ -1,0 +1,13 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 60 64	pcte
+T3	Abbreviation 142 145	OMA
+T4	Abbreviation 203 206	oma
+T5	Abbreviation 232 235	tto
+T6	Abbreviation 247 250	amx
+T7	Disease 2 31	OTITIS MEDIA SUPURATIVA AGUDA
+T8	Disease 142 145	OMA
+T9	Disease 203 227	oma supurativa bilateral
+T10	Disease 265 294	Otitis media supurativa aguda
+T11	Clinical_Finding 65 90	sin antecedentes morbidos
+T12	Medication 247 250	amx
+T13	Sign_or_Symptom 127 145	recurrecnia de OMA

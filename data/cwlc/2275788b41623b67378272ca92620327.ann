@@ -1,0 +1,11 @@
+T1	Abbreviation 90 93	APS
+T2	Body_Part 25 30	ENCÍA
+T4	Body_Part 126 142	reborde alveolar
+T5	Body_Part 166 171	encia
+T6	Body_Part 180 193	zona edentula
+T7	Disease 2 52	OTROS TRASTORNOS DE LA ENCÍA Y DE LA ZONA EDÉNTULA
+T8	Disease 52 66	edentulo total
+T9	Disease 143 193	Otros trastornos de la encia y de la zona edentula
+T10	Sign_or_Symptom 121 142	poco reborde alveolar
+T11	Body_Part 39 52	ZONA EDÉNTULA
+T3	Clinical_Finding 104 116	adulto mayor

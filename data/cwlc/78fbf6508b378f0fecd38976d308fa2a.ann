@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 62 65	PZA
+T3	Body_Part 62 76	PZA 1.8PZA 1.8
+T4	Disease 2 17	PERICORONARITIS
+T5	Disease 46 61	PERICORONARITIS
+T7	Sign_or_Symptom 77 92	SEMIERUPCIONADO
+T8	Sign_or_Symptom 94 109	DOLOR CONSTANTE
+T6	Abbreviation 69 72	PZA

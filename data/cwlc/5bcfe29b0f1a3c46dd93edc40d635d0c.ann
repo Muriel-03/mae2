@@ -1,0 +1,56 @@
+T1	Abbreviation 57 58	q
+T2	Abbreviation 334 336	ex
+T3	Abbreviation 360 364	musc
+T4	Abbreviation 368 372	EESS
+T5	Abbreviation 375 379	EEII
+T6	Abbreviation 391 397	artics
+T7	Abbreviation 399 403	Part
+T8	Sign_or_Symptom 416 433	cardiopulm normal
+T9	Abbreviation 439 443	exam
+T10	Abbreviation 459 463	VDRL
+T11	Abbreviation 476 480	Hgma
+T12	Abbreviation 483 485	Hb
+T13	Abbreviation 492 496	Hcto
+T14	Abbreviation 514 520	Colest
+T15	Abbreviation 521 525	ttal
+T16	Abbreviation 530 532	TG
+T17	Abbreviation 537 540	LDL
+T18	Abbreviation 545 549	CREA
+T19	Abbreviation 556 559	vfg
+T20	Abbreviation 566 569	EOC
+T21	Abbreviation 580 587	UROCULT
+T22	Abbreviation 617 619	dg
+T23	Abbreviation 632 635	tto
+T25	Body_Part 368 372	EESS
+T26	Body_Part 375 379	EEII
+T27	Disease 2 25	ENFERMEDAD DE PARKINSON
+T28	Laboratory_or_Test_Result 464 475	No reactivo
+T29	Laboratory_or_Test_Result 571 577	NORMAL
+T31	Laboratory_Procedure 459 463	VDRL
+T32	Laboratory_Procedure 476 480	Hgma
+T33	Laboratory_Procedure 483 485	Hb
+T34	Laboratory_Procedure 492 496	Hcto
+T35	Laboratory_Procedure 502 510	glicemia
+T36	Laboratory_Procedure 514 525	Colest ttal
+T38	Laboratory_Procedure 530 532	TG
+T39	Laboratory_Procedure 537 540	LDL
+T40	Laboratory_Procedure 545 549	CREA
+T41	Laboratory_Procedure 556 559	vfg
+T42	Laboratory_Procedure 566 569	EOC
+T43	Laboratory_Procedure 580 587	UROCULT
+T44	Sign_or_Symptom 166 187	lentitud de la marcha
+T45	Sign_or_Symptom 218 246	descomposicion de los giros.
+T46	Sign_or_Symptom 263 280	temblor de reposo
+T47	Sign_or_Symptom 318 330	micrografia.
+T48	Sign_or_Symptom 352 379	rigidez musc en EESS e EEII
+T49	Sign_or_Symptom 380 397	rigidez de artics
+T50	Sign_or_Symptom 152 164	bradikinesia
+T51	Sign_or_Symptom 189 214	perd del brceo al caminar
+T24	Abbreviation 337 345	neurolog
+R1	Has Arg1:T31 Arg2:T28	
+T30	Body_Part 391 397	artics
+T52	Abbreviation 411 415	mmHg
+R2	Has Arg1:T42 Arg2:T29	
+T37	Abbreviation 589 590	-
+T53	Laboratory_or_Test_Result 589 590	-
+R3	Has Arg1:T43 Arg2:T53	

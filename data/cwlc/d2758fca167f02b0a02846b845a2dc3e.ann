@@ -1,0 +1,12 @@
+T1	Abbreviation 51 54	APS
+T2	Body_Part 164 180	INTROITO VAGINAL
+T3	Disease 2 27	PROLAPSO GENITAL FEMENINO
+T4	Disease 125 141	PROLAPSO GENITAL
+T5	Disease 182 207	Prolapso genital femenino
+T6	Clinical_Finding 72 74	G6
+T7	Disease 81 91	MENOPAUSIA
+T8	Sign_or_Symptom 125 149	PROLAPSO GENITAL GRADO 3
+T9	Sign_or_Symptom 151 180	SOBREPASA EL INTROITO VAGINAL
+T10	Clinical_Finding 74 76	P4
+T11	Clinical_Finding 76 78	A2
+T12	Clinical_Finding 78 80	V4

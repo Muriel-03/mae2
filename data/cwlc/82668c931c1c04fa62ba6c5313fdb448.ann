@@ -1,0 +1,7 @@
+T1	Abbreviation 36 39	IZQ
+T2	Body_Part 17 39	occipital superior IZQ
+T3	Disease 88 101	Cefalea mixta
+T4	Disease 0 16	Nódulo Subgaleal
+T5	Laboratory_or_Test_Result 0 39	Nódulo Subgaleal occipital superior IZQ
+T6	Clinical_Finding 41 86	ambiente oncológico familar superior positivo
+A1	Implicit_Family_Background T6

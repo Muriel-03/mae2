@@ -1,0 +1,11 @@
+T1	Abbreviation 80 83	APS
+T2	Abbreviation 105 106	p
+T3	Body_Part 51 56	PULPA
+T4	Body_Part 105 111	p. 2.1
+T5	Disease 2 32	ABSCESO PERIAPICAL CON FÍSTULA
+T6	Disease 36 56	NECROSIS DE LA PULPA
+T7	Disease 116 131	Necrosis pulpar
+T8	Disease 133 151	absceso periapical
+T9	Clinical_Finding 85 95	Embarazada
+T11	Sign_or_Symptom 156 185	fistula activa por vestibular
+T10	Clinical_Finding 187 196	trapanada

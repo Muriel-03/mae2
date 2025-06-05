@@ -1,0 +1,12 @@
+T1	Abbreviation 85 89	pzas
+T2	Body_Part 85 97	pzas 25 y 26
+T3	Disease 0 30	ABSCESO PERIAPICAL SIN FISTULA
+T4	Disease 34 73	absceso submucoso de origen periodontal
+T5	Disease 102 108	caries
+T6	Sign_or_Symptom 23 30	FISTULA
+T7	Sign_or_Symptom 115 124	movilidad
+T8	Disease 34 73	absceso submucoso de origen periodontal
+T9	Disease 0 30	ABSCESO PERIAPICAL SIN FISTULA
+T10	Body_Part 85 97	pzas 25 y 26
+A1	Negated T5
+A2	Negated T6

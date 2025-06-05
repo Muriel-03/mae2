@@ -1,0 +1,5 @@
+T2	Abbreviation 94 97	tto
+T3	Disease 33 41	verrugas
+T4	Sign_or_Symptom 23 41	múltiples verrugas
+T1	Therapeutic_Procedure 94 120	tto  con nitrógeno líquido
+A1	Pending T1

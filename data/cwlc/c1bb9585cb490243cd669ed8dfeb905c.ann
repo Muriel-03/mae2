@@ -1,0 +1,11 @@
+T1	Abbreviation 52 56	ENF.
+T2	Abbreviation 185 189	atte
+T3	Body_Part 11 18	DIENTES
+T4	Body_Part 145 152	maxilar
+T5	Disease 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T6	Disease 77 122	Desdentada parcial mandibular y total maxilar
+T8	Clinical_Finding 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T9	Sign_or_Symptom 137 177	PR sólo maxilar. Fvaor evaluar y tratar.
+T10	Therapeutic_Procedure 137 139	PR
+T11	Disease 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T12	Disease 77 122	Desdentada parcial mandibular y total maxilar

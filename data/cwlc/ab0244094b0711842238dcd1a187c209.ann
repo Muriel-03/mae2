@@ -1,0 +1,17 @@
+T1	Abbreviation 39 42	TAB
+T2	Abbreviation 134 137	TAB
+T3	Abbreviation 180 183	TAC
+T4	Abbreviation 185 188	RNM
+T5	Abbreviation 202 205	EEG
+T6	Abbreviation 283 286	EEG
+T7	Diagnostic_Procedure 180 183	TAC
+T8	Diagnostic_Procedure 185 188	RNM
+T9	Diagnostic_Procedure 202 205	EEG
+T10	Diagnostic_Procedure 283 286	EEG
+T11	Disease 39 42	TAB
+T12	Disease 134 137	TAB
+T14	Laboratory_or_Test_Result 206 214	ALTERADO
+T16	Sign_or_Symptom 58 118	EPISODIOS MANIFORMES SECUNDARIOS A SUSPENSION DE TRATAMIENTO
+A1	Implicit_Family_Background T12
+R3	Has Arg1:T9 Arg2:T14	
+A2	Pending T10

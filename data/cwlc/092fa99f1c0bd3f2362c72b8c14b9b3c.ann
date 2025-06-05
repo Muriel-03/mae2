@@ -1,0 +1,11 @@
+T1	Abbreviation 80 83	APS
+T2	Abbreviation 85 88	pza
+T3	Body_Part 21 26	PULPA
+T4	Body_Part 36 56	TEJIDOS PARIAPICALES
+T5	Body_Part 85 92	pza 3.4
+T6	Body_Part 163 168	pulpa
+T7	Body_Part 178 198	tejidos pariapicales
+T8	Disease 2 56	ENFERMEDADES DE LA PULPA Y DE LOS TEJIDOS PARIAPICALES
+T9	Disease 144 198	Enfermedades de la pulpa y de los tejidos pariapicales
+T10	Sign_or_Symptom 93 142	dolor (+) con estímulos térmicos y a la percusión
+T12	Abbreviation 100 101	+

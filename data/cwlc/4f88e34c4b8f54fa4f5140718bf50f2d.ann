@@ -1,0 +1,14 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 82	Pac
+T3	Abbreviation 98 101	ADM
+T4	Abbreviation 224 227	pza
+T5	Body_Part 123 129	arcada
+T6	Body_Part 224 231	pza 1.2
+T7	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T8	Disease 234 282	Anomalias dentofaciales (incluso la maloclusion)
+T9	Sign_or_Symptom 98 129	ADM de la posición de la arcada
+T10	Sign_or_Symptom 131 148	mordida bis a bis
+T11	Sign_or_Symptom 150 172	interposición lingual.
+T12	Sign_or_Symptom 173 198	Clase III molar y canina.
+T13	Sign_or_Symptom 203 232	mordida invertida en pza 1.2.
+T14	Disease 98 101	ADM

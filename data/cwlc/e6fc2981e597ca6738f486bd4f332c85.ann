@@ -1,0 +1,5 @@
+T1	Body_Part 13 22	dentición
+T2	Clinical_Finding 13 41	dentición mixta segunda fase
+T3	Clinical_Finding 43 67	Clase I de Angle derecha
+T4	Sign_or_Symptom 70 97	Clase II de Angle izquierda
+T5	Disease 113 137	anomalías dentomaxilares

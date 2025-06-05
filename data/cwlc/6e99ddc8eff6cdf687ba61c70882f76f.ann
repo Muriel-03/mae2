@@ -1,0 +1,29 @@
+T1	Abbreviation 97 100	APS
+T2	Abbreviation 430 433	TAC
+T3	Abbreviation 481 484	izq
+T4	Abbreviation 569 571	cm
+T5	Abbreviation 582 585	izq
+T6	Body_Part 30 52	HENDIDURAS BRANQUIALES
+T7	Body_Part 146 152	cuello
+T8	Body_Part 434 440	cuello
+T9	Body_Part 464 484	cervical lateral izq
+T11	Body_Part 616 623	hioides
+T12	Body_Part 652 674	hendiduras branquiales
+T13	Diagnostic_Procedure 293 320	Ecografía de partes blandas
+T14	Disease 2 52	OTRAS MALFORMACIONES DE LAS HENDIDURAS BRANQUIALES
+T15	Disease 57 73	Quiste Branquial
+T16	Disease 276 292	Quiste Branquial
+T17	Disease 501 517	quiste branquial
+T18	Disease 624 674	Otras malformaciones de las hendiduras branquiales
+T19	Laboratory_or_Test_Result 351 423	lesión esférica ecogénica que impresiona quistico de contenido altamente
+T20	Laboratory_or_Test_Result 442 517	Pequeña masa quistica cervical lateral izq. Compatible con quiste branquial
+T22	Sign_or_Symptom 124 152	aumento de volumen en cuello
+T23	Sign_or_Symptom 181 186	dolor
+T24	Sign_or_Symptom 192 198	fiebre
+T25	Sign_or_Symptom 548 586	Masa palpable de 1x1 cm a lateral izq.
+A1	Negated T23
+A2	Negated T24
+R1	Has Arg1:T13 Arg2:T19	
+T26	Abbreviation 52 55	Obs
+T27	Diagnostic_Procedure 430 440	TAC cuello
+R2	Has Arg1:T27 Arg2:T20	

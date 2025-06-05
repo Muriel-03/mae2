@@ -1,0 +1,57 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 101 104	HTA
+T3	Abbreviation 253 254	c
+T4	Abbreviation 258 261	hrs
+T5	Abbreviation 279 280	c
+T6	Abbreviation 284 287	hrs
+T7	Abbreviation 311 313	mg
+T8	Abbreviation 314 315	c
+T9	Abbreviation 319 322	hrs
+T10	Abbreviation 325 328	AAS
+T11	Abbreviation 335 336	c
+T12	Abbreviation 340 343	hrs
+T13	Abbreviation 359 361	cc
+T14	Abbreviation 362 363	c
+T15	Abbreviation 366 369	hrs
+T16	Abbreviation 388 389	c
+T17	Abbreviation 393 396	hrs
+T18	Abbreviation 415 416	c
+T19	Abbreviation 419 422	hrs
+T20	Abbreviation 443 444	c
+T21	Abbreviation 737 739	EV
+T22	Abbreviation 1008 1013	Aines
+T23	Body_Part 593 623	hemicraneo derecho e izquierdo
+T24	Body_Part 692 705	region facial
+T25	Disease 2 40	NEURALGIA Y NEURITIS, NO ESPECIFICADAS
+T26	Disease 101 104	HTA
+T27	Disease 106 118	Dislipidemia
+T28	Disease 120 131	Poliatrosis
+T29	Disease 133 145	Constipacion
+T30	Disease 147 166	Trastorno del sueño
+T31	Disease 168 187	Amaurosis Bilateral
+T32	Disease 201 217	Glaucoma cronico
+T33	Disease 839 862	neuralgia del trigemino
+T34	Disease 1123 1161	Neuralgia y neuritis, no especificadas
+T35	Medication 238 247	Enalapril
+T36	Medication 263 273	Nifedipino
+T37	Medication 290 307	Hidroclorotiazina
+T38	Medication 325 328	AAS
+T39	Medication 346 355	Lactulosa
+T40	Medication 372 382	Quetiapina
+T41	Medication 425 433	Tramadol
+T42	Medication 727 736	analgesia
+T43	Medication 904 917	Amitriptilina
+T44	Medication 1008 1025	Aines endovenosos
+T45	Sign_or_Symptom 564 647	cefaleas de tipo pulsatil en hemicraneo derecho e izquierdo  intermitentes sin aura
+T47	Sign_or_Symptom 679 713	neuralgia en region facial intensa
+T48	Sign_or_Symptom 69 86	Paciente postrada
+T49	Abbreviation 250 252	mg
+T50	Abbreviation 276 278	mg
+T51	Abbreviation 332 334	mg
+T52	Abbreviation 385 387	mg
+T53	Abbreviation 448 451	hrs
+T54	Abbreviation 412 414	mg
+T55	Medication 398 409	Paracetamol
+T56	Sign_or_Symptom 451 487	Mala adherencia a tratamiendo medico
+T46	Disease 817 834	migrañas sin aura
+T57	Abbreviation 1082 1086	ATTE

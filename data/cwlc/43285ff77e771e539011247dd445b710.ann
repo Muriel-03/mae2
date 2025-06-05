@@ -1,0 +1,15 @@
+T1	Abbreviation 1 3	M2
+T2	Abbreviation 23 26	OBS
+T3	Abbreviation 35 38	PAP
+T4	Abbreviation 46 47	N
+T5	Abbreviation 79 82	FUR
+T6	Abbreviation 92 96	PCTE
+T7	Diagnostic_Procedure 35 38	PAP
+T8	Clinical_Finding 1 3	M2
+T9	Clinical_Finding 5 21	USUARIA IMPLANTE
+T11	Clinical_Finding 49 65	USUARIA IMPLANTE
+T12	Sign_or_Symptom 105 145	PERDIDA RECURRENTE INVOLUNTARIA DE ORINA
+T10	Abbreviation 28 33	I O E
+T13	Laboratory_or_Test_Result 46 47	N
+R1	Has Arg1:T7 Arg2:T13	
+T14	Clinical_Finding 146 174	AL EXAMEN BUEN TONO MUSCULAR

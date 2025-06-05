@@ -1,0 +1,13 @@
+T1	Abbreviation 22 25	DER
+T2	Abbreviation 96 102	SUPERF
+T3	Body_Part 9 25	1° OTEJO PIE DER
+T4	Body_Part 45 47	F2
+T5	Body_Part 75 77	F2
+T7	Disease 29 37	FRACTURA
+T8	Disease 61 69	FRACTURA
+T10	Disease 0 8	ATRISION
+T11	Laboratory_or_Test_Result 29 58	FRACTURA APICAL F2 DESPLAZADA
+T12	Laboratory_or_Test_Result 61 86	FRACTURA BASE F2 MARGINAL
+T6	Abbreviation 45 47	F2
+T9	Abbreviation 75 77	F2
+T13	Sign_or_Symptom 89 102	HERIDA SUPERF

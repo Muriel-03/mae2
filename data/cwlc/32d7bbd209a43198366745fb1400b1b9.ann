@@ -1,0 +1,7 @@
+T1	Abbreviation 32 36	ADAA
+T2	Abbreviation 106 109	APS
+T3	Body_Part 41 50	Pieza 2.3
+T4	Disease 2 37	ABSCESO DENTO ALVEOLAR AGUDO (ADAA)
+T5	Disease 51 78	absceso dentoalveolar agudo
+T6	Therapeutic_Procedure 91 102	trepanación
+T7	Laboratory_or_Test_Result 119 141	lesión endoperiodontal

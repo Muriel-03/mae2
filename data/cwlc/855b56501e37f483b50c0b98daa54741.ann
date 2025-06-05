@@ -1,0 +1,5 @@
+T2	Sign_or_Symptom 2 19	MORDIDA INVERTIDA
+T3	Sign_or_Symptom 83 100	mordida invertida
+T4	Sign_or_Symptom 103 126	cruzada en zona lateral
+T1	Therapeutic_Procedure 39 64	tratamiento de ortodoncia
+A1	Pending T1

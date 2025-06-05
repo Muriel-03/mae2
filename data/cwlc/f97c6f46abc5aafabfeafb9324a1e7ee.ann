@@ -1,0 +1,9 @@
+T1	Body_Part 0 14	PIEZAS 17 Y 32
+T2	Body_Part 81 93	PIEZAS 1- 16
+T3	Disease 19 34	PERICORONARITIS
+T4	Sign_or_Symptom 67 78	MALPOSICION
+T5	Sign_or_Symptom 36 41	DOLOR
+T6	Sign_or_Symptom 46 65	AUSENCIA DE ESPACIO
+T7	Therapeutic_Procedure 127 136	EXODONCIA
+T8	Sign_or_Symptom 81 106	PIEZAS 1- 16 MAL POSICION
+A1	Pending T7

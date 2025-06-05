@@ -1,0 +1,15 @@
+T1	Abbreviation 0 2	pg
+T2	Abbreviation 3 6	emb
+T3	Abbreviation 12 13	+
+T4	Abbreviation 15 19	sems
+T5	Abbreviation 24 27	fur
+T6	Abbreviation 28 30	op
+T7	Abbreviation 42 45	eco
+T8	Abbreviation 93 95	pc
+T9	Abbreviation 100 102	au
+T10	Abbreviation 108 111	cms
+T11	Diagnostic_Procedure 42 45	eco
+T12	Clinical_Finding 0 2	pg
+T13	Clinical_Finding 3 6	emb
+T14	Laboratory_or_Test_Result 57 77	feto en percentil 84
+R1	Has Arg1:T11 Arg2:T14	

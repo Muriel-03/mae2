@@ -1,0 +1,12 @@
+T1	Abbreviation 52 55	2da
+T2	Abbreviation 89 92	pza
+T3	Abbreviation 157 159	mm
+T4	Body_Part 89 97	pza. 3.5
+T5	Disease 99 110	Apiñamiento
+T6	Clinical_Finding 35 61	Dentinción mixta 2da. fase
+T9	Sign_or_Symptom 9 33	clase II esqueletal leve
+T10	Sign_or_Symptom 62 79	overjet aumentado
+T12	Sign_or_Symptom 99 124	Apiñamiento leve inferior
+T13	Sign_or_Symptom 125 173	línea media inferior desviada 4 mm. a la derecha
+T14	Body_Part 35 45	Dentinción
+T7	Sign_or_Symptom 80 97	agevesia pza. 3.5

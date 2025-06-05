@@ -1,0 +1,5 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Clinical_Finding 91 114	Clase I molar bilateral
+T4	Clinical_Finding 116 138	Clase Canina I derecha
+T5	Sign_or_Symptom 72 89	mordida invertida
+T2	Sign_or_Symptom 140 152	II izquierda

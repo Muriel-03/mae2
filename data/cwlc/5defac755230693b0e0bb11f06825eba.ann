@@ -1,0 +1,9 @@
+T1	Abbreviation 110 112	DM
+T2	Abbreviation 182 185	ROM
+T3	Body_Part 170 177	pieza 8
+T5	Disease 50 102	Periodontitis crónica generalizada severa complicada
+T6	Disease 110 112	DM
+T7	Therapeutic_Procedure 211 221	extracción
+T4	Therapeutic_Procedure 138 159	Manteción periodontal
+T8	Laboratory_or_Test_Result 170 191	pieza 8 con ROM total
+A1	Pending T7

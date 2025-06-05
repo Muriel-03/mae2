@@ -1,0 +1,11 @@
+T1	Abbreviation 82 85	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 41 48	DIENTES
+T4	Body_Part 126 138	grupo II Y V
+T5	Body_Part 168 174	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 41 58	DIENTES INCLUIDOS
+T8	Disease 139 174	Anomalias de la posicion del diente
+T9	Laboratory_or_Test_Result 41 58	DIENTES INCLUIDOS
+T10	Sign_or_Symptom 105 138	apiñamiento dentario grupo II Y V
+T11	Disease 105 125	apiñamiento dentario

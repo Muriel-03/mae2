@@ -1,0 +1,16 @@
+T1	Abbreviation 48 51	APS
+T2	Abbreviation 74 78	sapu
+T3	Body_Part 147 156	píeza 4.8
+T4	Body_Part 211 230	cara sector derecho
+T5	Body_Part 267 276	pieza 4.8
+T6	Body_Part 322 331	pieza 4.8
+T7	Diagnostic_Procedure 236 255	examen radiografico
+T8	Sign_or_Symptom 2 24	DOLOR, NO ESPECIFICADO
+T9	Sign_or_Symptom 333 355	Dolor, no especificado
+T10	Laboratory_or_Test_Result 267 299	pieza 4.8 en evolucion intraosea
+T11	Sign_or_Symptom 186 230	dolor generalizado en su cara sector derecho
+T12	Therapeutic_Procedure 134 143	exodoncia
+T13	Therapeutic_Procedure 312 321	exodoncia
+A1	Pending T12
+R1	Has Arg1:T7 Arg2:T10	
+A2	Pending T13

@@ -1,0 +1,8 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 180 182	mm
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 241 289	Anomalias dentofaciales (incluso la maloclusion)
+T5	Clinical_Finding 79 117	Relación molar: neutrooclusión derecha
+T6	Sign_or_Symptom 120 143	distooclusión izquierda
+T7	Sign_or_Symptom 145 182	falata de espacio severo mayor a 5 mm
+T8	Sign_or_Symptom 185 239	discrepancia dentomaxilar negativa superior e inferior

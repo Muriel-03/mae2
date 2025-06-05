@@ -1,0 +1,7 @@
+T1	Abbreviation 54 57	pza
+T2	Body_Part 54 68	pza. 2.2 y 2.3
+T3	Clinical_Finding 0 18	Clase I esqueletal
+T4	Clinical_Finding 69 92	Clase I molar bilateral
+T5	Sign_or_Symptom 36 68	gino versiones en pza. 2.2 y 2.3
+T6	Sign_or_Symptom 95 125	leve clase II camino bilateral
+T7	Clinical_Finding 20 30	mesofacial

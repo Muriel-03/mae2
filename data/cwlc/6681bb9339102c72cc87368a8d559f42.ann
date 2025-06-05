@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	pac
+T2	Abbreviation 20 23	tto
+T3	Body_Part 192 195	2.2
+T4	Disease 100 127	Desdentada parcial superior
+T6	Sign_or_Symptom 163 195	trauma oclusal secundario en 2.2
+T7	Therapeutic_Procedure 20 35	tto periodontal
+T8	Therapeutic_Procedure 62 98	terapia de mantenimiento periodontal
+T10	Sign_or_Symptom 129 161	extremo libre unilateral derecho
+T5	Sign_or_Symptom 206 223	no posee protesis

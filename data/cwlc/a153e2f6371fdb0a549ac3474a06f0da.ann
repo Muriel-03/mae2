@@ -1,0 +1,15 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 112 130	caninos inferiores
+T4	Body_Part 132 142	Diente 1.3
+T5	Body_Part 153 156	2.3
+T6	Body_Part 197 210	arco dentario
+T7	Body_Part 294 300	diente
+T8	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T9	Disease 265 300	Anomalias de la posicion del diente
+T10	Clinical_Finding 240 263	Clase I molar bilateral
+T11	Sign_or_Symptom 91 130	mordida invertida en caninos inferiores
+T12	Sign_or_Symptom 132 150	Diente 1.3 ausente
+T13	Sign_or_Symptom 153 210	2.3 vestibularizado, parcialmente fuera del arco dentario
+T14	Sign_or_Symptom 212 238	Apiñamiento anteroinferior
+T15	Disease 212 223	Apiñamiento

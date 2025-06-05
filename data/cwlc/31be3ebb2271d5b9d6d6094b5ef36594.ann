@@ -1,0 +1,24 @@
+T1	Abbreviation 193 196	APS
+T2	Abbreviation 352 354	Cx
+T3	Abbreviation 441 444	Sra
+T4	Body_Part 1253 1260	espalda
+T5	Disease 2 56	OTROS TRASTORNOS DEL COMPORTAMIENTO SOCIAL EN LA NIÑEZ
+T6	Disease 60 169	OTROS TRASTORNOS EMOCIONALES Y DEL COMPORTAMIENTO QUE APARECEN HABITUALMENTE EN LA NIÑEZ Y EN LA ADOLESCENCIA
+T7	Disease 600 614	hiperactividad
+T8	Disease 1408 1462	Otros trastornos del comportamiento social en la niñez
+T9	Family_Member 458 463	madre
+T10	Family_Member 486 491	hijos
+T11	Family_Member 561 565	hija
+T12	Family_Member 619 624	madre
+T13	Family_Member 795 800	madre
+T14	Family_Member 938 943	madre
+T15	Clinical_Finding 310 335	Antecedentes Morbidos: NO
+T16	Clinical_Finding 336 358	Antecedentes de Cx: NO
+T17	Sign_or_Symptom 1014 1057	impulsividad y responde de manera explosiva
+R1	Has Arg1:T11 Arg2:T7	
+T19	Clinical_Finding 283 309	Alergia a medicamentos: NO
+T20	Sign_or_Symptom 872 903	poca tolerancia a la frustación
+T21	Sign_or_Symptom 985 1007	no tolera muchas cosas
+T22	Sign_or_Symptom 1180 1198	se muestra molesto
+T23	Sign_or_Symptom 1200 1219	no quiere conversar
+T18	Sign_or_Symptom 1263 1277	se enoja grita

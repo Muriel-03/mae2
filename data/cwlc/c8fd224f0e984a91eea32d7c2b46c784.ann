@@ -1,0 +1,10 @@
+T1	Abbreviation 77 80	PPR
+T2	Body_Part 25 30	ENCÍA
+T3	Body_Part 39 52	ZONA EDÉNTULA
+T4	Body_Part 188 241	zona de reborde alveolar inferior derecho por lingual
+T5	Body_Part 298 306	diente 5
+T6	Disease 2 52	OTROS TRASTORNOS DE LA ENCÍA Y DE LA ZONA EDÉNTULA
+T7	Sign_or_Symptom 77 241	PPR desajustada, la dejó de utilizar hace 15 días por desajuste y desarrolló lesión traumática muy dolorosa en zona de reborde alveolar inferior derecho por lingual
+T8	Body_Part 258 265	20 y 21
+T9	Sign_or_Symptom 258 275	20 y 21(ausentes)
+T10	Clinical_Finding 286 329	oclusión de diente 5 sobre dicha estructura

@@ -1,0 +1,14 @@
+T1	Abbreviation 43 45	PD
+T2	Abbreviation 71 73	PD
+T3	Abbreviation 78 82	DVGV
+T4	Abbreviation 83 85	PD
+T5	Abbreviation 92 96	DVGV
+T6	Body_Part 12 24	GRUPO II Y V
+T7	Body_Part 43 55	PD 3.7 Y 4.7
+T8	Body_Part 71 77	PD 1.1
+T9	Body_Part 83 89	PD 2.3
+T10	Disease 0 11	APIÑAMIENTO
+T11	Sign_or_Symptom 0 24	APIÑAMIENTO GRUPO II Y V
+T12	Sign_or_Symptom 25 42	OVERJET AUMENTADO
+T13	Sign_or_Symptom 97 128	DISMINUCION DERECHA E IZQUIERDA
+T14	Sign_or_Symptom 43 70	PD 3.7 Y 4.7 LINGUALIZACION

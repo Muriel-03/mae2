@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 17 37	DIÁFISIS DE LA TIBIA
+T3	Body_Part 102 116	perone derecho
+T4	Body_Part 145 165	diafisis de la tibia
+T5	Disease 2 37	FRACTURA DE LA DIÁFISIS DE LA TIBIA
+T6	Disease 83 116	fractura distal de perone derecho
+T7	Disease 130 165	Fractura de la diafisis de la tibia
+T8	Laboratory_or_Test_Result 83 116	fractura distal de perone derecho
+T9	Laboratory_or_Test_Result 130 165	Fractura de la diafisis de la tibia
+T10	Laboratory_or_Test_Result 2 37	FRACTURA DE LA DIÁFISIS DE LA TIBIA

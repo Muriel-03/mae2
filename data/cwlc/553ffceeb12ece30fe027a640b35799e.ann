@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	Dte
+T2	Abbreviation 10 16	period
+T3	Body_Part 0 5	Dte 2
+T4	Disease 10 33	period crónica avanzada
+T6	Laboratory_or_Test_Result 36 49	lesion apical
+T7	Medication 102 114	bifosfonatos
+T9	Therapeutic_Procedure 63 72	exodoncia
+T10	Therapeutic_Procedure 90 114	terapia con bifosfonatos
+A1	Pending T9
+A2	Pending T10

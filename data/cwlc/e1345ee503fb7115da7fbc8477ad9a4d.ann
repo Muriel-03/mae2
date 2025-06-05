@@ -1,0 +1,11 @@
+T1	Abbreviation 61 64	APS
+T2	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T3	Disease 104 115	apiñamiento
+T4	Disease 123 158	Maloclusion de tipo no especificado
+T5	Body_Part 120 122	g3
+T6	Sign_or_Symptom 79 102	clase II lado izquierdo
+T7	Sign_or_Symptom 104 122	apiñamiento g5, g3
+T8	Disease 66 77	maloclusion
+T9	Body_Part 116 118	g5
+T10	Abbreviation 116 117	g
+T11	Abbreviation 120 121	g

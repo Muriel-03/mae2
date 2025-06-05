@@ -1,0 +1,12 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 69 71	M1
+T3	Abbreviation 74 78	1CCA
+T4	Abbreviation 100 103	EMB
+T5	Abbreviation 119 122	OBS
+T7	Laboratory_or_Test_Result 80 96	MACROSOMIA FETAL
+T8	Disease 124 138	HIPOTIROIDISMO
+T9	Clinical_Finding 17 40	EMBARAZO DE ALTO RIESGO
+T10	Clinical_Finding 69 71	M1
+T11	Clinical_Finding 100 103	EMB
+T6	Disease 141 149	OBESIDAD
+T12	Clinical_Finding 238 254	embarazo de alto

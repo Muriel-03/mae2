@@ -1,0 +1,10 @@
+T1	Abbreviation 52 54	CA
+T2	Abbreviation 93 96	HTA
+T4	Abbreviation 98 100	DM
+T5	Body_Part 55 63	TIROIDES
+T6	Disease 0 22	PERIODONTITIS CRONICA.
+T7	Disease 52 63	CA TIROIDES
+T9	Disease 93 96	HTA
+T10	Disease 98 100	DM
+T12	Therapeutic_Procedure 70 91	TRATADA CON RADIOYODO
+T8	Medication 82 91	RADIOYODO

@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 66 69	Pac
+T3	Abbreviation 102 105	Pza
+T4	Body_Part 31 37	DIENTE
+T5	Body_Part 102 109	Pza 2.1
+T6	Body_Part 147 153	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T9	Disease 118 153	Anomalias de la posicion del diente
+T11	Sign_or_Symptom 74 100	mordida invertida anterior
+T12	Sign_or_Symptom 102 116	Pza 2.1 rotada

@@ -1,0 +1,11 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 14 30	GLÁNDULA SALIVAL
+T3	Body_Part 158 201	cara interna de labio inferior lado derecho
+T4	Body_Part 237 253	glandula salival
+T5	Disease 2 30	MUCOCELE DE GLÁNDULA SALIVAL
+T6	Disease 72 91	artritis reumatoide
+T7	Disease 93 101	artrosis
+T8	Disease 135 143	mucocele
+T9	Disease 225 253	Mucocele de glandula salival
+T10	Sign_or_Symptom 135 201	mucocele erosionado en cara interna de labio inferior lado derecho
+T12	Disease 104 124	sindromes de Sjögren

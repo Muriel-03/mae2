@@ -1,0 +1,13 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 55 62	Paladar
+T3	Body_Part 130 133	4.3
+T4	Body_Part 140 143	1.2
+T5	Body_Part 146 149	3.3
+T6	Body_Part 156 159	2.2
+T7	Body_Part 195 210	arcos dentarios
+T9	Disease 71 82	Apiñamiento
+T10	Disease 160 210	Anomalias de la relacion entre los arcos dentarios
+T11	Sign_or_Symptom 2 17	MORDIDA CRUZADA
+T12	Sign_or_Symptom 55 69	Paladar ojival
+T13	Sign_or_Symptom 71 109	Apiñamiento severo superior e inferior
+T14	Sign_or_Symptom 111 159	Mordida cruzada de 4.3 sobre 1.2,  3.3 sobre 2.2

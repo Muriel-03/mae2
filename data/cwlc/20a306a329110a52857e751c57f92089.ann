@@ -1,0 +1,33 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 787 790	LDL
+T3	Abbreviation 880 883	TSH
+T4	Body_Part 88 101	region lumbar
+T5	Body_Part 459 472	region lumbar
+T6	Body_Part 474 507	gurpos musculares paravertebrales
+T7	Body_Part 533 551	apofisis espinosas
+T8	Body_Part 653 667	columna lumbar
+T9	Diagnostic_Procedure 638 667	radiografia de columna lumbar
+T10	Disease 2 25	LUMBAGO NO ESPECIFICADO
+T11	Disease 692 700	artrosis
+T12	Disease 824 837	hipotiroidism
+T13	Disease 952 975	Lumbago no especificado
+T14	Laboratory_or_Test_Result 672 700	aparentes signos de artrosis
+T15	Laboratory_Procedure 766 776	Colesterol
+T16	Laboratory_Procedure 787 790	LDL
+T17	Laboratory_Procedure 880 883	TSH
+T18	Medication 938 951	atorvastatina
+T19	Sign_or_Symptom 79 185	dolor en region lumbar de 2 años de evolucion con recurrencias muy persistente asociado a actividad fisica
+T21	Sign_or_Symptom 240 294	episodios muy recurrentes con mayor intensidad inicial
+T22	Sign_or_Symptom 297 344	persistencia de dolor de caracter leve-moderado
+T23	Sign_or_Symptom 377 405	irriadiacion a exttremidades
+T24	Sign_or_Symptom 438 507	dolor a palpacion de region lumbar, gurpos musculares paravertebrales
+T26	Sign_or_Symptom 510 581	al palpar en refion de apofisis espinosas con dolor de menor intensidad
+T27	Sign_or_Symptom 602 618	deficit muscular
+A1	Negated T23
+T20	Clinical_Finding 582 596	TEPE  negativo
+A2	Negated T27
+T25	Abbreviation 582 586	TEPE
+T28	Laboratory_or_Test_Result 702 732	no observo fracturas evidentes
+R1	Has Arg1:T9 Arg2:T14	
+R2	Has Arg1:T9 Arg2:T28	
+A3	Pending T17

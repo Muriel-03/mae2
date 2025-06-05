@@ -1,0 +1,13 @@
+T1	Abbreviation 27 30	TSH
+T2	Abbreviation 61 64	ECO
+T3	Diagnostic_Procedure 61 64	ECO
+T4	Disease 12 25	TIROTOXICOSIS
+T5	Disease 108 123	HIPERTIROIDISMO
+T6	Laboratory_Procedure 27 30	TSH
+T7	Laboratory_Procedure 66 77	ANTICUERPOS
+T8	Laboratory_or_Test_Result 31 38	FRENADA
+R1	Has Arg1:T6 Arg2:T8	
+A1	Pending T3
+A2	Pending T7
+T9	Diagnostic_Procedure 80 107	ESTUDIO DE MEDICINA NUCLEAR
+A3	Pending T9

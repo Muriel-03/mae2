@@ -1,0 +1,15 @@
+T1	Abbreviation 45 49	ANTC
+T2	Abbreviation 53 56	DHC
+T3	Abbreviation 72 75	THO
+T4	Abbreviation 120 124	TACO
+T5	Abbreviation 126 129	INR
+T6	Abbreviation 150 153	INR
+T7	Body_Part 21 31	VENA PORTA
+T8	Body_Part 92 97	PORTA
+T9	Disease 0 4	I81X
+T10	Disease 5 31	TROMBOSIS DE LA VENA PORTA
+T11	Disease 53 56	DHC
+T12	Disease 76 97	TROMBOSIS DE LA PORTA
+T13	Laboratory_Procedure 126 129	INR
+T14	Laboratory_Procedure 150 153	INR
+T15	Medication 120 124	TACO

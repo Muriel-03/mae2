@@ -1,0 +1,10 @@
+T1	Abbreviation 18 21	IOE
+T2	Abbreviation 55 58	HTA
+T3	Abbreviation 59 61	CR
+T4	Abbreviation 79 84	DM II
+T6	Disease 55 58	HTA
+T7	Disease 79 84	DM II
+T8	Disease 103 112	EPILEPSIA
+T9	Clinical_Finding 0 14	MULTIPARA DE 2
+T11	Sign_or_Symptom 18 34	IOE  SINTOMATICA
+T12	Sign_or_Symptom 37 51	COLPOCISTOCELE

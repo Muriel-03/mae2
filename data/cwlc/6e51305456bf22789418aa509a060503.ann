@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	DR.
+T2	Abbreviation 64 67	HRA
+T3	Abbreviation 94 97	INF
+T4	Abbreviation 99 102	IZQ
+T5	Body_Part 86 102	MIEMBRO INF. IZQ
+T6	Disease 64 102	HRA. TROMBOSIS VENOSA MIEMBRO INF. IZQ

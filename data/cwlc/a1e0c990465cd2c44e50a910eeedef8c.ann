@@ -1,0 +1,10 @@
+T1	Abbreviation 59 61	rx
+T2	Body_Part 37 45	pieza 26
+T3	Body_Part 47 55	Pieza 26
+T4	Diagnostic_Procedure 59 67	rx total
+T5	Disease 79 94	osteitis apical
+T6	Laboratory_or_Test_Result 79 94	osteitis apical
+T7	Therapeutic_Procedure 23 33	endodoncia
+R1	Has Arg1:T4 Arg2:T6	
+T8	Sign_or_Symptom 108 138	refiere molestia en dicha zona
+A1	Pending T7

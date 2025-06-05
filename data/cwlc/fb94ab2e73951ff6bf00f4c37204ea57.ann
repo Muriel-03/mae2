@@ -1,0 +1,8 @@
+T1	Abbreviation 35 39	pza.
+T2	Abbreviation 95 100	aprox
+T3	Body_Part 35 43	pza. 4.1
+T4	Body_Part 59 65	piezas
+T5	Disease 0 11	apiñamiento
+T8	Sign_or_Symptom 0 33	apiñamiento severo anteroinferior
+T10	Sign_or_Symptom 35 57	pza. 4.1 rotada en 90°
+T11	Sign_or_Symptom 59 94	piezas aledañas rotadas en unos 30°

@@ -1,0 +1,23 @@
+T1	Abbreviation 82 85	tto
+T2	Abbreviation 203 209	CESFAM
+T3	Body_Part 281 288	espalda
+T4	Body_Part 315 319	boca
+T5	Body_Part 322 326	ojos
+T6	Body_Part 433 439	brazos
+T7	Disease 29 37	Asperger
+T8	Family_Member 100 105	madre
+T9	Family_Member 221 226	madre
+T10	Family_Member 401 406	madre
+T11	Family_Member 612 617	padre
+T12	Family_Member 620 625	madre
+T14	Sign_or_Symptom 341 346	ruido
+T15	Sign_or_Symptom 352 360	roncando
+T16	Sign_or_Symptom 374 399	convulsión tónico-clonica
+T17	Sign_or_Symptom 433 453	brazos en supinación
+T18	Sign_or_Symptom 455 476	Perdida de conciencia
+T19	Sign_or_Symptom 481 519	no recuerda nada después que esto pasa
+T20	Sign_or_Symptom 290 296	rígido
+T21	Sign_or_Symptom 298 334	con espuma en la boca y ojos blancos
+A1	Negated T16
+T13	Sign_or_Symptom 420 426	rígido
+T22	Sign_or_Symptom 583 601	ha tenido 4 crisis

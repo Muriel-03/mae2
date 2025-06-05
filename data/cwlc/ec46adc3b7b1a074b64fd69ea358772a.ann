@@ -1,0 +1,9 @@
+T1	Body_Part 0 8	Pieza 17
+T2	Body_Part 33 41	Pieza 32
+T3	Disease 9 31	caries extensa oclusal
+T4	Disease 42 56	caries oclusal
+T5	Disease 74 83	impactada
+T7	Sign_or_Symptom 0 31	Pieza 17 caries extensa oclusal
+T9	Laboratory_or_Test_Result 33 83	Pieza 32 caries oclusal, semi-incluida e impactada
+T10	Therapeutic_Procedure 94 103	exodoncia
+A1	Pending T10

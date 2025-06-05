@@ -1,0 +1,11 @@
+T1	Abbreviation 86 88	CI
+T2	Diagnostic_Procedure 44 51	biopsia
+T3	Disease 24 42	síndrome nefrótico
+T4	Disease 67 81	Glomerulopatía
+T6	Medication 101 113	Ciclosporina
+T7	Sign_or_Symptom 205 260	DIARREA FRECUENTE de 3 MESES de evolución con mucosidad
+T5	Laboratory_or_Test_Result 129 144	hipoalbuminemia
+T9	Sign_or_Symptom 181 195	mala absorción
+A1	Negated T9
+T10	Laboratory_or_Test_Result 67 88	Glomerulopatía por CI
+R1	Has Arg1:T2 Arg2:T10	

@@ -1,0 +1,20 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 77 79	rx
+T4	Body_Part 17 22	PULPA
+T5	Body_Part 231 240	pieza 2.1
+T6	Body_Part 256 261	pulpa
+T7	Diagnostic_Procedure 77 79	rx
+T8	Disease 2 22	NECROSIS DE LA PULPA
+T9	Disease 88 105	quiste periapical
+T10	Disease 119 134	necrosis pulpar
+T11	Disease 241 261	Necrosis de la pulpa
+T12	Clinical_Finding 191 197	fermin
+T13	Laboratory_or_Test_Result 88 105	quiste periapical
+T14	Medication 136 155	paramono clorofenol
+T16	Body_Part 159 164	camra
+T17	Sign_or_Symptom 55 75	cambio de coloracion
+T18	Therapeutic_Procedure 110 117	trepana
+T19	Therapeutic_Procedure 220 230	endodoncia
+T20	Body_Part 51 54	2.1
+A1	Pending T19
+R1	Has Arg1:T7 Arg2:T13	

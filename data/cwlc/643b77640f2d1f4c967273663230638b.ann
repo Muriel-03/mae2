@@ -1,0 +1,17 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 66 83	Dientes 1.8 y 2.8
+T4	Body_Part 181 191	Diente 3.8
+T5	Body_Part 207 213	Raices
+T6	Body_Part 234 253	conducto mandibular
+T7	Body_Part 307 313	diente
+T8	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T9	Disease 119 125	caries
+T11	Disease 278 313	Anomalias de la posicion del diente
+T12	Clinical_Finding 66 117	Dientes 1.8 y 2.8 erupcionados en posicion vertical
+T14	Laboratory_or_Test_Result 181 253	Diente 3.8. Vertical IIA. Raices sobreproyectadas en conducto mandibular
+T15	Sign_or_Symptom 130 156	gran destruccion coronaria
+T18	Therapeutic_Procedure 170 180	exodoncias
+T19	Therapeutic_Procedure 267 277	exodoncias
+A1	Pending T18
+A2	Pending T19

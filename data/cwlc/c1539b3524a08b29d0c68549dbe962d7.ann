@@ -1,0 +1,10 @@
+T2	Abbreviation 85 87	rx
+T3	Body_Part 40 49	diente 19
+T4	Body_Part 136 142	camara
+T5	Diagnostic_Procedure 85 87	rx
+T6	Disease 60 78	caries recidivante
+T8	Laboratory_or_Test_Result 101 142	cavidad profunda sobreproyectada a camara
+T9	Sign_or_Symptom 31 49	dolor en diente 19
+T11	Therapeutic_Procedure 177 191	biopulpectomia
+R1	Has Arg1:T5 Arg2:T8	
+A1	Pending T11

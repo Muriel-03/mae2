@@ -1,0 +1,10 @@
+T1	Abbreviation 125 128	eco
+T2	Body_Part 147 154	Ovarios
+T3	Diagnostic_Procedure 125 145	eco abdomino pélvico
+T4	Disease 34 59	resistencia a la insulina
+T5	Disease 61 69	Obesidad
+T6	Disease 147 168	Ovarios poliquisticos
+T7	Laboratory_or_Test_Result 147 168	Ovarios poliquisticos
+T8	Sign_or_Symptom 79 114	irregularidad de ciclos menstruales
+R1	Has Arg1:T3 Arg2:T7	
+T9	Disease 195 215	INSULINORRESISTENCIA

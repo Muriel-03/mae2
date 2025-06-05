@@ -1,0 +1,10 @@
+T1	Abbreviation 36 39	pza
+T3	Abbreviation 71 74	pza
+T4	Abbreviation 84 87	pza
+T6	Body_Part 36 43	pza 8y9
+T7	Body_Part 71 82	pza 24 y 25
+T8	Body_Part 84 93	pza 8 y 9
+T9	Sign_or_Symptom 0 35	multiples anomalias dentomaxilartes
+T10	Sign_or_Symptom 36 82	pza 8y9 en contacto pris a ris cpm pza 24 y 25
+T11	Disease 10 35	anomalias dentomaxilartes
+T2	Sign_or_Symptom 84 105	pza 8 y 9rotadas 180°

@@ -1,0 +1,12 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 5 7	Ca
+T3	Abbreviation 37 40	qmt
+T4	Abbreviation 42 46	Dtes
+T5	Abbreviation 80 84	Pcte
+T6	Body_Part 42 48	Dtes 1
+T7	Body_Part 67 69	16
+T8	Disease 5 16	Ca pulmonar
+T9	Disease 70 78	retenido
+T10	Laboratory_or_Test_Result 42 78	Dtes 1 semierupcionado y 16 retenido
+T12	Sign_or_Symptom 93 102	molestias
+T13	Therapeutic_Procedure 37 40	qmt

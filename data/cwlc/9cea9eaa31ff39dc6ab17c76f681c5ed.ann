@@ -1,0 +1,9 @@
+T1	Abbreviation 0 4	pcte
+T2	Body_Part 9 18	dentición
+T3	Body_Part 58 65	grupo 2
+T4	Body_Part 88 99	grupo 2 y 5
+T5	Clinical_Finding 9 37	dentición mixta segunda fase
+T6	Sign_or_Symptom 39 65	compresión maxilar grupo 2
+T7	Sign_or_Symptom 67 99	apiñamiento dentario grupo 2 y 5
+T8	Sign_or_Symptom 101 115	clase II molar
+T9	Disease 67 78	apiñamiento

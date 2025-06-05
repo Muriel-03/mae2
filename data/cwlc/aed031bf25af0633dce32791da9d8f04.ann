@@ -1,0 +1,8 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 95 96	p
+T3	Body_Part 95 100	p 2.6
+T4	Body_Part 112 119	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 59 93	pulpitits irreversible sintomatica
+T7	Disease 101 119	Caries del cemento
+T9	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE

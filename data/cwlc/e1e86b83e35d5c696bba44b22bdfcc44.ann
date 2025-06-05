@@ -1,0 +1,9 @@
+T1	Abbreviation 69 72	app
+T2	Body_Part 2 5	PIE
+T3	Body_Part 335 343	rodillas
+T4	Body_Part 362 387	arco longitudinal plantar
+T5	Disease 2 34	PIE PLANO PES PLANUS (ADQUIRIDO)
+T6	Family_Member 127 132	madre
+T7	Sign_or_Symptom 346 387	disminucion del arco longitudinal plantar
+T8	Sign_or_Symptom 320 343	valgo en ambas rodillas
+T9	Sign_or_Symptom 227 298	dificultad en la coordinacion y equilibrio tanto estatico como dinamico

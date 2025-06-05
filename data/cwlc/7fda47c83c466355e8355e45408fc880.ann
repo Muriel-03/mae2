@@ -1,0 +1,17 @@
+T1	Abbreviation 0 3	ERC
+T2	Abbreviation 15 18	HTA
+T3	Abbreviation 31 34	IAM
+T4	Abbreviation 67 69	MG
+T5	Abbreviation 113 115	MG
+T6	Abbreviation 127 129	MG
+T7	Abbreviation 143 145	MG
+T8	Disease 0 13	ERC ETAPA III
+T9	Disease 15 18	HTA
+T10	Disease 31 34	IAM
+T11	Medication 52 62	AMIODARONA
+T12	Medication 75 85	NEOSINTRON
+T13	Medication 99 109	HIDROCLORO
+T14	Medication 117 123	ATORVA
+T15	Medication 131 139	LOSARTAN
+T16	Abbreviation 99 109	HIDROCLORO
+T17	Abbreviation 117 123	ATORVA

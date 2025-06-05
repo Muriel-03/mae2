@@ -1,0 +1,7 @@
+T1	Body_Part 45 50	L4-L5
+T2	Body_Part 52 54	L5
+T3	Disease 2 25	Discopatia degenerativa
+T4	Laboratory_or_Test_Result 2 54	Discopatia degenerativa leve a moderado en L4-L5  L5
+T5	Medication 124 129	AlNES
+T6	Sign_or_Symptom 71 144	dolor lumbar que persiste a pesar de tratamiento con AlNES y fisioterapia
+T7	Therapeutic_Procedure 132 144	fisioterapia

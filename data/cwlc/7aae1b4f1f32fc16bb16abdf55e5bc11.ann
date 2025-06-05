@@ -1,0 +1,7 @@
+T1	Abbreviation 115 118	PFU
+T2	Body_Part 0 8	diente 7
+T3	Sign_or_Symptom 9 38	extensa destruccion coronaria
+T4	Therapeutic_Procedure 56 76	restauracion directa
+T5	Therapeutic_Procedure 115 118	PFU
+A1	Pending T5
+T6	Sign_or_Symptom 40 93	se ha intentado restauracion directa pero se desaloja

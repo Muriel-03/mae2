@@ -1,0 +1,14 @@
+T1	Abbreviation 100 103	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 276 303	dientes centrales 1.1 y 2.1
+T4	Body_Part 321 329	frenillo
+T5	Body_Part 523 530	caninos
+T6	Body_Part 657 663	diente
+T7	Diagnostic_Procedure 459 478	examen radiografico
+T8	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T9	Disease 41 76	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T10	Disease 628 663	Anomalias de la posicion del diente
+T11	Laboratory_or_Test_Result 491 556	alteraciones en los ejes de los caninos inclinandose hacia mesial
+T12	Sign_or_Symptom 321 344	frenillo sobreinsertado
+T13	Clinical_Finding 133 167	apto para la consulta odontologica
+T14	Clinical_Finding 377 408	relacion molar y canina clase I

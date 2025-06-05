@@ -1,0 +1,11 @@
+T1	Abbreviation 46 49	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 86 95	pieza 1.1
+T4	Body_Part 236 241	pulpa
+T5	Disease 2 22	NECROSIS DE LA PULPA
+T6	Disease 221 241	Necrosis de la pulpa
+T7	Clinical_Finding 133 169	se obtura temporalmente con ionomero
+T8	Laboratory_or_Test_Result 86 113	pieza 1.1 con lesion apical
+T9	Medication 200 219	hidroxido de calcio
+T10	Therapeutic_Procedure 71 82	trepanacion
+T11	Therapeutic_Procedure 172 219	se medica intraconducto con hidroxido de calcio

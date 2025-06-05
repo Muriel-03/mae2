@@ -1,0 +1,12 @@
+T1	Abbreviation 52 56	ENF.
+T2	Body_Part 11 18	DIENTES
+T3	Body_Part 52 74	ENF. PERIODONTAL LOCAL
+T4	Disease 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T5	Disease 86 109	dentada natural parcial
+T6	Clinical_Finding 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T7	Clinical_Finding 124 157	prótesis  removible en mal estado
+T8	Sign_or_Symptom 124 157	prótesis  removible en mal estado
+T9	Therapeutic_Procedure 39 74	EXTRACCION O ENF. PERIODONTAL LOCAL
+T10	Disease 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T11	Sign_or_Symptom 111 157	portadora de prótesis  removible en mal estado
+T12	Clinical_Finding 86 109	dentada natural parcial

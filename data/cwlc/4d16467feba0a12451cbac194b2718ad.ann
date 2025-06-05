@@ -1,0 +1,16 @@
+T1	Abbreviation 31 34	dte
+T2	Abbreviation 138 139	+
+T3	Abbreviation 192 193	+
+T4	Abbreviation 203 205	Dg
+T5	Body_Part 17 22	PULPA
+T6	Body_Part 31 36	dte 4
+T7	Body_Part 77 90	camara pulpar
+T8	Disease 2 22	NECROSIS DE LA PULPA
+T9	Disease 37 63	caries dentinaria profunda
+T10	Disease 118 124	caries
+T11	Disease 207 222	Necrosis pulpar
+T12	Clinical_Finding 194 201	fermin.
+T13	Medication 165 169	CaOH
+T14	Therapeutic_Procedure 103 124	eliminacion de caries
+T15	Therapeutic_Procedure 126 137	trepanacion
+T16	Therapeutic_Procedure 140 169	medicacion intraconducto CaOH

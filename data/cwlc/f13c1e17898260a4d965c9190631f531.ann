@@ -1,0 +1,13 @@
+T1	Abbreviation 59 60	H
+T2	Abbreviation 73 80	Elp.Gsv
+T3	Laboratory_or_Test_Result 100 106	Normal
+T4	Sign_or_Symptom 13 45	Aumento De Sudoracion Importante
+T5	Laboratory_Procedure 59 71	H  Tiroideas
+T6	Laboratory_Procedure 73 76	Elp
+T7	Laboratory_Procedure 77 80	Gsv
+T8	Laboratory_Procedure 81 93	Ecoabdominal
+R1	Has Arg1:T8 Arg2:T3	
+R2	Has Arg1:T7 Arg2:T3	
+R3	Has Arg1:T6 Arg2:T3	
+R4	Has Arg1:T5 Arg2:T3	
+T9	Abbreviation 81 93	Ecoabdominal

@@ -1,0 +1,17 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 292 301	mandíbula
+T4	Body_Part 322 326	boca
+T5	Body_Part 339 348	mandíbula
+T6	Body_Part 465 492	articulacion temporomaxilar
+T7	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T8	Disease 448 492	Trastornos de la articulacion temporomaxilar
+T9	Clinical_Finding 84 111	sin antecedentes sistémicos
+T10	Clinical_Finding 113 125	sin alergias
+T11	Sign_or_Symptom 136 156	disfunción articular
+T12	Sign_or_Symptom 158 185	salto en apertura bilateral
+T13	Sign_or_Symptom 187 212	apertura bucal disminuida
+T14	Sign_or_Symptom 215 239	dolor en la articulación
+T15	Sign_or_Symptom 273 334	se le ha luxado la mandíbula y ha quedado con la boca abierta
+T16	Sign_or_Symptom 441 446	dolor
+T17	Therapeutic_Procedure 392 409	reposición manual

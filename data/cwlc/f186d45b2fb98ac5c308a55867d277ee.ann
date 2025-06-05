@@ -1,0 +1,15 @@
+T1	Abbreviation 87 90	APS
+T2	Abbreviation 311 314	+/-
+T3	Body_Part 281 284	ano
+T4	Disease 2 18	HERNIA UMBILICAL
+T5	Disease 34 62	Hernia umbilical sintomatica
+T6	Clinical_Finding 108 133	sin antecedentes morbidos
+T7	Sign_or_Symptom 210 238	aumento de volumen umbilical
+T8	Sign_or_Symptom 240 255	dolor abdominal
+T9	Clinical_Finding 271 284	gases por ano
+T10	Sign_or_Symptom 290 297	vomitos
+T11	Sign_or_Symptom 303 310	diarrea
+T12	Sign_or_Symptom 317 327	meteorismo
+A1	Negated T10
+T13	Abbreviation 286 287	+
+T14	Abbreviation 299 300	-

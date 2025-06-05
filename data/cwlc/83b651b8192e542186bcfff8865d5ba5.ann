@@ -1,0 +1,10 @@
+T1	Abbreviation 120 123	pza
+T2	Abbreviation 128 131	pza
+T3	Body_Part 120 127	pza 2.1
+T4	Body_Part 128 135	pza 1.1
+T5	Body_Part 146 151	molar
+T6	Clinical_Finding 138 161	clase 1 molar bilateral
+T7	Clinical_Finding 19 32	dolico facial
+T8	Sign_or_Symptom 33 79	apuñamiento severo superior. Moderado inferior
+T9	Sign_or_Symptom 80 104	multiples giro versiones
+T11	Disease 33 44	apuñamiento

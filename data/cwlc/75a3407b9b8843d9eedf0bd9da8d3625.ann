@@ -1,0 +1,14 @@
+T1	Abbreviation 75 78	APS
+T2	Disease 2 51	NISTAGMO Y OTROS MOVIMIENTOS OCULARES IRREGULARES
+T3	Disease 284 333	Nistagmo y otros movimientos oculares irregulares
+T4	Sign_or_Symptom 167 173	mareos
+T5	Sign_or_Symptom 131 167	nistagus voluntarios (horizontaeles)
+T6	Sign_or_Symptom 177 184	vertigo
+A1	Negated T6
+T7	Sign_or_Symptom 188 195	cefalea
+A2	Negated T7
+T8	Sign_or_Symptom 199 207	tinnitus
+A3	Negated T8
+T9	Clinical_Finding 211 231	examen dísico normal
+A4	Negated T4
+T10	Clinical_Finding 231 253	reflejo pupilar normal

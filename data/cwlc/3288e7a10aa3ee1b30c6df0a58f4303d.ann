@@ -1,0 +1,7 @@
+T1	Body_Part 0 10	diente 3.5
+T2	Clinical_Finding 11 20	trepanado
+T3	Medication 174 193	hidrasido de calcio
+T4	Sign_or_Symptom 71 101	conducto expuesto a medio oral
+T5	Therapeutic_Procedure 11 20	trepanado
+T6	Therapeutic_Procedure 46 69	tratamiento endodontico
+T7	Therapeutic_Procedure 126 193	se realiza limpieza de conducto y mediacion con hidrasido de calcio

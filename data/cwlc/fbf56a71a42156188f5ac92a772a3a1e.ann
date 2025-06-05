@@ -1,0 +1,8 @@
+T1	Abbreviation 66 70	post
+T2	Abbreviation 71 73	op
+T3	Abbreviation 110 113	uci
+T4	Disease 161 181	insuficiencia renal.
+T5	Disease 228 254	neumonia intrahospitalaria
+T6	Sign_or_Symptom 20 26	mareos
+T7	Sign_or_Symptom 29 57	problemas audivivo izquierdo
+T8	Disease 75 84	colangita

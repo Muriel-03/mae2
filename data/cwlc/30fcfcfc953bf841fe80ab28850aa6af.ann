@@ -1,0 +1,11 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 204 208	ATMs
+T3	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T4	Body_Part 204 208	ATMs
+T5	Body_Part 267 294	articulacion temporomaxilar
+T6	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T7	Disease 250 294	Trastornos de la articulacion temporomaxilar
+T8	Clinical_Finding 84 111	sin antecedentes sistemicos
+T9	Sign_or_Symptom 123 145	dificultad en apertura
+T10	Sign_or_Symptom 148 164	clic en apertura
+T11	Sign_or_Symptom 167 208	dolor en funcion y a la palpacion de ATMs

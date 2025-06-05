@@ -1,0 +1,9 @@
+T1	Body_Part 17 22	PULPA
+T2	Body_Part 47 55	diente 6
+T3	Disease 2 22	NECROSIS DE LA PULPA
+T4	Clinical_Finding 56 65	trepanado
+T5	Medication 142 161	hidróxido de calcio
+T6	Therapeutic_Procedure 56 65	trepanado
+T7	Therapeutic_Procedure 117 128	trepanación
+T8	Sign_or_Symptom 86 104	percusión postivia
+T9	Clinical_Finding 178 194	cemento temporal

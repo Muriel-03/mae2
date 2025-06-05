@@ -1,0 +1,12 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 301 304	PFP
+T3	Abbreviation 308 311	APS
+T4	Body_Part 131 147	piezas 1.4 a 2.3
+T5	Body_Part 175 190	pieza pilar 2.3
+T6	Disease 2 23	PERIODONTITIS CRÓNICA
+T8	Disease 150 171	periodontitis crónica
+T9	Disease 344 365	Periodontitis cronica
+T10	Sign_or_Symptom 204 222	movilidad grado II
+T11	Therapeutic_Procedure 104 124	prótesis fija plural
+T12	Therapeutic_Procedure 301 304	PFP
+T7	Sign_or_Symptom 240 274	juego de movimiento en la prótesis

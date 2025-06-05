@@ -1,0 +1,17 @@
+T1	Abbreviation 48 53	antec
+T2	Abbreviation 57 60	HTA
+T3	Abbreviation 63 68	HipoT
+T5	Abbreviation 561 565	Atte
+T6	Disease 2 28	OTROS VÉRTIGOS PERIFÉRICOS
+T7	Disease 57 60	HTA
+T8	Disease 63 68	HipoT
+T9	Disease 539 559	enfermeda de meniere
+T10	Sign_or_Symptom 177 194	vertigo subjetivo
+T11	Sign_or_Symptom 207 214	tinitus
+T12	Sign_or_Symptom 216 242	sensacion de inestabilidad
+T13	Sign_or_Symptom 244 270	hipoacusia de lado derecho
+T14	Sign_or_Symptom 273 313	desequilibrio en la marcha hacia derecha
+T15	Sign_or_Symptom 318 350	duracion del vertigo es de horas
+T4	Diagnostic_Procedure 479 494	examen VIII par
+A1	Pending T4
+T16	Body_Part 486 494	VIII par

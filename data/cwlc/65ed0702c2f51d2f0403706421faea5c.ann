@@ -1,0 +1,7 @@
+T1	Abbreviation 39 42	APS
+T2	Disease 2 15	CARIES DENTAL
+T3	Disease 109 122	Caries dental
+T6	Sign_or_Symptom 57 67	policaries
+T4	Sign_or_Symptom 72 86	dificil manejo
+T5	Therapeutic_Procedure 88 107	manejo con sedación
+A1	Pending T5

@@ -1,0 +1,6 @@
+T1	Body_Part 101 110	dentición
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Sign_or_Symptom 74 82	temerosa
+T4	Clinical_Finding 101 129	dentición mixta segunda fase
+T5	Sign_or_Symptom 74 99	temerosa.  Intraoralmente
+T6	Sign_or_Symptom 131 142	maloclusión

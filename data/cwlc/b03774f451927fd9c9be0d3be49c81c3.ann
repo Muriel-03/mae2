@@ -1,0 +1,14 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 21 28	DIENTES
+T3	Body_Part 105 115	diente 3.8
+T4	Body_Part 193 203	diente 4.8
+T5	Disease 2 17	PERICORONARITIS
+T6	Disease 21 38	DIENTES INCLUIDOS
+T7	Disease 80 101	pericoronaritis aguda
+T8	Disease 215 230	Pericoronaritis
+T9	Laboratory_or_Test_Result 21 38	DIENTES INCLUIDOS
+T10	Laboratory_or_Test_Result 193 212	diente 4.8 incluido
+T11	Sign_or_Symptom 135 164	falta de espacio en la arcada
+T13	Laboratory_or_Test_Result 105 128	diente 3.8 semiincluido
+T12	Body_Part 158 164	arcada
+T14	Disease 204 212	incluido

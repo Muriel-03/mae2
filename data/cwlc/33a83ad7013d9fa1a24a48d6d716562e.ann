@@ -1,0 +1,10 @@
+T1	Abbreviation 99 102	APS
+T2	Body_Part 22 50	CURVATURA MAYOR DEL ESTÓMAGO
+T3	Body_Part 234 262	curvatura mayor del estomago
+T4	Diagnostic_Procedure 188 213	endoscopia digestiva alta
+T5	Disease 2 75	TUMOR MALIGNO DE LA CURVATURA MAYOR DEL ESTÓMAGO, SIN OTRA ESPECIFICACIÓN
+T6	Disease 214 287	Tumor maligno de la curvatura mayor del estomago, sin otra especificacion
+T7	Sign_or_Symptom 104 116	baja de peso
+T8	Sign_or_Symptom 117 126	dispepsia
+T9	Sign_or_Symptom 127 155	sensacion de plenitud precoz
+A1	Pending T4

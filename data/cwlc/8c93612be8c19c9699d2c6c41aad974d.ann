@@ -1,0 +1,103 @@
+T1	Abbreviation 101 103	CC
+T2	Abbreviation 282 285	TSH
+T3	Abbreviation 296 298	T4
+T4	Abbreviation 350 351	+
+T5	Abbreviation 362 367	CREAT
+T6	Abbreviation 391 394	LIP
+T7	Abbreviation 396 399	LDL
+T8	Abbreviation 429 434	COMPL
+T9	Abbreviation 437 440	URO
+T10	Abbreviation 476 479	INR
+T11	Abbreviation 487 489	TP
+T12	Abbreviation 497 500	TPT
+T13	Abbreviation 507 515	PROTROMB
+T14	Abbreviation 522 525	ECG
+T15	Abbreviation 549 552	ANT
+T16	Abbreviation 554 557	HTA
+T17	Abbreviation 561 564	TTO
+T18	Abbreviation 581 583	MG
+T19	Abbreviation 592 595	HRS
+T20	Abbreviation 598 603	INTOL
+T21	Abbreviation 604 606	HC
+T22	Abbreviation 610 613	TTO
+T23	Abbreviation 633 635	MG
+T24	Abbreviation 646 648	QX
+T25	Abbreviation 668 671	E.F
+T26	Abbreviation 685 688	ACG
+T27	Abbreviation 697 699	PA
+T28	Abbreviation 708 710	FC
+T29	Abbreviation 715 716	X
+T30	Abbreviation 717 720	MIN
+T31	Abbreviation 721 723	FR
+T32	Abbreviation 728 729	X
+T33	Abbreviation 730 733	MIN
+T34	Abbreviation 734 735	T
+T35	Abbreviation 749 752	KGR
+T36	Abbreviation 754 757	CYC
+T37	Abbreviation 766 769	C/P
+T38	Abbreviation 811 814	ABD
+T39	Abbreviation 905 908	EXT
+T40	Abbreviation 920 923	NEU
+T41	Abbreviation 938 941	OBS
+T42	Abbreviation 988 990	CX
+T43	Abbreviation 1022 1025	ECG
+T44	Abbreviation 1048 1051	SOS
+T45	Body_Part 162 185	REGION INGUINAL DERECHA
+T46	Body_Part 754 757	CYC
+T47	Body_Part 787 795	PULMONES
+T48	Body_Part 811 814	ABD
+T49	Body_Part 862 885	REGION INGUINAL DERECHA
+T50	Body_Part 890 897	ABDOMEN
+T51	Body_Part 905 908	EXT
+T52	Diagnostic_Procedure 522 525	ECG
+T53	Diagnostic_Procedure 1022 1025	ECG
+T54	Disease 2 75	HERNIA INGUINAL UNILATERAL O NO ESPECIFICADA, SIN OBSTRUCCIÓN NI GANGRENA
+T55	Disease 554 557	HTA
+T56	Disease 945 968	HERNIA INGUINAL DERECHA
+T57	Laboratory_or_Test_Result 324 330	NORMAL
+T58	Laboratory_or_Test_Result 416 422	NORMAL
+T59	Laboratory_or_Test_Result 442 448	NORMAL
+T60	Laboratory_or_Test_Result 526 532	NORMAL
+T61	Laboratory_Procedure 282 285	TSH
+T62	Laboratory_Procedure 296 304	T4 LIBRE
+T63	Laboratory_Procedure 313 322	HEMOGRAMA
+T64	Laboratory_Procedure 332 347	GRUPO SANGUINEO
+T66	Laboratory_Procedure 352 357	GLUCO
+T67	Laboratory_Procedure 362 367	CREAT
+T68	Laboratory_Procedure 373 377	UREA
+T69	Laboratory_Procedure 384 394	PERFIL LIP
+T70	Laboratory_Procedure 396 399	LDL
+T71	Laboratory_Procedure 404 415	PERFIL HEPA
+T72	Laboratory_Procedure 423 434	ORINA COMPL
+T73	Laboratory_Procedure 437 440	URO
+T74	Laboratory_Procedure 449 474	PRUEBAS DE LA COAGULACION
+T75	Laboratory_Procedure 476 479	INR
+T76	Laboratory_Procedure 487 489	TP
+T77	Laboratory_Procedure 497 500	TPT
+T78	Laboratory_Procedure 507 515	PROTROMB
+T79	Medication 569 577	LOSARTAN
+T80	Medication 618 628	METFORMINA
+T81	Sign_or_Symptom 141 185	SENSACION DE MASA EN REGION INGUINAL DERECHA
+T82	Sign_or_Symptom 197 238	DOLOR EN LA MISMA ZONA DE FORMA OCASIONAL
+T83	Clinical_Finding 771 785	RR2T NO SOPLOS
+T85	Sign_or_Symptom 816 831	MASA REDUCTIBLE
+T86	Sign_or_Symptom 835 885	DOLOROSA A LA PALPACION EN REGION INGUINAL DERECHA
+T87	Sign_or_Symptom 890 903	ABDOMEN AGUDO
+T88	Sign_or_Symptom 913 918	EDEMA
+T89	Sign_or_Symptom 920 936	NEU: SIN DEFICIT
+T90	Therapeutic_Procedure 650 665	COLECISTECTOMIA
+R1	Has Arg1:T63 Arg2:T57	
+T91	Laboratory_or_Test_Result 349 351	B+
+R2	Has Arg1:T64 Arg2:T91	
+R3	Has Arg1:T71 Arg2:T58	
+R4	Has Arg1:T72 Arg2:T59	
+R5	Has Arg1:T73 Arg2:T59	
+R6	Has Arg1:T52 Arg2:T60	
+T65	Disease 598 606	INTOL HC
+T92	Clinical_Finding 685 688	ACG
+T93	Abbreviation 411 415	HEPA
+T94	Abbreviation 771 775	RR2T
+A1	Negated T85
+A2	Negated T87
+A3	Negated T88
+T95	Clinical_Finding 787 809	PULMONES SIN AGREGADOS

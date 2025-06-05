@@ -1,0 +1,7 @@
+T1	Abbreviation 174 178	SOME
+T2	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T3	Family_Member 107 112	madre
+T4	Sign_or_Symptom 262 286	clase molar 2, bilateral
+T5	Sign_or_Symptom 288 313	mordida anterior cubierta
+T6	Sign_or_Symptom 315 344	apiñamiento dentario superior
+T7	Disease 315 326	apiñamiento

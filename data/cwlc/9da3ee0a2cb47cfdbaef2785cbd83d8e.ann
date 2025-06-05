@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	pac
+T3	Body_Part 51 58	femoral
+T4	Body_Part 92 98	pierna
+T5	Diagnostic_Procedure 128 139	ANGIOGRAFIA
+T6	Disease 38 58	aneurisma de femoral
+T7	Sign_or_Symptom 65 98	nuevo aumento de voleun en pierna
+T8	Disease 99 122	PSEUDOANEURISMA FEMORAL

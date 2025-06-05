@@ -1,0 +1,6 @@
+T1	Abbreviation 66 67	p
+T3	Body_Part 66 72	p. 3.6
+T4	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T5	Disease 77 103	caries dentinaria profunda
+T7	Therapeutic_Procedure 53 63	endodoncia
+A1	Pending T7

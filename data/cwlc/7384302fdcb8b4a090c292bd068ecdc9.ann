@@ -1,0 +1,14 @@
+T1	Abbreviation 6 9	EMB
+T2	Abbreviation 15 18	SEM
+T3	Abbreviation 20 23	LIP
+T4	Abbreviation 84 87	CMS
+T5	Abbreviation 92 95	OCI
+T6	Abbreviation 98 101	ECO
+T7	Body_Part 42 50	PLACENTA
+T8	Diagnostic_Procedure 98 101	ECO
+T9	Disease 32 40	FUMADORA
+T10	Clinical_Finding 0 4	G4P3
+T11	Clinical_Finding 6 9	EMB
+T13	Abbreviation 0 4	G4P3
+T14	Laboratory_or_Test_Result 42 95	PLACENTA MARGINAL ( INSERCION BAJA )A 1,2 CMS DEL OCI
+R1	Has Arg1:T8 Arg2:T14	

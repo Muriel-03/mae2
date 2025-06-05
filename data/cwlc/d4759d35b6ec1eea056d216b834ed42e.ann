@@ -1,0 +1,12 @@
+T1	Abbreviation 48 51	2da
+T2	Abbreviation 57 60	Pza
+T3	Body_Part 32 41	Denticion
+T4	Body_Part 57 65	Pza. 3.5
+T5	Clinical_Finding 17 30	dolico facial
+T6	Clinical_Finding 9 16	clase I
+T7	Clinical_Finding 32 56	Denticion mixta 2da fase
+T8	Laboratory_or_Test_Result 57 95	Pza. 3.5 retenida por falta de espacio
+T10	Sign_or_Symptom 96 123	clase molar II leve derecha
+T11	Sign_or_Symptom 126 139	III izquierda
+T12	Sign_or_Symptom 140 167	apiñamiento antero inferior
+T9	Disease 140 151	apiñamiento

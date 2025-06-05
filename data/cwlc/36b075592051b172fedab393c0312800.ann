@@ -1,0 +1,9 @@
+T1	Body_Part 37 46	Pieza 1.6
+T2	Body_Part 77 86	Pieza 4.6
+T3	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T4	Disease 47 64	caries penetrante
+T5	Disease 87 104	caries penetrante
+T6	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T7	Laboratory_or_Test_Result 47 64	caries penetrante
+T8	Laboratory_or_Test_Result 77 104	Pieza 4.6 caries penetrante
+T9	Clinical_Finding 66 75	TREPANADA

@@ -1,0 +1,30 @@
+T1	Abbreviation 87 90	APS
+T2	Abbreviation 107 111	SBOR
+T3	Abbreviation 150 152	QX
+T4	Abbreviation 198 201	IRA
+T5	Abbreviation 392 394	MP
+T6	Abbreviation 395 396	+
+T7	Abbreviation 397 400	SRA
+T8	Abbreviation 402 408	RR2TSS
+T9	Body_Part 21 30	AMÍGDALAS
+T10	Body_Part 54 63	ADENOIDES
+T11	Body_Part 313 320	FARIGNE
+T12	Body_Part 380 390	OROFARINGE
+T13	Body_Part 449 458	amigdalas
+T14	Body_Part 482 491	adenoides
+T15	Disease 2 63	HIPERTROFIA DE LAS AMÍGDALAS CON HIPERTROFIA DE LAS ADENOIDES
+T16	Disease 107 111	SBOR
+T17	Disease 114 130	RINITIS ALERGICA
+T18	Disease 159 180	ALERGIA MEDICAMENTOSA
+T19	Disease 198 201	IRA
+T20	Disease 430 491	Hipertrofia de las amigdalas con hipertrofia de las adenoides
+T21	Family_Member 202 207	MADRE
+T22	Clinical_Finding 133 152	SIN ANTECEDENTES QX
+T24	Clinical_Finding 304 311	AFEBRIL
+T25	Clinical_Finding 402 408	RR2TSS
+T27	Sign_or_Symptom 294 303	HIDRATADA
+T29	Sign_or_Symptom 328 390	AMIGDADALAS AUMENTADAS DE TAMAÑO OCUPANDO 2/3 DE LA OROFARINGE
+T30	Clinical_Finding 392 400	MP + SRA
+T26	Sign_or_Symptom 220 247	RONCA DURANTE TODA LA NOCHE
+T23	Sign_or_Symptom 313 327	FARIGNE ROSADA
+A1	Negated T18

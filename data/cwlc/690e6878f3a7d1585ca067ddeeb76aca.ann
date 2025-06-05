@@ -1,0 +1,7 @@
+T1	Abbreviation 34 37	APS
+T3	Body_Part 61 71	diente 2.8
+T4	Body_Part 92 104	seno maxilar
+T5	Disease 2 10	PULPITIS
+T6	Disease 39 60	Pulpitis irreversible
+T7	Disease 107 115	Pulpitis
+T8	Laboratory_or_Test_Result 61 104	diente 2.8, sobreproyectada en seno maxilar

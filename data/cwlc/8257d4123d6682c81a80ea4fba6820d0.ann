@@ -1,0 +1,14 @@
+T1	Abbreviation 67 68	p
+T2	Abbreviation 162 163	O
+T3	Abbreviation 249 252	CHX
+T4	Body_Part 67 72	p 2.7
+T5	Body_Part 98 103	tubos
+T6	Body_Part 214 219	pulpa
+T7	Disease 45 72	pulpitis irreversible p 2.7
+T8	Disease 155 161	caries
+T9	Medication 249 252	CHX
+T10	Medication 84 93	lidocaina
+T11	Therapeutic_Procedure 140 161	eliminacion de caries
+T12	Therapeutic_Procedure 165 179	acceso cameral
+T13	Medication 192 197	suero
+T14	Therapeutic_Procedure 199 236	eliminacion de pulpa con extirpadores

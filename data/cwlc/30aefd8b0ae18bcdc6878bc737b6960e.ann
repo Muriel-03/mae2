@@ -1,0 +1,4 @@
+T1	Disease 62 103	Periodontitis crónica generalizada severa
+T2	Clinical_Finding 33 60	sin antecedentes sistémicos
+T3	Therapeutic_Procedure 126 149	tratamiento periodontal
+A1	Pending T3

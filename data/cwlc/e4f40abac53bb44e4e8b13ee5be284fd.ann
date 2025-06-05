@@ -1,0 +1,76 @@
+T1	Abbreviation 67 70	HTA
+T2	Abbreviation 184 187	TBC
+T3	Abbreviation 326 329	BCG
+T4	Abbreviation 362 364	MP
+T5	Abbreviation 365 366	+
+T6	Abbreviation 390 393	SRA
+T7	Abbreviation 395 401	RR2TSS
+T8	Abbreviation 403 406	ABD
+T9	Abbreviation 407 410	BDI
+T10	Abbreviation 442 445	rha
+T11	Abbreviation 446 448	+.
+T12	Abbreviation 555 558	TBC
+T13	Abbreviation 690 692	Bk
+T14	Abbreviation 828 831	CVF
+T15	Abbreviation 848 851	FEF
+T16	Abbreviation 897 901	post
+T17	Abbreviation 926 929	FEF
+T18	Abbreviation 936 937	a
+T19	Abbreviation 952 955	CVF
+T20	Abbreviation 978 981	FEF
+T21	Body_Part 331 335	piel
+T22	Body_Part 338 345	mucosas
+T23	Clinical_Finding 403 406	ABD
+T24	Body_Part 495 500	torax
+T25	Body_Part 569 587	lóbulos superiores
+T26	Body_Part 592 609	ganglios hiliares
+T27	Diagnostic_Procedure 483 500	Radiografia torax
+T28	Disease 2 26	SECUELAS DE TUBERCULOSIS
+T29	Disease 67 70	HTA
+T30	Disease 72 86	Hipotiroidismo
+T31	Disease 88 104	Taquismo crónico
+T32	Disease 184 187	TBC
+T33	Disease 555 558	TBC
+T34	Clinical_Finding 299 306	afebril
+T35	Clinical_Finding 326 329	BCG
+T36	Clinical_Finding 395 401	RR2TSS
+T37	Laboratory_or_Test_Result 510 558	Múltiples nódulos calcificados secuelares de TBC
+T38	Laboratory_or_Test_Result 563 631	ambos lóbulos superiores con ganglios hiliares, también calcificados
+T39	Laboratory_or_Test_Result 649 688	Silueta cardiovascular de tamaño normal
+T40	Laboratory_or_Test_Result 725 758	bacilos alcohol ácido resistentes
+T41	Laboratory_or_Test_Result 782 822	alteración ventilatoria obstructiva leve
+T42	Laboratory_or_Test_Result 828 842	CVF disminuida
+T43	Laboratory_or_Test_Result 848 868	FEF 25-75 disminuido
+T44	Laboratory_or_Test_Result 874 917	cambios significativos post broncodilatador
+T45	Laboratory_Procedure 690 692	Bk
+T46	Laboratory_Procedure 828 831	CVF
+T47	Laboratory_Procedure 848 851	FEF
+T49	Laboratory_Procedure 978 981	FEF
+T50	Sign_or_Symptom 233 236	tos
+T51	Sign_or_Symptom 241 261	expectoración mucosa
+T52	Sign_or_Symptom 283 297	disnea grado 1
+T54	Clinical_Finding 331 360	piel y mucosas normcoloreadas
+T56	Sign_or_Symptom 367 388	espiración prolongada
+T57	Clinical_Finding 390 393	SRA
+T59	Sign_or_Symptom 416 421	masas
+T60	Sign_or_Symptom 425 440	visceromegalias
+T61	Sign_or_Symptom 442 447	rha +
+T53	Clinical_Finding 362 366	MP +
+T55	Clinical_Finding 403 410	ABD BDI
+A1	Negated T59
+A2	Negated T60
+T58	Body_Part 403 406	ABD
+R1	Has Arg1:T27 Arg2:T37	
+T63	Laboratory_or_Test_Result 633 647	Pleuras libres
+R2	Has Arg1:T27 Arg2:T38	
+R3	Has Arg1:T27 Arg2:T63	
+R4	Has Arg1:T27 Arg2:T39	
+A3	Negated T40
+R5	Has Arg1:T45 Arg2:T40	
+T62	Diagnostic_Procedure 761 773	Espirometría
+R6	Has Arg1:T62 Arg2:T41	
+R7	Has Arg1:T62 Arg2:T42	
+R8	Has Arg1:T62 Arg2:T43	
+R9	Has Arg1:T62 Arg2:T44	
+T48	Laboratory_or_Test_Result 957 987	Normaliza valores de FEF 25-75
+R10	Has Arg1:T62 Arg2:T48	

@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 66 75	pieza 4,8
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Disease 113 119	caries
+T6	Sign_or_Symptom 66 119	pieza 4,8 mesioinclinada ,semierupcionada  con caries
+T7	Therapeutic_Procedure 141 150	exodoncia
+A1	Pending T7

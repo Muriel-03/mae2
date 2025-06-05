@@ -1,0 +1,10 @@
+T1	Abbreviation 165 169	ID 2
+T2	Abbreviation 173 177	TARV
+T3	Abbreviation 178 180	OK
+T4	Abbreviation 206 209	TTO
+T5	Abbreviation 225 229	ATTE
+T6	Disease 0 37	SIFILIS LATENTE TARDIA SEROCONVERSION
+T7	Clinical_Finding 105 117	ASINTOMATICO
+T8	Medication 173 177	TARV
+T9	Sign_or_Symptom 132 146	LESION GENITAL
+T10	Laboratory_or_Test_Result 62 70	NEGATICO

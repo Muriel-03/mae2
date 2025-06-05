@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	PCTE
+T2	Body_Part 49 56	GRUPO V
+T3	Sign_or_Symptom 37 56	APINAMIENTO GRUPO V
+T4	Sign_or_Symptom 58 74	MORDIDA PROFUNDA
+T5	Therapeutic_Procedure 101 124	TRATAMIENTO ORTODONCICO
+A1	Pending T5

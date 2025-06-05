@@ -1,0 +1,8 @@
+T1	Body_Part 108 122	pieza 1.5. 5.5
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Disease 96 104	agenesia
+T4	Disease 138 155	caries penetrante
+T6	Laboratory_or_Test_Result 138 155	caries penetrante
+T7	Sign_or_Symptom 75 94	múltiples diastemas
+T9	Therapeutic_Procedure 123 133	extracción
+T5	Sign_or_Symptom 157 173	Espacio edéntulo

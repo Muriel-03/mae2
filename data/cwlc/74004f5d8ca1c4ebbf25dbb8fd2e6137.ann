@@ -1,0 +1,4 @@
+T1	Disease 59 77	apiñamiento dental
+T3	Therapeutic_Procedure 20 45	tratamientp de ortodoncia
+T4	Therapeutic_Procedure 90 122	tratamiento de operatoria dental
+A1	Pending T3

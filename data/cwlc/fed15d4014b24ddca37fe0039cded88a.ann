@@ -1,0 +1,12 @@
+T1	Abbreviation 87 90	APS
+T2	Abbreviation 92 96	PCTE
+T3	Abbreviation 105 108	HTA
+T4	Abbreviation 118 121	AVE
+T5	Abbreviation 123 126	DLP
+T6	Disease 2 31	CÓLICO RENAL, NO ESPECIFICADO
+T7	Disease 49 63	litiasis renal
+T8	Disease 105 108	HTA
+T9	Disease 118 121	AVE
+T10	Disease 123 126	DLP
+T11	Disease 205 234	Colico renal, no especificado
+T12	Sign_or_Symptom 146 161	DOLOR ABDOMINAL

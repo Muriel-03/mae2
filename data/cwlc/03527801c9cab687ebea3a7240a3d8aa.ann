@@ -1,0 +1,10 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 158 175	dientes 3.1 y 4.1
+T3	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T4	Disease 222 270	Anomalias dentofaciales (incluso la maloclusion)
+T5	Clinical_Finding 91 117	primer periodo de recambio
+T6	Sign_or_Symptom 123 156	apiñamiento sector anteroinferior
+T7	Sign_or_Symptom 158 193	dientes 3.1 y 4.1 con giroversiones
+T8	Sign_or_Symptom 205 221	falta de espacio
+T9	Disease 123 134	apiñamiento
+T10	Body_Part 135 156	sector anteroinferior

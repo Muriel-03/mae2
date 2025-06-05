@@ -1,0 +1,15 @@
+T1	Abbreviation 46 49	APS
+T2	Body_Part 15 22	DENTINA
+T3	Body_Part 161 195	espacio lateral izquierdo superior
+T4	Body_Part 217 220	2.3
+T5	Body_Part 250 253	2.2
+T6	Body_Part 327 334	dentina
+T7	Disease 2 22	CARIES DE LA DENTINA
+T8	Disease 314 334	Caries de la dentina
+T10	Clinical_Finding 134 151	clase I izquierda
+T11	Sign_or_Symptom 64 106	discrepancia dentomaxilar negativa maxilar
+T12	Sign_or_Symptom 109 131	clase II molar derecha
+T13	Sign_or_Symptom 152 202	falta de espacio lateral izquierdo superior severa
+T14	Sign_or_Symptom 205 220	erupción de 2.3
+T15	Sign_or_Symptom 221 253	erupción vestibular sobre el 2.2
+T16	Sign_or_Symptom 256 313	discrepancia dentomaxilar negativa moderada en mandibular

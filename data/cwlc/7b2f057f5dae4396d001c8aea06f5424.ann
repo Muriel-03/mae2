@@ -1,0 +1,14 @@
+T1	Abbreviation 92 95	APS
+T2	Body_Part 27 32	FÉMUR
+T3	Body_Part 36 39	PIE
+T4	Body_Part 153 158	femur
+T5	Body_Part 171 174	pie
+T6	Body_Part 228 238	extremidad
+T7	Body_Part 262 265	Pie
+T8	Disease 2 32	SECUELAS DE FRACTURA DEL FÉMUR
+T9	Disease 36 68	PIE PLANO PES PLANUS (ADQUIRIDO)
+T10	Disease 141 158	fractura de femur
+T11	Disease 171 180	pie plano
+T12	Disease 262 293	Pie plano pes planus (adquirido
+T14	Sign_or_Symptom 110 133	dificultad de la marcha
+T15	Sign_or_Symptom 207 238	alteracion de eje de extremidad

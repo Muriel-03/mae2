@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	diente 19
+T2	Disease 14 35	absceso subperiostico
+T3	Therapeutic_Procedure 48 71	tratamiento endodontico
+T4	Therapeutic_Procedure 122 135	implantologia
+A1	Pending T3
+A2	Pending T4

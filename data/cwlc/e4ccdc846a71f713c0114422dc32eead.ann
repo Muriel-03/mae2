@@ -1,0 +1,20 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 115 119	SBOR
+T3	Abbreviation 144 147	IRA
+T4	Abbreviation 151 157	CEsfam
+T5	Abbreviation 200 203	SBT
+T6	Abbreviation 204 207	SOS
+T7	Abbreviation 349 352	HRC
+T8	Abbreviation 466 469	EKG
+T9	Abbreviation 472 475	Med
+T10	Abbreviation 503 506	SOS
+T11	Diagnostic_Procedure 466 469	EKG
+T12	Disease 2 43	SÍNDROME BRONQUIAL OBSTRUCTIVO RECURRENTE
+T13	Disease 115 119	SBOR
+T14	Disease 144 147	IRA
+T15	Medication 187 197	Budesonida
+T16	Medication 200 203	SBT
+T17	Medication 395 410	broncodilatador
+T18	Medication 477 497	Bromuro de ipatropio
+T20	Sign_or_Symptom 251 276	precordalgia inespecifica
+T21	Therapeutic_Procedure 383 410	tratamiento broncodilatador

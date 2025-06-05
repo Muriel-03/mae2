@@ -1,0 +1,8 @@
+T1	Body_Part 17 22	PULPA
+T2	Body_Part 29 39	Diente 1.4
+T3	Disease 2 22	NECROSIS DE LA PULPA
+T4	Disease 49 73	necrosis septica parcial
+T5	Clinical_Finding 146 162	cemento temporal
+T6	Medication 138 142	CaOH
+T7	Therapeutic_Procedure 85 96	trepanacion
+T8	Therapeutic_Procedure 100 142	se aplica medicacion intraconducto de CaOH

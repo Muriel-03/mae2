@@ -1,0 +1,8 @@
+T1	Abbreviation 65 68	APS
+T2	Body_Part 210 217	dientes
+T3	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T4	Disease 70 98	periodontitis cronica severa
+T5	Disease 229 254	Gingivitis y enfermedades
+T6	Sign_or_Symptom 152 171	movilidad grado III
+T7	Therapeutic_Procedure 137 147	exodoncias
+A1	Pending T7

@@ -1,0 +1,9 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 93 96	PZA
+T3	Body_Part 93 98	PZA 5
+T5	Disease 56 74	DESDENTADA PARCIAL
+T6	Disease 84 92	PULPITIS
+T7	Disease 194 202	Pulpitis
+T8	Disease 2 10	PULPITIS
+T9	Therapeutic_Procedure 129 140	TREPANACION
+T4	Clinical_Finding 93 116	PZA 5 PILAR DE PROTESIS

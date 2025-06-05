@@ -1,0 +1,16 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 194 197	atm
+T3	Abbreviation 276 279	atm
+T4	Abbreviation 361 365	Hosp
+T5	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T6	Body_Part 194 197	atm
+T7	Body_Part 276 287	atm derecha
+T8	Body_Part 394 421	articulacion temporomaxilar
+T9	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T11	Disease 377 421	Trastornos de la articulacion temporomaxilar
+T12	Family_Member 107 112	madre
+T13	Family_Member 200 205	Madre
+T14	Sign_or_Symptom 140 145	ruido
+T15	Sign_or_Symptom 148 163	salto articular
+T16	Disease 165 197	subluxación con reducción de atm
+T17	Sign_or_Symptom 226 287	signos a fuerte golpe con pelota de basquétbol en atm derecha

@@ -1,0 +1,9 @@
+T1	Abbreviation 58 60	DX
+T2	Abbreviation 108 110	RX
+T3	Body_Part 50 57	PIEZA 3
+T4	Diagnostic_Procedure 108 121	RX PERIAPICAL
+T5	Disease 61 94	PULPITIS IRREVERSIBLE SINTOMATICA
+T6	Therapeutic_Procedure 21 46	TRATAMIENTO DE ENDODONCIA
+T7	Clinical_Finding 135 148	CIERRE APICAL
+A1	Pending T6
+A2	Pending T4

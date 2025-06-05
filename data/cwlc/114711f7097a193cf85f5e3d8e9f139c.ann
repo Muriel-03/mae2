@@ -1,0 +1,10 @@
+T1	Abbreviation 45 48	APS
+T2	Body_Part 16 21	ÚTERO
+T3	Body_Part 102 107	utero
+T4	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T5	Disease 50 63	MIOMA UTERINO
+T6	Disease 64 87	QUISTE OAVRIO IZQUIERDO
+T7	Disease 88 107	Leiomioma del utero
+T8	Laboratory_or_Test_Result 2 21	LEIOMIOMA DEL ÚTERO
+T9	Laboratory_or_Test_Result 50 107	MIOMA UTERINO QUISTE OAVRIO IZQUIERDO Leiomioma del utero
+T10	Body_Part 71 87	OAVRIO IZQUIERDO

@@ -1,0 +1,9 @@
+T1	Abbreviation 14 16	SD
+T2	Abbreviation 53 56	TAC
+T3	Body_Part 94 99	L3-L4
+T4	Body_Part 102 107	L4-L5
+T5	Diagnostic_Procedure 53 56	TAC
+T6	Disease 14 37	SD. claudicación neural
+T7	Disease 40 52	LUMBOCIATICA
+T8	Laboratory_or_Test_Result 58 107	raquectenosis central Y segmentaria L3-L4 Y L4-L5
+R1	Has Arg1:T5 Arg2:T8	

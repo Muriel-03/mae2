@@ -1,0 +1,9 @@
+T1	Abbreviation 167 170	TTM
+T2	Body_Part 106 118	oído derecho
+T3	Disease 136 155	luxación espontanea
+T4	Disease 156 164	bruxismo
+T5	Disease 167 170	TTM
+T6	Sign_or_Symptom 20 38	luxación bilateral
+T7	Sign_or_Symptom 39 67	fatiga muscular al despertar
+T8	Sign_or_Symptom 70 118	retrodicitis sensación de dormir el oído derecho
+T9	Disease 0 15	luxación ductal

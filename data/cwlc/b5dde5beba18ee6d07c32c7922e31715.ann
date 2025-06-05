@@ -1,0 +1,10 @@
+T1	Body_Part 29 37	pieza 18
+T2	Body_Part 78 84	apices
+T3	Disease 13 28	caries profunda
+T4	Disease 146 173	pulpitis irreversible aguda
+T5	Therapeutic_Procedure 135 145	endodoncia
+T6	Clinical_Finding 38 64	obturado en forma temporal
+T7	Laboratory_or_Test_Result 78 93	apices abiertos
+T8	Therapeutic_Procedure 103 132	tratamiento de apicoformacion
+A1	Pending T8
+A2	Pending T5

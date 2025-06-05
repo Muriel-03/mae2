@@ -1,0 +1,6 @@
+T1	Disease 13 31	retraso psicomotor
+T2	Disease 58 64	caries
+T3	Disease 65 87	enfermedad piriodental
+T4	Sign_or_Symptom 48 64	multiples caries
+T5	Therapeutic_Procedure 134 162	defocacion anestesia general
+A1	Pending T5

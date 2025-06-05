@@ -1,0 +1,10 @@
+T1	Abbreviation 184 187	APS
+T2	Body_Part 37 46	Pieza 2.7
+T3	Body_Part 86 99	cámara pulpar
+T4	Body_Part 122 127	Pieza
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T7	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T8	Laboratory_or_Test_Result 37 99	Pieza 2.7 obturación provisoria proyectada sobre cámara pulpar
+T9	Therapeutic_Procedure 110 120	endodoncia
+A1	Pending T9
+T6	Clinical_Finding 122 180	Pieza completa, fácil de aislar, perfectamente restaurable

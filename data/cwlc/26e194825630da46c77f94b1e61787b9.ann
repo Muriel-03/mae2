@@ -1,0 +1,10 @@
+T1	Abbreviation 154 158	EPOC
+T2	Diagnostic_Procedure 126 138	ESPIROMETRIA
+T4	Disease 154 158	EPOC
+T5	Laboratory_or_Test_Result 139 158	COMPATIBLE CON EPOC
+T6	Sign_or_Symptom 13 16	TOS
+T7	Sign_or_Symptom 41 71	DISNEA CON PREDOMINIO NOCTURNO
+T8	Sign_or_Symptom 88 96	DISFONIA
+T9	Therapeutic_Procedure 180 195	COLECISTECTOMIA
+R1	Has Arg1:T2 Arg2:T5	
+A1	Pending T9

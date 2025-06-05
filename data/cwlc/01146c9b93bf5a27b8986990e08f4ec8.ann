@@ -1,0 +1,7 @@
+T1	Abbreviation 20 23	Pza
+T2	Abbreviation 35 37	od
+T3	Body_Part 20 27	Pza 1.7
+T4	Diagnostic_Procedure 90 101	Radiografia
+T5	Disease 28 46	Caries od Profunda
+T6	Disease 48 77	pulpitis cronica irreversible
+T7	Clinical_Finding 79 88	Trapanada

@@ -1,0 +1,5 @@
+T1	Body_Part 54 66	grupo ll y v
+T2	Disease 33 53	apiñamiento dentario
+T3	Clinical_Finding 8 31	clase 1 molar bilateral
+T5	Sign_or_Symptom 33 66	apiñamiento dentario grupo ll y v
+T6	Sign_or_Symptom 68 81	falta espacio

@@ -1,0 +1,18 @@
+T1	Abbreviation 85 88	APS
+T2	Abbreviation 90 94	PCTE
+T3	Abbreviation 105 107	G4
+T4	Abbreviation 138 140	DR
+T5	Abbreviation 151 155	POLI
+T6	Abbreviation 172 175	OBS
+T7	Abbreviation 199 200	+
+T8	Body_Part 177 184	OVARIOS
+T9	Disease 2 12	HIRSUTISMO
+T10	Disease 16 61	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T11	Disease 177 198	OVARIOS POLIQUISTICOS
+T12	Disease 249 255	quiste
+T13	Clinical_Finding 105 111	G4A2P2
+T14	Laboratory_or_Test_Result 177 198	OVARIOS POLIQUISTICOS
+T15	Abbreviation 107 109	A2
+T16	Abbreviation 109 111	P2
+T17	Sign_or_Symptom 201 210	AMENORREA
+T18	Disease 201 210	AMENORREA

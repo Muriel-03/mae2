@@ -1,0 +1,14 @@
+T1	Abbreviation 25 29	PCTE
+T2	Abbreviation 48 51	VOL
+T3	Abbreviation 74 77	PZA
+T4	Abbreviation 122 125	OBS
+T5	Abbreviation 126 129	PZA
+T6	Body_Part 74 80	PZA 32
+T7	Body_Part 126 129	PZA
+T8	Disease 0 4	K052
+T9	Disease 5 24	PERIODONTITIS AGUDA
+T11	Sign_or_Symptom 37 51	AUMENTO DE VOL
+T12	Sign_or_Symptom 54 59	DOLOR
+T13	Sign_or_Symptom 134 153	MOVILIDAD AUMENTADA
+T14	Clinical_Finding 155 165	ENCÍA SANA
+T10	Body_Part 155 160	ENCÍA

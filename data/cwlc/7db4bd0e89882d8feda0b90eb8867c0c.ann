@@ -1,0 +1,11 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 109 112	HTA
+T3	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T4	Disease 109 112	HTA
+T5	Disease 172 180	diabetes
+T6	Disease 432 464	Enfermedad renal cronica Etapa 3
+T7	Medication 162 170	losartan
+T8	Sign_or_Symptom 304 311	cefalea
+T9	Sign_or_Symptom 313 319	mareos
+T10	Sign_or_Symptom 320 339	debilidad generalse
+T11	Medication 219 231	glibeclamida

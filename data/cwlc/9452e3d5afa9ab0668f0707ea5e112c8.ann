@@ -1,0 +1,11 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 100 124	molares temporales y 6.3
+T4	Body_Part 171 180	2.3 y 1.3
+T5	Body_Part 182 196	canino derecho
+T6	Body_Part 258 264	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 229 264	Anomalias de la posicion del diente
+T9	Sign_or_Symptom 79 124	perdida prematura de molares temporales y 6.3
+T10	Sign_or_Symptom 135 180	perdida de espacio para erupción de 2.3 y 1.3
+T11	Sign_or_Symptom 182 226	canino derecho la perdida es en menor medida

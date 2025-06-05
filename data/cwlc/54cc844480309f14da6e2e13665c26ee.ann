@@ -1,0 +1,11 @@
+T1	Abbreviation 73 76	ARO
+T2	Abbreviation 110 112	DM
+T3	Abbreviation 176 180	PTGO
+T4	Disease 110 124	DM GESTACIONAL
+T5	Disease 182 207	INTOLERANCIA A LA GLUCOSA
+T6	Family_Member 41 46	HIJOS
+T7	Clinical_Finding 0 8	EMBARAZO
+T8	Laboratory_Procedure 176 180	PTGO
+T9	Clinical_Finding 25 59	ANTECEDENTES DE HIJOS MACROSOMICOS
+T10	Laboratory_or_Test_Result 182 207	INTOLERANCIA A LA GLUCOSA
+R1	Has Arg1:T8 Arg2:T10	

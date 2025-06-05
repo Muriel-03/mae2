@@ -1,0 +1,11 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 46 61	pieza 3,8 y 4,8
+T3	Body_Part 80 86	mucosa
+T4	Body_Part 107 116	pieza 4,8
+T5	Body_Part 181 197	terceros molares
+T6	Disease 2 17	PERICORONARITIS
+T7	Clinical_Finding 46 78	pieza 3,8 y 4,8 semierupcionadas
+T9	Therapeutic_Procedure 162 171	exodoncia
+T8	Sign_or_Symptom 80 116	mucosa edematosa alrededor.pieza 4,8
+T10	Sign_or_Symptom 107 140	pieza 4,8 posicion mesioinclinada
+A1	Pending T9

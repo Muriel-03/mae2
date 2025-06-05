@@ -1,0 +1,9 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 53	pacte
+T3	Abbreviation 97 100	max
+T4	Body_Part 97 109	max superior
+T5	Body_Part 145 160	arcos dentarios
+T7	Disease 110 160	Anomalias de la relacion entre los arcos dentarios
+T8	Sign_or_Symptom 2 19	MORDIDA INVERTIDA
+T9	Sign_or_Symptom 54 80	mordida invertida anterior
+T10	Sign_or_Symptom 82 109	compresion del max superior

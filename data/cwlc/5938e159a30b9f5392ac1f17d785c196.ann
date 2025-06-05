@@ -1,0 +1,15 @@
+T1	Abbreviation 68 71	APS
+T2	Abbreviation 233 236	ITU
+T3	Body_Part 2 10	PREPUCIO
+T4	Body_Part 287 295	PREPUCIO
+T5	Body_Part 310 318	Prepucio
+T6	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T7	Disease 204 211	FIMOSIS
+T8	Disease 233 236	ITU
+T9	Disease 241 250	BALANITIS
+T10	Disease 310 352	Prepucio redundante, fimosis y parafimosis
+T11	Family_Member 180 187	HERMANA
+T13	Sign_or_Symptom 273 295	ESTRECHEZ DEL PREPUCIO
+T14	Clinical_Finding 86 118	ANTECEDENTES DE CIRUGIA CARDIACA
+A1	Negated T8
+A2	Negated T9

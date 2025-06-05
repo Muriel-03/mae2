@@ -1,0 +1,11 @@
+T1	Abbreviation 79 82	APS
+T2	Body_Part 152 161	pieza 1.8
+T3	Body_Part 233 254	piezas 3.8 /4.8 y 2.8
+T4	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T5	Disease 42 55	CARIES DENTAL
+T6	Disease 189 195	caries
+T7	Disease 266 302	Alteraciones en la erupcion dentaria
+T9	Clinical_Finding 107 115	embarazo
+T11	Laboratory_or_Test_Result 152 231	pieza 1.8, destruccion coronaria por caries, doble contorno radicular. vertical
+T12	Sign_or_Symptom 136 161	molestias en la pieza 1.8
+T15	Laboratory_or_Test_Result 233 265	piezas 3.8 /4.8 y 2.8 verticales

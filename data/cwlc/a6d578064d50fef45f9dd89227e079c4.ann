@@ -1,0 +1,5 @@
+T1	Body_Part 40 75	conducto lagrimal nasal ojo derecho
+T2	Disease 0 19	vicio de refraccion
+T3	Sign_or_Symptom 76 127	izquierdo presenta disminucion de la agudeza visual
+T4	Sign_or_Symptom 24 75	taponamiento de conducto lagrimal nasal ojo derecho
+T6	Body_Part 76 85	izquierdo

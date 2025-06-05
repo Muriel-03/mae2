@@ -1,0 +1,12 @@
+T1	Abbreviation 235 238	res
+T2	Body_Part 16 25	pieza 2.2
+T3	Body_Part 172 180	conducto
+T4	Body_Part 214 230	pieza dental 2.2
+T5	Disease 0 15	Nicrosis pulpar
+T6	Disease 107 124	absceso submucoso
+T8	Laboratory_or_Test_Result 56 91	Lesión apical compatible con quiste
+T9	Sign_or_Symptom 32 53	restauración filtrada
+T10	Disease 85 91	quiste
+T7	Therapeutic_Procedure 137 148	Trepanación
+T11	Therapeutic_Procedure 199 238	reconstitución pieza dental 2.2 con res
+T12	Sign_or_Symptom 150 198	no se logra acceder a conducto por calcificación

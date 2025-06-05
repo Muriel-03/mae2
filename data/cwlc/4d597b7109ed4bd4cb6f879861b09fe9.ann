@@ -1,0 +1,7 @@
+T1	Abbreviation 69 72	APS
+T2	Body_Part 146 163	dientes 3.3 y 4.3
+T3	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 83 127	desdentado total superior y parcial inferior
+T8	Sign_or_Symptom 24 45	DESAJUSTE DE PRÓTESIS
+T9	Sign_or_Symptom 169 202	protesis desajustadas y fracturas
+T4	Clinical_Finding 132 163	remanencia de dientes 3.3 y 4.3

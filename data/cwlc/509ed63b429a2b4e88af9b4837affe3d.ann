@@ -1,0 +1,22 @@
+T1	Abbreviation 481 482	c
+T2	Body_Part 26 34	MENISCOS
+T3	Body_Part 67 74	RODILLA
+T4	Body_Part 240 255	rodilla derecha
+T5	Body_Part 349 361	Extremidades
+T6	Body_Part 419 434	rodilla derecha
+T7	Body_Part 573 586	region medial
+T8	Disease 2 34	OTROS TRASTORNOS DE LOS MENISCOS
+T9	Disease 39 75	GONARTROSIS (ARTROSIS DE LA RODILLA)
+T10	Disease 123 134	Gonartrosis
+T11	Medication 196 205	analgesia
+T12	Sign_or_Symptom 215 255	exacerbacion de dolor en rodilla derecha
+T13	Sign_or_Symptom 260 278	aumento de volumen
+T14	Sign_or_Symptom 281 328	limitacion funcional llegando a utilizar baston
+T15	Sign_or_Symptom 398 434	derrame articular en rodilla derecha
+T16	Sign_or_Symptom 436 462	limitacion para la flexion
+T17	Sign_or_Symptom 500 529	maniobra de bostezos positiva
+T18	Sign_or_Symptom 549 586	dolor a la palpacion en region medial
+T19	Sign_or_Symptom 588 658	maniobra de cajon anterior, posterior y bostezos articulares positivas
+T21	Disease 79 87	ARTROSIS
+T22	Body_Part 530 547	Rodilla izquierda
+T23	Clinical_Finding 363 373	Eutroficas

@@ -1,0 +1,11 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 59 68	Pieza 1.1
+T3	Body_Part 142 151	pieza 1.1
+T4	Body_Part 164 171	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 99 116	absceso submucoso
+T7	Disease 153 171	Caries del cemento
+T9	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T10	Laboratory_or_Test_Result 59 94	Pieza 1.1 con obturacion penetrante
+T11	Therapeutic_Procedure 131 141	endoodncia
+A1	Pending T11

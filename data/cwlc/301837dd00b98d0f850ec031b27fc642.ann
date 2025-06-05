@@ -1,0 +1,14 @@
+T1	Abbreviation 0 3	ERC
+T2	Abbreviation 13 16	HPB
+T3	Abbreviation 173 175	QX
+T4	Disease 0 12	ERC ETAPA IV
+T5	Disease 13 16	HPB
+T6	Therapeutic_Procedure 42 47	FOLEY
+T7	Therapeutic_Procedure 76 102	CIRUGIA ABIERTA PROSTATICA
+T8	Therapeutic_Procedure 104 129	ADENOMECTOMIA RETROPUBICA
+T9	Therapeutic_Procedure 160 168	DIALISIS
+T10	Therapeutic_Procedure 173 175	QX
+A1	Pending T9
+T11	Abbreviation 61 64	GFR
+A2	Pending T10
+A3	Pending T7

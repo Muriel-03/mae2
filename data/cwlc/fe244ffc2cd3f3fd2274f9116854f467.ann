@@ -1,0 +1,9 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 59 62	PZA
+T3	Abbreviation 95 96	+
+T4	Body_Part 59 66	PZA 2.4
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T7	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T8	Medication 78 94	PARAMOCLOROFENOL
+T9	Medication 97 105	EUGENATO
+T10	Therapeutic_Procedure 67 76	TREPANADA

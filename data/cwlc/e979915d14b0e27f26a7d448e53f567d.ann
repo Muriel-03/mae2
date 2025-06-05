@@ -1,0 +1,26 @@
+T1	Abbreviation 0 2	PG
+T2	Abbreviation 4 7	EMB
+T3	Abbreviation 20 23	OBS
+T4	Abbreviation 25 28	HTA
+T5	Abbreviation 29 32	FUR
+T6	Abbreviation 43 46	LCF
+T7	Abbreviation 52 55	RYT
+T8	Abbreviation 68 71	P/A
+T9	Abbreviation 79 81	MM
+T10	Abbreviation 82 84	HG
+T11	Abbreviation 207 209	MG
+T12	Abbreviation 213 216	HRS
+T13	Diagnostic_Procedure 60 67	DOPPLER
+T15	Disease 25 28	HTA
+T16	Clinical_Finding 0 2	PG
+T17	Clinical_Finding 4 7	EMB
+T19	Laboratory_Procedure 189 200	PROTEINURIA
+T20	Sign_or_Symptom 127 134	CEFALEA
+T21	Sign_or_Symptom 136 162	HIPERSENSIBILIDAD A LA LUZ
+T22	Sign_or_Symptom 164 171	TINITUS
+A1	Negated T22
+T23	Sign_or_Symptom 176 184	FOTOPSIA
+A2	Negated T23
+T14	Abbreviation 50 51	X
+T18	Abbreviation 173 174	-
+T24	Abbreviation 186 187	-

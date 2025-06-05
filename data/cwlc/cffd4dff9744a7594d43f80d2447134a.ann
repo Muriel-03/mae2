@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 61 66	PACTE
+T3	Abbreviation 120 123	PZA
+T4	Body_Part 120 127	PZA 1.7
+T5	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T7	Disease 153 174	Periodontitis cronica
+T8	Sign_or_Symptom 94 110	SACO PERIOODNTAL
+T9	Sign_or_Symptom 111 127	DOLOR EN PZA 1.7
+T10	Sign_or_Symptom 129 141	PERDIDA OSEA
+T11	Sign_or_Symptom 143 152	MOVILIDAD

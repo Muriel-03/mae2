@@ -1,0 +1,23 @@
+T1	Abbreviation 143 146	APS
+T2	Abbreviation 189 192	hta
+T3	Abbreviation 194 197	dlp
+T4	Abbreviation 408 411	rnm
+T5	Abbreviation 499 502	ACM
+T6	Body_Part 499 512	ACM izquierda
+T7	Diagnostic_Procedure 408 420	rnm cerebral
+T8	Disease 2 33	ANEURISMA CEREBRAL, SIN RUPTURA
+T9	Disease 37 68	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T10	Disease 73 85	DISLIPIDEMIA
+T11	Disease 89 119	ANEMIA DE TIPO NO ESPECIFICADO
+T12	Disease 189 192	hta
+T13	Disease 194 197	dlp
+T14	Disease 200 206	anemia
+T15	Disease 453 512	aneurisma saculara en sitio de bifurcacion de ACM izquierda
+T16	Laboratory_or_Test_Result 443 512	aparanete aneurisma saculara en sitio de bifurcacion de ACM izquierda
+T17	Sign_or_Symptom 262 276	vision borrosa
+T18	Sign_or_Symptom 279 294	dolor abdominal
+T19	Sign_or_Symptom 245 260	desortientacion
+R1	Has Arg1:T7 Arg2:T16	
+T20	Sign_or_Symptom 534 571	cefales verpertina de intesnidad leve
+T21	Sign_or_Symptom 576 590	otros sintomas
+A1	Negated T21

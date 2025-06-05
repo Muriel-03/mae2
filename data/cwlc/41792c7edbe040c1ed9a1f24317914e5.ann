@@ -1,0 +1,13 @@
+T1	Abbreviation 21 24	ANT
+T2	Abbreviation 29 32	DM2
+T3	Abbreviation 55 58	HTA
+T4	Abbreviation 191 194	EDA
+T5	Diagnostic_Procedure 125 144	ECOGRAFIA ABDOMINAL
+T6	Diagnostic_Procedure 191 194	EDA
+T7	Disease 29 32	DM2
+T8	Disease 55 58	HTA
+T11	Laboratory_or_Test_Result 154 178	SIN HALLAZGOS PATOLOGICO
+T12	Sign_or_Symptom 80 103	DOLOR EPIGASTRICOURENTE
+T13	Sign_or_Symptom 106 116	METEORISMO
+R1	Has Arg1:T5 Arg2:T11	
+A1	Pending T6

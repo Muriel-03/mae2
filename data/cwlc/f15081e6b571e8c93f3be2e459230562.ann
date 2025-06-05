@@ -1,0 +1,6 @@
+T1	Body_Part 12 18	brazos
+T2	Body_Part 62 67	manos
+T3	Body_Part 70 75	dedos
+T4	Body_Part 102 116	tunel carpiano
+T6	Sign_or_Symptom 0 75	dolor ambos brazos probablemente tipo neuralgico, irradiado a manos y dedos
+T5	Disease 102 116	tunel carpiano

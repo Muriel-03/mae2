@@ -1,0 +1,14 @@
+T1	Abbreviation 87 90	APS
+T2	Abbreviation 233 236	TAC
+T3	Body_Part 165 181	lobulo izquierdo
+T4	Diagnostic_Procedure 233 236	TAC
+T5	Disease 2 37	OTRAS ENFERMEDADES CARDIOPULMONARES
+T6	Disease 242 271	hiperplasia protativa benigna
+T7	Disease 314 349	Otras enfermedades cardiopulmonares
+T8	Laboratory_or_Test_Result 145 181	nodulo pulmonar  en lobulo izquierdo
+T9	Laboratory_or_Test_Result 242 271	hiperplasia protativa benigna
+T10	Disease 37 62	nodulo pulmonar izquierdo
+T11	Laboratory_or_Test_Result 37 62	nodulo pulmonar izquierdo
+T12	Disease 145 181	nodulo pulmonar  en lobulo izquierdo
+R1	Has Arg1:T4 Arg2:T8	
+R2	Has Arg1:T4 Arg2:T9	

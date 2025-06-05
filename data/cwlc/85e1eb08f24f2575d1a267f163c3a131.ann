@@ -1,0 +1,16 @@
+T1	Abbreviation 68 70	HO
+T2	Abbreviation 84 86	SD
+T3	Abbreviation 104 107	TAE
+T4	Abbreviation 108 111	HNP
+T5	Abbreviation 163 164	C
+T6	Abbreviation 165 167	HO
+T7	Disease 84 103	SD. DOLOR LUMBATICO
+T8	Disease 108 111	HNP
+T9	Laboratory_or_Test_Result 153 162	POSITIVOS
+T11	Sign_or_Symptom 88 103	DOLOR LUMBATICO
+T12	Sign_or_Symptom 213 229	DOLOR PERMANENTE
+T13	Therapeutic_Procedure 12 32	TRATAMIENTO KINESICO
+T10	Abbreviation 113 114	-
+T14	Laboratory_or_Test_Result 108 162	HNP (-) CON PROTUICION DISCAL SIN RESULTADOS POSITIVOS
+A1	Negated T8
+T15	Sign_or_Symptom 190 210	ENGROTENIA FUNCIONAL

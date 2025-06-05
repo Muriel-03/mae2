@@ -1,0 +1,8 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 105 107	Rx
+T3	Body_Part 44 47	1.4
+T4	Diagnostic_Procedure 105 121	Rx retroalveolar
+T5	Disease 2 15	CARIES DENTAL
+T11	Therapeutic_Procedure 49 58	Trepanada
+T12	Therapeutic_Procedure 60 103	Se coloca motita estéril y cemento temporal
+T6	Disease 123 136	Caries dental

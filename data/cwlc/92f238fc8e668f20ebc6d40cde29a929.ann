@@ -1,0 +1,8 @@
+T1	Body_Part 80 92	grupo II y V
+T2	Disease 68 79	apiñamiento
+T3	Clinical_Finding 8 36	denticion mixta segunda fase
+T4	Sign_or_Symptom 38 66	mordida cruzada lado derecho
+T5	Sign_or_Symptom 68 92	apiñamiento grupo II y V
+T6	Therapeutic_Procedure 105 130	tratamiento de ortodoncia
+T7	Body_Part 8 17	denticion
+A1	Pending T6

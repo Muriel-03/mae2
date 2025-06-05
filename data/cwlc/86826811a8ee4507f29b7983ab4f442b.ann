@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 66 71	PACTE
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 160 166	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 131 166	Anomalias de la posicion del diente
+T7	Disease 83 103	APIÑAMIENTO DENTARIO
+T8	Sign_or_Symptom 116 129	GIROVERSIONES
+T9	Sign_or_Symptom 105 115	ROTACIONES

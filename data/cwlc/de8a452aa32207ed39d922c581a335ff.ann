@@ -1,0 +1,7 @@
+T1	Abbreviation 20 23	Eco
+T2	Diagnostic_Procedure 20 33	Eco Abdominal
+T3	Laboratory_or_Test_Result 69 95	Esteatosis Hepatica Difusa
+T4	Disease 97 114	Colecistolitiasis
+T6	Laboratory_or_Test_Result 97 114	Colecistolitiasis
+R1	Has Arg1:T2 Arg2:T3	
+R2	Has Arg1:T2 Arg2:T6	

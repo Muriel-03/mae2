@@ -1,0 +1,18 @@
+T1	Abbreviation 79 82	APS
+T2	Abbreviation 171 176	aprox
+T3	Abbreviation 285 288	APS
+T4	Abbreviation 314 318	poli
+T5	Abbreviation 333 336	HRC
+T6	Abbreviation 384 387	APS
+T7	Body_Part 2 7	VENAS
+T8	Body_Part 25 44	MIEMBROS INFERIORES
+T9	Body_Part 151 167	pierna izquierda
+T10	Body_Part 493 498	Venas
+T11	Body_Part 516 535	miembros inferiores
+T12	Disease 2 55	VENAS VARICOSAS DE LOS MIEMBROS INFERIORES CON ÚLCERA
+T13	Disease 97 117	insuficiencia venosa
+T14	Disease 135 167	ulcera varicosa pierna izquierda
+T17	Disease 422 442	insuficiencia venosa
+T18	Disease 493 546	Venas varicosas de los miembros inferiores con ulcera
+T19	Sign_or_Symptom 209 230	reaparicion de ulcera
+T20	Therapeutic_Procedure 271 281	curaciones

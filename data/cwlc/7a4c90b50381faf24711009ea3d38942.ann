@@ -1,0 +1,8 @@
+T1	Abbreviation 62 65	TDA
+T2	Abbreviation 95 96	+
+T3	Body_Part 0 3	2.1
+T4	Body_Part 80 83	2.1
+T5	Disease 33 57	NECROSIS PULPAR ASEPTICA
+T6	Disease 62 65	TDA
+T7	Clinical_Finding 4 13	TREPANADO
+T8	Abbreviation 99 100	-

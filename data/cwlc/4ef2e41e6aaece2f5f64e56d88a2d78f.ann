@@ -1,0 +1,8 @@
+T1	Abbreviation 29 32	OTM
+T2	Abbreviation 150 153	OTM
+T3	Disease 29 40	OTM cronica
+T4	Disease 45 57	colesteatoma
+T5	Disease 200 215	otitis micotica
+T7	Therapeutic_Procedure 70 84	timpanlplastia
+T6	Sign_or_Symptom 120 161	episodios de reagudizacion de OTM cronica
+T8	Disease 150 161	OTM cronica

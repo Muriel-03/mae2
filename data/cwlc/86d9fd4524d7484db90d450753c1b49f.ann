@@ -1,0 +1,7 @@
+T1	Abbreviation 140 142	IC
+T3	Sign_or_Symptom 42 63	destrucción coronaria
+T4	Sign_or_Symptom 112 130	mal conportamiento
+T5	Disease 0 28	Caries de aparición temprana
+T6	Sign_or_Symptom 76 99	alteraciones de esmalte
+T7	Body_Part 30 41	5.1-6.1-6.2
+T8	Sign_or_Symptom 100 110	hipoglosia

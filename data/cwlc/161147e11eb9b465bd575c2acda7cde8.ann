@@ -1,0 +1,14 @@
+T1	Abbreviation 15 18	TDA
+T2	Abbreviation 64 67	pza
+T3	Abbreviation 71 73	rx
+T4	Abbreviation 94 95	p
+T5	Body_Part 24 36	piezas 8 - 9
+T6	Body_Part 64 70	pza. 9
+T8	Diagnostic_Procedure 71 73	rx
+T9	Disease 15 18	TDA
+T12	Laboratory_or_Test_Result 74 108	espacio periodental p 8 ensanchado
+T13	Sign_or_Symptom 41 70	avulsión traumática de pza. 9
+T14	Sign_or_Symptom 113 118	dolor
+T15	Disease 41 49	avulsión
+R1	Has Arg1:T8 Arg2:T12	
+T7	Body_Part 94 97	p 8

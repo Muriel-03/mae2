@@ -1,0 +1,12 @@
+T1	Abbreviation 39 42	PZA
+T2	Body_Part 39 45	PZA 14
+T3	Disease 0 8	necrosis
+T4	Disease 46 66	PULPITIS IREVERSIBLE
+T5	Therapeutic_Procedure 73 82	TRAPANADA
+T6	Therapeutic_Procedure 120 143	TRATAMIENTO DE CONDUCTO
+T7	Body_Part 9 17	poeza 30
+T8	Clinical_Finding 20 29	trepenada
+T9	Disease 31 38	ostetis
+T10	Laboratory_or_Test_Result 31 38	ostetis
+T11	Body_Part 67 72	PIESA
+A1	Pending T6

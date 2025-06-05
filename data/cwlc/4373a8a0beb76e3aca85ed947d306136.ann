@@ -1,0 +1,19 @@
+T1	Abbreviation 34 38	ADAC
+T2	Abbreviation 246 248	Ca
+T3	Abbreviation 327 329	ex
+T4	Body_Part 73 83	diente 1.4
+T5	Diagnostic_Procedure 327 343	ex. radiográfico
+T6	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T7	Disease 93 122	absceso dentoalveolar crónico
+T9	Therapeutic_Procedure 189 218	instrumentación hasta lima 30
+T10	Clinical_Finding 291 322	restauración temporal de fermín
+T11	Laboratory_or_Test_Result 355 384	lesión radiolúcida periapical
+T12	Medication 159 179	hipoclorito de sodio
+T13	Sign_or_Symptom 128 142	fístula activa
+T14	Therapeutic_Procedure 57 68	trepanación
+T15	Medication 235 248	hidróx. de Ca
+T8	Abbreviation 235 241	hidróx
+T16	Therapeutic_Procedure 220 248	medicación con hidróx. de Ca
+T17	Medication 182 187	suero
+R1	Has Arg1:T5 Arg2:T11	
+T18	Clinical_Finding 386 412	Sin sintomatología clínica

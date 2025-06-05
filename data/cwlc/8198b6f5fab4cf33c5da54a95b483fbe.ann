@@ -1,0 +1,8 @@
+T1	Abbreviation 40 43	OBS
+T2	Body_Part 9 17	PIZA 3-8
+T3	Disease 47 58	PIRORANITIS
+T4	Sign_or_Symptom 68 84	DOLOR EN LA ZONA
+T5	Therapeutic_Procedure 107 116	EXODONCIA
+T6	Laboratory_or_Test_Result 9 38	PIZA 3-8 RETENIDA E IMPORTADA
+T7	Disease 18 38	RETENIDA E IMPORTADA
+A1	Pending T5

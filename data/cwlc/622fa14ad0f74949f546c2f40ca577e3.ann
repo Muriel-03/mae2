@@ -1,0 +1,21 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 47 51	Pact
+T3	Abbreviation 71 74	HTA
+T4	Abbreviation 123 127	PTGO
+T5	Abbreviation 180 182	mg
+T6	Abbreviation 183 185	dl
+T7	Body_Part 271 288	region de ombligo
+T8	Disease 2 18	HERNIA UMBILICAL
+T9	Disease 71 74	HTA
+T10	Disease 75 86	Gonartrosis
+T11	Disease 345 375	hernia umbilical no complicada
+T12	Laboratory_Procedure 123 127	PTGO
+T13	Laboratory_Procedure 132 146	glicemia basal
+T14	Laboratory_Procedure 154 173	glicemia post carga
+T15	Sign_or_Symptom 262 288	dolor en region de ombligo
+T16	Sign_or_Symptom 314 329	masa reductible
+T17	Abbreviation 163 167	post
+T18	Laboratory_or_Test_Result 193 219	indica que no es Diabetico
+R1	Has Arg1:T12 Arg2:T18	
+R2	Has Arg1:T14 Arg2:T18	
+R3	Has Arg1:T13 Arg2:T18	

@@ -1,0 +1,25 @@
+T1	Abbreviation 67 70	pap
+T2	Abbreviation 104 107	APS
+T3	Abbreviation 117 120	PAP
+T4	Abbreviation 129 132	pap
+T5	Abbreviation 244 247	pap
+T6	Body_Part 45 59	CUELLO UTERINO
+T7	Body_Part 405 419	cuello uterino
+T8	Diagnostic_Procedure 67 70	pap
+T9	Diagnostic_Procedure 117 120	PAP
+T10	Diagnostic_Procedure 244 247	pap
+T11	Disease 35 59	TUMOR DEL CUELLO UTERINO
+T12	Disease 395 419	tumor del cuello uterino
+T13	Laboratory_or_Test_Result 71 78	atipico
+T14	Laboratory_or_Test_Result 147 202	CELULAS ESCAMOSAS ATIPICAS DE SIGNIFICADO INDETERMINADO
+T15	Laboratory_or_Test_Result 260 341	CELULAS ESCAMOSAS ATIPICAS DE SIGNIFICADO INDETERMINADOCITAR A PATOLOGIA CERVICAL
+T16	Laboratory_or_Test_Result 354 361	ATIPICO
+R1	Has Arg1:T8 Arg2:T13	
+T17	Laboratory_or_Test_Result 121 128	Atipico
+R2	Has Arg1:T9 Arg2:T17	
+T18	Laboratory_or_Test_Result 202 236	REACCION INFLAMATORIA INESPECIFICA
+T19	Diagnostic_Procedure 129 132	pap
+R3	Has Arg1:T19 Arg2:T14	
+R4	Has Arg1:T19 Arg2:T18	
+R5	Has Arg1:T10 Arg2:T15	
+R6	Has Arg1:T10 Arg2:T16	

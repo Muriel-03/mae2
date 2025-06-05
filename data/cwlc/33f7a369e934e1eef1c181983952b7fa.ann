@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 84	pacte
+T3	Body_Part 183 199	maxilar superior
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 149 167	restos radiculares
+T6	Disease 200 248	Anomalias dentofaciales (incluso la maloclusion)
+T7	Sign_or_Symptom 89 106	mordida invertida
+T8	Sign_or_Symptom 168 199	compresion del maxilar superior
+T9	Therapeutic_Procedure 126 135	exodoncia

@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 66 83	Dientes 3.8 y 4.8
+T4	Body_Part 168 174	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 139 174	Anomalias de la posicion del diente
+T8	Laboratory_or_Test_Result 66 115	Dientes 3.8 y 4.8 verticales, IIB Pell y Gregory.
+T9	Therapeutic_Procedure 128 138	exodoncias
+A1	Pending T9

@@ -1,0 +1,24 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 10 13	QMT
+T3	Abbreviation 37 39	RR
+T4	Abbreviation 40 43	dte
+T5	Abbreviation 52 56	pcte
+T6	Abbreviation 67 69	rx
+T7	Abbreviation 76 79	alv
+T8	Abbreviation 94 98	Pcte
+T9	Abbreviation 120 123	QMT
+T10	Abbreviation 148 151	tto
+T11	Abbreviation 152 158	period
+T12	Abbreviation 185 188	tpo
+T13	Body_Part 40 50	dte 7 y 28
+T14	Diagnostic_Procedure 67 79	rx retro alv
+T16	Therapeutic_Procedure 10 13	QMT
+T17	Therapeutic_Procedure 27 39	exodoncia RR
+T18	Therapeutic_Procedure 120 123	QMT
+T19	Therapeutic_Procedure 148 158	tto period
+T15	Disease 37 39	RR
+T20	Diagnostic_Procedure 82 92	panoramica
+A1	Pending T16
+A2	Pending T17
+A3	Pending T18
+A4	Pending T19

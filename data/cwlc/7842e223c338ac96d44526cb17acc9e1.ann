@@ -1,0 +1,8 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 62 63	m
+T4	Clinical_Finding 79 110	Atencion para la anticoncepcion
+T5	Clinical_Finding 2 33	ATENCIÓN PARA LA ANTICONCEPCIÓN
+T6	Clinical_Finding 62 64	m2
+T7	Therapeutic_Procedure 19 33	ANTICONCEPCIÓN
+T8	Therapeutic_Procedure 71 78	POMEROY
+A1	Pending T8

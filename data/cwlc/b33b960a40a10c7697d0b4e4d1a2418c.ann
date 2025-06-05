@@ -1,0 +1,8 @@
+T1	Abbreviation 64 67	adm
+T2	Abbreviation 121 124	tto
+T3	Body_Part 43 61	caninos inferiores
+T4	Body_Part 72 78	diente
+T5	Sign_or_Symptom 13 61	ataque anterior en relacion a caninos inferiores
+T6	Therapeutic_Procedure 121 149	tto ortodoncico interceptivo
+T7	Disease 64 92	adm por diente grande severa
+A1	Pending T6

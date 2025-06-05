@@ -1,0 +1,16 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 112 117	antec
+T3	Abbreviation 204 207	bcg
+T4	Abbreviation 229 231	TR
+T5	Body_Part 20 28	PRÓSTATA
+T6	Body_Part 233 241	prostata
+T7	Body_Part 291 299	prostata
+T8	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T10	Disease 273 299	Hiperplasia de la prostata
+T11	Clinical_Finding 204 207	bcg
+T12	Sign_or_Symptom 78 96	retencion urinaria
+T13	Sign_or_Symptom 156 180	sintomas de  prostatismo
+T14	Sign_or_Symptom 214 227	globovesicual
+T15	Sign_or_Symptom 233 271	prostata grado 2 , consistencia blanda
+T17	Therapeutic_Procedure 136 142	sondeo
+A1	Negated T14

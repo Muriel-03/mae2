@@ -1,0 +1,5 @@
+T1	Body_Part 30 46	maxilar superior
+T3	Disease 0 20	Apiñamiento dentario
+T2	Sign_or_Symptom 49 67	compresión maxilar
+T4	Sign_or_Symptom 68 97	Mesioclusión miolar izquierda
+T5	Clinical_Finding 98 124	netroclusión molar derecha

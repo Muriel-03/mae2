@@ -1,0 +1,18 @@
+T1	Abbreviation 68 71	APS
+T2	Abbreviation 209 211	cm
+T3	Abbreviation 218 221	izq
+T4	Abbreviation 226 228	cm
+T5	Body_Part 95 102	abdomen
+T6	Diagnostic_Procedure 78 102	ecotomografia de abdomen
+T7	Disease 2 44	OTRAS HIDRONEFROSIS Y LAS NO ESPECIFICADAS
+T8	Disease 401 443	Otras hidronefrosis y las no especificadas
+T9	Laboratory_or_Test_Result 115 193	hidroureteronefrosis bilateral si n identificar un factor obstructivo evidente
+T12	Sign_or_Symptom 333 351	sintomas disuricos
+T13	Sign_or_Symptom 354 366	dolor lumbar
+R1	Has Arg1:T6 Arg2:T9	
+T14	Abbreviation 200 204	dwer
+T10	Body_Part 194 199	riñom
+T11	Laboratory_or_Test_Result 194 307	riñom dwer 9,2 cm riñom izq 9,8 cm bien posicionados y de ecogenicidad normal con adecuedo  grosor parenquimatoso
+R2	Has Arg1:T6 Arg2:T11	
+T15	Body_Part 212 217	riñom
+T16	Sign_or_Symptom 378 389	escalofrios

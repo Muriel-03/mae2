@@ -1,0 +1,25 @@
+T1	Abbreviation 50 53	APS
+T2	Abbreviation 89 92	tto
+T3	Abbreviation 116 117	+
+T4	Abbreviation 130 131	+
+T5	Abbreviation 216 219	bcg
+T6	Abbreviation 234 237	ECM
+T7	Body_Part 187 199	mano derecho
+T8	Body_Part 234 245	ECM derecho
+T9	Body_Part 314 333	corredera bicipital
+T10	Body_Part 345 362	anterbazo derecho
+T11	Body_Part 390 394	mano
+T12	Disease 2 26	SÍNDROME CERVICOBRAQUIAL
+T13	Sign_or_Symptom 69 85	cervibraquialgia
+T14	Disease 415 439	Sindrome cervicobraquial
+T15	Clinical_Finding 216 219	bcg
+T16	Medication 97 115	relajante muscular
+T17	Medication 118 129	paracetamol
+T18	Medication 132 140	tramadol
+T19	Sign_or_Symptom 163 199	perdida de fuerza en la mano derecho
+T20	Sign_or_Symptom 225 245	dolor en ECM derecho
+T21	Sign_or_Symptom 248 287	dolor a la  rotacion cervical izquierda
+T22	Sign_or_Symptom 290 333	dolor a la palpacion en corredera bicipital
+T23	Sign_or_Symptom 336 362	dolor en anterbazo derecho
+T24	Sign_or_Symptom 369 394	perdida de fuerza en mano
+T25	Sign_or_Symptom 397 412	tinnel positivo

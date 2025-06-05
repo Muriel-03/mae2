@@ -1,0 +1,16 @@
+T1	Abbreviation 21 24	SEM
+T2	Abbreviation 43 46	ECO
+T3	Abbreviation 57 60	EPF
+T4	Abbreviation 68 70	PC
+T5	Abbreviation 129 133	PTGO
+T6	Abbreviation 163 166	CMS
+T7	Diagnostic_Procedure 43 46	ECO
+T8	Clinical_Finding 25 41	MACROSOMIA FETAL
+T10	Clinical_Finding 0 2	M2
+T11	Clinical_Finding 4 12	EMBARAZO
+T12	Laboratory_or_Test_Result 134 140	NORMAL
+T13	Laboratory_Procedure 129 133	PTGO
+R1	Has Arg1:T13 Arg2:T12	
+T9	Abbreviation 126 128	GR
+T14	Laboratory_or_Test_Result 57 65	EPF 3971
+R2	Has Arg1:T7 Arg2:T14	

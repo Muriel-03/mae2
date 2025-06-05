@@ -1,0 +1,6 @@
+T1	Disease 2 47	ESTADOS MENOPÁUSICOS Y CLIMATÉRICOS FEMENINOS
+T3	Sign_or_Symptom 67 76	amenorrea
+T4	Sign_or_Symptom 127 135	cefaleas
+T5	Sign_or_Symptom 137 146	bochornos
+T6	Sign_or_Symptom 149 156	náuseas
+T2	Therapeutic_Procedure 83 108	esterilización quirurgica

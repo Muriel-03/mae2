@@ -1,0 +1,5 @@
+T1	Body_Part 0 26	piezas dentarias 1.8 y 2.8
+T2	Body_Part 58 84	piezas dentarias 3.8 y 4.8
+T3	Body_Part 170 186	piezas 3.7 y 4.7
+T4	Laboratory_or_Test_Result 0 56	piezas dentarias 1.8 y 2.8 semiincluidas en distoversión
+T5	Laboratory_or_Test_Result 58 186	piezas dentarias 3.8 y 4.8 completando su formación radicular, en mesioversión, impactando en disto cervical de piezas 3.7 y 4.7

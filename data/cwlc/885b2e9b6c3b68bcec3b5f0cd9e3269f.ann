@@ -1,0 +1,31 @@
+T1	Abbreviation 38 40	Dg
+T2	Abbreviation 42 45	ERC
+T3	Abbreviation 54 56	AM
+T4	Abbreviation 58 61	HTA
+T5	Abbreviation 65 68	tto
+T6	Abbreviation 95 97	mg
+T7	Abbreviation 98 99	c
+T8	Abbreviation 104 107	hrs
+T9	Abbreviation 121 123	mg
+T10	Abbreviation 124 125	x
+T11	Abbreviation 152 154	mg
+T12	Abbreviation 155 156	x
+T13	Abbreviation 162 165	AAS
+T14	Abbreviation 170 172	mg
+T15	Abbreviation 173 174	x
+T16	Abbreviation 193 196	HTA
+T17	Abbreviation 244 247	HTA
+T18	Abbreviation 305 308	VFG
+T19	Abbreviation 336 339	VFG
+T20	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 4
+T21	Disease 42 53	ERC etapa 4
+T22	Disease 58 61	HTA
+T23	Disease 193 196	HTA
+T24	Disease 244 247	HTA
+T25	Laboratory_Procedure 305 308	VFG
+T26	Laboratory_Procedure 336 339	VFG
+T27	Medication 79 91	Nitrendipino
+T28	Medication 109 117	Losartan
+T29	Medication 131 148	Hidroclorotiazida
+T30	Medication 162 165	AAS
+T31	Laboratory_or_Test_Result 269 303	deterioro progresivo funcion renal

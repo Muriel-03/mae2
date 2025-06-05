@@ -1,0 +1,6 @@
+T1	Abbreviation 104 107	APS
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Sign_or_Symptom 50 80	apiñamientop dentario anterior
+T4	Disease 50 71	apiñamientop dentario
+T5	Therapeutic_Procedure 109 131	tratamiento ortodoncia
+A1	Pending T5

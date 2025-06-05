@@ -1,0 +1,6 @@
+T1	Abbreviation 99 101	RX
+T2	Abbreviation 102 105	BWB
+T3	Diagnostic_Procedure 99 105	RX BWB
+T4	Disease 0 4	K029
+T5	Disease 5 35	CARIES DENTAL, NO ESPECIFICADA
+T6	Disease 36 51	DIABETES TIPO 1

@@ -1,0 +1,6 @@
+T1	Body_Part 0 10	Diente 3.5
+T2	Body_Part 56 62	diente
+T3	Body_Part 83 89	diente
+T4	Disease 11 28	absceso submucoso
+T5	Clinical_Finding 94 126	tratamiento previamente iniciado
+T6	Therapeutic_Procedure 40 51	trepanacion

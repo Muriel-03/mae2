@@ -1,0 +1,10 @@
+T1	Abbreviation 73 76	PSA
+T2	Body_Part 50 57	protata
+T3	Body_Part 89 95	Pelvis
+T4	Body_Part 119 132	hueso iliacos
+T5	Disease 40 57	cáncer de protata
+T6	Laboratory_or_Test_Result 96 138	lesión inflamatoria de hueso iliacos SACRA
+T7	Laboratory_Procedure 73 76	PSA
+T8	Disease 27 39	óseo Sarcoma
+T9	Laboratory_or_Test_Result 40 72	cáncer de protata no metastasico
+T10	Body_Part 133 138	SACRA

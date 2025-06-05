@@ -1,0 +1,6 @@
+T1	Abbreviation 84 87	Pza
+T3	Abbreviation 108 111	Pza
+T4	Body_Part 84 93	Pza. 4-12
+T5	Body_Part 108 114	Pza. 3
+T13	Therapeutic_Procedure 56 83	retratamiento de endoodncia
+A1	Pending T13

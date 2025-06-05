@@ -1,0 +1,8 @@
+T1	Abbreviation 38 41	APS
+T2	Diagnostic_Procedure 153 172	ecografía abdominal
+T3	Disease 2 14	COLELITIASIS
+T5	Disease 174 187	 Colelitiasis
+T6	Clinical_Finding 52 98	sin antecedentes con historia de cólico biliar
+T4	Laboratory_or_Test_Result 175 187	Colelitiasis
+R1	Has Arg1:T2 Arg2:T4	
+T7	Laboratory_or_Test_Result 2 14	COLELITIASIS

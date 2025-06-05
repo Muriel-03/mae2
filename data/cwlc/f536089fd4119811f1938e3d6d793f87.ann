@@ -1,0 +1,21 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 147 150	ORL
+T3	Abbreviation 189 191	rx
+T4	Abbreviation 477 480	ORL
+T5	Body_Part 195 200	cavun
+T6	Body_Part 234 243	via aerea
+T7	Body_Part 287 302	senos maxilares
+T8	Diagnostic_Procedure 189 200	rx de cavun
+T9	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T10	Disease 87 91	asma
+T11	Disease 105 114	sinusitis
+T12	Disease 326 336	hipoacusia
+T13	Disease 482 509	Hipoacusia, no especificada
+T14	Laboratory_or_Test_Result 216 243	estrechamiento de via aerea
+T15	Laboratory_or_Test_Result 253 302	opacidad en área de proyección de senos maxilares
+R1	Has Arg1:T8 Arg2:T14	
+R2	Has Arg1:T8 Arg2:T15	
+T16	Diagnostic_Procedure 359 370	Audiometría
+T17	Diagnostic_Procedure 373 389	impedanciometría
+A1	Pending T16
+A2	Pending T17

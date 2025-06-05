@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 206 222	piezas 3.6 y 4.6
+T4	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T6	Clinical_Finding 70 80	primigesta
+T7	Clinical_Finding 109 136	sin antecedentes sistémicos
+T9	Sign_or_Symptom 162 182	higiene oral regular
+T10	Disease 184 204	apiñamiento dentario
+T11	Sign_or_Symptom 206 255	piezas 3.6 y 4.6 semierupcionados con poco espcio
+T13	Clinical_Finding 138 160	sin alergias conocidas

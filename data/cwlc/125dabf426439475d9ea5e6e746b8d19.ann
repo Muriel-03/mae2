@@ -1,0 +1,8 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 81 84	Pac
+T3	Body_Part 37 52	ARCOS DENTARIOS
+T4	Body_Part 215 230	arcos dentarios
+T5	Disease 2 52	ANOMALÍAS DE LA RELACIÓN ENTRE LOS ARCOS DENTARIOS
+T6	Disease 180 230	Anomalias de la relacion entre los arcos dentarios
+T7	Sign_or_Symptom 99 116	mordida invertida
+T8	Clinical_Finding 118 177	Con manipulación (guía manual) se llega a mordida bis a bis

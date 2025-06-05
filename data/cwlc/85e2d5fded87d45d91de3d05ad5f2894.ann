@@ -1,0 +1,26 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 66 69	Pac
+T3	Abbreviation 100 104	pzas
+T4	Abbreviation 175 178	Pza
+T5	Abbreviation 213 216	pza
+T6	Abbreviation 222 225	Pac
+T7	Abbreviation 242 246	pzas
+T8	Body_Part 31 37	DIENTE
+T9	Body_Part 100 114	pzas 1.1 y 2.1
+T10	Body_Part 175 182	Pza 1.2
+T11	Body_Part 213 220	pza 1.3
+T12	Body_Part 242 256	pzas 3.6 y 4.6
+T13	Body_Part 362 368	diente
+T14	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T15	Disease 119 128	mesiodens
+T16	Disease 158 174	supernumerario).
+T17	Disease 261 279	caries penetrantes
+T18	Disease 310 330	Apiñamiento dentario
+T19	Disease 333 368	Anomalias de la posicion del diente
+T20	Laboratory_or_Test_Result 119 128	mesiodens
+T21	Laboratory_or_Test_Result 261 279	caries penetrantes
+T22	Sign_or_Symptom 85 128	diastema entre pzas 1.1 y 2.1 por mesiodens
+T23	Sign_or_Symptom 175 220	Pza 1.2 erupcionado en palatino de la pza 1.3
+T24	Sign_or_Symptom 230 256	ausencia de pzas 3.6 y 4.6
+T25	Sign_or_Symptom 282 308	gran destrucción coronaria
+T27	Therapeutic_Procedure 144 153	exodoncia

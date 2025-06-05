@@ -1,0 +1,8 @@
+T1	Abbreviation 35 38	APS
+T2	Body_Part 109 134	piezas dentarias 1.6  1.7
+T3	Body_Part 164 185	estructuras dentarias
+T4	Disease 2 11	MESIODENS
+T5	Disease 81 90	mesiodens
+T6	Laboratory_or_Test_Result 2 11	MESIODENS
+T7	Laboratory_or_Test_Result 40 134	radiograficamente se observa prsencia de mesiodens en relacion de la piezas dentarias 1.6  1.7
+T8	Sign_or_Symptom 138 185	a nivel palatino de ambas estructuras dentarias

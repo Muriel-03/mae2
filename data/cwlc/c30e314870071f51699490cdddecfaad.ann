@@ -1,0 +1,11 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 116 127	Dientes 3.8
+T4	Body_Part 130 133	4.8
+T5	Body_Part 149 156	Dientes
+T6	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T7	Disease 149 179	Dientes incluidos e impactados
+T8	Clinical_Finding 89 114	sin antecedentes mórbidos
+T9	Laboratory_or_Test_Result 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T10	Laboratory_or_Test_Result 116 148	Dientes 3.8 - 4.8 semi incluidos
+T11	Laboratory_or_Test_Result 149 179	Dientes incluidos e impactados

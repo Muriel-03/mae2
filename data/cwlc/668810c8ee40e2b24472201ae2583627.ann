@@ -1,0 +1,8 @@
+T1	Abbreviation 0 2	AR
+T2	Abbreviation 3 8	reash
+T4	Body_Part 19 51	EXTREMIDAD SUPERIOR E INTERIORES
+T5	Disease 0 2	AR
+T6	Therapeutic_Procedure 77 93	TERAPIA BILOGICA
+T7	Sign_or_Symptom 9 51	PAPULA EN EXTREMIDAD SUPERIOR E INTERIORES
+T8	Sign_or_Symptom 3 8	reash
+A1	Pending T6

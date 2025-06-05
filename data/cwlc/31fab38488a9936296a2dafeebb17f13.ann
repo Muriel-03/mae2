@@ -1,0 +1,21 @@
+T1	Abbreviation 18 19	P
+T2	Abbreviation 77 80	TTO
+T4	Abbreviation 104 105	X
+T5	Abbreviation 132 134	C/
+T6	Abbreviation 137 138	X
+T8	Abbreviation 156 159	TTO
+T9	Abbreviation 171 172	P
+T10	Body_Part 18 21	P#7
+T11	Body_Part 57 62	PIEZA
+T12	Body_Part 171 174	P#7
+T13	Disease 22 38	GRANULOMA APICAL
+T14	Laboratory_or_Test_Result 22 55	GRANULOMA APICAL Y RIZALIS APICAL
+T15	Medication 81 92	AMOXICILINA
+T16	Medication 114 124	IBUPROFENO
+T17	Therapeutic_Procedure 156 170	TTO ENDODONCIA
+T18	Abbreviation 96 98	MG
+T19	Abbreviation 102 103	H
+T20	Abbreviation 99 101	C/
+T3	Abbreviation 128 130	MG
+T21	Abbreviation 135 136	H
+A1	Pending T17

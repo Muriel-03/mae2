@@ -1,0 +1,8 @@
+T1	Body_Part 19 28	adenoides
+T2	Body_Part 99 113	cavum faringeo
+T3	Body_Part 150 163	columna aerea
+T4	Diagnostic_Procedure 84 113	radiografia de cavum faringeo
+T5	Disease 0 28	hipertrofia de las adenoides
+T6	Laboratory_or_Test_Result 126 163	obstruccion severa a la columna aerea
+T7	Sign_or_Symptom 39 55	respirador bucal
+R1	Has Arg1:T4 Arg2:T6	

@@ -1,0 +1,6 @@
+T1	Disease 13 38	retardo psicomotor severo
+T2	Disease 58 64	caries
+T3	Disease 66 88	enfermedad periodental
+T4	Sign_or_Symptom 48 64	multiples caries
+T5	Therapeutic_Procedure 110 142	defocacion con anestecia general
+A1	Pending T5

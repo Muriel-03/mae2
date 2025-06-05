@@ -1,0 +1,19 @@
+T1	Abbreviation 13 16	emb
+T2	Abbreviation 24 27	obs
+T3	Abbreviation 41 42	x
+T4	Abbreviation 70 71	+
+T5	Body_Part 72 77	riñon
+T7	Disease 43 70	cardiopatia congenita fetal
+T8	Disease 72 90	riñon poliquistico
+T9	Clinical_Finding 0 2	g3
+T10	Clinical_Finding 3 5	p2
+T11	Clinical_Finding 6 8	a0
+T12	Clinical_Finding 9 11	v1
+T13	Clinical_Finding 13 16	emb
+T15	Laboratory_or_Test_Result 72 90	riñon poliquistico
+T16	Abbreviation 0 1	g
+T17	Abbreviation 3 4	p
+T18	Abbreviation 6 7	a
+T19	Abbreviation 9 10	v
+T6	Laboratory_or_Test_Result 43 70	cardiopatia congenita fetal
+T14	Disease 92 104	neomortinato

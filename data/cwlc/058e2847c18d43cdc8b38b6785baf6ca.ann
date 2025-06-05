@@ -1,0 +1,10 @@
+T1	Abbreviation 37 40	HTA
+T3	Abbreviation 229 232	TAC
+T4	Body_Part 237 242	TORAX
+T5	Diagnostic_Procedure 164 176	ESPIROMETRIA
+T6	Diagnostic_Procedure 229 242	TAC. DE TORAX
+T7	Disease 37 40	HTA
+T8	Sign_or_Symptom 94 100	DISNEA
+T9	Sign_or_Symptom 109 122	EXPICTORACION
+A1	Pending T5
+A2	Pending T6

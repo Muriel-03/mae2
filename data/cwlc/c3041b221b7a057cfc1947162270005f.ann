@@ -1,0 +1,12 @@
+T1	Abbreviation 23 25	pz
+T3	Abbreviation 36 38	dg
+T4	Abbreviation 43 45	pz
+T5	Abbreviation 108 112	I.C.
+T6	Body_Part 23 30	pz. 3.3
+T7	Body_Part 43 45	pz
+T8	Disease 43 55	pz. incluida
+T10	Laboratory_or_Test_Result 43 100	pz. incluida en disto versión en relación a borde basilar
+T11	Sign_or_Symptom 14 30	Ausencia pz. 3.3
+T12	Therapeutic_Procedure 181 189	implante
+A1	Pending T12
+T2	Body_Part 87 100	borde basilar

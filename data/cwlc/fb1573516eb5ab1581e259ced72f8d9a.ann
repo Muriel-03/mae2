@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	pieza 3.6
+T2	Body_Part 74 83	pieza 3.6
+T3	Body_Part 103 117	hueso alveolar
+T4	Therapeutic_Procedure 61 70	exodoncia
+A1	Pending T4
+T6	Disease 14 50	caries coronaria y radicular extensa
+T7	Therapeutic_Procedure 86 134	preservación del hueso alveolar con injerto oseo
+A2	Pending T7

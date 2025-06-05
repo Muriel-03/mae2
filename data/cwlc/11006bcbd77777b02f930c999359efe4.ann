@@ -1,0 +1,4 @@
+T1	Clinical_Finding 17 38	sin patologias anexas
+T2	Therapeutic_Procedure 91 116	tratamiento de ortodoncia
+A1	Pending T2
+T3	Disease 133 145	malaoclusion

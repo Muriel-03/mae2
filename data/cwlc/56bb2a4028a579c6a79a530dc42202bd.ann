@@ -1,0 +1,9 @@
+T1	Abbreviation 55 58	APS
+T2	Body_Part 116 129	borde basilar
+T3	Body_Part 251 258	4.7-3.6
+T5	Therapeutic_Procedure 237 247	exodoncias
+T6	Laboratory_or_Test_Result 93 172	zona radiolucida sobre borde basilar de 2 x 4 cmsborde basilar linea radioopaca
+T7	Abbreviation 139 142	cms
+T8	Body_Part 142 155	borde basilar
+A1	Pending T5
+T9	Sign_or_Symptom 174 221	alambre de contension por accidente de transito

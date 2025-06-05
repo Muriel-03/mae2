@@ -1,0 +1,8 @@
+T1	Abbreviation 52 53	G
+T2	Clinical_Finding 55 84	neutro oclusion molar derecha
+T3	Sign_or_Symptom 86 114	mesio oclusion molar derecha
+T4	Sign_or_Symptom 0 31	Leve discrepancia osea dentaria
+T5	Sign_or_Symptom 33 54	giro version GII y GI
+T6	Abbreviation 46 47	G
+T7	Body_Part 46 49	GII
+T8	Body_Part 52 54	GI

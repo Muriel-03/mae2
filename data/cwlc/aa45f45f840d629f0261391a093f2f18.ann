@@ -1,0 +1,19 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 69 72	RNT
+T3	Abbreviation 92 95	SFA
+T4	Disease 2 21	AUTISMO EN LA NIÑEZ
+T5	Disease 619 638	Autismo en la niñez
+T6	Family_Member 212 217	Madre
+T7	Family_Member 324 329	madre
+T8	Clinical_Finding 69 72	RNT
+T9	Sign_or_Symptom 236 275	falencias para integrarse con sus pares
+T10	Sign_or_Symptom 351 373	contacto ocular difuso
+T11	Sign_or_Symptom 375 383	ecolalia
+T12	Disease 92 95	SFA
+T13	Sign_or_Symptom 284 315	no es capaz de mantener diàlogo
+T14	Sign_or_Symptom 386 424	dificultades para adecuarse a contexto
+T15	Clinical_Finding 506 529	se mantiene concentrado
+T16	Sign_or_Symptom 552 588	No presenta relación con otros niños
+T17	Clinical_Finding 453 484	muy habil para realizar puzzles
+T18	Clinical_Finding 97 130	Apgar 3, que requiere reanimación
+T19	Sign_or_Symptom 157 210	desarrollo a nivel expresivo y comprensivo deficiente

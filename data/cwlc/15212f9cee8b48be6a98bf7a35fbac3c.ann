@@ -1,0 +1,7 @@
+T1	Abbreviation 100 101	p
+T2	Body_Part 40 49	dentición
+T3	Body_Part 100 112	p. 1.2 y 2.2
+T4	Body_Part 142 148	diente
+T5	Clinical_Finding 40 68	dentición mixta primera fase
+T8	Sign_or_Symptom 70 112	mordida invertida anterior en p. 1.2 y 2.2
+T9	Disease 114 155	Disarmonía dentomaxilar por diente grande

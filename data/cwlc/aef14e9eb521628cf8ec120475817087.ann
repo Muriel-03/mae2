@@ -1,0 +1,8 @@
+T1	Abbreviation 60 61	P
+T2	Body_Part 47 59	PIEZA 7 Y 11
+T3	Body_Part 82 92	PIEZA 9-10
+T4	Laboratory_or_Test_Result 60 92	P. SUPER NUMERO ENTRE PIEZA 9-10
+T5	Sign_or_Symptom 13 59	FALTA DE ESPACIO PARA ERUPCIÓN DE PIEZA 7 Y 11
+T6	Therapeutic_Procedure 118 125	CIRUGIA
+A1	Pending T6
+T7	Disease 60 75	P. SUPER NUMERO

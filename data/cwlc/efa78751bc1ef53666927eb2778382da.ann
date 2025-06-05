@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 101 104	4.8
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Disease 165 180	pericoronaritis
+T6	Therapeutic_Procedure 87 97	extracción
+A1	Pending T6
+T7	Sign_or_Symptom 132 147	semierupcionada
+T8	Sign_or_Symptom 153 180	historia de pericoronaritis

@@ -1,0 +1,26 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 67 72	ANTEC
+T3	Abbreviation 76 79	DM2
+T4	Abbreviation 81 84	HTA
+T5	Abbreviation 245 247	EX
+T7	Abbreviation 281 283	RR
+T8	Abbreviation 287 290	SSP
+T9	Abbreviation 292 294	MP
+T10	Abbreviation 294 295	+
+T11	Disease 2 29	VÉRTIGO PAROXÍSTICO BENIGNO
+T12	Disease 76 79	DM2
+T13	Disease 81 84	HTA
+T14	Clinical_Finding 299 320	EX NEUROLOGICO NORMAL
+T16	Sign_or_Symptom 152 158	MAREOS
+T17	Sign_or_Symptom 171 178	NAUSEAS
+T18	Sign_or_Symptom 188 241	MAREOS EN RELACION A CAMBIOS DE POSICION DE LA CABEZA
+T19	Clinical_Finding 251 278	BIEN HIDRATADA Y PERFUNDIDA
+T20	Sign_or_Symptom 281 290	RR 2T SSP
+T21	Clinical_Finding 292 299	MP+ SRA
+T15	Clinical_Finding 248 251	BEG
+T6	Abbreviation 284 286	2T
+T22	Clinical_Finding 320 336	OTOSCOPIA NORMAL
+T23	Body_Part 235 241	CABEZA
+T24	Abbreviation 296 299	SRA
+T25	Abbreviation 299 301	EX
+T26	Abbreviation 278 279	C

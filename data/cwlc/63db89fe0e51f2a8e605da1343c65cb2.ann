@@ -1,0 +1,14 @@
+T1	Abbreviation 94 97	APS
+T2	Abbreviation 168 170	cm
+T3	Body_Part 22 38	PIEL DE LA OREJA
+T5	Body_Part 45 70	CONDUCTO AUDITIVO EXTERNO
+T6	Body_Part 156 160	piel
+T7	Body_Part 363 367	piel
+T8	Body_Part 374 379	oreja
+T9	Body_Part 386 411	conducto auditivo externo
+T10	Disease 2 70	TUMOR MALIGNO DE LA PIEL DE LA OREJA Y DEL CONDUCTO AUDITIVO EXTERNO
+T11	Disease 343 411	Tumor maligno de la piel de la oreja y del conducto auditivo externo
+T12	Sign_or_Symptom 146 244	lesion en piel de 1x1 cm, de fondo humedo, borde perlado, vascularizado, de crecimiento progresivo
+T13	Sign_or_Symptom 246 254	sensible
+T14	Sign_or_Symptom 256 264	doloroso
+T15	Sign_or_Symptom 270 291	sangrado intermitente

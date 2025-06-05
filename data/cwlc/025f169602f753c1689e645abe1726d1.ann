@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 109 112	PZA
+T3	Body_Part 0 7	PZA 1.1
+T4	Body_Part 109 116	PZA 1.1
+T5	Therapeutic_Procedure 102 108	CORONA
+T6	Therapeutic_Procedure 33 56	ESTABILIZADA CON RESINA
+A1	Pending T5
+T7	Clinical_Finding 8 32	TRATADA ENDODONTICAMENTE

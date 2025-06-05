@@ -1,0 +1,9 @@
+T1	Abbreviation 53 56	APS
+T4	Disease 2 29	ESTRABISMO, NO ESPECIFICADO
+T5	Sign_or_Symptom 78 114	ojo izquierdo estrabismo convergente
+T6	Disease 230 255	Estrabismo, no especifica
+T7	Clinical_Finding 132 159	sigue objetos con la mirada
+T8	Body_Part 78 91	ojo izquierdo
+T9	Sign_or_Symptom 114 132	ono derecho normal
+T3	Body_Part 114 125	ono derecho
+T10	Sign_or_Symptom 159 199	fija la m irada, pero desviacion interna

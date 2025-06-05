@@ -1,0 +1,11 @@
+T1	Body_Part 50 59	pieza 1.2
+T2	Body_Part 64 67	4.2
+T3	Body_Part 69 78	pieza 2.2
+T4	Body_Part 128 137	pieza 3.7
+T5	Body_Part 177 180	3.5
+T6	Disease 154 163	impactada
+T7	Clinical_Finding 9 27	clase I esqueletal
+T8	Laboratory_or_Test_Result 128 180	pieza 3.7 en mesio vrsion impactada en distal de 3.5
+T9	Sign_or_Symptom 29 46	mordida vis a vis
+T10	Sign_or_Symptom 83 94	microdencia
+T11	Sign_or_Symptom 96 126	leve clase III molar bilateral

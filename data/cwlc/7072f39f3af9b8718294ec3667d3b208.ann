@@ -1,0 +1,9 @@
+T1	Abbreviation 57 60	APS
+T2	Body_Part 27 33	OVARIO
+T3	Body_Part 89 103	ovario derecho
+T4	Body_Part 129 135	ovario
+T5	Disease 2 33	QUISTE EN DESARROLLO DEL OVARIO
+T6	Disease 82 103	Quiste ovario derecho
+T7	Disease 104 135	Quiste en desarrollo del ovario
+T8	Clinical_Finding 62 64	M1
+T9	Medication 73 81	implanon

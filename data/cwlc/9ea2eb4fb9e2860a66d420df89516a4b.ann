@@ -1,0 +1,10 @@
+T1	Abbreviation 0 2	DG
+T2	Abbreviation 5 11	T.G.D.
+T3	Abbreviation 12 15	OBS
+T4	Disease 5 11	T.G.D.
+T5	Disease 17 36	SÍNDROME METABÓLICO
+T7	Disease 62 76	HIPOTIROIDISMO
+T9	Disease 104 112	OBESIDAD
+T12	Laboratory_or_Test_Result 37 50	HIPERGLICEMIA
+T13	Laboratory_or_Test_Result 77 90	TROMBOCITOSIS
+T6	Laboratory_or_Test_Result 92 103	EOSINOFILIA

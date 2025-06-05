@@ -1,0 +1,12 @@
+T1	Abbreviation 9 12	asa
+T2	Body_Part 175 191	maxilar superior
+T3	Disease 69 89	apinamiento dentario
+T5	Clinical_Finding 16 40	denticion mixta 2da fase
+T7	Sign_or_Symptom 69 99	apinamiento dentario anterior.
+T8	Sign_or_Symptom 100 162	perdida de zona de sosten de korkhaus por exodoncias tempranas
+T9	Sign_or_Symptom 164 191	compresion maxilar superior
+T10	Therapeutic_Procedure 142 162	exodoncias tempranas
+T11	Clinical_Finding 9 14	asa i
+T12	Clinical_Finding 42 58	clase 1 de angle
+T6	Abbreviation 32 35	2da
+T13	Body_Part 16 25	denticion

@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 92 95	PZA
+T3	Body_Part 2 9	DIENTES
+T4	Body_Part 61 70	PIEZA 1.8
+T5	Body_Part 92 99	PZA 3.8
+T6	Body_Part 109 116	Dientes
+T7	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T8	Disease 109 139	Dientes incluidos e impactados
+T11	Laboratory_or_Test_Result 92 108	PZA 3.8 INCLUIDA
+T12	Sign_or_Symptom 61 90	PIEZA 1.8 EN ESTADO RADICULAR

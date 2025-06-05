@@ -1,0 +1,21 @@
+T1	Abbreviation 14 17	emb
+T2	Abbreviation 34 37	sem
+T4	Abbreviation 39 42	EGD
+T5	Abbreviation 64 69	ANTEC
+T6	Abbreviation 71 73	RN
+T7	Abbreviation 84 85	X
+T8	Abbreviation 110 113	PIG
+T12	Disease 86 108	MAL FORMACION MULTIPLE
+T13	Clinical_Finding 0 2	g4
+T17	Clinical_Finding 14 17	emb
+T20	Laboratory_or_Test_Result 86 108	MAL FORMACION MULTIPLE
+T21	Therapeutic_Procedure 45 61	CESAREA ANTERIOR
+T14	Abbreviation 3 4	p
+T15	Abbreviation 6 7	a
+T16	Abbreviation 9 10	v
+T22	Abbreviation 0 1	g
+T3	Clinical_Finding 64 108	ANTEC. RN FALLECIDO X MAL FORMACION MULTIPLE
+T9	Clinical_Finding 39 42	EGD
+T10	Clinical_Finding 3 5	p3
+T11	Clinical_Finding 6 8	a0
+T18	Clinical_Finding 9 11	v2

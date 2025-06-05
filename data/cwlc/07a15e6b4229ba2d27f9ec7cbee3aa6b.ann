@@ -1,0 +1,5 @@
+T1	Body_Part 25 39	diente 17 y 32
+T2	Disease 60 103	pericoronaritis aguda recurrente supurativa
+T3	Sign_or_Symptom 44 55	dolor agudo
+T4	Therapeutic_Procedure 14 24	extraccion
+A1	Pending T4

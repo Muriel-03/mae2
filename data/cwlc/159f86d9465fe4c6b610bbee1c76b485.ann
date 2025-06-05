@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 82	Pac
+T3	Abbreviation 97 100	ADM
+T4	Body_Part 132 138	arcada
+T5	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T6	Disease 97 100	ADM
+T7	Disease 173 221	Anomalias dentofaciales (incluso la maloclusion)
+T8	Sign_or_Symptom 97 138	ADM. Tamaño dentario/ tamaño de la arcada
+T9	Sign_or_Symptom 140 171	Mordida cruzada lado Izquierdo.

@@ -1,0 +1,14 @@
+T1	Abbreviation 73 76	APP
+T2	Abbreviation 80 84	EPOC
+T3	Abbreviation 124 127	APS
+T4	Abbreviation 392 395	BCG
+T5	Diagnostic_Procedure 147 158	radiografía
+T6	Disease 2 53	OTRAS ENFERMEDADES PULMONARES OBSTRUCTIVAS CRÓNICAS
+T7	Disease 80 84	EPOC
+A1	Pending T5
+T9	Diagnostic_Procedure 161 173	Espirometría
+A2	Pending T9
+T8	Sign_or_Symptom 401 426	limitación de flujo aéreo
+A3	Negated T8
+T10	Diagnostic_Procedure 500 512	Espirometría
+A4	Pending T10

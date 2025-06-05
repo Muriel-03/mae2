@@ -1,0 +1,19 @@
+T1	Abbreviation 0 3	Pte
+T2	Abbreviation 13 16	HTA
+T3	Abbreviation 17 21	DM-2
+T4	Abbreviation 23 25	AR
+T5	Abbreviation 108 111	NAC
+T6	Abbreviation 114 118	EPID
+T7	Body_Part 94 96	L1
+T8	Body_Part 185 199	columna lumbar
+T9	Body_Part 200 202	L1
+T10	Disease 13 16	HTA
+T11	Disease 17 21	DM-2
+T12	Disease 23 25	AR
+T13	Disease 85 96	fractura L1
+T14	Disease 108 111	NAC
+T15	Disease 114 118	EPID
+T16	Disease 176 202	fractura columna lumbar L1
+T17	Therapeutic_Procedure 223 237	kinesioterapia
+A1	Pending T17
+T18	Laboratory_or_Test_Result 176 202	fractura columna lumbar L1

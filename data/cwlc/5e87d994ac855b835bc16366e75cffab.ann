@@ -1,0 +1,14 @@
+T1	Abbreviation 150 152	pz
+T2	Abbreviation 191 194	pzs
+T4	Body_Part 150 157	pz. 2.6
+T5	Body_Part 162 165	3.6
+T6	Body_Part 191 216	pzs. 1.2 y 4.2, 2.2 y 3.2
+T7	Body_Part 237 245	grupo II
+T10	Disease 218 229	Apiñamiento
+T11	Clinical_Finding 9 30	dentición permanente.
+T12	Clinical_Finding 72 102	clase I de Angle molar derecha
+T16	Sign_or_Symptom 42 71	compresión maxilar bilateral.
+T17	Sign_or_Symptom 105 133	clase II de Angle izquierda.
+T18	Sign_or_Symptom 134 165	Mordida cruzada pz. 2.6 con 3.6
+T19	Sign_or_Symptom 167 216	Mordida invertida entre pzs. 1.2 y 4.2, 2.2 y 3.2
+T20	Sign_or_Symptom 218 245	Apiñamiento severo grupo II

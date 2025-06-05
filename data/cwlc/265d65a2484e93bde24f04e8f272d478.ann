@@ -1,0 +1,9 @@
+T1	Abbreviation 112 115	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 29 38	Pieza 1.3
+T4	Body_Part 69 74	pulpa
+T5	Disease 2 22	NECROSIS DE LA PULPA
+T6	Disease 39 56	caries penetrante
+T7	Disease 69 84	pulpa necrótica
+T10	Therapeutic_Procedure 97 108	trepanación
+T8	Laboratory_or_Test_Result 29 67	Pieza 1.3 caries penetrante por distal

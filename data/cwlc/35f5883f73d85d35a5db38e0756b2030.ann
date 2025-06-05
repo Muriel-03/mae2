@@ -1,0 +1,11 @@
+T1	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 75 82	DIENTES
+T3	Body_Part 129 136	dientes
+T4	Body_Part 242 248	cabeza
+T5	Body_Part 251 261	cervicales
+T6	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T7	Disease 50 82	ATRICIÓN EXCESIVA DE LOS DIENTES
+T8	Sign_or_Symptom 104 136	atrición excesiva de los dientes
+T9	Sign_or_Symptom 138 167	pérdida de dimensión vertical
+T10	Sign_or_Symptom 169 202	dolor a la percusión generalizada
+T11	Sign_or_Symptom 231 261	dolores de cabeza y cervicales

@@ -1,0 +1,7 @@
+T1	Body_Part 89 98	pieza 5.3
+T2	Disease 43 54	apiñamiento
+T3	Clinical_Finding 103 118	neutro oclusión
+T4	Disease 18 41	desarmonía dentomaxilar
+T5	Sign_or_Symptom 43 71	apiñamiento en zona anterior
+T6	Sign_or_Symptom 73 98	persistencia de pieza 5.3
+T7	Body_Part 58 71	zona anterior

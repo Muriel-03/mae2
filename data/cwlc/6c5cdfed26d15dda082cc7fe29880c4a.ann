@@ -1,0 +1,16 @@
+T1	Abbreviation 65 68	dte
+T2	Abbreviation 100 102	OD
+T3	Abbreviation 165 170	PMCFA
+T4	Abbreviation 178 180	Rx
+T5	Body_Part 17 22	PULPA
+T6	Body_Part 65 71	dte 20
+T7	Diagnostic_Procedure 178 180	Rx
+T8	Disease 2 22	NECROSIS DE LA PULPA
+T9	Disease 93 113	caries OD penetrante
+T10	Laboratory_or_Test_Result 93 113	caries OD penetrante
+T11	Laboratory_or_Test_Result 192 204	exorizalisis
+T12	Medication 165 170	PMCFA
+T13	Sign_or_Symptom 48 53	dolor
+T14	Sign_or_Symptom 73 91	percusión positiva
+T15	Therapeutic_Procedure 126 137	trepanación
+R1	Has Arg1:T7 Arg2:T11	

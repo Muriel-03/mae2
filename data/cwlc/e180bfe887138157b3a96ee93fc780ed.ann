@@ -1,0 +1,8 @@
+T1	Abbreviation 0 2	M1
+T2	Abbreviation 32 35	Emb
+T3	Abbreviation 41 44	sem
+T4	Abbreviation 110 113	sem
+T5	Disease 16 31	parto prematuro
+T6	Disease 80 95	parto prematuro
+T7	Clinical_Finding 0 2	M1
+T8	Clinical_Finding 32 35	Emb

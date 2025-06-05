@@ -1,0 +1,8 @@
+T1	Abbreviation 58 61	APS
+T2	Body_Part 2 5	PIE
+T3	Body_Part 145 164	arco plantar medial
+T4	Disease 2 33	PIE PLANO PES PLANUS (ADQUIRIDO
+T5	Clinical_Finding 79 101	sin antecente morbidos
+T6	Sign_or_Symptom 131 164	falta leve de arco plantar medial
+T7	Sign_or_Symptom 170 187	alteracion marcha
+A1	Negated T7

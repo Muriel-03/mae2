@@ -1,0 +1,14 @@
+T1	Abbreviation 34 37	HTA
+T2	Abbreviation 39 42	ENL
+T3	Abbreviation 44 47	NFL
+T4	Abbreviation 48 51	FUR
+T5	Abbreviation 52 55	DM2
+T6	Abbreviation 58 61	MTF
+T7	Abbreviation 63 66	GBC
+T8	Disease 0 33	INSUFICIENCIA CARDIACA CONGESTIVA
+T9	Disease 34 37	HTA
+T10	Disease 52 55	DM2
+T11	Medication 39 42	ENL
+T12	Medication 58 61	MTF
+T13	Medication 63 66	GBC
+T14	Sign_or_Symptom 96 145	SENSACION DE TAQUICARDIA INCLUSO DURANTE EL SUEÑO

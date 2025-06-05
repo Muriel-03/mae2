@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	SD
+T2	Abbreviation 87 88	C
+T3	Abbreviation 91 94	HRS
+T4	Abbreviation 107 108	+
+T6	Abbreviation 126 127	+
+T7	Body_Part 47 54	RODILLA
+T8	Disease 0 33	SD. INESTABILIDAD PATELAR DERECHA
+T9	Disease 35 54	ARTROSIS DE RODILLA
+T10	Medication 72 83	PARACETAMOL
+T11	Medication 98 106	TRAMADOL
+T13	Therapeutic_Procedure 109 125	KINE- SIOTERAPIA
+T5	Therapeutic_Procedure 127 143	BRACING PACTELAR

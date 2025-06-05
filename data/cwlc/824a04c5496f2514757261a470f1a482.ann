@@ -1,0 +1,7 @@
+T1	Abbreviation 98 99	P
+T2	Body_Part 18 26	PIEZA 16
+T3	Body_Part 98 102	P 16
+T4	Laboratory_or_Test_Result 18 71	PIEZA 16 IMPACTADA POR MESIAL EN MESIS VERSION FRANCA
+T5	Therapeutic_Procedure 88 97	EXODONCIA
+A1	Pending T5
+T6	Disease 27 36	IMPACTADA

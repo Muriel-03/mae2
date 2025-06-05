@@ -1,0 +1,8 @@
+T1	Abbreviation 85 88	APS
+T2	Body_Part 131 149	region epigastrica
+T3	Diagnostic_Procedure 218 250	endoscopia digestiva alta y baja
+T4	Disease 2 48	HELICOBACTER PYLORI COMO CAUSA DE ENFERMEDADES
+T5	Disease 52 61	DISPEPSIA
+T6	Sign_or_Symptom 122 161	dolor en region epigastrica tipo urente
+T7	Sign_or_Symptom 174 192	hematemesis escasa
+A1	Pending T3

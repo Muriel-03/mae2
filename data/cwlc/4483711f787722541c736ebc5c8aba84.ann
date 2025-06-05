@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 21 47	mordida invertida anterior
+T2	Sign_or_Symptom 49 69	Clase III esqueletal
+T3	Sign_or_Symptom 113 128	clase III molar
+T4	Therapeutic_Procedure 145 196	tratamiento de contensión del desarrollo mandibular
+A1	Pending T4

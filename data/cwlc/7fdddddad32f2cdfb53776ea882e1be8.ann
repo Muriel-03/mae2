@@ -1,0 +1,76 @@
+T1	Abbreviation 129 132	APS
+T2	Abbreviation 134 139	Pacte
+T3	Abbreviation 575 580	conj.
+T4	Body_Part 20 37	TEJIDO CONJUNTIVO
+T5	Body_Part 49 85	TEJIDOS BLANDOS DEL MIEMBRO INFERIOR
+T6	Body_Part 99 105	CADERA
+T7	Body_Part 249 273	miembrinferior izquierdo
+T8	Body_Part 521 527	Cabeza
+T9	Body_Part 553 557	Ojos
+T10	Body_Part 568 579	mucosa conj
+T11	Body_Part 595 601	Mucosa
+T12	Body_Part 674 683	Yugulares
+T13	Body_Part 702 710	Tiroides
+T14	Body_Part 735 748	Caja toráxica
+T15	Body_Part 1027 1034	ombligo
+T16	Body_Part 1070 1076	Hígado
+T17	Body_Part 1101 1105	Bazo
+T18	Body_Part 1330 1334	piel
+T19	Body_Part 1401 1409	Rodillas
+T20	Body_Part 1412 1419	piernas
+T21	Body_Part 1440 1444	Pies
+T22	Body_Part 1693 1710	tejido conjuntivo
+T23	Body_Part 1722 1758	tejidos blandos del miembro inferior
+T24	Body_Part 1772 1778	cadera
+T25	Disease 2 105	TUMOR BENIGNO DEL TEJIDO CONJUNTIVO Y DE OTROS TEJIDOS BLANDOS DEL MIEMBRO INFERIOR, INCLUIDA LA CADERA
+T26	Disease 176 188	gastroquisis
+T27	Disease 1675 1778	Tumor benigno del tejido conjuntivo y de otros tejidos blandos del miembro inferior, incluida la cadera
+T28	Clinical_Finding 553 566	Ojos isocoria
+T29	Clinical_Finding 568 587	mucosa conj. Rosada
+T30	Clinical_Finding 619 644	Cuello:- Sin alteraciones
+T31	Clinical_Finding 646 672	Pulsos carotídeos normales
+T32	Clinical_Finding 674 700	Yugulares sin alteraciones
+T33	Clinical_Finding 702 727	Tiroides sin alteraciones
+T34	Clinical_Finding 727 765	Tórax:- Caja toráxica sin alteraciones
+T35	Clinical_Finding 810 830	Respiración eupneica
+T36	Clinical_Finding 842 871	murmullo vesicular conservado
+T37	Sign_or_Symptom 207 224	aumento de voumen
+T38	Sign_or_Symptom 344 362	aumento su volumen
+T39	Sign_or_Symptom 368 400	aumento de molestias secundarias
+T42	Clinical_Finding 902 943	Corazón: Ritmo regular, tonos conservados
+T43	Clinical_Finding 1027 1068	ombligo umbilicado, depresible e indoloro
+T45	Clinical_Finding 1070 1099	Hígado bajo el reborde costal
+T46	Clinical_Finding 1101 1117	Bazo no se palpa
+T47	Sign_or_Symptom 1250 1255	edema
+T48	Sign_or_Symptom 1310 1328	aumento de volumen
+T49	Sign_or_Symptom 1330 1340	piel tensa
+T50	Sign_or_Symptom 1384 1389	edema
+T51	Clinical_Finding 1401 1438	Rodillas y piernas de aspecto normal.
+T52	Disease 445 480	tumoracion benigna a nivel muscular
+T53	Clinical_Finding 521 546	Cabeza:- Sin alteraciones
+T40	Body_Part 546 550	Cara
+T41	Clinical_Finding 588 609	Boca:- Mucosa húmedas
+T54	Body_Part 588 592	Boca
+T55	Clinical_Finding 611 618	dentada
+T56	Sign_or_Symptom 766 808	dolor palpacion costal inferipor izquierdo
+T57	Disease 1012 1024	gastroquisis
+T58	Body_Part 619 625	Cuello
+T44	Body_Part 727 732	Tórax
+T59	Body_Part 1118 1130	Extremidades
+T60	Clinical_Finding 1133 1206	Superiores inspección sin alteraciones, fuerzas y movimientos conservados
+T61	Clinical_Finding 945 967	no se auscultan soplos
+T62	Clinical_Finding 968 983	Abdomen:- Plano
+T63	Body_Part 968 975	Abdomen
+T64	Clinical_Finding 873 899	no ae auscultan estertores
+T65	Body_Part 902 909	Corazón
+T66	Clinical_Finding 984 998	cicatriz media
+T67	Clinical_Finding 1210 1246	Inferiores-Derecha: sin alteraciones
+A1	Negated T47
+T68	Clinical_Finding 1256 1296	Inspección, ejes y movilidad conservados
+T69	Clinical_Finding 1342 1382	Inspección, ejes y movilidad conservados
+T70	Clinical_Finding 1440 1485	Pies:Inspección, ejes y movilidad conservados
+A2	Negated T50
+T71	Clinical_Finding 1497 1539	Pulsos periféricos conservados, simétricos
+T72	Clinical_Finding 1540 1622	Neurológico periférico:- Movilidad, fuerzas y reflejos osteotendinosos conservados
+T73	Clinical_Finding 1623 1673	Columna:- Inspección, ejes y movilidad conservados
+T74	Body_Part 1623 1630	Columna

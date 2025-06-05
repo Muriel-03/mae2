@@ -1,0 +1,8 @@
+T1	Body_Part 31 43	PIEZA 9 Y 11
+T2	Body_Part 84 91	dientes
+T3	Disease 73 153	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T5	Therapeutic_Procedure 9 24	CIERRE DIASTEMA
+T6	Therapeutic_Procedure 49 72	RESTAURACION DE  RESINA
+A1	Pending T5
+A2	Pending T6
+T7	Sign_or_Symptom 16 43	DIASTEMA ENTRE PIEZA 9 Y 11

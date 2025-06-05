@@ -1,0 +1,13 @@
+T1	Abbreviation 82 85	Pza
+T2	Abbreviation 136 139	pza
+T3	Body_Part 82 103	Pza. 1.2 , 3.3, y 4.3
+T4	Body_Part 136 144	pza. 1.2
+T5	Body_Part 165 168	1.3
+T6	Body_Part 173 176	4.3
+T7	Disease 42 53	apiñamiento
+T9	Clinical_Finding 9 22	clase I molar
+T13	Sign_or_Symptom 42 80	apiñamiento severo superior e inferior
+T14	Sign_or_Symptom 82 113	Pza. 1.2 , 3.3, y 4.3 ectopicas
+T15	Sign_or_Symptom 115 144	Mordida invertida de pza. 1.2
+T16	Sign_or_Symptom 147 176	mórdida vis a vis 1.3 con 4.3
+T17	Clinical_Finding 24 37	dolico facial

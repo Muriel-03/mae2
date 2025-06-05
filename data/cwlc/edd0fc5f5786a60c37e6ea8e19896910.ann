@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	HTA
+T2	Abbreviation 15 18	TTO
+T3	Abbreviation 20 23	ERC
+T4	Disease 0 11	HTA CRONICA
+T5	Disease 20 33	ERC ETAPA III
+T6	Laboratory_or_Test_Result 36 66	URETEROHIDRONEFROSIS BILATERAL

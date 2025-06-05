@@ -1,0 +1,7 @@
+T1	Abbreviation 80 83	SIC
+T2	Therapeutic_Procedure 111 131	limpieza de apertura
+T3	Abbreviation 32 35	tto
+T4	Clinical_Finding 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T5	Body_Part 2 7	PIEZA
+T6	Clinical_Finding 32 44	tto iniciado
+T7	Therapeutic_Procedure 134 168	se medica y obtura provisoriamente

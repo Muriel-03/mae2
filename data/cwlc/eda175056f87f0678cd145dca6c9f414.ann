@@ -1,0 +1,18 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 9 14	antec
+T3	Abbreviation 18 21	ACV
+T5	Abbreviation 112 117	aprox
+T6	Abbreviation 219 222	Eco
+T7	Body_Part 86 100	hombro derecho
+T8	Body_Part 180 186	biceps
+T9	Body_Part 226 232	hombro
+T10	Body_Part 259 265	HOMBRO
+T11	Diagnostic_Procedure 219 232	Eco de hombro
+T12	Disease 18 31	ACV isquemico
+T14	Sign_or_Symptom 46 70	minima paresia izquierda
+T15	Sign_or_Symptom 77 100	dolor en hombro derecho
+T16	Sign_or_Symptom 143 186	Dolor a la palpacion en inserción de biceps
+T17	Sign_or_Symptom 192 199	paresia
+A1	Negated T17
+A2	Pending T11
+T4	Sign_or_Symptom 259 274	HOMBRO DOLOROSO

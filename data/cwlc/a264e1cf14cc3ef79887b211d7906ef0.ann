@@ -1,0 +1,6 @@
+T1	Sign_or_Symptom 53 73	sensibilidad  dental
+T2	Therapeutic_Procedure 139 158	plano de relajacion
+T3	Abbreviation 25 29	nxes
+T4	Sign_or_Symptom 9 14	bruxa
+T5	Disease 87 98	afracciones
+A1	Pending T2

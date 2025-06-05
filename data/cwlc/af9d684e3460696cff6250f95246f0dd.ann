@@ -1,0 +1,19 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 279 281	OI
+T3	Body_Part 279 281	OI
+T4	Body_Part 605 623	Membrana timpanica
+T5	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T6	Sign_or_Symptom 265 281	Hipoacusia de OI
+T7	Disease 388 400	Colesteatoma
+T9	Disease 800 827	Hipoacusia, no especificada
+T10	Clinical_Finding 103 136	No refiere alergia a medicamentos
+T11	Clinical_Finding 143 151	embarazo
+T12	Clinical_Finding 171 180	multipara
+T13	Clinical_Finding 223 234	abortos (-)
+T14	Abbreviation 219 222	grs
+T15	Clinical_Finding 522 562	Paciente en buenas condiciones generales
+T8	Disease 647 663	tapon de cerumen
+T16	Sign_or_Symptom 563 663	Otoscopía derecha: no se puede visualizar Membrana timpanica debido a existencia de tapon de cerumen
+T17	Clinical_Finding 664 724	Otoscopía Izquierda: no se visualizan alteraciones en el CAE
+T18	Body_Part 721 724	CAE
+T19	Abbreviation 721 724	CAE

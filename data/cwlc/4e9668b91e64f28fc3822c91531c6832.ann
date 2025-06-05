@@ -1,0 +1,10 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 48 51	4.8
+T4	Body_Part 144 151	Dientes
+T5	Disease 2 19	DIENTES INCLUIDOS
+T6	Disease 91 106	pericoronaritis
+T7	Disease 144 161	Dientes incluidos
+T8	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T9	Sign_or_Symptom 48 77	4.8 semierupcionado y cariado
+T10	Sign_or_Symptom 107 143	Dificultad de acceso para la higiene

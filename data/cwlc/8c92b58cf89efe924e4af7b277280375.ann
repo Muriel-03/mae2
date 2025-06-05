@@ -1,0 +1,8 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 60 63	tto
+T3	Abbreviation 151 154	tto
+T4	Body_Part 88 97	diente 24
+T5	Disease 9 30	periodontitis cronica
+T6	Therapeutic_Procedure 76 84	implante
+T7	Therapeutic_Procedure 151 166	tto periodental
+A1	Pending T6

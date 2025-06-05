@@ -1,0 +1,7 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 113 139	dientes 1.2, 1.1, 2.1, 2.2
+T3	Body_Part 220 225	encía
+T4	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T5	Disease 228 264	Alteraciones en la erupcion dentaria
+T6	Sign_or_Symptom 80 139	alteración en la erupción de los dientes 1.2, 1.1, 2.1, 2.2
+T8	Sign_or_Symptom 165 225	no erupcionan y se encuentra cicatrizada totalmente la encía

@@ -1,0 +1,10 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 66 70	POST
+T3	Body_Part 15 28	CAVIDAD NASAL
+T4	Body_Part 253 266	cavidad nasal
+T5	Disease 2 28	PÓLIPO DE LA CAVIDAD NASAL
+T6	Disease 82 97	POLIPOS NASALES
+T7	Disease 240 266	Polipo de la cavidad nasal
+T8	Clinical_Finding 132 144	ASINTOMATICA
+T10	Sign_or_Symptom 154 191	DIFICULTAD RESPIRATORIA CUANDO DUERME
+T11	Clinical_Finding 66 97	POST OPERADA DE POLIPOS NASALES

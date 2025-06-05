@@ -1,0 +1,10 @@
+T2	Abbreviation 142 145	tto
+T4	Body_Part 0 10	piezas 4.6
+T5	Body_Part 158 161	4.6
+T6	Disease 72 86	pulpitis aguda
+T12	Sign_or_Symptom 37 69	historia de dolor a la percusion
+T14	Therapeutic_Procedure 89 114	medicada con formacraneal
+T15	Therapeutic_Procedure 142 155	tto radicular
+T11	Clinical_Finding 11 20	trepanada
+A1	Pending T15
+T1	Medication 102 114	formacraneal

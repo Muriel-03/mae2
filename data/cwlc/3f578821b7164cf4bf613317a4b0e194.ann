@@ -1,0 +1,9 @@
+T1	Body_Part 0 9	Dentición
+T2	Body_Part 56 71	sector anterior
+T3	Body_Part 92 106	labio superior
+T4	Disease 37 48	apiñamiento
+T5	Clinical_Finding 0 15	Dentición mixta
+T6	Sign_or_Symptom 17 35	clase II bilateral
+T7	Sign_or_Symptom 37 71	apiñamiento severo sector anterior
+T8	Sign_or_Symptom 73 90	respiración bucal
+T9	Sign_or_Symptom 92 117	labio superior hipotónico

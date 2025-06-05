@@ -1,0 +1,17 @@
+T1	Abbreviation 214 216	rx
+T2	Abbreviation 287 289	rx
+T3	Body_Part 21 30	AMÍGDALAS
+T4	Body_Part 171 180	amigdalas
+T5	Body_Part 217 222	cavum
+T7	Diagnostic_Procedure 214 222	rx cavum
+T8	Diagnostic_Procedure 287 289	rx
+T9	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T12	Clinical_Finding 43 66	sin  otros antecedentes
+T13	Laboratory_or_Test_Result 231 262	gran estreches de columna aerea
+T14	Sign_or_Symptom 68 77	roncadora
+T16	Sign_or_Symptom 151 168	respiradora bucal
+T17	Sign_or_Symptom 171 200	amigdalas hipertrofia grado 3
+T18	Sign_or_Symptom 90 95	apnea
+T19	Sign_or_Symptom 97 149	cuando cursa cuadros respiratorios aumenta ronquidos
+R1	Has Arg1:T7 Arg2:T13	
+T10	Abbreviation 78 80	++

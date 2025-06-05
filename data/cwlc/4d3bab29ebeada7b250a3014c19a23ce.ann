@@ -1,0 +1,9 @@
+T1	Abbreviation 41 44	tec
+T2	Abbreviation 134 137	tac
+T3	Body_Part 141 148	cerebro
+T4	Diagnostic_Procedure 134 148	tac de cerebro
+T5	Disease 0 7	cefalea
+T6	Disease 41 44	tec
+T7	Laboratory_or_Test_Result 164 174	alteracion
+A1	Negated T7
+R1	Has Arg1:T4 Arg2:T7	

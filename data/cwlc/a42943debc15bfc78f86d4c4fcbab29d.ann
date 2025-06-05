@@ -1,0 +1,12 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 77 86	pieza 4.7
+T3	Body_Part 151 155	raíz
+T4	Body_Part 174 181	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 163 181	Caries del cemento
+T8	Clinical_Finding 91 124	obturación provisoria de eugenato
+T9	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T10	Laboratory_or_Test_Result 137 162	lesión apical raíz distal
+T11	Medication 116 124	eugenato
+T7	Clinical_Finding 59 75	Dentado completo
+T12	Clinical_Finding 126 135	sin dolor

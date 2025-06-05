@@ -1,0 +1,12 @@
+T1	Abbreviation 17 21	ssrr
+T2	Abbreviation 22 25	der
+T3	Abbreviation 50 54	izda
+T4	Abbreviation 65 69	eval
+T5	Abbreviation 74 77	RNM
+T6	Body_Part 82 89	abdomen
+T7	Diagnostic_Procedure 74 89	RNM de  abdomen
+T9	Laboratory_or_Test_Result 27 54	Lesion retroperitoneal izda
+T10	Disease 99 126	Insuficiencia renal cronica
+T11	Laboratory_or_Test_Result 9 25	Adenoma ssrr der
+T8	Disease 9 25	Adenoma ssrr der
+T12	Body_Part 17 25	ssrr der

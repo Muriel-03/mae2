@@ -1,0 +1,17 @@
+T1	Abbreviation 3 7	ICCA
+T2	Abbreviation 8 9	X
+T3	Abbreviation 96 99	DIU
+T4	Abbreviation 134 135	C
+T5	Abbreviation 136 139	ACO
+T6	Clinical_Finding 0 2	M2
+T7	Medication 136 139	ACO
+T8	Sign_or_Symptom 45 57	ALFA PELVICA
+T9	Sign_or_Symptom 125 133	MALESTAR
+T11	Sign_or_Symptom 142 159	MOLESTIA PERSISTE
+T13	Therapeutic_Procedure 96 99	DIU
+T14	Abbreviation 0 1	M
+T15	Sign_or_Symptom 72 83	DISPERCUNIA
+T16	Clinical_Finding 85 99	USUARIA DE DIU
+T17	Abbreviation 109 110	m
+T10	Disease 10 27	NACROTOMIA, FETAL
+T12	Clinical_Finding 4 7	CCA

@@ -1,0 +1,17 @@
+T1	Abbreviation 30 32	AM
+T2	Abbreviation 66 67	+
+T4	Abbreviation 149 150	+
+T5	Abbreviation 151 154	ECG
+T6	Abbreviation 192 196	POLI
+T7	Diagnostic_Procedure 151 154	ECG
+T8	Disease 2 22	ENFERMEDAD DE CHAGAS
+T9	Disease 197 203	CHAGAS
+T10	Clinical_Finding 26 32	Sin AM
+T11	Clinical_Finding 69 81	asintomatica
+T12	Laboratory_or_Test_Result 142 148	normal
+T13	Laboratory_or_Test_Result 159 169	alteracion
+T15	Laboratory_Procedure 46 65	serologia de chagas
+T16	Laboratory_or_Test_Result 66 67	+
+R1	Has Arg1:T15 Arg2:T16	
+A1	Negated T13
+R2	Has Arg1:T7 Arg2:T13	

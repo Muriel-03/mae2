@@ -1,0 +1,15 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 105 108	ave
+T3	Abbreviation 232 237	aines
+T4	Body_Part 20 29	EPIDÍDIMO
+T5	Body_Part 190 200	testiculos
+T6	Body_Part 358 367	epididimo
+T7	Diagnostic_Procedure 251 264	ecotesticular
+T8	Disease 2 29	TUMOR BENIGNO DEL EPIDÍDIMO
+T10	Disease 105 108	ave
+T12	Disease 340 367	Tumor benigno del epididimo
+T13	Laboratory_or_Test_Result 277 310	quistes bilaterales epididimarios
+T14	Medication 232 237	aines
+T15	Sign_or_Symptom 121 136	disartria leve.
+T16	Sign_or_Symptom 167 238	dolores fluctuantes de testiculos que ceden con parcialmente con aines.
+R1	Has Arg1:T7 Arg2:T13	

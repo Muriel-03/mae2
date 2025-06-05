@@ -1,0 +1,5 @@
+T1	Body_Part 26 39	DIENTES 4 Y 5
+T2	Body_Part 101 108	DIENTES
+T3	Therapeutic_Procedure 69 79	ENDODONCIA
+T4	Sign_or_Symptom 26 48	DIENTES 4 Y 5 AUSENTES
+A1	Pending T3

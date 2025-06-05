@@ -1,0 +1,12 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 200 203	ant
+T3	Body_Part 167 179	extremidades
+T4	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T5	Disease 207 220	trombocitosis
+T6	Disease 260 303	Insuficiencia venosa (cronica) (periferica)
+T7	Laboratory_or_Test_Result 207 220	trombocitosis
+T8	Laboratory_or_Test_Result 223 233	leucopenia
+T9	Sign_or_Symptom 94 143	aumento de volumen, asociado a paquetes varicosos
+T11	Sign_or_Symptom 147 179	edema importante de extremidades
+T12	Sign_or_Symptom 182 196	dolor nocturno
+T10	Disease 223 233	leucopenia

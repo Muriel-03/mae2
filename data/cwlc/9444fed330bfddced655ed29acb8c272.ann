@@ -1,0 +1,15 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 50 52	M2
+T3	Abbreviation 76 81	ANTEC
+T4	Abbreviation 82 85	IRA
+T5	Abbreviation 97 102	ANTEC
+T6	Abbreviation 121 124	OBS
+T8	Disease 82 95	IRA PRE RENAL
+T9	Clinical_Finding 97 119	ANTEC MACROSOMIA FETAL
+T10	Disease 125 149	DIABETES PRE GESTACIONAL
+T11	Disease 151 155	ASMA
+T12	Clinical_Finding 2 21	EMBARAZO CONFIRMADO
+T13	Clinical_Finding 50 52	M2
+T14	Clinical_Finding 53 62	GESTACION
+T15	Clinical_Finding 157 176	Embarazo confirmado
+T7	Clinical_Finding 76 95	ANTEC IRA PRE RENAL

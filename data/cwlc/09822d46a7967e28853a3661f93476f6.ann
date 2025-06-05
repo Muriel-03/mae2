@@ -1,0 +1,8 @@
+T1	Abbreviation 34 38	ADAC
+T2	Body_Part 46 55	Pieza 1.5
+T3	Diagnostic_Procedure 164 183	examen radiográfico
+T4	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T5	Laboratory_or_Test_Result 137 160	Zona radiolúcida apical
+T6	Clinical_Finding 46 83	Pieza 1.5 asintomático a la percusión
+T7	Sign_or_Symptom 121 135	pus crevicular
+R1	Has Arg1:T3 Arg2:T5	

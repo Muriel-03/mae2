@@ -1,0 +1,14 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 47 48	G
+T3	Abbreviation 72 75	SEM
+T4	Abbreviation 80 83	FUR
+T5	Abbreviation 86 89	OBS
+T6	Disease 2 16	HIPOTIROIDISMO
+T7	Disease 91 105	HIPOTIROIDISMO
+T8	Disease 107 121	Hipotiroidismo
+T9	Clinical_Finding 47 49	G4
+T10	Clinical_Finding 55 63	EMBARAZO
+T11	Clinical_Finding 49 51	P2
+T12	Clinical_Finding 51 53	A1
+T13	Abbreviation 49 50	P
+T14	Abbreviation 51 52	A

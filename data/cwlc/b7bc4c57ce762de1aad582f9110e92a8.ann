@@ -1,0 +1,18 @@
+T1	Abbreviation 200 203	APS
+T2	Abbreviation 205 209	pcte
+T3	Abbreviation 210 211	q
+T4	Abbreviation 324 327	izq
+T5	Abbreviation 353 356	app
+T6	Body_Part 38 44	CADERA
+T7	Body_Part 59 66	CADERAS
+T8	Body_Part 83 97	CUELLO FEMORAL
+T10	Body_Part 153 176	Extremidades Inferiores
+T11	Body_Part 292 315	extremidades inferiores
+T12	Body_Part 371 377	cadera
+T13	Disease 2 44	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA
+T14	Disease 358 377	displasia de cadera
+T16	Sign_or_Symptom 279 352	asimetria en extremidades inferiores el lado izq mas larga que la derecha
+T17	Disease 46 66	DISPLASIA DE CADERAS
+T18	Disease 67 97	ANTEVERSIÓN DEL CUELLO FEMORAL
+T19	Disease 98 126	COXA CONGÉNITA: VARA O VALGA
+T9	Disease 143 176	Asimetria Extremidades Inferiores

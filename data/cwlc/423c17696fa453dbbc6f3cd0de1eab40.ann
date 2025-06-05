@@ -1,0 +1,11 @@
+T1	Abbreviation 118 121	tto
+T3	Abbreviation 144 147	tto
+T4	Body_Part 97 106	diente 31
+T5	Disease 0 33	Periodontits crónica generalizada
+T6	Disease 77 96	absceso periodontal
+T7	Disease 162 183	PERIODONTITIS CRONICA
+T8	Sign_or_Symptom 35 75	cálculo supra y subgingival generalizado
+T10	Therapeutic_Procedure 144 160	tto. restaurador
+T11	Therapeutic_Procedure 118 134	tto. periodontal
+A1	Pending T10
+A2	Pending T11

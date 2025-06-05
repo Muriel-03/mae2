@@ -1,0 +1,5 @@
+T1	Body_Part 0 3	2.2
+T2	Disease 108 123	necrosis pulpar
+T3	Laboratory_or_Test_Result 13 41	linea periodontal ensanchada
+T5	Sign_or_Symptom 43 78	dolor agudo a la percusion vertical
+T4	Therapeutic_Procedure 85 96	trepanacion

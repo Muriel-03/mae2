@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 205 211	encias
+T3	Body_Part 265 272	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 58 96	desdentada parcial superior e inferior
+T6	Disease 227 303	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Sign_or_Symptom 97 133	clase II kennedy superior e inferior
+T8	Sign_or_Symptom 153 188	alteración de la función y estética
+T9	Sign_or_Symptom 196 225	dolor en encias para masticar

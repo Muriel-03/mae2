@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	MG
+T2	Abbreviation 3 6	Ant
+T3	Abbreviation 21 25	Dixy
+T4	Abbreviation 38 41	ECO
+T5	Abbreviation 42 45	ant
+T6	Body_Part 55 62	ovarios
+T7	Diagnostic_Procedure 38 41	ECO
+T8	Disease 77 88	METRORRAGIA
+T9	Medication 21 25	Dixy
+T10	Laboratory_or_Test_Result 55 76	ovarios poliquisticos
+R1	Has Arg1:T7 Arg2:T10	
+T11	Disease 89 100	DISMENORREA

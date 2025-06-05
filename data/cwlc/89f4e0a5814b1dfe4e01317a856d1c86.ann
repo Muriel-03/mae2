@@ -1,0 +1,13 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 90 92	Vl
+T3	Abbreviation 93 95	RX
+T4	Abbreviation 107 110	PZA
+T5	Body_Part 0 6	PZA 20
+T6	Body_Part 35 48	CAMARA PULPAR
+T7	Body_Part 107 113	PZA 20
+T8	Diagnostic_Procedure 93 106	RX PERIAPICAL
+T9	Disease 7 22	CARIES PROFUNDA
+T10	Therapeutic_Procedure 50 62	INACTIVACION
+T11	Clinical_Finding 65 92	OBTURACION PROVISORIA DE Vl
+T12	Laboratory_or_Test_Result 0 48	PZA 20 CARIES PROFUNDA INMEDIATA A CAMARA PULPAR
+R1	Has Arg1:T8 Arg2:T12	

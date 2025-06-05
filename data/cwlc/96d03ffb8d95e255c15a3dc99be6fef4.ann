@@ -1,0 +1,16 @@
+T1	Abbreviation 3 6	DCA
+T2	Abbreviation 11 14	MAC
+T3	Abbreviation 14 15	+
+T4	Abbreviation 50 51	C
+T5	Abbreviation 116 119	MAC
+T6	Disease 69 89	EPIDIDIMITIS CRONICA
+T7	Family_Member 99 105	PAREJA
+T9	Clinical_Finding 0 2	M2
+T11	Therapeutic_Procedure 11 14	MAC
+T12	Therapeutic_Procedure 116 119	MAC
+T13	Abbreviation 0 1	M
+T10	Sign_or_Symptom 41 49	PURALGIA
+A1	Negated T11
+A2	Negated T12
+T14	Abbreviation 113 114	S
+T8	Family_Member 90 95	HIJOS

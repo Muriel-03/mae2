@@ -1,0 +1,11 @@
+T1	Abbreviation 68 71	APS
+T2	Abbreviation 73 77	pcte
+T3	Body_Part 2 10	PREPUCIO
+T4	Body_Part 161 167	testes
+T5	Body_Part 199 207	Prepucio
+T6	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T7	Disease 109 119	estrabismo
+T8	Disease 151 158	fimosis
+T9	Disease 199 241	Prepucio redundante, fimosis y parafimosis
+T10	Clinical_Finding 161 179	testes descendidos
+T11	Clinical_Finding 82 119	antecedntes quirurgicos de estrabismo

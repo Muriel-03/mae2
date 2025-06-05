@@ -1,0 +1,4 @@
+T1	Disease 19 33	meduloblastoma
+T2	Therapeutic_Procedure 153 166	quimioterapia
+T3	Therapeutic_Procedure 168 180	radioterapia
+T4	Therapeutic_Procedure 194 209	resección total

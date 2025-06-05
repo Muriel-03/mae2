@@ -1,0 +1,15 @@
+T1	Abbreviation 12 14	CI
+T2	Abbreviation 23 27	TDAH
+T3	Abbreviation 44 47	obs
+T4	Abbreviation 78 81	2do
+T5	Abbreviation 199 202	pta
+T6	Abbreviation 211 214	TEL
+T7	Disease 23 27	TDAH
+T8	Disease 48 65	Mutismo selectivo
+T9	Disease 211 221	TEL miixto
+T10	Disease 257 323	Trastornos especificos del desarrollo de las habilidades escolares
+T12	Laboratory_or_Test_Result 12 21	CI límite
+T13	Sign_or_Symptom 100 137	dificultades en aspectos comprensivos
+T14	Sign_or_Symptom 154 182	mayor compromiso intelectual
+T15	Sign_or_Symptom 187 197	hipotónico
+T16	Diagnostic_Procedure 230 241	Psicometría

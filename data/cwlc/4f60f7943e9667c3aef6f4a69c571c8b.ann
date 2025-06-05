@@ -1,0 +1,13 @@
+T1	Abbreviation 75 78	APS
+T2	Body_Part 21 28	DIENTES
+T3	Body_Part 119 131	tercer molar
+T4	Body_Part 154 166	pieza. # 3.8
+T5	Body_Part 206 213	Dientes
+T6	Disease 2 17	PERICORONARITIS
+T7	Disease 21 51	DIENTES INCLUIDOS E IMPACTADOS
+T8	Disease 144 153	impactado
+T9	Disease 188 203	pericoronaritis
+T10	Disease 206 236	Dientes incluidos e impactados
+T11	Laboratory_or_Test_Result 21 51	DIENTES INCLUIDOS E IMPACTADOS
+T12	Laboratory_or_Test_Result 119 166	tercer molar incluidos e impactado pieza. # 3.8
+T14	Sign_or_Symptom 181 186	dolor

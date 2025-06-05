@@ -1,0 +1,10 @@
+T1	Abbreviation 68 71	APS
+T2	Abbreviation 113 115	Dr
+T3	Abbreviation 155 156	x
+T4	Body_Part 2 10	PREPUCIO
+T5	Body_Part 175 183	prepucio
+T6	Body_Part 199 207	Prepucio
+T7	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T8	Disease 199 241	Prepucio redundante, fimosis y parafimosis
+T9	Sign_or_Symptom 175 198	prepucio poco retraible
+T10	Disease 158 165	fimosis

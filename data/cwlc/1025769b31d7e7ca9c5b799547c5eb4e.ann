@@ -1,0 +1,12 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 168 175	caninos
+T3	Body_Part 200 211	pieza.# 1.3
+T4	Body_Part 238 256	Saco pericoronario
+T5	Body_Part 268 279	Pieza.# 2.3
+T6	Body_Part 335 364	cérvico distal de pieza.# 2.2
+T7	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T9	Disease 366 414	Anomalias dentofaciales (incluso la maloclusion)
+T11	Laboratory_or_Test_Result 168 198	caninos incluidos e impactados
+T12	Laboratory_or_Test_Result 200 266	pieza.# 1.3 Retenida. Mesio incluido. Saco pericoronario engrosado
+T13	Laboratory_or_Test_Result 268 364	Pieza.# 2.3 Retenida. Mesio incluido.Levemente sobre proyectado en cérvico distal de pieza.# 2.2
+T14	Therapeutic_Procedure 92 117	tratamiento de ortodoncia

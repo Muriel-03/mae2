@@ -1,0 +1,13 @@
+T1	Abbreviation 417 420	PVR
+T2	Body_Part 24 30	RETINA
+T3	Body_Part 289 300	ojo derecho
+T4	Body_Part 382 412	retina crónico del ojo derecho
+T5	Disease 2 54	DESPRENDIMIENTO DE LA RETINA SIN OTRA ESPECIFICACIÓN
+T6	Disease 363 412	Desprendimiento de retina crónico del ojo derecho
+T7	Disease 417 432	PVR subretinal.
+T8	Clinical_Finding 165 188	Antecedentes familiares
+T9	Sign_or_Symptom 256 300	perdida de la agudeza visual del ojo derecho
+T10	Clinical_Finding 61 75;76 89	Antecedentes:
+ 1- No refiere
+T11	Clinical_Finding 61 75;76 89	Antecedentes:
+ 1- No refiere

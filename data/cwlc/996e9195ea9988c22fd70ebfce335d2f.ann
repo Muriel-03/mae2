@@ -1,0 +1,9 @@
+T1	Abbreviation 46 49	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 85 101	pieza dental 1.1
+T4	Body_Part 135 149	pieza dentaria
+T5	Body_Part 165 170	pulpa
+T6	Disease 2 22	NECROSIS DE LA PULPA
+T7	Disease 51 66	necrosis pulpar
+T8	Disease 150 170	Necrosis de la pulpa
+T9	Therapeutic_Procedure 114 125	trepanacion

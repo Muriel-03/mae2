@@ -1,0 +1,10 @@
+T1	Abbreviation 86 88	ca
+T2	Body_Part 92 97	colon
+T3	Laboratory_or_Test_Result 0 19	Metaplasia gastrica
+T4	Disease 36 51	Cancer gastrico
+T5	Disease 86 97	ca de colon
+T6	Family_Member 55 62	hermana
+T7	Family_Member 65 70	padre
+T8	Therapeutic_Procedure 111 123	polipectomia
+R1	Has Arg1:T6 Arg2:T4	
+R2	Has Arg1:T7 Arg2:T4	

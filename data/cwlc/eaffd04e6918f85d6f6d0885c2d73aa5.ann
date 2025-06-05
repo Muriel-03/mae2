@@ -1,0 +1,8 @@
+T1	Disease 0 22	herniplastia abdominal
+T2	Disease 23 34	cardiopatia
+T3	Disease 35 51	aritmia cardiaca
+T4	Disease 56 77	fibrilacion auricular
+T5	Disease 78 98	sepsis foco urinario
+T6	Disease 107 136	accidente vascular encefalico
+T7	Disease 165 198	hernia incisional supra umbilical
+T8	Medication 145 164	anticoagulante oral

@@ -1,0 +1,6 @@
+T1	Abbreviation 92 94	Dx
+T2	Body_Part 0 9	Diente 28
+T3	Disease 104 112	Pulpitis
+T4	Clinical_Finding 14 58	tratamiento endodontico previamente iniciado
+T5	Therapeutic_Procedure 80 90	endodoncia
+A1	Pending T5

@@ -1,0 +1,11 @@
+T1	Abbreviation 118 121	APS
+T2	Abbreviation 313 316	OTL
+T3	Body_Part 29 33	OÍDO
+T4	Body_Part 225 253	pabellón auricular izquierdo
+T5	Body_Part 426 430	oido
+T6	Disease 2 94	MALFORMACIÓN CONGÉNITA DEL OÍDO QUE CAUSA ALTERACIÓN DE LA AUDICIÓN, SIN OTRA ESPECIFICACIÓN
+T7	Disease 213 254	agenesia de pabellón auricular izquierdo.
+T8	Disease 399 491	Malformacion congenita del oido que causa alteracion de la audicion, sin otra especificacion
+T9	Clinical_Finding 142 168	sin alergia a medicamentos
+T10	Clinical_Finding 170 198	sin antecedentes quirurgicos
+T11	Sign_or_Symptom 268 295	dificultades en el lenguaje

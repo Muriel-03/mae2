@@ -1,0 +1,33 @@
+T1	Disease 2 17	APNEA DEL SUEÑO
+T2	Disease 21 82	HIPERTROFIA DE LAS AMÍGDALAS CON HIPERTROFIA DE LAS ADENOIDES
+T3	Body_Part 40 49	AMÍGDALAS
+T4	Body_Part 73 82	ADENOIDES
+T5	Abbreviation 106 109	APS
+T6	Abbreviation 130 133	Ant
+T7	Abbreviation 135 139	RNPT
+T8	Clinical_Finding 135 139	RNPT
+T9	Clinical_Finding 170 178	Alergias
+A1	Negated T9
+T10	Abbreviation 202 205	Ant
+T11	Clinical_Finding 207 211	RNPT
+T12	Abbreviation 207 211	RNPT
+T13	Clinical_Finding 242 250	Alergias
+A2	Negated T13
+T14	Family_Member 273 279	padres
+T15	Sign_or_Symptom 301 310	roncadora
+T16	Sign_or_Symptom 324 330	apneas
+T17	Clinical_Finding 355 372	respiradora bucal
+T18	Diagnostic_Procedure 373 381	Rx cavum
+T19	Body_Part 376 381	cavum
+T20	Abbreviation 373 375	Rx
+T21	Clinical_Finding 383 410	obstruccion columna de aire
+T22	Disease 427 448	hipertrofia adenoidea
+T23	Clinical_Finding 468 485	respiradora bucal
+T24	Clinical_Finding 489 501	normocardica
+T25	Disease 503 524	Hipertrofia amigdalas
+T26	Disease 575 636	Hipertrofia de las amigdalas con hipertrofia de las adenoides
+T27	Body_Part 515 524	amigdalas
+T28	Body_Part 594 603	amigdalas
+T29	Body_Part 627 636	adenoides
+T30	Laboratory_or_Test_Result 383 394	obstruccion
+R1	Has Arg1:T18 Arg2:T30	

@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 212 221	denticion
+T3	Body_Part 326 335	1.1 y 2.1
+T4	Body_Part 341 358	dientes 1.2 y 2.2
+T5	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T6	Disease 515 563	Anomalias dentofaciales (incluso la maloclusion)
+T7	Clinical_Finding 212 227	denticion mixta
+T8	Clinical_Finding 256 286	relacion canina clase de angle
+T10	Sign_or_Symptom 308 335	diastema entre el 1.1 y 2.1
+T11	Clinical_Finding 232 254	relacion molar clase 1
+T9	Sign_or_Symptom 341 405	dientes 1.2 y 2.2 inclinados hacia distal en su eje longitudinal

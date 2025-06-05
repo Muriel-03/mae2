@@ -1,0 +1,10 @@
+T1	Abbreviation 37 40	APS
+T2	Body_Part 42 51	Pieza 2.3
+T4	Body_Part 113 122	pieza 2.3
+T7	Laboratory_or_Test_Result 63 86	consucto amplio y recto
+T8	Sign_or_Symptom 2 13	DOLOR AGUDO
+T9	Sign_or_Symptom 124 135	Dolor agudo
+T10	Therapeutic_Procedure 52 61	trepanada
+T11	Therapeutic_Procedure 102 112	endodoncia
+T3	Body_Part 63 71	consucto
+A1	Pending T11

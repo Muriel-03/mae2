@@ -1,0 +1,7 @@
+T1	Therapeutic_Procedure 100 103	IHO
+T2	Body_Part 0 9	DENTICION
+T3	Body_Part 34 43	1.2 - 4.2
+T5	Clinical_Finding 0 23	DENTICION MIXTA 1° FASE
+T6	Sign_or_Symptom 24 43	BIS A BIS 1.2 - 4.2
+T7	Sign_or_Symptom 44 72	CLASE ANGLE III PERFIL RECTO
+T4	Abbreviation 100 103	IHO

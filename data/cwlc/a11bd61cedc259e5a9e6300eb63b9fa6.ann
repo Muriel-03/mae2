@@ -1,0 +1,15 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 181 183	pd
+T3	Abbreviation 217 219	pd
+T4	Body_Part 31 37	DIENTE
+T5	Body_Part 181 187	pd 2.2
+T6	Body_Part 192 195	3.2
+T7	Body_Part 217 234	pd 1.1, 1.2 y 2.1
+T8	Body_Part 264 270	diente
+T9	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T10	Disease 235 270	Anomalias de la posicion del diente
+T11	Clinical_Finding 66 105	Relación Molar Angle: clase I bilateral
+T12	Clinical_Finding 123 140	clase I izquierda
+T13	Sign_or_Symptom 106 153	Relación canina: clase I izquierda y II derecha
+T14	Sign_or_Symptom 154 195	Mordida invertida anterior pd 2.2 con 3.2
+T16	Sign_or_Symptom 196 213	Overjet aumentado

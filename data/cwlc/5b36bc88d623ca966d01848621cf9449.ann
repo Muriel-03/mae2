@@ -1,0 +1,11 @@
+T1	Abbreviation 217 219	mm
+T2	Abbreviation 220 225	aprox
+T3	Body_Part 101 111	Diente 3.6
+T4	Body_Part 160 170	diente 3.5
+T5	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T6	Clinical_Finding 63 84	clase I molar derecha
+T7	Sign_or_Symptom 86 99	III izquierda
+T8	Sign_or_Symptom 101 123	Diente 3.6 mesializado
+T9	Sign_or_Symptom 172 213	Discrepancia negativa de espacio superior
+T10	Abbreviation 130 132	mm
+T11	Sign_or_Symptom 129 170	0mm de espacio disponible para diente 3.5

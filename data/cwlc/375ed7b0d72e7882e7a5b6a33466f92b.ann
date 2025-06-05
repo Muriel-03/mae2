@@ -1,0 +1,64 @@
+T1	Abbreviation 116 119	APS
+T2	Abbreviation 617 620	TMT
+T3	Abbreviation 672 674	MG
+T4	Abbreviation 722 725	BEG
+T5	Abbreviation 738 739	+
+T6	Abbreviation 759 761	EX
+T7	Abbreviation 771 777	RR2TSS
+T8	Abbreviation 781 783	EX
+T9	Abbreviation 794 796	MP
+T10	Abbreviation 798 801	SRA
+T11	Abbreviation 804 806	EX
+T12	Abbreviation 817 820	BDI
+T13	Abbreviation 843 847	EEII
+T14	Abbreviation 1018 1021	IZQ
+T16	Body_Part 289 295	CADERA
+T17	Body_Part 741 748	MUCOSAS
+T18	Body_Part 843 847	EEII
+T19	Body_Part 915 922	CADERAS
+T20	Body_Part 944 947	PIE
+T21	Body_Part 1007 1021	EXTREMIDAD IZQ
+T22	Diagnostic_Procedure 486 501	CINTIGRAMA OSEO
+T23	Disease 2 39	OSTEOPOROSIS CON FRACTURAS PATOLÓGICA
+T24	Disease 41 90	TRASTORNOS DE LA DENSIDAD Y DE LA ESTRUCTURA ÓSEA
+T26	Disease 1067 1104	Osteoporosis con fracturas patologica
+T27	Disease 1106 1155	trastornos de la densidad y de la estructura osea
+T28	Clinical_Finding 722 725	BEG
+T29	Clinical_Finding 727 739	HIDRATACION+
+T30	Clinical_Finding 741 756	MUCOSAS ROSADAS
+T31	Clinical_Finding 771 777	RR2TSS
+T32	Clinical_Finding 817 820	BDI
+T33	Medication 624 634	NIMESULIDA
+T34	Medication 659 669	PREDNISONA
+T35	Medication 693 702	OMEPRAZOL
+T36	Sign_or_Symptom 277 295	PROBLEMA EN CADERA
+T37	Sign_or_Symptom 307 312	DOLOR
+T38	Sign_or_Symptom 342 354	BAJA DE PESO
+T39	Sign_or_Symptom 356 362	FIEBRE
+T40	Sign_or_Symptom 367 395	COMPROMISO DE ESTADO GENERAL
+T43	Clinical_Finding 794 797	MP+
+T44	Clinical_Finding 798 801	SRA
+T45	Sign_or_Symptom 825 840	VISCEROMEGALIAS
+T47	Clinical_Finding 848 863	PULSOS PEDIOS++
+T48	Sign_or_Symptom 864 869	EDEMA
+T49	Sign_or_Symptom 871 878	ULCERAS
+T50	Sign_or_Symptom 882 922	DOLOR A LA MOVILIZACION DE AMBAS CADERAS
+T51	Sign_or_Symptom 965 1021	DURANTE LA MARCHA MOVILIDAD DISMINUIDA DE EXTREMIDAD IZQ
+T52	Clinical_Finding 1023 1066	SENSIBILIDAD MCONSERVADA DE FORMA BILATERAL
+T15	Sign_or_Symptom 237 267	NO PUEDE MOVERSE CON FACILIDAD
+A1	Negated T38
+A2	Negated T39
+A3	Negated T40
+T25	Clinical_Finding 397 422	SIN ANTECEDENTE DE TRAUMA
+T53	Diagnostic_Procedure 503 521	DENSITOMETRIA OSEA
+A4	Pending T22
+A5	Pending T53
+T54	Abbreviation 638 640	MG
+A6	Negated T45
+A8	Negated T49
+T41	Sign_or_Symptom 933 962	SE PONE DE PIE CON DIFICULTAD
+T42	Abbreviation 796 797	+
+T56	Abbreviation 878 879	-
+T46	Abbreviation 861 863	++
+T55	Abbreviation 869 870	-
+A7	Negated T48

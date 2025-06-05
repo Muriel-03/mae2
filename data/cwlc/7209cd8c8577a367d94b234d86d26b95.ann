@@ -1,0 +1,16 @@
+T1	Abbreviation 48 51	APS
+T2	Abbreviation 72 74	Ex
+T3	Abbreviation 179 183	EEII
+T4	Abbreviation 252 256	RR2T
+T5	Body_Part 179 183	EEII
+T6	Diagnostic_Procedure 299 313	Ecocardiograma
+T7	Disease 2 24	INSUFICIENCIA CARDÍACA
+T8	Sign_or_Symptom 164 196	edema de ambas EEII hacia distal
+T9	Sign_or_Symptom 232 240	Nicturia
+T10	Sign_or_Symptom 242 250	Ortopnea
+T11	Sign_or_Symptom 261 283	soplo sistolico III/VI
+T12	Disease 75 85	alcoholico
+T13	Disease 86 100	Fumador activo
+T14	Disease 120 136	Diabetico tipo 2
+T15	Clinical_Finding 252 256	RR2T
+A1	Pending T6

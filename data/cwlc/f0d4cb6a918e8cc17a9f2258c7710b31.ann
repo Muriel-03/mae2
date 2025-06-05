@@ -1,0 +1,15 @@
+T1	Abbreviation 45 47	AU
+T2	Abbreviation 51 54	CMS
+T3	Abbreviation 144 147	VIH
+T6	Disease 144 147	VIH
+T7	Clinical_Finding 0 10	PRIMIGESTA
+T8	Clinical_Finding 12 20	EMBARAZO
+T9	Laboratory_or_Test_Result 35 43	CEFALICO
+T10	Laboratory_Procedure 144 147	VIH
+T5	Laboratory_or_Test_Result 45 54	AU 28 CMS
+T11	Laboratory_or_Test_Result 56 77	FETO CRECIENDO EN P10
+T12	Abbreviation 148 149	+
+T13	Laboratory_Procedure 150 154	VDRL
+A1	Pending T13
+A2	Pending T10
+T4	Abbreviation 150 154	VDRL

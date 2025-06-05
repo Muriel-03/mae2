@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 5	PZA 8
+T3	Body_Part 57 62	PIEZA
+T4	Disease 7 35	PERIODONTITIS APICAL CRONICA
+T5	Sign_or_Symptom 37 55	FISTULA VESTIBULAR
+T7	Therapeutic_Procedure 63 73	TREPANADAS
+T8	Therapeutic_Procedure 112 122	ENDODONCIA
+A1	Pending T8
+T6	Clinical_Finding 63 89	TREPANADAS, SIN MEDICACION

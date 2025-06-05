@@ -1,0 +1,16 @@
+T1	Abbreviation 2 5	HTA
+T2	Abbreviation 123 126	TVP
+T3	Abbreviation 127 130	oct
+T4	Abbreviation 139 143	TACO
+T5	Body_Part 29 35	cadera
+T6	Body_Part 219 225	Cadera
+T7	Disease 2 5	HTA
+T8	Disease 7 11	Asma
+T9	Disease 13 45	Artrosis severa cadera bilateral
+T10	Disease 83 91	Obesidad
+T11	Disease 94 114	Pancreatitis Crónica
+T12	Disease 123 126	TVP
+T13	Disease 210 242	Artrosis Cadera Severa bilateral
+T14	Medication 139 143	TACO
+T15	Clinical_Finding 48 66	Usuaria de ortesis
+T16	Disease 68 80	Dislipidemia

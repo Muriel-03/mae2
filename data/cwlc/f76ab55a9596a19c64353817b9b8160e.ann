@@ -1,0 +1,18 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 102 105	DM2
+T3	Abbreviation 108 111	HTA
+T4	Abbreviation 128 131	tto
+T5	Abbreviation 148 151	ucg
+T6	Abbreviation 156 157	x
+T7	Abbreviation 173 176	evo
+T8	Body_Part 239 255	lobulos tiroideo
+T9	Diagnostic_Procedure 173 185	evo tiroidea
+T10	Disease 2 30	BOCIO MULTINODULAR NO TÓXICO
+T11	Disease 87 100	Hipotiroidsmo
+T12	Disease 102 105	DM2
+T13	Disease 108 111	HTA
+T14	Laboratory_or_Test_Result 213 255	discreto engrosamiento de lobulos tiroideo
+T15	Medication 136 143	Eutirox
+T16	Disease 114 125	gonartrosis
+A1	Pending T9
+R1	Has Arg1:T9 Arg2:T14	

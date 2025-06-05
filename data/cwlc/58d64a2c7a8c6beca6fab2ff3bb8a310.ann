@@ -1,0 +1,7 @@
+T1	Diagnostic_Procedure 17 24	biopsia
+T2	Disease 0 15	cancer faringio
+T3	Laboratory_or_Test_Result 25 54	cancer espinocelular, grado 6
+T4	Therapeutic_Procedure 101 113	gastrostomía
+R1	Has Arg1:T1 Arg2:T3	
+A1	Pending T4
+T5	Disease 25 45	cancer espinocelular

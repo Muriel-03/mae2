@@ -1,0 +1,11 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 75 78	TTM
+T3	Abbreviation 102 105	atm
+T4	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T5	Body_Part 102 113	atm derecha
+T6	Body_Part 152 179	articulacion temporomaxilar
+T7	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T8	Disease 135 179	Trastornos de la articulacion temporomaxilar
+T9	Disease 75 78	TTM
+T10	Sign_or_Symptom 80 113	chasquido terminal en atm derecha
+T11	Sign_or_Symptom 115 134	dolor a la apertura

@@ -1,0 +1,16 @@
+T1	Abbreviation 16 18	dg
+T2	Abbreviation 24 27	Eco
+T3	Abbreviation 78 81	tto
+T5	Abbreviation 87 90	LVT
+T6	Abbreviation 95 98	mcg
+T7	Abbreviation 130 133	tto
+T8	Diagnostic_Procedure 24 27	Eco
+T9	Disease 115 126	Bipolaridad
+T10	Medication 87 90	LVT
+T11	Medication 135 153	Carbonato de litio
+T12	Medication 155 168	Carbamazepina
+T13	Medication 170 180	Clonazepam
+T14	Medication 182 193	Haloperidol
+T15	Sign_or_Symptom 0 15	Nódulo tiroídeo
+T4	Medication 195 204	TrazodonA
+T16	Sign_or_Symptom 224 249	baja importante en libido

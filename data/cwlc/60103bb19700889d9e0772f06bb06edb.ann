@@ -1,0 +1,21 @@
+T1	Abbreviation 78 81	APS
+T2	Abbreviation 418 421	APS
+T3	Abbreviation 509 511	RX
+T4	Abbreviation 613 616	tto
+T5	Body_Part 2 7	TÓRAX
+T6	Body_Part 178 183	torax
+T7	Body_Part 515 520	torax
+T8	Body_Part 628 633	Torax
+T9	Diagnostic_Procedure 509 520	RX de torax
+T10	Disease 2 16	TÓRAX EXCAVADO
+T11	Disease 20 54	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T12	Disease 194 225	arritmia cardiaca no especifica
+T13	Family_Member 144 149	madre
+T14	Family_Member 384 389	madre
+T17	Sign_or_Symptom 280 286	disnea
+T18	Sign_or_Symptom 290 306	dolor precordial
+T19	Disease 178 192	torax excavado
+T16	Disease 628 642	Torax excavado
+A1	Pending T9
+T15	Diagnostic_Procedure 523 542	electrocardiogramas
+A2	Pending T15

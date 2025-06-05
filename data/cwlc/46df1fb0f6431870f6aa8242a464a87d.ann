@@ -1,0 +1,23 @@
+T1	Abbreviation 0 5	Antec
+T2	Abbreviation 9 13	TDAH
+T3	Abbreviation 32 36	trat
+T4	Abbreviation 55 57	mg
+T5	Abbreviation 61 62	L
+T6	Abbreviation 83 85	mg
+T7	Abbreviation 146 147	p
+T8	Abbreviation 157 160	izq
+T9	Abbreviation 177 179	Rx
+T11	Abbreviation 196 199	ECG
+T12	Body_Part 146 160	p esternal izq
+T13	Body_Part 180 193	cav cardíacas
+T14	Diagnostic_Procedure 177 193	Rx cav cardíacas
+T15	Diagnostic_Procedure 196 199	ECG
+T16	Disease 9 13	TDAH
+T18	Medication 41 51	Anfetamina
+T19	Medication 69 80	Risperidona
+T20	Sign_or_Symptom 129 166	soplo aspirativo p esternal izq suave
+T21	Abbreviation 16 17	T
+T22	Clinical_Finding 100 118	institucionalizado
+T23	Abbreviation 65 66	V
+A1	Pending T14
+A2	Pending T15

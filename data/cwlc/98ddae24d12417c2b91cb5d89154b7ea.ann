@@ -1,0 +1,5 @@
+T1	Abbreviation 0 3	pac
+T3	Clinical_Finding 23 64	portadora de protesis removibles superior
+T4	Clinical_Finding 13 22	multipera
+T5	Therapeutic_Procedure 81 118	rehabilitacion de protesis superiores
+A1	Pending T5

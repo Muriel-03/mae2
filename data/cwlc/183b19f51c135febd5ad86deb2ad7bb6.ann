@@ -1,0 +1,5 @@
+T1	Body_Part 0 9	Pieza 1.5
+T2	Disease 39 60	fractura de la corona
+T4	Clinical_Finding 10 34	tratada endodonticamente
+T5	Therapeutic_Procedure 91 113	prótesis fija unitaria
+A1	Pending T5

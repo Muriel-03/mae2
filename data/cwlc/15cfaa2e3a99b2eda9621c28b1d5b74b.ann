@@ -1,0 +1,15 @@
+T1	Disease 2 50	COXARTROSIS (ARTROSIS DE LA CADERA) , (ARTROSIS)
+T2	Body_Part 30 36	CADERA
+T3	Disease 54 81	ESCOLIOSIS, NO ESPECIFICADA
+T4	Abbreviation 105 108	APS
+T5	Disease 110 120	COXARTOSIS
+T6	Disease 123 133	ESCOLIOSIS
+T7	Abbreviation 135 137	DG
+T8	Disease 165 186	CARDIOPATIA CORONARIA
+T9	Disease 283 331	Coxartrosis (artrosis de la cadera) , (artrosis)
+T10	Body_Part 198 200	AC
+T11	Abbreviation 198 200	AC
+T12	Therapeutic_Procedure 190 200	BY PAAS AC
+T13	Diagnostic_Procedure 216 237	ESTUDIO IMAGENOLÓGICO
+A1	Pending T13
+T14	Body_Part 311 317	cadera

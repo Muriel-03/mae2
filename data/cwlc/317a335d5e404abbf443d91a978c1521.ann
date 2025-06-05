@@ -1,0 +1,15 @@
+T1	Abbreviation 11 15	PZAS
+T2	Abbreviation 26 27	P
+T3	Abbreviation 102 103	P
+T4	Body_Part 11 25	PZAS 1.2 Y 4,6
+T5	Body_Part 26 31	P 1.2
+T6	Body_Part 102 107	P 4.6
+T7	Clinical_Finding 32 60	TERAPIA PREVIAMENTE INICIADA
+T8	Clinical_Finding 108 136	TERAPIA PREVIAMENTE INIZIADA
+T9	Therapeutic_Procedure 0 10	ENDODONCIA
+T10	Therapeutic_Procedure 62 71	TREPANADA
+T11	Medication 80 91	FARMACROSOL
+T12	Medication 92 100	EUGENATO
+T13	Therapeutic_Procedure 138 147	TREPANADA
+T14	Medication 156 167	FARMACRESOL
+T15	Medication 168 177	EUGENORTO

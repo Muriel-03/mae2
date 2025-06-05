@@ -1,0 +1,8 @@
+T1	Sign_or_Symptom 0 18	cale II esqueletal
+T2	Sign_or_Symptom 32 75	compresión maxilar dentoalveolar asimetrica
+T3	Sign_or_Symptom 77 100	mordida cruzada derecha
+T4	Sign_or_Symptom 102 130	oveyet severamente aumentado
+T5	Sign_or_Symptom 131 170	apiñamiento moderado superor e inferior
+T6	Sign_or_Symptom 173 198	biproinclinación encisiva
+T7	Clinical_Finding 19 31	braquifacial
+T8	Disease 131 142	apiñamiento

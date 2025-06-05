@@ -1,0 +1,10 @@
+T1	Abbreviation 65 68	APS
+T2	Body_Part 25 41	TÍMPANO DEL OÍDO
+T3	Body_Part 129 141	oido derecho
+T4	Body_Part 259 275	timpano del oido
+T5	Disease 2 41	RUPTURA TRAUMÁTICA DEL TÍMPANO DEL OÍDO
+T6	Disease 207 224	ruptura timpanica
+T7	Disease 236 275	Ruptura traumatica del timpano del oido
+T8	Sign_or_Symptom 120 141	ruido en oido derecho
+T9	Sign_or_Symptom 147 167	voces distorsionadas
+T10	Sign_or_Symptom 207 234	ruptura timpanica izquierda

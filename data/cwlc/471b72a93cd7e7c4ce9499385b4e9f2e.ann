@@ -1,0 +1,4 @@
+T1	Body_Part 93 124	region diafisis femur izquierdo
+T2	Clinical_Finding 125 137	asintomatico
+T3	Laboratory_or_Test_Result 39 124	lecion osltiolitica ovalada de aproximadamente 6cm en region diafisis femur izquierdo
+T4	Abbreviation 87 89	cm

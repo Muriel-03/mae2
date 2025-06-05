@@ -1,0 +1,7 @@
+T1	Abbreviation 55 58	HRT
+T2	Abbreviation 152 156	DAUN
+T3	Body_Part 101 108	1,2-2,1
+T4	Disease 75 86	TRAUMATISMO
+T6	Therapeutic_Procedure 23 32	IMPLANTES
+A1	Pending T6
+T7	Disease 113 129	FRCTURA VERTICAL

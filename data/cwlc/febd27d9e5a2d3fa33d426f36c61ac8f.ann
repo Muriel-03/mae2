@@ -1,0 +1,19 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 116 117	M
+T3	Abbreviation 122 127	R.U.N
+T4	Body_Part 27 33	CADERA
+T6	Body_Part 344 359	ceja cotiloidea
+T7	Body_Part 469 483	Cadera derecha
+T8	Diagnostic_Procedure 209 220	Radiografía
+T9	Disease 2 45	LUXACIÓN CONGÉNITA DE LA CADERA, UNILATERAL
+T10	Laboratory_or_Test_Result 378 420	Esclerosis acetabular derecha lateralizada
+T11	Disease 448 483	Displasia Luxante de Cadera derecha
+T12	Laboratory_or_Test_Result 221 228	ANORMAL
+T13	Laboratory_or_Test_Result 244 280	ángulo acetabula aumentado a derecha
+T14	Laboratory_or_Test_Result 331 376	Formación de ceja cotiloidea escasa a derecha
+R1	Has Arg1:T8 Arg2:T12	
+T15	Laboratory_or_Test_Result 282 329	Adecuada formación de arco de Shenton bilateral
+R2	Has Arg1:T8 Arg2:T13	
+R3	Has Arg1:T8 Arg2:T15	
+R4	Has Arg1:T8 Arg2:T14	
+R5	Has Arg1:T8 Arg2:T10	

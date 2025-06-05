@@ -1,0 +1,10 @@
+T1	Abbreviation 45 51	CESFAM
+T2	Abbreviation 52 54	DR
+T3	Abbreviation 133 140	P.M.C.F
+T4	Body_Part 108 117	PIEZA 2.5
+T5	Disease 83 104	PULPITIS IRREVERSIBLE
+T6	Therapeutic_Procedure 166 192	FINALIZACION DE ENDODONCIA
+T7	Medication 133 140	P.M.C.F
+T8	Medication 145 153	EUGENETO
+A1	Pending T6
+T9	Therapeutic_Procedure 118 153	SE TREPARA MAS P.M.C.F MAS EUGENETO

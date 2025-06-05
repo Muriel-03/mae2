@@ -1,0 +1,10 @@
+T1	Abbreviation 49 52	Pza
+T2	Abbreviation 87 90	Pza
+T3	Body_Part 49 55	Pza 17
+T4	Body_Part 87 93	Pza 18
+T5	Body_Part 97 102	Pieza
+T6	Disease 74 83	Impactada
+T7	Disease 112 127	Pericoronaritis
+T8	Laboratory_or_Test_Result 49 93	Pza 17 En Mesioversion E Impactada En Pza 18
+T9	Therapeutic_Procedure 36 45	Exodoncia
+A1	Pending T9

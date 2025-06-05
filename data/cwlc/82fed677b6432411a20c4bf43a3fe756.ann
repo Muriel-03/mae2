@@ -1,0 +1,8 @@
+T1	Abbreviation 42 45	TTO
+T2	Disease 0 28	ANEMIA HEMOLITICA AUTOINMUNE
+T3	Therapeutic_Procedure 42 57	TTO CORTICOIDAL
+T4	Therapeutic_Procedure 67 80	ESPLENECTOMIA
+T5	Therapeutic_Procedure 106 119	ESPLENECTOMIA
+A1	Pending T4
+A2	Pending T5
+T6	Sign_or_Symptom 29 57	RESISTENTE A TTO CORTICOIDAL

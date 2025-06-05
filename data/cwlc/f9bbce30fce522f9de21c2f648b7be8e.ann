@@ -1,0 +1,8 @@
+T1	Abbreviation 29 30	p
+T2	Abbreviation 67 70	tto
+T3	Abbreviation 109 112	APS
+T4	Body_Part 29 35	p. 1.1
+T5	Body_Part 84 89	pieza
+T6	Disease 0 28	periodontitis apical cronica
+T9	Therapeutic_Procedure 67 82	tto endodontico
+A1	Pending T9

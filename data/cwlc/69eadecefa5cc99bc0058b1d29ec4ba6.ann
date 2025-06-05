@@ -1,0 +1,9 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 244 247	TTO
+T3	Diagnostic_Procedure 90 109	ECOGRAFIA ABDOMINAL
+T4	Disease 2 14	COLELITIASIS
+T5	Disease 126 143	COLECISTOLITIASIS
+T6	Disease 259 271	Colelitiasis
+T7	Laboratory_or_Test_Result 126 143	COLECISTOLITIASIS
+T8	Clinical_Finding 197 209	ASINTOMATICA
+R1	Has Arg1:T3 Arg2:T7	

@@ -1,0 +1,10 @@
+T1	Abbreviation 190 192	cx
+T2	Disease 9 35	desdentado total bimaxilar
+T3	Clinical_Finding 53 92	protesis superior en buenas condiciones
+T5	Sign_or_Symptom 103 165	reborde inferior irregular que dificulta tratamiento protésico
+T6	Therapeutic_Procedure 144 165	tratamiento protésico
+T7	Therapeutic_Procedure 190 206	cx pre protetica
+T8	Therapeutic_Procedure 224 232	protesis
+A1	Pending T8
+A2	Pending T6
+A3	Pending T7

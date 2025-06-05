@@ -1,0 +1,25 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 106 122	región de glande
+T3	Body_Part 185 201	zona de prepucio
+T4	Body_Part 228 236	prepucio
+T5	Body_Part 250 256	glande
+T6	Body_Part 365 371	glande
+T7	Body_Part 513 521	prepucio
+T8	Body_Part 579 594	punta de glande
+T9	Body_Part 625 640	Zona testicular
+T10	Disease 2 32	BALANITIS XERÓTICA OBLITERANTE
+T11	Disease 648 678	Balanitis xerotica obliterante
+T12	Sign_or_Symptom 84 122	aumento de volumen en región de glande
+T13	Sign_or_Symptom 125 153	edema prepucial intermitente
+T14	Sign_or_Symptom 325 343	aumento de volumen
+T15	Sign_or_Symptom 346 394	enrojecimiento del glande de manera intermitente
+T16	Sign_or_Symptom 400 405	dolor
+T17	Sign_or_Symptom 408 427	malestar de la zona
+T18	Sign_or_Symptom 433 455	molestias a la micción
+T19	Sign_or_Symptom 494 556	edema irregular de prepucio con cicatriz retráctil blanquecina
+T20	Sign_or_Symptom 562 594	visualización de punta de glande
+T22	Sign_or_Symptom 206 256	dificultad de retraer prepucio y exponer el glande
+A1	Negated T18
+T21	Sign_or_Symptom 612 623	inflamación
+A2	Negated T21
+T23	Sign_or_Symptom 158 201	aparición de retracción en zona de prepucio

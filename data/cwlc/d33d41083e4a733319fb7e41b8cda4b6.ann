@@ -1,0 +1,11 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 46 49	Pza
+T3	Abbreviation 58 60	ca
+T4	Abbreviation 143 146	pza
+T5	Body_Part 46 53	Pza 2.8
+T6	Body_Part 143 146	pza
+T7	Disease 2 17	RESTO RADICULAR
+T8	Disease 58 82	ca dentinaria penetrante
+T10	Sign_or_Symptom 85 111	gran destrucción coronaria
+T11	Therapeutic_Procedure 127 136	exodoncia
+A1	Pending T11

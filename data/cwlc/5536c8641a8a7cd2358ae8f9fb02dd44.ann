@@ -1,0 +1,69 @@
+T1	Abbreviation 96 99	ISP
+T2	Abbreviation 115 118	Pte
+T3	Abbreviation 204 207	ENL
+T4	Abbreviation 218 221	hrs
+T5	Abbreviation 238 241	cpr
+T6	Abbreviation 248 251	IGO
+T7	Abbreviation 271 274	MTF
+T8	Abbreviation 279 282	cpr
+T9	Abbreviation 321 324	GFZ
+T10	Abbreviation 329 331	mg
+T11	Abbreviation 343 346	hrs
+T12	Abbreviation 348 351	Exs
+T13	Abbreviation 400 403	VHS
+T14	Abbreviation 476 478	BT
+T15	Abbreviation 493 496	GOT
+T16	Abbreviation 501 504	GPT
+T17	Abbreviation 520 523	alc
+T18	Abbreviation 529 532	GGT
+T19	Abbreviation 649 651	GR
+T20	Abbreviation 652 653	x
+T21	Abbreviation 668 671	aum
+T22	Abbreviation 673 674	M
+T23	Abbreviation 675 679	cont
+T24	Abbreviation 684 688	Bact
+T25	Abbreviation 698 701	ECG
+T26	Abbreviation 716 718	RS
+T27	Abbreviation 722 725	cpm
+T28	Abbreviation 760 762	LB
+T29	Diagnostic_Procedure 698 701	ECG
+T30	Disease 2 44	PORTADOR DE OTRAS ENFERMEDADES INFECCIOSAS
+T31	Disease 163 184	Hipertensión primaria
+T32	Disease 248 251	IGO
+T33	Disease 289 301	Dislipidemia
+T36	Laboratory_or_Test_Result 429 435	normal
+T37	Laboratory_or_Test_Result 606 623	bioquimica normal
+T40	Laboratory_Procedure 376 394	Hemograma completo
+T41	Laboratory_Procedure 400 403	VHS
+T42	Laboratory_Procedure 406 427	recuento de plaquetas
+T43	Laboratory_Procedure 447 473	Perfil bioquímico hepatico
+T44	Laboratory_Procedure 476 478	BT
+T45	Laboratory_Procedure 493 496	GOT
+T46	Laboratory_Procedure 501 504	GPT
+T47	Laboratory_Procedure 509 523	fostatasas alc
+T48	Laboratory_Procedure 529 532	GGT
+T49	Laboratory_Procedure 550 563	Creatininemia
+T50	Laboratory_Procedure 580 604	Examen completo de orina
+T52	Medication 204 207	ENL
+T53	Medication 223 233	Furosemide
+T54	Medication 271 274	MTF
+T55	Medication 321 324	GFZ
+T56	Laboratory_or_Test_Result 62 63	+
+T58	Disease 70 76	Chagas
+T34	Abbreviation 62 63	+
+T35	Laboratory_Procedure 51 76	Serologia (+) para Chagas
+R1	Has Arg1:T35 Arg2:T56	
+R2	Has Arg1:T40 Arg2:T36	
+R3	Has Arg1:T41 Arg2:T36	
+R4	Has Arg1:T42 Arg2:T36	
+T38	Laboratory_or_Test_Result 716 857	RS 70 cpm,CAV normal,artefactos de registro LB en derivaciones pared inferior,restantes derivaciones: registro depol y repol normal.QT normal
+T39	Laboratory_or_Test_Result 624 643	microhematuria leve
+T51	Laboratory_or_Test_Result 673 695	M cont con Bact escasa
+R5	Has Arg1:T50 Arg2:T37	
+R6	Has Arg1:T50 Arg2:T39	
+R7	Has Arg1:T50 Arg2:T51	
+T57	Abbreviation 827 832	depol
+T59	Abbreviation 726 729	CAV
+R8	Has Arg1:T29 Arg2:T38	
+T60	Abbreviation 835 840	repol
+T61	Body_Part 779 793	pared inferior

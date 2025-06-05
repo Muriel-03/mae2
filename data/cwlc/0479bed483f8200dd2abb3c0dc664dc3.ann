@@ -1,0 +1,10 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 49 54	PACTE
+T3	Abbreviation 74 77	SUP
+T4	Abbreviation 119 122	SUP
+T5	Body_Part 161 168	DIENTES
+T6	Body_Part 222 229	dientes
+T7	Disease 2 20	DESDENTADO PARCIAL
+T8	Disease 55 88	DESDENTADO PARCIAL SUP E INFERIOR
+T9	Disease 184 260	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T11	Sign_or_Symptom 102 151	PROTESIS PARCIAL SUP  DESAJUSTADA SIN RETENEDORES

@@ -1,0 +1,48 @@
+T1	Abbreviation 72 75	APS
+T2	Abbreviation 287 290	eco
+T3	Abbreviation 396 399	TAC
+T5	Abbreviation 714 717	BDI
+T6	Abbreviation 722 725	RHA
+T7	Abbreviation 725 726	+
+T8	Abbreviation 899 901	CA
+T9	Body_Part 20 25	COLON
+T10	Body_Part 244 258	ampolla rectal
+T11	Body_Part 403 410	abdomen
+T12	Body_Part 413 419	pelvis
+T13	Body_Part 498 512	tronco celiaco
+T14	Body_Part 582 597	aorta abdominal
+T15	Body_Part 633 646	cava inferior
+T16	Body_Part 706 713	Abdomen
+T17	Body_Part 809 827	region epigastrica
+T18	Body_Part 905 910	colon
+T19	Body_Part 952 966	retroperitoneo
+T20	Body_Part 1042 1047	colon
+T21	Diagnostic_Procedure 287 300	eco abdominal
+T22	Diagnostic_Procedure 396 419	TAC de abdomen y pelvis
+T23	Diagnostic_Procedure 993 1005	colonoscopia
+T24	Disease 2 48	TUMOR MALIGNO DEL COLON, PARTE NO ESPECIFICADA
+T25	Disease 899 910	CA de colon
+T26	Disease 1024 1070	Tumor maligno del colon, parte no especificada
+T27	Laboratory_or_Test_Result 321 354	masa retroperitoneal inespecifica
+T28	Laboratory_or_Test_Result 439 537	conglomerado adenopatico retroperitoneal dedsde emergencia tronco celiaco hasta bifurcacion iliaca
+T29	Laboratory_or_Test_Result 915 966	lesiones metastasicas secundarias en retroperitoneo
+T30	Sign_or_Symptom 116 138	cambio en deposiciones
+T31	Sign_or_Symptom 140 167	disminucion de la fecuencia
+T32	Sign_or_Symptom 170 190	deposiciones escasas
+T36	Sign_or_Symptom 260 272	Sangramiento
+T39	Clinical_Finding 722 726	RHA+
+T40	Sign_or_Symptom 732 763	signos de irritacion peritoneal
+T41	Sign_or_Symptom 765 827	Aumento de voluemn de consistencia firme en region epigastrica
+T34	Clinical_Finding 192 258	tacto rectal sin fecaloma, ni presencia de masas en ampolla rectal
+A1	Negated T36
+T33	Abbreviation 274 275	-
+T35	Laboratory_or_Test_Result 566 670	MAsa engloba la aorta abdominal sin compromiso de calibre, rechaza cava inferior con moderada compresion
+T42	Laboratory_or_Test_Result 671 693	resto sin alteraciones
+R1	Has Arg1:T22 Arg2:T28	
+R2	Has Arg1:T22 Arg2:T35	
+R3	Has Arg1:T22 Arg2:T42	
+T4	Abbreviation 694 696	Ex
+T37	Clinical_Finding 706 717	Abdomen BDI
+A2	Negated T40
+T43	Body_Part 519 537	bifurcacion iliaca
+A3	Pending T23

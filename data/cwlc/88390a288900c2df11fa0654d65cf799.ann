@@ -1,0 +1,12 @@
+T4	Sign_or_Symptom 45 61	SECUELAS MAYORES
+T5	Sign_or_Symptom 80 105	CLAUDICACION INTERMITENTE
+T1	Abbreviation 0 2	HT
+T6	Abbreviation 3 6	DM2
+T7	Abbreviation 7 10	DLP
+T8	Abbreviation 11 15	SIND
+T9	Disease 0 2	HT
+T10	Disease 3 6	DM2
+T11	Disease 7 10	DLP
+T12	Disease 11 32	SIND CONVULSIVO AGUDO
+A1	Negated T4
+T2	Clinical_Finding 11 40	SIND CONVULSIVO AGUDO ANTIGUO

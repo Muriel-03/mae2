@@ -1,0 +1,8 @@
+T1	Body_Part 52 56	MAMA
+T2	Body_Part 111 115	MAMA
+T3	Diagnostic_Procedure 39 56	IMAGEN DE LA MAMA
+T4	Diagnostic_Procedure 98 115	IMAGEN DE LA MAMA
+T6	Laboratory_or_Test_Result 59 78	HALLAZGOS ANORMALES
+T5	Laboratory_or_Test_Result 0 19	HALLAZGOS ANORMALES
+R1	Has Arg1:T3 Arg2:T5	
+R2	Has Arg1:T4 Arg2:T6	

@@ -1,0 +1,32 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 50	AM
+T3	Abbreviation 56 58	QX
+T4	Abbreviation 74 77	FCO
+T5	Abbreviation 296 299	MAX
+T6	Abbreviation 301 303	EX
+T7	Abbreviation 335 337	TG
+T8	Abbreviation 343 346	COL
+T9	Abbreviation 347 348	T
+T10	Abbreviation 354 357	TSH
+T11	Abbreviation 366 368	EX
+T12	Abbreviation 395 398	ANT
+T14	Disease 2 19	OBESIDAD GRADO II
+T15	Disease 138 146	OBESIDAD
+T16	Disease 413 429	OBESIDAD MORBIDA
+T17	Disease 432 449	Obesidad grado II
+T18	Family_Member 173 178	MADRE
+T19	Clinical_Finding 48 54	AM: NO
+T20	Clinical_Finding 56 62	QX: NO
+T21	Clinical_Finding 64 81	ALERGIA A FCO: NO
+T22	Clinical_Finding 265 288	PRESION ARTERIAL NORMAL
+T23	Clinical_Finding 366 392	EX FISICO SIN ALTERACIONES
+T24	Laboratory_or_Test_Result 314 320	NORMAL
+T25	Laboratory_Procedure 304 313	HEMOGRAMA
+T26	Laboratory_Procedure 322 330	GLICEMIA
+T27	Laboratory_Procedure 335 337	TG
+T28	Laboratory_Procedure 343 348	COL T
+T29	Laboratory_Procedure 354 357	TSH
+T30	Sign_or_Symptom 208 238	MENOR SACA COMIDA A ESCONDIDAS
+T32	Sign_or_Symptom 96 171	CONTROL NUTRICIONAL HACE MAS DE 1 AÑO POR OBESIDAD, SIN RESPUESTA FAVORABLE
+R1	Has Arg1:T25 Arg2:T24	
+A1	Implicit_Family_Background T16

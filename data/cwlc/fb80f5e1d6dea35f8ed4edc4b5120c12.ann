@@ -1,0 +1,10 @@
+T1	Abbreviation 247 251	PM-M
+T2	Body_Part 179 196	dientes 1.8 y 2.8
+T3	Body_Part 207 220	grupo IV Y VI
+T4	Body_Part 247 275	PM-M superiores e inferiores
+T5	Disease 2 23	PERIODONTITIS CRÓNICA
+T6	Disease 57 92	enfermedad periodontal generalizada
+T7	Sign_or_Symptom 97 136	acúmulo de cálculo supra y sub gingival
+T8	Sign_or_Symptom 155 220	movilidad patológica en dientes 1.8 y 2.8 además de grupo IV Y VI
+T9	Sign_or_Symptom 231 275	abfracciones en PM-M superiores e inferiores
+T10	Therapeutic_Procedure 288 311	destartraje y educación

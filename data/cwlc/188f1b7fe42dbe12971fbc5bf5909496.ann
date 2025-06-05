@@ -1,0 +1,7 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 120 121	g
+T3	Body_Part 120 123	g 5
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 108 119	apiñamiento
+T6	Disease 124 172	Anomalias dentofaciales (incluso la maloclusion)
+T7	Sign_or_Symptom 79 106	clase II molar lado derecho

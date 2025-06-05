@@ -1,0 +1,5 @@
+T1	Abbreviation 80 86	BIRADS
+T2	Diagnostic_Procedure 117 130	ECOTOMOGRAFIA
+T3	Laboratory_or_Test_Result 25 78	NODULOS MAMARIOS BILATERALES PRWESUMIBLEMENTE BENIGNA
+T4	Laboratory_or_Test_Result 80 90	BIRADS III
+A1	Pending T2

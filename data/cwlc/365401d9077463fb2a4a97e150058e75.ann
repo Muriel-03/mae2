@@ -1,0 +1,17 @@
+T1	Abbreviation 25 30	ANTEC
+T2	Abbreviation 107 109	CU
+T3	Abbreviation 114 115	A
+T4	Abbreviation 116 119	ECO
+T5	Abbreviation 120 122	TV
+T6	Body_Part 89 97	INTROITO
+T7	Diagnostic_Procedure 116 122	ECO TV
+T8	Disease 31 47	PROLAPSO GENITAL
+T9	Disease 61 82	PROLAPSO INTRAVAGINAL
+T10	Clinical_Finding 0 2	G4
+T11	Clinical_Finding 3 5	P3
+T12	Clinical_Finding 6 8	A1
+T13	Laboratory_or_Test_Result 132 138	NORMAL
+T14	Therapeutic_Procedure 48 55	OPERADO
+T15	Abbreviation 0 8	G4 P3 A1
+R1	Has Arg1:T7 Arg2:T13	
+T16	Therapeutic_Procedure 107 115	CU 380 A

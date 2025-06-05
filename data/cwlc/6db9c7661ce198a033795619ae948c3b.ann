@@ -1,0 +1,11 @@
+T1	Abbreviation 46 49	HTA
+T2	Abbreviation 79 82	ITU
+T3	Abbreviation 97 100	TTO
+T5	Disease 46 57	HTA CRONICA
+T6	Disease 58 78	DIABETES GESTACIONAL
+T7	Disease 79 93	ITU RECURRENTE
+T8	Clinical_Finding 0 2	G4
+T9	Clinical_Finding 3 5	P1
+T10	Clinical_Finding 6 8	A2
+T11	Clinical_Finding 9 24	GESTANTE TARDIA
+T12	Clinical_Finding 26 34	EMBARAZO

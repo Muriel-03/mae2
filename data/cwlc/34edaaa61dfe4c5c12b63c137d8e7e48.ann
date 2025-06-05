@@ -1,0 +1,4 @@
+T1	Sign_or_Symptom 50 68	Compresión maxilar
+T2	Sign_or_Symptom 70 101	Clase III dentaria y esqueletal
+T3	Therapeutic_Procedure 25 48	tratamiento ortodóncico
+A1	Pending T3

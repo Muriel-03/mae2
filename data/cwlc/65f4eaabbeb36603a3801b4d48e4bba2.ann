@@ -1,0 +1,6 @@
+T1	Abbreviation 24 27	TTO
+T2	Clinical_Finding 52 75	clase I MOLAR BILATERAL
+T3	Sign_or_Symptom 85 126	APIÑAMIENTO anterior MAXILAR Y MANDIBULAR
+T4	Therapeutic_Procedure 24 41	TTO DE ORTODONCIA
+A1	Pending T4
+T5	Disease 85 96	APIÑAMIENTO

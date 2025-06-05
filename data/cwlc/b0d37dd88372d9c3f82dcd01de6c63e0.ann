@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PAC
+T2	Abbreviation 9 11	DX
+T3	Abbreviation 74 77	EKG
+T4	Diagnostic_Procedure 74 77	EKG
+T5	Disease 15 32	HERNIA INCISIONAL
+T7	Laboratory_or_Test_Result 78 86	ALTERADO
+R1	Has Arg1:T4 Arg2:T7	

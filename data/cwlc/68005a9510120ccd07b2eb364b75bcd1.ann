@@ -1,0 +1,5 @@
+T1	Abbreviation 55 57	CI
+T2	Disease 0 4	F802
+T3	Disease 5 43	TRASTORNO DE LA RECEPCION DEL LENGUAJE
+T4	Clinical_Finding 99 108	LIMITROFE
+T5	Diagnostic_Procedure 55 57	CI

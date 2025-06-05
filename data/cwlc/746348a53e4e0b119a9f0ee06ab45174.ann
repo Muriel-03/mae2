@@ -1,0 +1,6 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 125 128	PPR
+T3	Disease 2 20	DESDENTADO PARCIAL
+T4	Disease 58 96	desdentada parcial superior e inferior
+T5	Therapeutic_Procedure 125 128	PPR
+A1	Pending T5

@@ -1,0 +1,8 @@
+T1	Abbreviation 12 15	HNP
+T2	Abbreviation 69 72	TTO
+T3	Disease 12 15	HNP
+T4	Sign_or_Symptom 100 105	DOLOR
+T5	Sign_or_Symptom 115 140	COMPROMISO PARA LA MARCHA
+T6	Sign_or_Symptom 141 161	DOLOR A LA PALPACION
+T7	Therapeutic_Procedure 69 81	TTO KINESICO
+T8	Abbreviation 34 36	+-

@@ -1,0 +1,30 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 352 357	kilos
+T3	Body_Part 786 792	cuerpo
+T4	Disease 2 50	EPISODIO DEPRESIVO GRAVE SIN SÍNTOMAS PSICÓTICOS
+T5	Clinical_Finding 183 206	antecedentes de bullyng
+T6	Disease 1300 1348	Episodio depresivo grave sin sintomas psicoticos
+T7	Family_Member 141 148	materna
+T8	Family_Member 219 224	madre
+T10	Medication 1288 1298	Fluoxetina
+T11	Sign_or_Symptom 292 302	animo bajo
+T12	Sign_or_Symptom 304 322	aumento de apetito
+T13	Sign_or_Symptom 324 339	aumento de peso
+T14	Sign_or_Symptom 359 381	falta de concentración
+T15	Sign_or_Symptom 473 505	perdida del interés en las cosas
+T16	Sign_or_Symptom 507 527	sentimiento de culpa
+T17	Sign_or_Symptom 537 567	estados de ánimo bajo alternos
+T18	Sign_or_Symptom 689 701	llanto fácil
+T19	Sign_or_Symptom 728 743	autoestima bajo
+T20	Sign_or_Symptom 745 792	perdida de la percepción de normal de su cuerpo
+T21	Sign_or_Symptom 794 816	pensamientos negativos
+T22	Sign_or_Symptom 818 849	pensamientos de autoflagelación
+T23	Sign_or_Symptom 956 977	alucinaciones ópticas
+T9	Sign_or_Symptom 409 471	malas calificaciones en la escuela, al punto de reprobar todas
+T24	Sign_or_Symptom 910 930	riesgo suicida grave
+A1	Negated T24
+T25	Sign_or_Symptom 1182 1212	síntomas somáticos, psicóticos
+A2	Negated T25
+T26	Clinical_Finding 1218 1260	alteración de la percepción de la realidad
+A3	Negated T26
+T27	Sign_or_Symptom 1142 1168	tabáquico en 1 oportunidad

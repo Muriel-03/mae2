@@ -1,0 +1,9 @@
+T1	Body_Part 36 48	diente 8 y 9
+T2	Body_Part 136 142	diente
+T3	Body_Part 155 167	diente 8 o 9
+T4	Body_Part 230 237	dientes
+T5	Laboratory_or_Test_Result 18 48	risalisis a nivel diente 8 y 9
+T6	Therapeutic_Procedure 207 215	implante
+T7	Disease 58 71	supenumerario
+T8	Laboratory_or_Test_Result 90 99	risalisis
+A1	Pending T6

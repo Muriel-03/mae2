@@ -1,0 +1,7 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 151 155	ATTE
+T3	Body_Part 95 98	OJO
+T4	Diagnostic_Procedure 86 98	FONDO DE OJO
+T5	Disease 2 19	DIABETES MELLITUS
+T7	Disease 157 174	Diabetes mellitus
+A1	Pending T4

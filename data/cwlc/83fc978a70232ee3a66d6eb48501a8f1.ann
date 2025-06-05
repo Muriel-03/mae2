@@ -1,0 +1,40 @@
+T1	Abbreviation 158 161	HNP
+T2	Abbreviation 180 182	cx
+T3	Abbreviation 357 360	HRC
+T4	Abbreviation 391 394	dps
+T5	Abbreviation 574 577	EVA
+T6	Abbreviation 638 641	RNM
+T7	Abbreviation 954 958	RR2T
+T8	Abbreviation 959 961	SS
+T9	Abbreviation 963 965	MP
+T10	Abbreviation 966 967	+
+T11	Abbreviation 968 971	SRA
+T12	Body_Part 19 42	DISCOS INTERVERTEBRALES
+T13	Body_Part 228 244	zona lumbo sacra
+T14	Body_Part 529 535	pierna
+T15	Body_Part 557 573	zona lumbo sacra
+T16	Body_Part 654 659	L5-S1
+T17	Body_Part 757 764	raiz S1
+T18	Body_Part 789 791	L4
+T19	Body_Part 793 795	L5
+T20	Body_Part 857 867	saco dural
+T21	Body_Part 1035 1058	extremidades inferiores
+T22	Diagnostic_Procedure 638 641	RNM
+T23	Disease 2 59	TRASTORNO DE LOS DISCOS INTERVERTEBRALES, NO ESPECIFICADO
+T24	Disease 158 161	HNP
+T25	Clinical_Finding 87 112	Alergia a medicamentos NO
+T26	Clinical_Finding 114 139	Antecedentes Morbidos: NO
+T27	Clinical_Finding 164 186	Antecedentes de cx: NO
+T28	Clinical_Finding 925 953	buenas condiciones generales
+T29	Clinical_Finding 954 961	RR2T SS
+T30	Laboratory_or_Test_Result 643 659	discopatia L5-S1
+T31	Laboratory_or_Test_Result 660 795	protrusion postero central y postero lateral derecha extruida comprime trayecto desendente de la raiz S1 a este lado  discopatia L4- L5
+T32	Laboratory_or_Test_Result 796 891	protrusion con componente postero central  impacta levemente saco dural con tenue rotura anular
+T33	Sign_or_Symptom 219 301	dolor en zona lumbo sacra que se intensifica cuando está en descanso de su trabajo
+T34	Sign_or_Symptom 497 535	dolor pero ya no irradiado a la pierna
+T35	Sign_or_Symptom 537 579	dolor localizado en zona lumbo sacra EVA 7
+T39	Sign_or_Symptom 972 1058	dolor localizado, sin disminucion de fuerza ni de movilidad de extremidades inferiores
+R1	Has Arg1:T22 Arg2:T30	
+R2	Has Arg1:T22 Arg2:T31	
+R3	Has Arg1:T22 Arg2:T32	
+T36	Clinical_Finding 963 971	MP + SRA

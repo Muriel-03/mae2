@@ -1,0 +1,12 @@
+T1	Abbreviation 99 102	APS
+T2	Abbreviation 270 273	sos
+T3	Disease 2 23	OTRAS POLINEUROPATIAS
+T4	Disease 27 35	ENFISEMA
+T5	Disease 39 75	ARTRITIS REUMATOIDE, NO ESPECIFICADA
+T6	Disease 160 180	artritis reuamtoidea
+T7	Medication 241 248	arrumal
+T8	Medication 250 258	pregalex
+T9	Medication 261 269	tramadol
+T11	Abbreviation 315 319	auge
+T10	Therapeutic_Procedure 347 364	control del dolor
+A1	Pending T10

@@ -1,0 +1,9 @@
+T1	Abbreviation 38 40	ER
+T2	Body_Part 41 50	diente 13
+T3	Body_Part 67 75	diente 1
+T4	Body_Part 110 121	diente 1-13
+T5	Disease 0 21	Periodontitis Cronica
+T6	Disease 22 37	Gangrena Pulpar
+T7	Disease 52 66	Caries extensa
+T8	Therapeutic_Procedure 100 109	Exodoncia
+A1	Pending T8

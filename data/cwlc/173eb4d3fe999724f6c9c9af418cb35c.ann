@@ -1,0 +1,10 @@
+T1	Abbreviation 0 4	RCTE
+T2	Abbreviation 13 16	DM2
+T3	Abbreviation 18 21	HTA
+T4	Abbreviation 95 98	PPR
+T5	Disease 13 16	DM2
+T6	Disease 18 21	HTA
+T8	Disease 37 66	DESDENTADO PARCIAL MANDIBULAR
+T9	Therapeutic_Procedure 95 109	PPR MANDIBULAR
+A1	Pending T9
+T7	Sign_or_Symptom 68 70	IV

@@ -1,0 +1,12 @@
+T1	Abbreviation 205 209	kine
+T2	Body_Part 39 46	MÚSCULO
+T3	Body_Part 119 134	gluteo derechoa
+T4	Body_Part 233 238	nalga
+T5	Disease 2 46	OTROS DESGARROS (NO TRAUMÁTICOS) DEL MÚSCULO
+T6	Medication 191 202	analgesicos
+T7	Sign_or_Symptom 95 134	lesion tipo desgarro en gluteo derechoa
+T8	Sign_or_Symptom 174 202	dolor a pesar de analgesicos
+T9	Sign_or_Symptom 220 238	equimosis en nalga
+T10	Sign_or_Symptom 240 274	dolor limitar para realizar fuerza
+T11	Therapeutic_Procedure 205 209	kine
+T12	Clinical_Finding 59 74	sin antecendtes

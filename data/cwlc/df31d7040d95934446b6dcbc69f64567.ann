@@ -1,0 +1,13 @@
+T1	Abbreviation 46 48	M1
+T2	Abbreviation 64 67	SEM
+T3	Abbreviation 69 72	CCA
+T4	Abbreviation 138 141	ITU
+T5	Body_Part 96 108	RAMA DERECHA
+T6	Disease 0 45	SUPERVISIN DE EMBARAZO NORMAL NO ESPECIFICADO
+T7	Disease 74 85	CARDIOPATIA
+T9	Disease 138 141	ITU
+T10	Clinical_Finding 14 22	EMBARAZO
+T11	Clinical_Finding 46 48	M1
+T12	Clinical_Finding 50 58	EMBARAZO
+T13	Laboratory_or_Test_Result 88 126	BLOQUEO RAMA DERECHA CON DESFIBRILADOR
+T14	Clinical_Finding 69 72	CCA

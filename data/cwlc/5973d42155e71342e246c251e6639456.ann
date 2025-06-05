@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T3	Disease 160 166	caries
+T4	Disease 208 256	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 110 156	perdida de espacio por extracciones prematuras
+T7	Clinical_Finding 168 184	Clase I de Angle
+T8	Sign_or_Symptom 186 206	Apiñamiento anterior
+T9	Therapeutic_Procedure 133 145	extracciones
+T5	Disease 186 197	Apiñamiento

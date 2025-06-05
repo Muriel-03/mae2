@@ -1,0 +1,11 @@
+T1	Abbreviation 23 28	NY HA
+T2	Abbreviation 41 42	C
+T3	Abbreviation 70 72	CD
+T4	Abbreviation 75 78	ADA
+T5	Abbreviation 106 109	OBS
+T6	Disease 0 22	INSUFICIENCIA CARDIACA
+T7	Disease 91 105	ANGINA ESTABLE
+T8	Sign_or_Symptom 91 97	ANGINA
+T9	Therapeutic_Procedure 63 69	BYPASS
+T10	Body_Part 70 72	CD
+T11	Body_Part 75 78	ADA

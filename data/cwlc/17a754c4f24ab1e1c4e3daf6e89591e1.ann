@@ -1,0 +1,15 @@
+T1	Abbreviation 36 39	FUR
+T2	Abbreviation 49 51	SP
+T3	Abbreviation 71 74	TTO
+T4	Abbreviation 95 98	OBS
+T5	Body_Part 101 109	PLACENTA
+T6	Disease 52 66	HIPOTIROIDISMO
+T7	Disease 77 93	CONDILOMA VILVAR
+T8	Clinical_Finding 0 2	G2
+T9	Clinical_Finding 3 5	P1
+T10	Clinical_Finding 6 8	A0
+T11	Clinical_Finding 10 18	EMBARAZO
+T13	Abbreviation 0 1	G
+T14	Abbreviation 3 4	P
+T15	Abbreviation 6 7	A
+T16	Disease 101 117	PLACENTA  PREVIA

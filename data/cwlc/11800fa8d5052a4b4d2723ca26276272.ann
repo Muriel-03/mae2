@@ -1,0 +1,7 @@
+T1	Abbreviation 116 119	PFU
+T2	Body_Part 0 18	pieza dentaria 3.5
+T3	Body_Part 40 53	pared lingual
+T4	Sign_or_Symptom 28 53	fractura de pared lingual
+T5	Therapeutic_Procedure 116 119	PFU
+T6	Sign_or_Symptom 55 80	escaso remanente dentario
+A1	Pending T5

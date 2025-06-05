@@ -1,0 +1,12 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 138 165	terceros molares inferiores
+T3	Body_Part 272 281	3.8 y 4.8
+T4	Diagnostic_Procedure 179 201	radiografía panoramica
+T5	Disease 2 15	CARIES DENTAL
+T6	Disease 128 134	caries
+T7	Disease 283 296	Caries dental
+T9	Clinical_Finding 53 74	embarazada de 2 meses
+T10	Clinical_Finding 76 103	sin antecedentes sistémicos
+T11	Clinical_Finding 105 117	sin alergias
+T13	Therapeutic_Procedure 259 268	exodoncia
+A1	Pending T13

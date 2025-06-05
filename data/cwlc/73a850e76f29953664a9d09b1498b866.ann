@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	pza
+T2	Abbreviation 71 75	PMCF
+T3	Body_Part 0 7	pza 3.4
+T4	Disease 8 25	caries penetrarte
+T5	Clinical_Finding 78 84	fermin
+T6	Medication 71 75	PMCF
+T8	Therapeutic_Procedure 38 49	trepanación
+T9	Therapeutic_Procedure 98 115	terapia radicular
+A1	Pending T9

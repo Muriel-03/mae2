@@ -1,0 +1,20 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 131 148	1.2-4.3 y 2.2-3.3
+T4	Body_Part 171 174	1.2
+T5	Body_Part 204 207	2.1
+T6	Body_Part 261 264	1.2
+T7	Body_Part 266 269	2.2
+T8	Body_Part 298 301	2.3
+T9	Body_Part 408 414	diente
+T10	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T11	Disease 379 414	Anomalias de la posicion del diente
+T12	Clinical_Finding 75 107	clase molar I de Angle bilateral
+T13	Sign_or_Symptom 109 148	mordida vis-vis entre 1.2-4.3 y 2.2-3.3
+T14	Sign_or_Symptom 150 169	1.3 vestibularizado
+T15	Sign_or_Symptom 204 264	2.1 mesiovestibulo giroversión y levemente montado sobre 1.2
+T16	Sign_or_Symptom 266 296	2.2 mesiovestibulo giroversión
+T17	Sign_or_Symptom 298 356	2.3 mesiovestibulo giroversión y vestibularizado levemente
+T19	Disease 358 378	apiñamiento dentario
+T20	Body_Part 150 153	1.3
+T21	Sign_or_Symptom 171 202	1.2 con mesiopalato giroversión

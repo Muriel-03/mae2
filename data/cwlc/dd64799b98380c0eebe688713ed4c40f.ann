@@ -1,0 +1,8 @@
+T1	Abbreviation 63 66	APS
+T3	Body_Part 119 124	molar
+T4	Body_Part 125 134	Dentición
+T5	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T6	Clinical_Finding 111 124	Clase 1 molar
+T7	Clinical_Finding 125 153	Dentición mixta segunda fase
+T8	Sign_or_Symptom 68 98	Compresión maxilar transversal
+T2	Sign_or_Symptom 99 110	Malposición

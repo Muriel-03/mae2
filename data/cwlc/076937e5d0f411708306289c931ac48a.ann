@@ -1,0 +1,14 @@
+T1	Abbreviation 23 26	TTO
+T2	Abbreviation 70 76	PTRS.I
+T3	Abbreviation 200 204	TTO.
+T4	Abbreviation 241 248	PTR-S-I
+T6	Disease 40 56	DESDENTADO TOTAL
+T8	Medication 28 37	ENELAPRIL
+T9	Sign_or_Symptom 101 127	PROTESIS INFERIOR REPARADA
+T10	Sign_or_Symptom 135 140	DOLOR
+T11	Sign_or_Symptom 142 151	MOLESTIAS
+T12	Sign_or_Symptom 154 172	PIERDE ESTABILIDAD
+T13	Clinical_Finding 187 203	MOTIVADO CON TTO
+T5	Therapeutic_Procedure 227 248	CONFECCION DE PTR-S-I
+A1	Pending T5
+T7	Clinical_Finding 58 76	PORTADOR DE PTRS.I

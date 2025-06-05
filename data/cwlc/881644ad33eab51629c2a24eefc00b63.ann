@@ -1,0 +1,9 @@
+T1	Abbreviation 33 36	RNM
+T2	Diagnostic_Procedure 33 36	RNM
+T3	Therapeutic_Procedure 95 116	Resolución quirúrgica
+T4	Clinical_Finding 0 31	Operada hace 11 años de la mama
+T5	Laboratory_or_Test_Result 41 62	metástasis cerebrales
+T6	Disease 41 62	metástasis cerebrales
+A1	Pending T3
+R1	Has Arg1:T2 Arg2:T5	
+T7	Body_Part 27 31	mama

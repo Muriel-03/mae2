@@ -1,0 +1,19 @@
+T1	Sign_or_Symptom 2 9	OTALGIA
+T2	Abbreviation 33 36	APS
+T3	Clinical_Finding 66 74	alergias
+A1	Negated T3
+T4	Clinical_Finding 42 62	antecedentes mobidos
+A2	Negated T4
+T5	Sign_or_Symptom 117 124	otalgia
+T6	Sign_or_Symptom 161 172	secreciones
+T7	Abbreviation 190 193	cae
+T8	Body_Part 190 193	cae
+T9	Family_Member 194 199	padre
+T10	Clinical_Finding 208 219	hipoacusico
+T11	Body_Part 268 274	limbus
+T12	Clinical_Finding 256 285	refuerzo de limbus  a derecha
+T13	Sign_or_Symptom 288 299	adenopatias
+T14	Body_Part 301 311	orofaringe
+T15	Clinical_Finding 301 318	orofaringe normal
+T16	Body_Part 393 403	pabellones
+T17	Clinical_Finding 319 403	sin sensibilidad a la  compresion de trago  ni a la  movilizaciojn de los pabellones

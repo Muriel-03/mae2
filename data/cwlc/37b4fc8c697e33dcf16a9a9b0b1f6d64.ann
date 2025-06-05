@@ -1,0 +1,9 @@
+T1	Abbreviation 2 5	PZA
+T3	Abbreviation 43 46	DTE
+T4	Body_Part 2 14	PZA. 30 - 18
+T5	Body_Part 17 24	DTE. 30
+T6	Body_Part 43 50	DTE. 18
+T7	Disease 25 39	NECROSIS PULPA
+T9	Disease 92 113	PULPITIS IRREVERSIBLE
+T16	Sign_or_Symptom 51 81	DOLOR A CAMBIOS DE TEMPERATURA
+T2	Abbreviation 17 20	DTE

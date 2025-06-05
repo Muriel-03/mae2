@@ -1,0 +1,7 @@
+T1	Body_Part 113 128	rodilla derecha
+T2	Disease 0 8	Artrosis
+T5	Therapeutic_Procedure 210 219	analgesia
+T6	Sign_or_Symptom 148 187	dolor y compromiso de la calida de vida
+T7	Laboratory_or_Test_Result 0 58	Artrosis de predominio femorotibial iterno y patelofemoral
+T8	Laboratory_or_Test_Result 64 128	evidencia de condropatia y meniscopatia interna, rodilla derecha
+T3	Sign_or_Symptom 193 219	poca respuesta a analgesia

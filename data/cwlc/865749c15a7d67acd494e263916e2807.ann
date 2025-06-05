@@ -1,0 +1,14 @@
+T1	Abbreviation 25 28	dte
+T2	Abbreviation 100 104	dtes
+T3	Abbreviation 111 114	dte
+T4	Body_Part 25 31	dte 10
+T5	Body_Part 93 109	región dtes 9-10
+T6	Body_Part 111 116	dte 9
+T7	Disease 2 18	QUISTE RADICULAR
+T8	Disease 117 132	resto radicular
+T9	Laboratory_or_Test_Result 50 80	quiste apical y pararradicular
+T10	Therapeutic_Procedure 32 48	necropulpectomía
+T11	Disease 50 63	quiste apical
+T12	Sign_or_Symptom 82 91	abscedado
+T13	Clinical_Finding 111 142	dte 9 resto radicular, extraído
+A1	Pending T10

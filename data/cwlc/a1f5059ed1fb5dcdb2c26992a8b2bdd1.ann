@@ -1,0 +1,12 @@
+T1	Abbreviation 8 12	POST
+T2	Abbreviation 20 23	ERC
+T3	Abbreviation 85 89	TTDA
+T4	Abbreviation 92 95	ERC
+T5	Abbreviation 99 101	HD
+T6	Abbreviation 137 141	TTDA
+T7	Disease 20 23	ERC
+T8	Clinical_Finding 46 89	INFECCION CATETER DE PERITONRODIALISIS TTDA
+T11	Disease 92 95	ERC
+T12	Clinical_Finding 103 141	PERITONITIS BACTERIANA SECUNDARIA TTDA
+T15	Therapeutic_Procedure 27 44	PERITONEODIALISIS
+T17	Therapeutic_Procedure 99 101	HD

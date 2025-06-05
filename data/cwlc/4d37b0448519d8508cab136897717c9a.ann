@@ -1,0 +1,12 @@
+T1	Abbreviation 41 45	Pza.
+T2	Abbreviation 111 115	pza.
+T3	Body_Part 0 9	Denticion
+T4	Body_Part 41 54	Pza. 3.5, 4.5
+T5	Body_Part 111 119	pza. 2.2
+T6	Disease 32 40	agenesia
+T7	Disease 55 66	apiñamiento
+T8	Clinical_Finding 0 31	Denticion permanente incompleta
+T10	Clinical_Finding 120 143	clase molar I bilateral
+T11	Clinical_Finding 146 170	clase i canina bilateral
+T13	Sign_or_Symptom 55 89	apiñamiento severo severo superior
+T14	Sign_or_Symptom 91 119	gizo version franco pza. 2.2

@@ -1,0 +1,10 @@
+T1	Abbreviation 12 13	S
+T2	Abbreviation 54 58	Stgo
+T3	Abbreviation 77 80	Pta
+T4	Disease 28 37	Epilepsia
+T6	Sign_or_Symptom 96 104	enuresis
+T7	Sign_or_Symptom 107 129	incontinencia urinaria
+T8	Disease 147 167	ESPINA BIFIDA OCULTA
+T9	Sign_or_Symptom 59 75	foseta pilonidal
+T10	Sign_or_Symptom 81 93	constipación
+T11	Disease 12 25	S. dismórfico

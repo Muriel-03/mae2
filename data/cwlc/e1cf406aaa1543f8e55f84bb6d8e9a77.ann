@@ -1,0 +1,27 @@
+T1	Abbreviation 71 72	+
+T2	Abbreviation 121 124	APS
+T3	Abbreviation 149 152	tto
+T4	Abbreviation 169 171	mg
+T5	Abbreviation 362 363	x
+T6	Abbreviation 396 401	aprox
+T7	Disease 2 36	INCONTINENCIA URINARIA POR TENSIÓN
+T8	Disease 73 97	prolapso uterino grado 2
+T10	Sign_or_Symptom 441 475	Incontinencia de orina de esfuerzo
+T11	Disease 586 611	prolapso uterino grado 2.
+T12	Disease 737 771	Incontinencia urinaria por tension
+T14	Medication 157 165	losartan
+T15	Medication 187 197	diuréticos
+T16	Medication 300 319	oxitocina sintética
+T17	Medication 350 361	estreva gel
+T18	Sign_or_Symptom 73 97	prolapso uterino grado 2
+T19	Sign_or_Symptom 495 511	urgincontinencia
+T21	Sign_or_Symptom 586 611	prolapso uterino grado 2.
+T9	Disease 36 70	Incontinencia de orina de esfuerzo
+T22	Abbreviation 256 257	G
+T23	Abbreviation 258 259	P
+T24	Abbreviation 260 261	A
+T13	Clinical_Finding 256 258	G3
+T25	Clinical_Finding 258 260	P3
+T26	Clinical_Finding 260 262	A0
+T27	Therapeutic_Procedure 330 341	episiotomía
+A1	Negated T19

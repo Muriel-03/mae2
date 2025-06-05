@@ -1,0 +1,14 @@
+T1	Abbreviation 3 6	CCA
+T2	Abbreviation 7 8	X
+T3	Abbreviation 9 12	MCO
+T4	Abbreviation 13 16	Emb
+T5	Abbreviation 22 25	sem
+T6	Disease 33 54	cardiopatía congénita
+T7	Laboratory_or_Test_Result 66 113	Feto con Insuficiencia Tricuspidea leve central
+T8	Family_Member 55 59	hija
+T9	Clinical_Finding 0 2	M1
+T10	Clinical_Finding 13 16	Emb
+T11	Clinical_Finding 3 6	CCA
+T12	Abbreviation 27 32	Antec
+R1	Has Arg1:T8 Arg2:T6	
+T13	Disease 75 100	Insuficiencia Tricuspidea

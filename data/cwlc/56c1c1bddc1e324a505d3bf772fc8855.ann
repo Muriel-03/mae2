@@ -1,0 +1,8 @@
+T1	Abbreviation 204 207	tto
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Clinical_Finding 66 93	sin antecedentes sistemicos
+T4	Sign_or_Symptom 105 147	Apiñamiento anterior , superior e inferior
+T5	Sign_or_Symptom 150 176	mordida abierta unilateral
+T6	Therapeutic_Procedure 204 221	tto de ortodoncia
+T7	Disease 105 116	Apiñamiento
+A1	Pending T6

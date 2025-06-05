@@ -1,0 +1,9 @@
+T1	Abbreviation 18 21	PZA
+T2	Abbreviation 103 106	PZA
+T3	Body_Part 18 24	PZA 10
+T4	Body_Part 103 109	PZA 10
+T5	Clinical_Finding 25 34	TREPANADA
+T6	Therapeutic_Procedure 52 66	REHABILITACION
+T7	Therapeutic_Procedure 89 99	ENDODONCIA
+A1	Pending T6
+A2	Pending T7

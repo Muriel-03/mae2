@@ -1,0 +1,16 @@
+T1	Abbreviation 331 334	CHX
+T2	Abbreviation 337 340	ATB
+T3	Body_Part 117 147	piezas 1.4, 1,1, 2.4, 4.6, 4.7
+T4	Body_Part 178 184	piezas
+T5	Body_Part 188 192	boca
+T6	Body_Part 236 241	encía
+T7	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T8	Disease 34 50	ABSCESO MARGINAL
+T9	Disease 63 81	desdentado parcial
+T10	Medication 331 334	CHX
+T11	Medication 337 353	ATB metronidazol
+T12	Sign_or_Symptom 87 158	movilidad dentaria grado 3 en piezas 1.4, 1,1, 2.4, 4.6, 4.7. y grado 2
+T13	Sign_or_Symptom 209 250	drena pus desde crevice de encía marginal
+T14	Therapeutic_Procedure 263 294	destartraje supra y subgingival
+T15	Therapeutic_Procedure 296 312	pulido coronario
+T16	Therapeutic_Procedure 314 334	desinfección con CHX

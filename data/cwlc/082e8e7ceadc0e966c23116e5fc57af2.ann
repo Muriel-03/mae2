@@ -1,0 +1,5 @@
+T1	Body_Part 11 38	dedo indice de mano derecha
+T2	Body_Part 44 76	region infraclavicular izquierda
+T3	Sign_or_Symptom 0 76	verruga en dedo indice de mano derecha y en region infraclavicular izquierda
+T4	Sign_or_Symptom 77 107	comedon en relacion a cicatriz
+T5	Disease 0 7	verruga

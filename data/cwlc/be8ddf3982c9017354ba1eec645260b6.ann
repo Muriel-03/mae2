@@ -1,0 +1,18 @@
+T1	Body_Part 52 59	DIENTES
+T2	Body_Part 60 69	Dentición
+T3	Body_Part 167 172	Recto
+T4	Body_Part 241 251	Diente 6.3
+T5	Disease 2 59	TRASTORNOS DEL DESARROLLO Y DE LA ERUPCIÓN DE LOS DIENTES
+T6	Sign_or_Symptom 241 264	Diente 6.3 Palatinizado
+T7	Sign_or_Symptom 265 289	Mordida abierta Anterior
+T8	Sign_or_Symptom 289 359	Apiñamiento anterosuperior e inferior por sospecha de falta de espacio
+T9	Sign_or_Symptom 407 454	Interposisión lingual para deglutir y en reposo
+T10	Clinical_Finding 60 89	Dentición mixta, segunda fase
+T11	Clinical_Finding 101 142	Plano Terminal derecho con escalón Mesial
+T12	Clinical_Finding 142 183	Plano terminal Izquierdo Recto o Vertical
+T13	Clinical_Finding 183 205	Clase 1 canina derecha
+T14	Sign_or_Symptom 205 239	Clase Canina Izquierda Inexistente
+T15	Disease 289 300	Apiñamiento
+T16	Body_Part 360 367	Paladar
+T17	Sign_or_Symptom 360 375	Paladar Hendido
+T18	Sign_or_Symptom 375 405	Sospecha de Deglución Infantil

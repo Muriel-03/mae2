@@ -1,0 +1,10 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 103 106	DM2
+T3	Abbreviation 242 244	ic
+T4	Body_Part 117 120	ojo
+T5	Diagnostic_Procedure 108 120	fondo de ojo
+T6	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T7	Disease 103 106	DM2
+T8	Disease 125 136	retinopatia
+T10	Sign_or_Symptom 172 200	alteracion de agudeza visual
+A1	Negated T8

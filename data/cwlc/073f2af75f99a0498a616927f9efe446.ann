@@ -1,0 +1,32 @@
+T1	Abbreviation 42 45	CSI
+T2	Abbreviation 131 134	CSE
+T3	Abbreviation 166 172	BIRADS
+T4	Abbreviation 173 175	US
+T5	Abbreviation 204 207	CSI
+T6	Abbreviation 293 296	CSE
+T7	Abbreviation 328 334	BIRADS
+T8	Abbreviation 335 337	US
+T9	Body_Part 26 30	MAMA
+T10	Body_Part 131 142	CSE derecho
+T11	Body_Part 204 226	CSI de la mama derecha
+T12	Body_Part 293 304	CSE derecho
+T13	Diagnostic_Procedure 90 109	estudio histológico
+T14	Diagnostic_Procedure 252 271	estudio histológico
+T15	Disease 2 30	CARCINOMA IN SITU DE LA MAMA
+T17	Clinical_Finding 183 185	G2
+T18	Clinical_Finding 186 188	P2
+T19	Clinical_Finding 189 191	A0
+T20	Laboratory_or_Test_Result 120 164	Nodulo del CSE derecho presuntamente benigno
+T21	Laboratory_or_Test_Result 166 178	BIRADS US 4a
+T22	Laboratory_or_Test_Result 192 239	Nódulos del CSI de la mama derecha, sospechosos
+T23	Laboratory_or_Test_Result 282 326	Nodulo del CSE derecho presuntamente benigno
+T24	Laboratory_or_Test_Result 328 340	BIRADS US 4a
+T25	Laboratory_or_Test_Result 30 77	Nódulos del CSI de la mama derecha, sospechosos
+T28	Body_Part 42 64	CSI de la mama derecha
+A1	Pending T13
+T26	Abbreviation 183 184	G
+T29	Abbreviation 186 187	P
+T30	Abbreviation 189 190	A
+T27	Diagnostic_Procedure 173 175	US
+A2	Pending T14
+T31	Diagnostic_Procedure 335 337	US

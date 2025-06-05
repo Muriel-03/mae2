@@ -1,0 +1,14 @@
+T1	Abbreviation 18 21	TTO
+T2	Abbreviation 37 40	PCT
+T3	Abbreviation 67 70	AOM
+T4	Abbreviation 100 104	PRES
+T5	Abbreviation 124 127	SEP
+T7	Clinical_Finding 41 62	DENTUAN MIXTO 2º FASE
+T6	Body_Part 117 123	CAMINO
+T8	Body_Part 135 141	PREA 6
+T9	Sign_or_Symptom 135 158	PREA 6 ERUPCION POR (V)
+T10	Abbreviation 156 157	V
+T11	Body_Part 100 107	PRES 12
+T12	Sign_or_Symptom 100 114	PRES 12 ROLADA
+T13	Disease 67 70	AOM
+T14	Sign_or_Symptom 72 97	MORDEDURA OCUCADO DERECHO

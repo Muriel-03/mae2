@@ -1,0 +1,9 @@
+T1	Abbreviation 117 120	EMG
+T2	Body_Part 66 81	túnel del carpo
+T3	Body_Part 164 179	TUNEL DEL CARPO
+T5	Disease 34 46	fibromialgia
+T6	Disease 57 81	síndrome túnel del carpo
+T7	Disease 151 189	SINDROME DEL TUNEL DEL CARPO BILATERAL
+T8	Laboratory_or_Test_Result 57 115	síndrome túnel del carpo moderado derecho y leve izquierdo
+T9	Diagnostic_Procedure 117 120	EMG
+R1	Has Arg1:T9 Arg2:T8	

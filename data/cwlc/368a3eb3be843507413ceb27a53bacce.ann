@@ -1,0 +1,12 @@
+T1	Abbreviation 39 44	antec
+T2	Abbreviation 199 202	APS
+T3	Abbreviation 298 302	OTRL
+T4	Body_Part 255 269	oido izquierdo
+T5	Disease 2 19	CERUMEN IMPACTADO
+T6	Disease 83 93	hipoacusia
+T8	Disease 227 243	tapon de cerumen
+T9	Clinical_Finding 35 68	sin antec morbidos de importancia
+T10	Sign_or_Symptom 83 93	hipoacusia
+T11	Sign_or_Symptom 120 145	tapon de cerumen bilteral
+T12	Sign_or_Symptom 227 269	tapon de cerumen predominio oido izquierdo
+T13	Therapeutic_Procedure 182 195	lavado oticos

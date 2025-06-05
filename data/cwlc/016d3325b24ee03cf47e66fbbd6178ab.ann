@@ -1,0 +1,5 @@
+T1	Abbreviation 50 53	APS
+T2	Body_Part 73 97	canino inferior iquierzo
+T3	Sign_or_Symptom 73 122	canino inferior iquierzo vestibularizado y rotado
+T4	Therapeutic_Procedure 16 26	ORTODONCIA
+A1	Pending T4

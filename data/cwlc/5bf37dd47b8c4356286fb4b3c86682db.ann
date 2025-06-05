@@ -1,0 +1,11 @@
+T1	Abbreviation 130 134	pcte
+T2	Abbreviation 161 164	tto
+T3	Abbreviation 211 215	Adac
+T4	Body_Part 58 66	diente 4
+T6	Disease 179 209	Absceso Dento Alveolar Cronico
+T7	Clinical_Finding 68 92	tratado endodonticamente
+T8	Laboratory_or_Test_Result 97 110	lesion apical
+T9	Sign_or_Symptom 113 128	fistula activa.
+T10	Therapeutic_Procedure 32 57	retratamiento endodontico
+A1	Pending T10
+T5	Disease 211 215	Adac

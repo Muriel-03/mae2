@@ -1,0 +1,15 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 85 88	ANT
+T3	Abbreviation 89 93	SBOR
+T4	Abbreviation 114 117	HRC
+T5	Abbreviation 118 120	DR
+T6	Abbreviation 223 226	TTO
+T7	Abbreviation 239 240	+
+T8	Abbreviation 241 244	SBT
+T9	Abbreviation 245 248	SOS
+T10	Disease 2 43	SÍNDROME BRONQUIAL OBSTRUCTIVO RECURRENTE
+T11	Disease 89 93	SBOR
+T12	Medication 231 238	VANNAIR
+T13	Medication 241 244	SBT
+T14	Sign_or_Symptom 223 270	TTO CON VANNAIR + SBT SOS CON REGULAR RESPUETSA
+T15	Sign_or_Symptom 287 309	SINTOMAS RESPIRATORIOS

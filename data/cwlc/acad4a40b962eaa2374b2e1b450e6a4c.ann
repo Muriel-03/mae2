@@ -1,0 +1,10 @@
+T1	Abbreviation 48 51	ECO
+T2	Abbreviation 61 64	ITU
+T3	Abbreviation 121 123	OI
+T5	Diagnostic_Procedure 48 51	ECO
+T6	Disease 61 64	ITU
+T7	Disease 82 96	HIPOTIROIDISMO
+T8	Disease 130 152	HIPERHEMESIS GRAVIDICA
+T9	Clinical_Finding 0 10	PRIMIGESTA
+T10	Clinical_Finding 11 19	EMBARAZO
+T11	Abbreviation 126 129	OII

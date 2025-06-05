@@ -1,0 +1,10 @@
+T1	Abbreviation 63 66	APS
+T2	Body_Part 178 200	sector antero superior
+T3	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T4	Disease 256 293	Anomalia dentofacial, no especificada
+T5	Sign_or_Symptom 154 200	apiñamiento dentario de sector antero superior
+T6	Sign_or_Symptom 202 214	sobremordida
+T7	Sign_or_Symptom 217 254	clase de angle II derecha e izquierda
+T8	Therapeutic_Procedure 123 134	tratamiento
+T9	Disease 154 174	apiñamiento dentario
+A1	Pending T8

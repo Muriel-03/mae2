@@ -1,0 +1,4 @@
+T1	Disease 0 18	desdentado parcial
+T2	Therapeutic_Procedure 83 125	rehabilitacion mediante protesis removible
+T3	Sign_or_Symptom 23 43	compromiso del animo
+A1	Pending T2

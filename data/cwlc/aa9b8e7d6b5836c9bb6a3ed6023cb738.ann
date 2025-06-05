@@ -1,0 +1,17 @@
+T1	Abbreviation 124 127	APS
+T2	Abbreviation 140 143	MAC
+T3	Abbreviation 164 167	Obs
+T4	Abbreviation 194 197	PAP
+T5	Body_Part 48 75	ÓRGANOS GENITALES FEMENINOS
+T6	Body_Part 244 261	organos genitales
+T7	Diagnostic_Procedure 194 197	PAP
+T8	Disease 2 100	DOLOR Y OTRAS AFECCIONES RELACIONADAS CON LOS ÓRGANOS GENITALES FEMENINOS Y CON EL CICLO MENSTRUAL
+T9	Disease 168 188	Esterilidad Primaria
+T10	Disease 198 296	Dolor y otras afecciones relacionadas con los organos genitales femeninos y con el ciclo menstrual
+T11	Clinical_Finding 136 163	sin MAC desde hace 2-3 años
+T12	Abbreviation 129 130	G
+T13	Abbreviation 131 132	P
+T14	Abbreviation 133 134	A
+T15	Clinical_Finding 129 131	Go
+T16	Clinical_Finding 131 133	Po
+T17	Clinical_Finding 133 135	Ao

@@ -1,0 +1,13 @@
+T1	Abbreviation 57 60	APS
+T3	Body_Part 471 482	foco mitral
+T4	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T7	Sign_or_Symptom 106 111	soplo
+T8	Sign_or_Symptom 297 349	dolor en la zona izquierda intermitente tipo puntada
+T9	Sign_or_Symptom 388 399	tos cronica
+T10	Sign_or_Symptom 423 498	soplo diastolico II/VI foco aortico irradiado a foco mitral y foco pulmonar
+T11	Sign_or_Symptom 526 531	soplo
+T12	Disease 534 565	Soplo cardiaco, no especificado
+T2	Clinical_Finding 418 422	rr2t
+T6	Abbreviation 418 422	rr2t
+T5	Body_Part 485 498	foco pulmonar
+T13	Body_Part 446 458	foco aortico

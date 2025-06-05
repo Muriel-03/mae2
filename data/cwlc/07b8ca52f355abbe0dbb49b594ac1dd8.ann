@@ -1,0 +1,8 @@
+T1	Abbreviation 22 25	PZA
+T2	Abbreviation 103 105	RX
+T3	Body_Part 22 30	PZA. 3.5
+T4	Diagnostic_Procedure 103 116	RX PERIAPICAL
+T5	Disease 0 21	ABSCESO DENTOALVEOLAR
+T9	Therapeutic_Procedure 31 55	TREPANACION DE URGENCIA.
+T10	Therapeutic_Procedure 80 91	ENDODONCIA.
+A1	Pending T10

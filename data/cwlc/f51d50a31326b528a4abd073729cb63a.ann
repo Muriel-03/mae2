@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	pac
+T2	Abbreviation 8 10	Dx
+T3	Abbreviation 49 52	tto
+T4	Abbreviation 69 72	CMF
+T5	Abbreviation 244 247	tto
+T7	Disease 22 34	glioblastoma
+T8	Disease 135 182	desdentamiento anterior lado izquiero superior.
+T10	Sign_or_Symptom 196 223	leve discapacidad cognitiva
+T11	Therapeutic_Procedure 110 124	terapia básica
+T12	Therapeutic_Procedure 283 307	rehabilitación protésica
+A1	Pending T12
+T6	Clinical_Finding 230 240	cooperador

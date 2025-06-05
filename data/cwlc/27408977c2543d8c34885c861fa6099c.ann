@@ -1,0 +1,8 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 135 139	PMCF
+T3	Body_Part 73 83	diente 2,3
+T4	Disease 2 10	PULPITIS
+T5	Disease 156 164	Pulpitis
+T6	Medication 135 139	PMCF
+T8	Sign_or_Symptom 58 83	dolor agudo en diente 2,3
+T9	Therapeutic_Procedure 95 109	biopulpectomia

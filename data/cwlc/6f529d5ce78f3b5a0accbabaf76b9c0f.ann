@@ -1,0 +1,18 @@
+T1	Abbreviation 43 45	DG
+T2	Abbreviation 46 48	CA
+T3	Abbreviation 78 81	QMT
+T4	Abbreviation 83 85	CX
+T5	Abbreviation 88 90	RT
+T6	Body_Part 49 53	MAMA
+T7	Body_Part 246 251	BRAZO
+T8	Disease 0 4	F432
+T9	Disease 5 29	TRASTORNOS DE ADAPTACION
+T10	Disease 46 53	CA MAMA
+T11	Sign_or_Symptom 236 251	DOLOR DEL BRAZO
+T12	Therapeutic_Procedure 78 81	QMT
+T13	Therapeutic_Procedure 88 90	RT
+T14	Therapeutic_Procedure 198 208	ACUPUNTURA
+T15	Therapeutic_Procedure 83 85	CX
+T16	Therapeutic_Procedure 99 112	HISTERECTOMÍA
+T17	Disease 143 163	TRASTORNO ADAPTATIVO
+T18	Therapeutic_Procedure 178 182	YOGA

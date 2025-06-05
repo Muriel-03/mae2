@@ -1,0 +1,20 @@
+T1	Abbreviation 69 72	HTA
+T2	Abbreviation 75 79	Enf.
+T3	Abbreviation 270 274	cond
+T4	Abbreviation 376 378	MP
+T5	Abbreviation 379 380	+
+T6	Abbreviation 381 384	SRA
+T7	Abbreviation 386 392	RR2TSS
+T8	Body_Part 326 336	extremidad
+T9	Disease 2 25	ENFERMEDAD DE PARKINSON
+T10	Disease 69 72	HTA
+T11	Disease 75 92	Enf. de Parkinson
+T12	Clinical_Finding 386 392	RR2TSS
+T13	Medication 144 151	Prolopa
+T14	Sign_or_Symptom 197 219	leve temblor de reposo
+T15	Sign_or_Symptom 222 244	inestabilidad postural
+T16	Sign_or_Symptom 286 298	bradicinesia
+T17	Sign_or_Symptom 300 336	leve temblor de reposo de extremidad
+T18	Sign_or_Symptom 341 374	leve rigidez al movimiento pasivo
+T22	Clinical_Finding 263 284	Buenas cond generales
+T23	Clinical_Finding 376 384	MP + SRA

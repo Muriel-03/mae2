@@ -1,0 +1,11 @@
+T1	Abbreviation 16 19	OBS
+T2	Abbreviation 34 36	AO
+T3	Abbreviation 38 41	HTA
+T4	Abbreviation 43 46	GAA
+T5	Disease 0 14	ANGINA ESTABLE
+T6	Disease 21 36	VALVULOPATIA AO
+T7	Disease 38 41	HTA
+T8	Disease 43 46	GAA
+T9	Disease 48 68	HIPOACUSIA BILATERAL
+T10	Sign_or_Symptom 70 79	BAJO PESO
+T11	Laboratory_or_Test_Result 81 114	EXTRASISTOLES AURICULAR FRECUENTE

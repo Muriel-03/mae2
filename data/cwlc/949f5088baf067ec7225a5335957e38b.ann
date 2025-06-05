@@ -1,0 +1,14 @@
+T1	Abbreviation 10 14	PTVE
+T2	Abbreviation 27 30	DIU
+T3	Abbreviation 42 45	DIU
+T6	Clinical_Finding 0 2	G1
+T7	Clinical_Finding 3 5	P1
+T8	Clinical_Finding 6 8	A0
+T9	Clinical_Finding 10 14	PTVE
+T10	Clinical_Finding 16 30	USUARIA DE DIU
+T15	Therapeutic_Procedure 42 45	DIU
+T16	Abbreviation 0 1	G
+T17	Abbreviation 3 4	P
+T18	Abbreviation 6 7	A
+T4	Therapeutic_Procedure 27 30	DIU
+T5	Sign_or_Symptom 42 104	DIU INSITU SIN VASTAGOS. SE DESPRENDIERON AL TRATAR DE RETIRAR

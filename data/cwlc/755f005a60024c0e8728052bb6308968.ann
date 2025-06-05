@@ -1,0 +1,10 @@
+T1	Abbreviation 9 10	C
+T2	Abbreviation 55 56	C
+T3	Abbreviation 99 101	EF
+T4	Abbreviation 111 115	RR2T
+T5	Abbreviation 116 117	C
+T6	Body_Part 103 110	CORAZON
+T7	Clinical_Finding 111 115	RR2T
+T8	Sign_or_Symptom 118 123	SOPLO
+T9	Clinical_Finding 12 38	BUEN DESARROLLO PSICOMOTOR
+T10	Clinical_Finding 86 98	ASINTOMATICO

@@ -1,0 +1,4 @@
+T1	Disease 9 34	desdentada total superior
+T2	Disease 37 64	desdentada parcial inferior
+T3	Therapeutic_Procedure 75 117	prótesis total superior y parcial inferior
+A1	Pending T3

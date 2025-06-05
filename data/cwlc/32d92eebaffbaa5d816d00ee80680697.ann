@@ -1,0 +1,6 @@
+T1	Body_Part 118 132	zona diente 10
+T2	Body_Part 153 162	diente 10
+T3	Clinical_Finding 9 70	portador de protesis parciales removibles superior e inferior
+T5	Therapeutic_Procedure 145 198	agregar diente 10 protesico parcial acrilica superior
+A1	Pending T5
+T4	Sign_or_Symptom 91 132	se desprendio protesico en zona diente 10

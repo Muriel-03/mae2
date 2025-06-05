@@ -1,0 +1,30 @@
+T1	Abbreviation 29 32	HTA
+T2	Abbreviation 39 42	IAM
+T4	Abbreviation 156 159	DPN
+T5	Abbreviation 193 199	cardio
+T6	Abbreviation 200 204	rr2t
+T7	Abbreviation 235 237	mp
+T8	Abbreviation 237 238	+
+T9	Abbreviation 239 242	sra
+T10	Abbreviation 244 248	eeii
+T11	Body_Part 244 248	eeii
+T12	Disease 29 32	HTA
+T13	Disease 39 42	IAM
+T15	Disease 239 248	sra. eeii
+T16	Clinical_Finding 200 204	rr2t
+T19	Sign_or_Symptom 119 125	disnea
+T20	Sign_or_Symptom 131 137	Angina
+T21	Sign_or_Symptom 142 150	Ortopnea
+T22	Sign_or_Symptom 156 159	DPN
+T23	Sign_or_Symptom 165 170	edema
+T24	Sign_or_Symptom 209 224	ausculto soplos
+T25	Clinical_Finding 235 242	mp+ sra
+T26	Sign_or_Symptom 239 248	sra. eeii
+T3	Therapeutic_Procedure 53 77	instalación de dos stent
+T14	Clinical_Finding 91 103	asintomático
+A1	Negated T19
+A2	Negated T20
+A3	Negated T21
+A4	Negated T22
+A5	Negated T23
+A6	Negated T24

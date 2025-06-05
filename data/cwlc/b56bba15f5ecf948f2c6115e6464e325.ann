@@ -1,0 +1,13 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 145 154	pieza 3.8
+T4	Body_Part 249 254	pieza
+T5	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T6	Clinical_Finding 70 80	embarazada
+T7	Clinical_Finding 93 120	sin antecedentes sistémicos
+T8	Clinical_Finding 122 134	sin alergias
+T9	Laboratory_or_Test_Result 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T10	Sign_or_Symptom 145 170	pieza 3.8 semierupcionada
+T11	Sign_or_Symptom 193 201	molestia
+T12	Therapeutic_Procedure 233 242	exodoncia
+A1	Pending T12

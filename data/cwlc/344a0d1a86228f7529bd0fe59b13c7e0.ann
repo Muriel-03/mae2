@@ -1,0 +1,12 @@
+T1	Abbreviation 18 19	M
+T2	Abbreviation 40 43	ECO
+T3	Abbreviation 84 85	X
+T4	Abbreviation 86 89	FUR
+T5	Abbreviation 117 119	GR
+T6	Diagnostic_Procedure 40 43	ECO
+T8	Clinical_Finding 0 16	MACROSOMIA FETAL
+T9	Clinical_Finding 18 20	M1
+T10	Clinical_Finding 21 29	EMBARAZO
+T11	Laboratory_or_Test_Result 52 119	GESTACION UNICA VIVA 32 SEMANAS X FUR CRECIMIENTO EN >90 PEF2282 GR
+T12	Laboratory_or_Test_Result 0 16	MACROSOMIA FETAL
+R1	Has Arg1:T6 Arg2:T11	

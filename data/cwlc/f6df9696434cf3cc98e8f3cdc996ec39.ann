@@ -1,0 +1,12 @@
+T1	Abbreviation 306 308	Dr
+T2	Abbreviation 356 359	RNM
+T3	Abbreviation 475 479	poli
+T4	Body_Part 35 76	ARTICULACIONES Y LIGAMENTOS DE LA RODILLA
+T5	Body_Part 163 210	ligamento colateral medial de rodilla izquierda
+T6	Body_Part 363 380	rodilla izquierda
+T7	Diagnostic_Procedure 356 394	RNM DE rodilla izquierda sin contraste
+T8	Disease 2 76	LUXACIÓN, ESGUINCE Y DESGARRO DE ARTICULACIONES Y LIGAMENTOS DE LA RODILLA
+T9	Clinical_Finding 221 235	caida en skate
+T10	Laboratory_or_Test_Result 153 210	rotura de ligamento colateral medial de rodilla izquierda
+A1	Pending T7
+T11	Therapeutic_Procedure 558 562	yeso

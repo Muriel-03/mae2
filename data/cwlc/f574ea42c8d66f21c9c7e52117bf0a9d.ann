@@ -1,0 +1,13 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 90 94	DMIR
+T3	Abbreviation 99 102	tto
+T4	Abbreviation 204 206	CV
+T5	Body_Part 278 284	cuello
+T6	Body_Part 287 292	axila
+T7	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T8	Disease 90 94	DMIR
+T9	Disease 514 545	Soplo cardiaco, no especificado
+T10	Medication 107 115	insulina
+T11	Medication 117 126	metfomina
+T12	Sign_or_Symptom 222 292	soplo sistolico 2/6 en foco tricuspideo, no irradiado a cuello u axila
+T13	Sign_or_Symptom 339 421	palpitaciones de forma ocacional, en reposo, no asociado a situaciones estresantes

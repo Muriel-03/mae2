@@ -1,0 +1,16 @@
+T1	Abbreviation 88 89	+
+T2	Abbreviation 94 97	cig
+T3	Abbreviation 102 104	OH
+T4	Abbreviation 553 557	Atte
+T5	Disease 2 46	INSUFICIENCIA RENAL CRÓNICA, NO ESPECIFICADA
+T6	Disease 541 551	nefropatía
+T7	Clinical_Finding 80 86	Tabaco
+T8	Clinical_Finding 102 104	OH
+T9	Laboratory_or_Test_Result 414 473	reducción significativa de la tasa de filtración glomerular
+T10	Sign_or_Symptom 210 269	dolor toracico, costal derecho, tipo puntada, intermintente
+T11	Sign_or_Symptom 275 306	relación clara con el ejercicio
+A1	Negated T11
+T12	Clinical_Finding 109 133	Antecedentes quirurgicos
+A2	Negated T12
+T13	Clinical_Finding 150 158	Alergías
+A3	Negated T13

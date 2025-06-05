@@ -1,0 +1,15 @@
+T1	Abbreviation 92 95	APS
+T2	Body_Part 61 68	ESCROTO
+T3	Body_Part 384 393	Genitales
+T4	Body_Part 430 455	region testicular derecha
+T5	Body_Part 486 505	ganglios inguinales
+T6	Disease 2 28	HIDROCELE, NO ESPECIFICADO
+T7	Disease 32 68	TRASTORNOS INFLAMATORIOS DEL ESCROTO
+T8	Disease 571 597	Hidrocele, no especificado
+T9	Sign_or_Symptom 199 261	aumento de volumen testicular derecho insidiosos, no dolorosos
+T10	Sign_or_Symptom 408 462	aumento de volumen en region testicular derecha,blando
+T11	Sign_or_Symptom 468 473	masas
+T12	Sign_or_Symptom 477 484	hernias
+T13	Clinical_Finding 486 518	ganglios inguinales no palpables
+A1	Negated T11
+A2	Negated T12

@@ -1,0 +1,7 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 44 49	PACTE
+T3	Body_Part 73 83	DIENTE 2.5
+T4	Disease 2 15	CARIES DENTAL
+T5	Disease 54 69	CARIES PROFUNDA
+T6	Disease 95 108	Caries dental
+T8	Therapeutic_Procedure 84 93	TREPANADA

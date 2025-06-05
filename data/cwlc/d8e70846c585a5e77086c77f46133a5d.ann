@@ -1,0 +1,11 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 105 110	aprox
+T3	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T4	Body_Part 97 104	dientes
+T5	Body_Part 111 114	1.5
+T6	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T7	Sign_or_Symptom 75 104	desgaste de todos los dientes
+T8	Abbreviation 115 117	mm
+T9	Disease 117 124	bruximo
+T10	Therapeutic_Procedure 137 181	devolver dimension vertical para rehabilitar
+A1	Pending T10

@@ -1,0 +1,12 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 101 108	4.8-3.8
+T4	Body_Part 142 146	raiz
+T5	Body_Part 191 194	1.8
+T6	Body_Part 244 250	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 174 189	pericoronaritis
+T9	Disease 197 214	caries penetrante
+T10	Disease 215 250	Anomalias de la posicion del diente
+T12	Laboratory_or_Test_Result 197 214	caries penetrante
+T13	Laboratory_or_Test_Result 101 158	4.8-3.8 semiincluidos  posicion vertical raiz convergente

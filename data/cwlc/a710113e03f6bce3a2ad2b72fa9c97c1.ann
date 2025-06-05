@@ -1,0 +1,4 @@
+T1	Body_Part 49 56	PIEZA 8
+T2	Sign_or_Symptom 37 56	AUSENCIA DE PIEZA 8
+T3	Therapeutic_Procedure 82 90	IMPLANTE
+A1	Pending T3

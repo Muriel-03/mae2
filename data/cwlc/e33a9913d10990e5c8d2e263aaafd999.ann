@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 86 113	PIEZAS DENTALES 1.1  -  2.1
+T4	Body_Part 136 144	SECTOR V
+T5	Body_Part 174 180	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 118 129	APIÑAMIENTO
+T8	Disease 145 180	Anomalias de la posicion del diente
+T9	Sign_or_Symptom 66 113	DIASTEMAS ENTRE LAS PIEZAS DENTALES 1.1  -  2.1
+T10	Sign_or_Symptom 118 144	APIÑAMIENTO EN EL SECTOR V

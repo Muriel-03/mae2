@@ -1,0 +1,5 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 36 74	desdentado parcial superior e inferior
+T3	Sign_or_Symptom 76 125	clasificacion de Kennedy I inferior y IV superior
+T4	Therapeutic_Procedure 181 200	rehabilitacion oral
+A1	Pending T4

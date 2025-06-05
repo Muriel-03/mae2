@@ -1,0 +1,5 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Disease 55 71	desdentado total
+T3	Sign_or_Symptom 85 105	prótesis defectuosas
+T4	Therapeutic_Procedure 132 162	renovar sus prótesis acrílicas
+A1	Pending T4

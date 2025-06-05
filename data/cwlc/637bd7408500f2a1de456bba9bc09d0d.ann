@@ -1,0 +1,15 @@
+T1	Abbreviation 49 53	Pcte
+T2	Abbreviation 74 77	HTA
+T3	Abbreviation 79 82	DLP
+T4	Abbreviation 214 216	AV
+T5	Body_Part 111 117	higado
+T6	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T7	Disease 74 77	HTA
+T8	Disease 79 82	DLP
+T9	Disease 84 98	Hipotiroidismo
+T10	Disease 100 108	Artrosis
+T11	Disease 111 130	higado poliquístico
+T13	Sign_or_Symptom 177 216	deterioro leve pero progresivo de la AV
+T14	Sign_or_Symptom 221 268	sus actuales lentes con visión borrosa de cerca
+T15	Clinical_Finding 270 288	Sin otros síntomas
+T16	Clinical_Finding 133 167	Usuaria de lentes de cerca y lejos

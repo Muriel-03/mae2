@@ -1,0 +1,10 @@
+T1	Abbreviation 34 38	ADAC
+T2	Abbreviation 63 66	APS
+T3	Abbreviation 68 72	adac
+T4	Body_Part 73 76	2.1
+T5	Body_Part 123 127	boca
+T6	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T7	Disease 68 72	adac
+T8	Disease 100 127	Celulitis y absceso de boca
+T9	Therapeutic_Procedure 89 99	endodoncia
+A1	Pending T9

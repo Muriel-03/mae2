@@ -1,0 +1,11 @@
+T1	Body_Part 116 146	incisivos laterales superiores
+T2	Body_Part 167 182	sector anterior
+T3	Disease 148 159	Apiñamiento
+T4	Disease 215 225	gingivitis
+T5	Clinical_Finding 184 204	Buen control higiene
+T6	Sign_or_Symptom 56 84	clase III izquierda marcada.
+T7	Sign_or_Symptom 85 146	Mordida invertida en sector de incisivos laterales superiores
+T8	Sign_or_Symptom 148 182	Apiñamiento severo sector anterior
+T10	Clinical_Finding 38 53	clase I derecha
+A1	Negated T4
+T9	Clinical_Finding 228 249	salud oral conservada

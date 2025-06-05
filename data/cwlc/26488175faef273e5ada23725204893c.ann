@@ -1,0 +1,7 @@
+T1	Abbreviation 0 2	NG
+T2	Abbreviation 60 63	FUR
+T3	Disease 29 43	HIPOTIROIDISMO
+T4	Clinical_Finding 45 59	PERIMENOPAUSIA
+T5	Laboratory_or_Test_Result 5 27	NODULO MAMARIO DERECHO
+T6	Sign_or_Symptom 91 109	REGLAS IRREGULARES
+T7	Clinical_Finding 0 2	NG

@@ -1,0 +1,17 @@
+T1	Abbreviation 36 39	APS
+T2	Abbreviation 110 113	EDA
+T3	Abbreviation 232 235	tto
+T4	Abbreviation 253 255	mg
+T5	Abbreviation 303 307	Atte
+T6	Abbreviation 310 312	Ud
+T7	Body_Part 152 166	bulbo duodenal
+T8	Diagnostic_Procedure 110 113	EDA
+T9	Diagnostic_Procedure 179 186	biopsia
+T10	Disease 2 12	DUODENITIS
+T11	Disease 314 324	Duodenitis
+T12	Laboratory_or_Test_Result 125 166	lesiones plano elevadas en bulbo duodenal
+T13	Laboratory_or_Test_Result 189 220	duodenitis de tipo inespecifico
+T14	Medication 240 249	omeprazol
+T15	Sign_or_Symptom 66 98	dolor epigastrico  de larga data
+R1	Has Arg1:T8 Arg2:T12	
+R2	Has Arg1:T9 Arg2:T13	

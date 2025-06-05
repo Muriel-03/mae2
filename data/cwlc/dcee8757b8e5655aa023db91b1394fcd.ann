@@ -1,0 +1,13 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 104 120	piezas 2.8 y 3.8
+T3	Body_Part 162 168	piezas
+T4	Body_Part 190 214	dientes anterosuperiores
+T5	Body_Part 243 250	dentina
+T6	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T7	Disease 125 131	caries
+T8	Disease 230 250	Caries de la dentina
+T10	Clinical_Finding 66 93	sin antecedentes sistémicos
+T11	Laboratory_or_Test_Result 2 28	CARIES DENTINARIA PROFUNDA
+T12	Sign_or_Symptom 179 228	pérdida de dientes anterosuperiores por accidente
+T13	Therapeutic_Procedure 143 152	exodoncia
+A1	Pending T13

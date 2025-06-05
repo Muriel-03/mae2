@@ -1,0 +1,9 @@
+T1	Body_Part 182 185	3.3
+T2	Body_Part 190 193	2.2
+T3	Body_Part 207 214	grupo 2
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Clinical_Finding 57 75	Clase I esqueletal
+T6	Clinical_Finding 77 114	Mesioclusion molar y canina bilateral
+T7	Sign_or_Symptom 156 193	mordida invertida anterio 3.3 con 2.2
+T8	Sign_or_Symptom 195 214	apiñamiento grupo 2
+T9	Disease 195 206	apiñamiento

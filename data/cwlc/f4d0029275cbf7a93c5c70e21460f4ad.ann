@@ -1,0 +1,15 @@
+T1	Abbreviation 0 1	P
+T2	Abbreviation 9 10	S
+T3	Abbreviation 11 15	EMPS
+T4	Abbreviation 43 49	VESTIB
+T5	Abbreviation 71 75	TRAT
+T6	Abbreviation 94 96	RX
+T7	Body_Part 35 42	P.22-27
+T8	Diagnostic_Procedure 94 107	RX PANORAMICA
+T9	Sign_or_Symptom 0 34	P -6 -11 S/EMPS. POR FALTA ESPACIO
+T11	Body_Part 0 8	P -6 -11
+T12	Abbreviation 35 36	P
+T10	Sign_or_Symptom 35 70	P.22-27 VESTIB POR FALTA DE ESPACIO
+T13	Abbreviation 76 81	ORTOD
+T14	Therapeutic_Procedure 71 81	TRAT ORTOD
+A1	Pending T14

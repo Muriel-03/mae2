@@ -1,0 +1,10 @@
+T1	Abbreviation 63 67	ASOC
+T2	Abbreviation 89 92	CAE
+T3	Abbreviation 94 95	N
+T4	Body_Part 89 92	CAE
+T5	Body_Part 97 104	TIMPANO
+T6	Clinical_Finding 9 33	SIN ANTECEDENTES MORBIDO
+T7	Sign_or_Symptom 42 62	HIPOACUSIA BILATERAL
+T8	Sign_or_Symptom 70 78	TINNITUS
+T9	Clinical_Finding 79 96	OTOSCOPIA CAE (N)
+T10	Clinical_Finding 97 111	TIMPANO NORMAL

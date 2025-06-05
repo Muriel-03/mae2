@@ -1,0 +1,15 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 52 55	Obs
+T3	Body_Part 16 21	ÚTERO
+T4	Body_Part 228 233	utero
+T5	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T6	Disease 56 74	Miomatosis Uterina
+T7	Disease 84 102	miomatosis uterina
+T8	Disease 214 233	Leiomioma del utero
+T9	Sign_or_Symptom 183 195	Polimenorrea
+T10	Sign_or_Symptom 198 211	Hipermenorrea
+T11	Laboratory_or_Test_Result 2 21	LEIOMIOMA DEL ÚTERO
+T12	Sign_or_Symptom 132 181	Menstruaciones de larga duración y muy abundantes
+T13	Laboratory_or_Test_Result 214 233	Leiomioma del utero
+T14	Laboratory_or_Test_Result 56 74	Miomatosis Uterina
+T15	Laboratory_or_Test_Result 84 102	miomatosis uterina

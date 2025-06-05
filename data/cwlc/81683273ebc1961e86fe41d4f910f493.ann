@@ -1,0 +1,15 @@
+T1	Abbreviation 6 9	EMB
+T2	Abbreviation 23 24	X
+T3	Abbreviation 25 28	FUR
+T5	Abbreviation 86 89	LIP
+T6	Abbreviation 91 94	SHE
+T8	Disease 75 84	SOBREPESO
+T9	Disease 91 94	SHE
+T10	Clinical_Finding 0 4	G4P3
+T11	Clinical_Finding 6 9	EMB
+T12	Therapeutic_Procedure 49 56	CESAREA
+T14	Abbreviation 0 1	G
+T4	Clinical_Finding 58 73	FORCEP 2 PARTOS
+T7	Sign_or_Symptom 91 109	SHE EN 2 EMBARAZOS
+T13	Clinical_Finding 37 56	CICATRIZ DE CESAREA
+T15	Abbreviation 2 3	P

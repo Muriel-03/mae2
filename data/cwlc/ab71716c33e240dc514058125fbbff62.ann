@@ -1,0 +1,12 @@
+T1	Abbreviation 62 64	MG
+T2	Abbreviation 71 72	X
+T3	Abbreviation 76 77	+
+T4	Abbreviation 94 96	MG
+T5	Abbreviation 103 104	X
+T7	Abbreviation 150 154	PMCF
+T8	Disease 0 32	ABCESO DENTOALVEOLAR SINTOMATICO
+T9	Clinical_Finding 169 182	VIDRIO IOMERO
+T10	Medication 46 57	AMOXICILINA
+T11	Medication 78 89	PARACETAMOL
+T12	Medication 150 154	PMCF
+T6	Therapeutic_Procedure 113 122	TREPANADA

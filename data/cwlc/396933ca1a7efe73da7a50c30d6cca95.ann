@@ -1,0 +1,5 @@
+T1	Body_Part 0 6	p. 2.1
+T2	Body_Part 30 49	espacio periodontal
+T3	Laboratory_or_Test_Result 0 100	p. 2.1 con lesión periapical, espacio periodontal ensanchado, restauración profunda proxima a cámara
+T4	Body_Part 94 100	cámara
+T5	Abbreviation 0 1	p

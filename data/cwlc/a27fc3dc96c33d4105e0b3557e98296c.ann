@@ -1,0 +1,11 @@
+T1	Abbreviation 128 130	rx
+T2	Diagnostic_Procedure 128 142	rx. panorámica
+T4	Therapeutic_Procedure 52 62	defocación
+T5	Therapeutic_Procedure 85 97	obturaciones
+T6	Therapeutic_Procedure 100 118	prótesis removible
+A1	Pending T5
+A2	Pending T4
+A3	Pending T6
+T3	Therapeutic_Procedure 39 46	cirugia
+A4	Pending T3
+A5	Pending T2

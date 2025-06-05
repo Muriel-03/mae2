@@ -1,0 +1,10 @@
+T1	Abbreviation 218 220	IC
+T2	Body_Part 162 169	maxilar
+T3	Body_Part 182 216	fondo de vestibulo arcada inferior
+T4	Disease 2 18	DESDENTADO TOTAL
+T5	Disease 35 71	desdentada total superior e inferior
+T6	Disease 131 155	estomatitis subprotesica
+T8	Clinical_Finding 86 120	protesis total superior e inferior
+T9	Sign_or_Symptom 172 216	ulcera en fondo de vestibulo arcada inferior
+T10	Therapeutic_Procedure 235 263	protesis superior e inferior
+A1	Pending T10

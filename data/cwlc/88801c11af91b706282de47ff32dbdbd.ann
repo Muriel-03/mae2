@@ -1,0 +1,6 @@
+T1	Abbreviation 88 90	TC
+T2	Body_Part 127 140	VIAS BILIARES
+T3	Diagnostic_Procedure 88 90	TC
+T4	Laboratory_or_Test_Result 113 140	DILATACION DE VIAS BILIARES
+T5	Sign_or_Symptom 33 59	PERDIDA DE PESO PROGRESIVA
+R1	Has Arg1:T3 Arg2:T4	

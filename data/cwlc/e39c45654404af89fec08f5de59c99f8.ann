@@ -1,0 +1,12 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 21 30	AMÍGDALAS
+T3	Body_Part 281 290	amigdalas
+T4	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T5	Disease 96 107	amigdalitis
+T6	Disease 262 290	Hipertrofia de las amigdalas
+T7	Sign_or_Symptom 139 155	respirador bucal
+T8	Sign_or_Symptom 157 174	ronquido nocturno
+T9	Sign_or_Symptom 176 208	dificultad para manejo del sueño
+T10	Therapeutic_Procedure 238 259	resolucion quirurgica
+T11	Sign_or_Symptom 96 120	amigdalitis a repeticion
+A1	Pending T10

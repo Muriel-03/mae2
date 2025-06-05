@@ -1,0 +1,12 @@
+T1	Abbreviation 83 86	APS
+T2	Abbreviation 103 106	der
+T3	Abbreviation 109 112	izq
+T5	Body_Part 154 157	1.2
+T6	Body_Part 160 163	2.2
+T7	Body_Part 183 200	caninos 1.3 y 2.3
+T8	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T10	Clinical_Finding 88 112	clase I molar  der e izq
+T11	Laboratory_or_Test_Result 183 252	caninos 1.3 y 2.3 sin espacio para erupcionar, en formación intraosea
+T12	Sign_or_Symptom 42 59	MORDIDA INVERTIDA
+T13	Sign_or_Symptom 113 153	linea media interdentaria no coincidente
+T14	Sign_or_Symptom 154 182	1.2 y 2.2 oclusión invertida

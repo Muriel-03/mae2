@@ -1,0 +1,11 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 34 37	CCA
+T3	Abbreviation 59 62	FUR
+T4	Abbreviation 68 71	ECO
+T5	Abbreviation 83 86	FPP
+T7	Abbreviation 88 90	OP
+T8	Diagnostic_Procedure 68 71	ECO
+T10	Clinical_Finding 0 2	M2
+T11	Clinical_Finding 38 46	EMBARAZO
+T13	Therapeutic_Procedure 34 37	CCA
+T14	Sign_or_Symptom 4 21	MORTINATO GEMELAR

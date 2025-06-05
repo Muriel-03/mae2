@@ -1,0 +1,18 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 61 65	pcte
+T3	Abbreviation 79 82	RNT
+T4	Abbreviation 83 86	AEG
+T5	Abbreviation 119 122	LME
+T6	Abbreviation 221 225	EEII
+T7	Abbreviation 230 232	ex
+T8	Body_Part 221 225	EEII
+T9	Disease 2 32	OTRAS APNEAS DEL RECIÉN NACIDO
+T10	Disease 277 307	Otras apneas del recien nacido
+T11	Family_Member 140 145	padre
+T12	Clinical_Finding 79 82	RNT
+T13	Clinical_Finding 83 86	AEG
+T14	Clinical_Finding 88 113	sin antecedentes morbidos
+T15	Sign_or_Symptom 208 225	cianosis de  EEII
+T16	Sign_or_Symptom 154 171	episodio de apnea
+T17	Clinical_Finding 135 139	sano
+T18	Clinical_Finding 230 256	ex fisico sin alteraciones

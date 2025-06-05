@@ -1,0 +1,6 @@
+T1	Abbreviation 73 76	PFU
+T2	Body_Part 0 9	diente 10
+T3	Disease 81 119	fractura complicada de corona dentaria
+T4	Therapeutic_Procedure 14 36	trtamiento endodontico
+T5	Therapeutic_Procedure 73 76	PFU
+A1	Pending T5

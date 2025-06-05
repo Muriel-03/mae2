@@ -1,0 +1,9 @@
+T1	Abbreviation 34 37	APS
+T2	Body_Part 39 48	pieza 2,3
+T3	Disease 2 10	PULPITIS
+T4	Disease 68 85	caries penetrante
+T5	Disease 135 143	Pulpitis
+T6	Laboratory_or_Test_Result 68 85	caries penetrante
+T8	Therapeutic_Procedure 49 58	trepanada
+T9	Therapeutic_Procedure 109 134	tratamiento de endodoncia
+A1	Pending T9

@@ -1,0 +1,7 @@
+T2	Abbreviation 119 122	tto
+T3	Body_Part 52 60	grupo VV
+T4	Body_Part 68 76	grupo II
+T5	Disease 33 44	apiñamiento
+T6	Sign_or_Symptom 33 76	apiñamiento severo grupo VV y leve grupo II
+T8	Therapeutic_Procedure 119 137	tto. de ortodoncia
+A1	Pending T8

@@ -1,0 +1,10 @@
+T1	Abbreviation 100 103	dte
+T2	Abbreviation 153 156	dte
+T3	Body_Part 100 107	dte 1.3
+T4	Body_Part 153 160	dte 3.6
+T5	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T6	Clinical_Finding 71 98	relacion esqueletal clase I
+T7	Sign_or_Symptom 57 69	mal oclusion
+T8	Sign_or_Symptom 100 123	dte 1.3 vestibularizado
+T9	Clinical_Finding 126 151	overjet overbite normales
+T10	Sign_or_Symptom 153 168	dte 3.6 ausente

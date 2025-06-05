@@ -1,0 +1,12 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 149 152	OBS
+T3	Body_Part 11 23	ARTICULACIÓN
+T4	Body_Part 65 78	hombro dercho
+T5	Body_Part 131 147	hombro izquierdo
+T6	Body_Part 165 171	HOMBRO
+T7	Disease 2 23	DOLOR EN ARTICULACIÓN
+T8	Disease 98 112	hipotiroidismo
+T9	Disease 154 171	TENDINOSIS HOMBRO
+T10	Sign_or_Symptom 2 23	DOLOR EN ARTICULACIÓN
+T11	Sign_or_Symptom 122 147	dolor en hombro izquierdo
+T12	Sign_or_Symptom 52 78	antralgia de hombro dercho

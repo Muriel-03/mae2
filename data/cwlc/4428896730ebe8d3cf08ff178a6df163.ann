@@ -1,0 +1,7 @@
+T1	Body_Part 37 40	2.6
+T2	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T3	Disease 55 72	caries secundaria
+T4	Clinical_Finding 41 50	trepanada
+T5	Clinical_Finding 74 89	buen pronostico
+T6	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T7	Therapeutic_Procedure 41 50	trepanada

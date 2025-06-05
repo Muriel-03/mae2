@@ -1,0 +1,12 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 119 122	APS
+T3	Body_Part 192 215	piezas anterosuperiores
+T4	Body_Part 388 395	dientes
+T5	Disease 2 20	DESDENTADO PARCIAL
+T6	Disease 49 67	desdentado parcial
+T7	Disease 95 101	caries
+T8	Disease 350 426	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Sign_or_Symptom 192 257	piezas anterosuperiores remanentes con mal pronostico periodontal
+T10	Therapeutic_Procedure 80 115	tratamiento de caries y periodontal
+T11	Therapeutic_Procedure 133 175	protesis total superior y parcial inferior
+A1	Pending T11

@@ -1,0 +1,12 @@
+T1	Abbreviation 135 138	APS
+T2	Body_Part 243 249	pelvis
+T3	Disease 2 19	DIABETES MELLITUS
+T4	Disease 46 111	SÍNDROMES VERTIGINOSOS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T5	Clinical_Finding 153 194	antecedentes de accidente automovilistico
+T6	Disease 197 207	politrauma
+T7	Disease 231 249	fractura de pelvis
+T8	Disease 324 343	vertigo paroxistico
+T10	Disease 397 462	Sindromes vertiginosos en enfermedades clasificadas en otra parte
+T11	Sign_or_Symptom 346 353	tinitus
+T9	Laboratory_or_Test_Result 231 249	fractura de pelvis
+T12	Sign_or_Symptom 264 288	dificultad para escuchar

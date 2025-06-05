@@ -1,0 +1,5 @@
+T1	Abbreviation 118 121	PPR
+T2	Disease 30 68	desdentado parcial superior e inferior
+T3	Therapeutic_Procedure 118 137	PPR supe e inferior
+A1	Pending T3
+T4	Abbreviation 122 126	supe

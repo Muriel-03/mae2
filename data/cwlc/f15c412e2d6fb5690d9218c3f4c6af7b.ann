@@ -1,0 +1,15 @@
+T1	Body_Part 228 272	conducto salival glándula sublingual derecha
+T2	Disease 21 43	daño cerebral profundo
+T3	Disease 45 62	escoliosis severa
+T4	Disease 80 89	epilapsia
+T5	Disease 472 485	SIALOLITIASIS
+T7	Sign_or_Symptom 206 328	aumento de volumen de conducto salival glándula sublingual derecha de consistencia dura a la palpación y de color amarillo
+T8	Disease 63 78	hernia al hiato
+T9	Body_Part 73 78	hiato
+T10	Medication 124 132	diazepam
+T11	Clinical_Finding 133 195	Ha sido atendido bajo anestesia general en multiples ocaciones
+T13	Therapeutic_Procedure 155 172	anestesia general
+T6	Sign_or_Symptom 354 362	exhudado
+A1	Negated T6
+T12	Disease 378 391	Sialolitiasis
+T14	Sign_or_Symptom 440 458	muy difícil manejo

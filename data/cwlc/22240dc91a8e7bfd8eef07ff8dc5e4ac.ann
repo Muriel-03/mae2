@@ -1,0 +1,14 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 36 40	eeii
+T3	Abbreviation 41 44	izq
+T5	Abbreviation 95 98	cms
+T6	Abbreviation 99 104	aprox
+T7	Abbreviation 124 128	eeii
+T8	Body_Part 36 44	eeii izq
+T9	Body_Part 124 128	eeii
+T11	Disease 140 150	queratosis
+T12	Sign_or_Symptom 68 87	signos de infeccion
+T13	Sign_or_Symptom 114 128	dolor, en eeii
+T14	Body_Part 45 62	borde medio talon
+A1	Negated T12
+T4	Sign_or_Symptom 14 20	lesion

@@ -1,0 +1,8 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 51 54	PZA
+T3	Body_Part 51 58	PZA 1.2
+T4	Body_Part 67 79	PIEZA DENTAL
+T5	Disease 2 10	PULPITIS
+T6	Disease 91 106	NECROSIS PULPAR
+T7	Disease 107 115	Pulpitis
+T9	Therapeutic_Procedure 39 50	TREPANACION

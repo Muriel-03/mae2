@@ -1,0 +1,9 @@
+T1	Clinical_Finding 0 2	M1
+T2	Clinical_Finding 3 6	CCA
+T3	Abbreviation 0 2	M1
+T4	Abbreviation 3 6	CCA
+T5	Clinical_Finding 8 16	EMBARAZO
+T6	Disease 29 55	HIPERTIROIDISMO SUBCLINICO
+T7	Sign_or_Symptom 70 84	SOPLO CARDIACO
+T8	Abbreviation 85 88	OBS
+T9	Disease 90 113	INSUFICIENCIA MITRALICA

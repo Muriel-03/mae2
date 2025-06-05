@@ -1,0 +1,18 @@
+T1	Abbreviation 78 81	DIU
+T2	Abbreviation 115 118	APS
+T3	Abbreviation 120 124	PCTE
+T4	Abbreviation 197 200	DIU
+T5	Abbreviation 212 215	APP
+T6	Abbreviation 217 220	DIU
+T7	Body_Part 147 159	ZONA PELVICA
+T8	Disease 2 66	COMPLICACIÓN MECÁNICA DE DISPOSITIVO ANTICONCEPTIVO INTRAUTERINO
+T10	Disease 278 342	Complicacion mecanica de dispositivo anticonceptivo intrauterino
+T14	Sign_or_Symptom 138 159	DOLOR EN ZONA PELVICA
+T15	Therapeutic_Procedure 187 200	RETIRO DE DIU
+T16	Therapeutic_Procedure 217 220	DIU
+T17	Therapeutic_Procedure 67 81	Extracción DIU
+T9	Therapeutic_Procedure 78 81	DIU
+T11	Sign_or_Symptom 67 91	Extracción DIU. frustada
+T12	Sign_or_Symptom 187 210	RETIRO DE DIU FRUSTRADA
+T13	Therapeutic_Procedure 303 342	dispositivo anticonceptivo intrauterino
+T18	Therapeutic_Procedure 27 66	DISPOSITIVO ANTICONCEPTIVO INTRAUTERINO

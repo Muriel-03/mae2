@@ -1,0 +1,6 @@
+T1	Abbreviation 120 125	P.F.S
+T2	Body_Part 0 9	Pieza 1.4
+T3	Disease 14 32	fractura coronaria
+T4	Therapeutic_Procedure 34 60	trepanada endodonticamente
+T5	Therapeutic_Procedure 86 125	rehabilitación coronaria mediante P.F.S
+A1	Pending T5

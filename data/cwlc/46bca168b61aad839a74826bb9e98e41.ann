@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 61 70	pieza 2.2
+T3	Disease 2 32	ABSCESO PERIAPICAL SIN FÍSTULA
+T4	Disease 85 103	absceso periapical
+T5	Disease 105 135	Absceso periapical sin fistula
+T6	Sign_or_Symptom 25 32	FÍSTULA
+A1	Negated T6
+T7	Sign_or_Symptom 128 135	fistula
+A2	Negated T7
+T8	Clinical_Finding 71 80	trepanada

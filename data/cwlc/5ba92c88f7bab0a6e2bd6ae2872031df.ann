@@ -1,0 +1,10 @@
+T2	Body_Part 36 44	pieza 12
+T3	Body_Part 75 80	pieza
+T4	Body_Part 115 132	cúspide palatina.
+T5	Body_Part 183 188	pieza
+T6	Diagnostic_Procedure 207 226	examen radiografico
+T7	Disease 94 132	fractura cervical de cúspide palatina.
+T10	Therapeutic_Procedure 23 32	exodoncia
+T11	Therapeutic_Procedure 150 175	tratamiento de endodoncia
+T12	Therapeutic_Procedure 238 254	tto. de conducto
+T1	Abbreviation 238 241	tto

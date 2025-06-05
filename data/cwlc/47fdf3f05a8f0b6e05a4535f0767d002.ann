@@ -1,0 +1,9 @@
+T1	Abbreviation 22 26	Pcte
+T2	Abbreviation 191 193	+-
+T3	Abbreviation 196 198	cm
+T4	Abbreviation 296 298	ic
+T5	Body_Part 173 190	anillo  umbilical
+T6	Disease 2 18	HERNIA UMBILICAL
+T7	Family_Member 75 80	madre
+T8	Sign_or_Symptom 148 190	protrusion a traves del  anillo  umbilical
+T9	Clinical_Finding 83 118	sin antecedentes  medicos  de  base

@@ -1,0 +1,12 @@
+T1	Abbreviation 103 106	APS
+T2	Abbreviation 137 140	izq
+T3	Body_Part 175 206	caninos superiores e inferiores
+T4	Body_Part 240 249	pieza 3.6
+T5	Disease 2 39	ALTERACIONES EN LA FORMACIÓN DENTARIA
+T6	Disease 43 79	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T7	Disease 257 293	Alteraciones en la erupcion dentaria
+T8	Clinical_Finding 117 140	clase I molar,der e izq
+T9	Sign_or_Symptom 207 238	Inciso-molar Hipomineralización
+T10	Sign_or_Symptom 141 206	Falta de espacio para erupcion de caninos superiores e inferiores
+T11	Sign_or_Symptom 240 256	pieza 3.6 severa
+T12	Abbreviation 131 134	der

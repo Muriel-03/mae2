@@ -1,0 +1,11 @@
+T1	Abbreviation 3 4	T
+T2	Abbreviation 35 39	TDAH
+T3	Abbreviation 43 45	CI
+T4	Abbreviation 47 48	N
+T5	Abbreviation 65 68	OBS
+T6	Disease 3 22	T. DEPRESIVO SEVERO
+T7	Disease 35 39	TDAH
+T8	Disease 70 106	T. DESARROLLO DE PERSONALIDAD LIMITE
+T9	Sign_or_Symptom 110 129	DISFUNCION FAMILIAR
+T10	Clinical_Finding 43 49	CI (N)
+T11	Abbreviation 70 71	T

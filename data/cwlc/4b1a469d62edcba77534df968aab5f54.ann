@@ -1,0 +1,10 @@
+T2	Abbreviation 63 66	TAC
+T3	Body_Part 16 21	ÚTERO
+T4	Diagnostic_Procedure 38 66	Tomografia computada uro TAC
+T5	Diagnostic_Procedure 59 66	uro TAC
+T6	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T7	Disease 106 119	mioma uterino
+T8	Clinical_Finding 129 141	asintomatica
+T9	Laboratory_or_Test_Result 86 119	hallazgo de posible mioma uterino
+T10	Medication 154 174	inyectable combinado
+R1	Has Arg1:T4 Arg2:T9	

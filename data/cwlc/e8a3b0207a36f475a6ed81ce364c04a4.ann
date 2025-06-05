@@ -1,0 +1,9 @@
+T1	Body_Part 9 18	denticion
+T2	Body_Part 106 113	grupo v
+T3	Body_Part 149 163	piezas 1.2-2.2
+T4	Disease 87 98	Apiñamiento
+T5	Clinical_Finding 9 37	denticion mixta,primera fase
+T6	Sign_or_Symptom 39 66	Clase ll bilateral de angle
+T7	Sign_or_Symptom 87 113	Apiñamiento severo grupo v
+T8	Sign_or_Symptom 115 163	Falta de espacio para erupcion de piezas 1.2-2.2
+T9	Sign_or_Symptom 67 85	compresion maxilar

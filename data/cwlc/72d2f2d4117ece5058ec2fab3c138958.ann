@@ -1,0 +1,22 @@
+T1	Abbreviation 9 10	A
+T2	Abbreviation 15 18	Emb
+T3	Abbreviation 32 33	E
+T4	Abbreviation 34 38	gert
+T5	Abbreviation 48 49	x
+T6	Abbreviation 50 53	ECO
+T7	Abbreviation 92 95	asa
+T8	Abbreviation 102 104	NE
+T9	Abbreviation 110 113	HPV
+T10	Abbreviation 125 128	UPC
+T11	Diagnostic_Procedure 50 53	ECO
+T12	Clinical_Finding 3 5	G5
+T13	Clinical_Finding 6 8	P4
+T14	Clinical_Finding 9 11	Ao
+T15	Clinical_Finding 15 18	Emb
+T16	Laboratory_or_Test_Result 102 107	NE II
+T17	Therapeutic_Procedure 83 95	cono con asa
+T18	Abbreviation 3 4	G
+T19	Abbreviation 6 7	P
+T20	Disease 102 107	NE II
+T21	Abbreviation 108 109	X
+T22	Laboratory_or_Test_Result 110 113	HPV

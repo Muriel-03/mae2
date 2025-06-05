@@ -1,0 +1,5 @@
+T1	Body_Part 130 145	dientes 10 y 11
+T2	Disease 31 69	desdentada parcial superior e inferior
+T3	Disease 150 168	fractura coronaria
+T5	Clinical_Finding 83 119	protesis parcial removible superior.
+T6	Therapeutic_Procedure 120 129	exodoncia

@@ -1,0 +1,8 @@
+T1	Abbreviation 9 12	TDA
+T2	Body_Part 0 8	DIENTE 8
+T3	Disease 9 12	TDA
+T5	Sign_or_Symptom 0 21	DIENTE 8 TDA NO VITAL
+T6	Therapeutic_Procedure 34 45	TREPANACION
+T7	Therapeutic_Procedure 48 67	MEDICACION CONDUCTO
+T8	Therapeutic_Procedure 78 101	TRATAMIENTO DE CONDUCTO
+A1	Pending T8

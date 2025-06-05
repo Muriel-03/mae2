@@ -1,0 +1,8 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 185 212	articulacion temporomaxilar
+T4	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T5	Disease 93 101	BRUXISMO
+T6	Disease 168 212	Trastornos de la articulacion temporomaxilar
+T7	Sign_or_Symptom 107 148	SINTOMAS DE DOLOR EN DESGASTES CERVICALES
+T8	Sign_or_Symptom 151 167	DESGASTE OCLUSAL

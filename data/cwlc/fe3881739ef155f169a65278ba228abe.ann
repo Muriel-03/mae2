@@ -1,0 +1,6 @@
+T1	Abbreviation 57 60	APS
+T3	Disease 62 78	paridad cumplida
+T5	Therapeutic_Procedure 19 33	ANTICONCEPCIÓN
+A1	Pending T5
+T2	Therapeutic_Procedure 97 111	anticoncepcion
+A2	Pending T2

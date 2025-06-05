@@ -1,0 +1,9 @@
+T1	Abbreviation 151 154	APS
+T2	Body_Part 38 44	CADERA
+T3	Body_Part 59 66	CADERAS
+T4	Body_Part 83 97	CUELLO FEMORAL
+T6	Body_Part 184 190	cadera
+T7	Diagnostic_Procedure 169 190	radiografia de cadera
+T8	Disease 2 126	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T9	Laboratory_or_Test_Result 195 229	angulo acetabular 35 º a izquierda
+R1	Has Arg1:T7 Arg2:T9	

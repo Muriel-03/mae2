@@ -1,0 +1,6 @@
+T1	Abbreviation 45 48	PTR
+T2	Disease 9 37	DESDENTADA SUPERIOR INFERIOR
+T3	Sign_or_Symptom 92 117	REBORDE INFERIOR ATROFICO
+T4	Clinical_Finding 45 58	PTR BIMAXILAR
+T5	Therapeutic_Procedure 82 90	RECAMBIO
+A1	Pending T5

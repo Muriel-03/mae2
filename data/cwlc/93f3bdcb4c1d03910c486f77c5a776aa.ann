@@ -1,0 +1,6 @@
+T1	Body_Part 0 8	PIEZA 13
+T2	Body_Part 48 53	MANOS
+T3	Diagnostic_Procedure 96 102	EXAMEN
+T4	Sign_or_Symptom 12 26	DIFICIL MANEJO
+T5	Abbreviation 9 11	RR
+T6	Disease 9 11	RR

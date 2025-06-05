@@ -1,0 +1,24 @@
+T1	Abbreviation 56 59	APP
+T2	Abbreviation 63 66	DM2
+T3	Abbreviation 87 90	HTA
+T4	Abbreviation 398 401	BUN
+T5	Diagnostic_Procedure 284 303	Ecotomografia renal
+T6	Disease 63 66	DM2
+T7	Disease 87 90	HTA
+T8	Disease 138 142	Gota
+T9	Disease 315 335	nefropatía bilateral
+T10	Laboratory_or_Test_Result 305 335	Signos de nefropatía bilateral
+T11	Laboratory_Procedure 190 200	creatinina
+T12	Laboratory_Procedure 337 347	Creatinina
+T13	Laboratory_Procedure 358 377	Filtrado Glomerular
+T14	Laboratory_Procedure 403 427	ELECTROLITOS PLASMATICOS
+T15	Medication 68 81	glibenclamida
+T16	Medication 93 101	Losartan
+T17	Medication 109 126	Hidroclorotiazida
+T18	Medication 144 154	alopurinol
+T19	Disease 159 174	Fiebre tifoidea
+R1	Has Arg1:T5 Arg2:T10	
+T20	Laboratory_Procedure 398 401	BUN
+T21	Abbreviation 354 355	>
+T22	Laboratory_or_Test_Result 354 355	>
+R2	Has Arg1:T12 Arg2:T22	

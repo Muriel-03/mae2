@@ -1,0 +1,8 @@
+T1	Diagnostic_Procedure 180 190	resonancia
+T2	Disease 14 38	neurofibromatosis tipo I
+T3	Disease 104 133	neurofibroma facial izqueirdo
+T4	Sign_or_Symptom 104 160	neurofibroma facial izqueirdo que ha crecido y le duele.
+T5	Sign_or_Symptom 44 79	scwannomas vestibulares bilaterales
+T6	Disease 44 54	scwannomas
+T7	Sign_or_Symptom 80 101	meningiomas multiples
+T8	Disease 80 91	meningiomas

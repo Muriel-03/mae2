@@ -1,0 +1,12 @@
+T2	Body_Part 0 9	P.17 Y 32
+T3	Body_Part 156 160	P.30
+T4	Diagnostic_Procedure 81 98	RADIOGRAFICAMENTE
+T5	Disease 51 66	PERICORONARITIS
+T6	Laboratory_or_Test_Result 110 154	AMBAS EN EVOLUCION EXTRAOSEA, BIRRADICULADAS
+T7	Laboratory_or_Test_Result 156 189	P.30 EN LEVE GIROVERSION A DISTAL
+T10	Clinical_Finding 0 26	P.17 Y 32 SEMIERUPCIONADAS
+R1	Has Arg1:T4 Arg2:T6	
+R2	Has Arg1:T4 Arg2:T7	
+T1	Abbreviation 191 193	EX
+T8	Abbreviation 156 157	P
+T9	Abbreviation 0 1	P

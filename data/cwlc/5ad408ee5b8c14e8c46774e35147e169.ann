@@ -1,0 +1,11 @@
+T1	Abbreviation 38 41	PZA
+T2	Abbreviation 77 79	pd
+T3	Abbreviation 136 138	pd
+T4	Body_Part 38 45	PZA 2.4
+T5	Body_Part 77 89	pd 1.4 y 1.5
+T6	Body_Part 136 153	pd 2.4, 1.4 y 1.5
+T7	Disease 20 37	CARIES PENETRANTE
+T8	Disease 47 75	PERIODONTITIS APICAL CRONICA
+T9	Disease 90 105	caries profunda
+T10	Disease 107 123	necrosis pulpar.
+T11	Therapeutic_Procedure 124 135	trepanación

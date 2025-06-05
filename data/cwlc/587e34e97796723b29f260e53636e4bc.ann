@@ -1,0 +1,7 @@
+T1	Abbreviation 47 50	APS
+T2	Disease 2 23	PERIODONTITIS CRÓNICA
+T3	Disease 116 137	Periodontitis cronica
+T4	Sign_or_Symptom 52 61	movilidad
+T5	Sign_or_Symptom 76 95	calculo subgingival
+T6	Sign_or_Symptom 62 74	sangramiento
+T7	Sign_or_Symptom 96 115	retraccion gingival

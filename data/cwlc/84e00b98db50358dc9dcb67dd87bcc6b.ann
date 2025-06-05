@@ -1,0 +1,18 @@
+T1	Abbreviation 84 87	APS
+T2	Abbreviation 170 173	ave
+T3	Body_Part 311 321	epigastrio
+T4	Body_Part 355 362	abdomen
+T5	Body_Part 386 402	flanco izquierdo
+T6	Diagnostic_Procedure 520 545	endoscopia digestiva alta
+T7	Disease 2 60	ULCERA GÁSTRICA, CRÓNICA O NO ESPECIFICADA, CON HEMORRAGIA
+T8	Disease 170 173	ave
+T9	Disease 198 223	ulcera gastrica perforada
+T10	Disease 225 243	tabaquismo crónico
+T11	Disease 547 605	Ulcera gastrica, cronica o no especificada, con hemorragia
+T12	Sign_or_Symptom 294 402	intenso dolor en epigastrio el cual se irradia hacia todo el abdomen de mayor intensidad en flanco izquierdo
+T13	Sign_or_Symptom 435 446	hematemesis
+T14	Sign_or_Symptom 484 498	intensa melena
+T15	Abbreviation 146 149	hta
+T16	Disease 146 149	hta
+T17	Sign_or_Symptom 244 283	desde los 12 años 10 cigarillos diarios
+A1	Pending T6

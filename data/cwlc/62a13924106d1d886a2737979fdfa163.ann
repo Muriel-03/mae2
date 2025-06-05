@@ -1,0 +1,7 @@
+T1	Abbreviation 39 42	PZA
+T2	Body_Part 8 13	PIEZA
+T3	Body_Part 39 46	PZA 1.1
+T4	Disease 1 6	K02-4
+T5	Therapeutic_Procedure 14 38	TRATADA ENDODONTICAMENTE
+T6	Laboratory_or_Test_Result 39 78	PZA 1.1 CON SOBREOBTURACION DE CONDUCTO
+T7	Body_Part 70 78	CONDUCTO

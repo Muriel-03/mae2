@@ -1,0 +1,14 @@
+T1	Abbreviation 122 125	ITU
+T2	Body_Part 2 10	PREPUCIO
+T3	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T4	Disease 58 65	fimosis
+T5	Disease 104 115	parafimosis
+T6	Disease 122 136	ITU recurrente
+T7	Disease 143 158	micosis genital
+T8	Medication 211 222	betametzona
+T9	Sign_or_Symptom 172 191	goteo pos miccional
+T10	Sign_or_Symptom 58 83	fimosis severa, en anillo
+T11	Sign_or_Symptom 89 100	infecciones
+A1	Negated T11
+T12	Sign_or_Symptom 104 115	parafimosis
+A2	Negated T12

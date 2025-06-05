@@ -1,0 +1,9 @@
+T1	Abbreviation 87 92	Heavy
+T2	Abbreviation 212 215	NIC
+T3	Abbreviation 224 226	mm
+T4	Body_Part 166 195	grupos I, II, III, IV, V y VI
+T5	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T7	Sign_or_Symptom 141 195	sondajes de 6mm o más en grupos I, II, III, IV, V y VI
+T8	Sign_or_Symptom 201 215	perdida de NIC
+T9	Sign_or_Symptom 87 130	Heavy smoker (10 o más cigarrillos diarios)
+T10	Abbreviation 154 156	mm

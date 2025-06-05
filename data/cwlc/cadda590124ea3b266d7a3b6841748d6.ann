@@ -1,0 +1,11 @@
+T1	Abbreviation 19 22	pza
+T2	Abbreviation 63 66	pza
+T4	Body_Part 19 27	pza. 1.1
+T5	Body_Part 63 71	pza. 1.2
+T6	Body_Part 158 171	arco superior
+T8	Disease 76 85	mesiodens
+T9	Clinical_Finding 0 18	Clase I esqueletal
+T10	Clinical_Finding 95 126	neutro oclusion molar bilateral
+T13	Sign_or_Symptom 19 85	pza. 1.1 erupcion ectopica a bestibular5 de pza. 1.2 por mesiodens
+T14	Sign_or_Symptom 128 171	leve discrepancia negativa en arco superior
+T3	Laboratory_or_Test_Result 76 94	mesiodens incluido

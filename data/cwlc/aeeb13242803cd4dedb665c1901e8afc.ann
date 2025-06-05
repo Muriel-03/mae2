@@ -1,0 +1,26 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 81 85	Pact
+T3	Abbreviation 258 261	hto
+T4	Abbreviation 265 267	Hb
+T5	Abbreviation 272 275	TSH
+T6	Abbreviation 285 287	dl
+T7	Abbreviation 295 298	ECO
+T8	Diagnostic_Procedure 295 307	ECO Tiroideo
+T9	Disease 2 16	HIPOTIROIDISMO
+T10	Disease 20 52	BOCIO NO TÓXICO, NO ESPECIFICADO
+T11	Disease 107 121	Hopotiroidismo
+T12	Disease 124 130	anemia
+T13	Disease 176 189	Endometriosis
+T14	Disease 338 348	TIROIDITIS
+T15	Disease 399 413	Hipotiroidismo
+T16	Laboratory_or_Test_Result 320 325	BOCIO
+T17	Laboratory_or_Test_Result 328 348	SIGNOS DE TIROIDITIS
+T18	Laboratory_Procedure 258 261	hto
+T19	Laboratory_Procedure 265 267	Hb
+T20	Laboratory_Procedure 272 275	TSH
+T21	Sign_or_Symptom 201 224	metrorragias abundantes
+T22	Sign_or_Symptom 382 386	mreo
+T23	Sign_or_Symptom 389 398	cansancio
+T24	Abbreviation 282 284	ng
+R1	Has Arg1:T8 Arg2:T16	
+R2	Has Arg1:T8 Arg2:T17	

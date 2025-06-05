@@ -1,0 +1,8 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 62	PACTE
+T3	Body_Part 111 121	DIENTE 3.6
+T4	Body_Part 136 143	dentina
+T5	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T6	Disease 123 143	Caries de la dentina
+T8	Sign_or_Symptom 83 99	DOLOR ESPONTANEO
+T7	Clinical_Finding 102 110	OBTURADA

@@ -1,0 +1,19 @@
+T1	Abbreviation 36 39	OBS
+T2	Abbreviation 75 78	TAC
+T3	Abbreviation 320 323	HTP
+T4	Body_Part 144 180	campo pulmonares medios y superiores
+T5	Body_Part 349 363	aorta toracica
+T6	Diagnostic_Procedure 75 78	TAC
+T7	Disease 0 32	ENFERMEDAD PULMONAR INTERSTICIAL
+T8	Disease 40 52	OSTEOPOROSIS
+T10	Disease 201 240	neumonitis intersticial no especificada
+T11	Disease 292 305	Cardiomegalia
+T12	Disease 320 323	HTP
+T13	Disease 325 363	ateromatosis calcica de aorta toracica
+T14	Laboratory_or_Test_Result 98 258	Patron intersticial pulmonar de predominio en campo pulmonares medios y superiores que podrian sugerir neumonitis intersticial no especificada en fase fibrotica
+T15	Laboratory_or_Test_Result 325 363	ateromatosis calcica de aorta toracica
+T16	Sign_or_Symptom 56 71	PERDIDA MEMORIA
+R1	Has Arg1:T6 Arg2:T14	
+T9	Laboratory_or_Test_Result 292 323	Cardiomegalia con signos de HTP
+R2	Has Arg1:T6 Arg2:T9	
+R3	Has Arg1:T6 Arg2:T15	

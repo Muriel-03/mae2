@@ -1,0 +1,10 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 215 242	articulacion temporomaxilar
+T4	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T5	Disease 109 129	BRUXISMO EN CÉNTRICA
+T6	Disease 198 242	Trastornos de la articulacion temporomaxilar
+T7	Sign_or_Symptom 88 108	FASCETAS DE DESGASTE
+T8	Sign_or_Symptom 131 151	DOLOR MIOFACIAL LEVE
+T9	Therapeutic_Procedure 177 196	DISPOSITIVO OCLUSAL
+A1	Pending T9

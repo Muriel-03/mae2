@@ -1,0 +1,7 @@
+T1	Abbreviation 54 57	APS
+T2	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T3	Disease 129 150	Periodontitis cronica
+T4	Sign_or_Symptom 59 84	gran perdida de insercion
+T5	Sign_or_Symptom 109 128	movilidad grado III
+T6	Sign_or_Symptom 84 105	caclulo surpagingival
+T7	Body_Part 105 108	2.1

@@ -1,0 +1,13 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 66 71	pacte
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 126 133	caninos
+T5	Body_Part 180 196	maxilar superior
+T6	Body_Part 226 232	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 197 232	Anomalias de la posicion del diente
+T9	Clinical_Finding 72 97	sin antecedentes morbidos
+T10	Sign_or_Symptom 103 124	mal posicion dentaria
+T11	Sign_or_Symptom 126 140	caninos alados
+T12	Sign_or_Symptom 141 167	sin espacio para ubicacion
+T13	Sign_or_Symptom 169 196	compresion maxilar superior

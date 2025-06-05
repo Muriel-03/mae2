@@ -1,0 +1,7 @@
+T1	Abbreviation 60 63	APS
+T2	Disease 2 36	GASTRITIS CRÓNICA, NO ESPECIFICADA
+T3	Sign_or_Symptom 203 225	sintomática recurrente
+T4	Disease 242 257	prolapso rectal
+T5	Sign_or_Symptom 104 136	dolor epigástrico urente cíclico
+T6	Sign_or_Symptom 139 162	reflujo gastroesofágico
+T7	Clinical_Finding 227 265	antecedente de prolapso rectal operado

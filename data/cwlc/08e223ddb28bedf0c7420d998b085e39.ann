@@ -1,0 +1,5 @@
+T1	Body_Part 13 20	dientes
+T2	Sign_or_Symptom 25 44	movilidad grado III
+T3	Sign_or_Symptom 60 76	saco periodontal
+T4	Therapeutic_Procedure 0 9	exodoncia
+A1	Pending T4

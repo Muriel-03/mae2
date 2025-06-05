@@ -1,0 +1,6 @@
+T1	Body_Part 79 104	canino superior izquierdo
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Sign_or_Symptom 57 77	Apiñamiento anterior
+T6	Laboratory_or_Test_Result 79 114	canino superior izquierdo intraóseo
+T7	Sign_or_Symptom 116 137	Molares en inoclusión
+T3	Body_Part 116 123	Molares

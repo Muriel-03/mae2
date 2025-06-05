@@ -1,0 +1,18 @@
+T1	Abbreviation 27 31	PCTE
+T2	Abbreviation 62 66	PZAS
+T3	Abbreviation 106 108	DM
+T4	Abbreviation 141 144	TTO
+T5	Abbreviation 166 169	TTO
+T6	Abbreviation 194 196	RX
+T7	Body_Part 62 79	PZAS 6, 21, 23-25
+T8	Diagnostic_Procedure 194 207	RX PANORÁMICA
+T9	Disease 0 4	K053
+T10	Disease 5 26	PERIODONTITIS CRONICA
+T11	Disease 32 60	DESDENTADA PARCIAL BIMAXILAR
+T12	Disease 106 108	DM
+T13	Sign_or_Symptom 62 103	PZAS 6, 21, 23-25 CON MOVILIDAD GRADO 2-3
+T14	Therapeutic_Procedure 141 156	TTO PERIODONTAL
+T15	Therapeutic_Procedure 166 183	TTO REHABILITADOR
+A1	Pending T14
+A2	Pending T15
+A3	Pending T8

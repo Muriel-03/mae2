@@ -1,0 +1,14 @@
+T1	Abbreviation 206 208	mm
+T3	Body_Part 243 252	4.2 y 3.2
+T4	Body_Part 289 299	diente 7.3
+T5	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T7	Clinical_Finding 83 113	Relación Molar Clase I Derecha
+T9	Sign_or_Symptom 116 135	Clase II Izquierda.
+T10	Clinical_Finding 136 178	Relación Canina en Neutroclusión bilateral
+T12	Sign_or_Symptom 268 299	Mordida invertida en diente 7.3
+T13	Clinical_Finding 54 81	Realción esqueletal Clase I
+T8	Clinical_Finding 180 194	Resalte normal
+T11	Abbreviation 196 201	Apróx
+T14	Sign_or_Symptom 204 240	6 mm por arcada para ordenar dientes
+T2	Body_Part 233 240	dientes
+T6	Sign_or_Symptom 243 266	4.2 y 3.2 palatinizados

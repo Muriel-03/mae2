@@ -1,0 +1,8 @@
+T1	Abbreviation 78 81	APS
+T2	Abbreviation 130 132	Dr
+T3	Body_Part 183 196	pieza 1.5 (4)
+T4	Disease 2 33	OTRAS PULPITIS, SIN ESPECIFICAR
+T5	Therapeutic_Procedure 165 176	trepanacion
+T6	Therapeutic_Procedure 227 250	tratamiento de conducto
+A1	Pending T6
+A2	Pending T5

@@ -1,0 +1,11 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 97 100	4.6
+T4	Body_Part 101 104	4.6
+T5	Body_Part 144 147	8.5
+T6	Body_Part 177 183	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 131 140	impactado
+T9	Disease 148 183	Anomalias de la posicion del diente
+T10	Laboratory_or_Test_Result 66 100	zona radiolúcida por distal de 4.6
+T11	Laboratory_or_Test_Result 101 147	4.6 con retraso de erupcion e impactado en 8.5

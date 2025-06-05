@@ -1,0 +1,7 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 100 110	diente 2.2
+T3	Body_Part 137 141	arco
+T4	Body_Part 191 206	arcos dentarios
+T6	Disease 156 206	Anomalias de la relacion entre los arcos dentarios
+T7	Sign_or_Symptom 2 19	MORDIDA INVERTIDA
+T8	Sign_or_Symptom 66 154	mordida invertida monodontaria de diente 2.2 que se encuentra fuera de arco por palatino

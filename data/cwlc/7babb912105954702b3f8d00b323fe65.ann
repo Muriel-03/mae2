@@ -1,0 +1,7 @@
+T1	Disease 0 17	disbetes mellitus
+T2	Disease 41 73	hipertension esencial (primaria)
+T3	Disease 74 89	hernia inguinal
+T4	Sign_or_Symptom 163 233	aumento de volumen inguinal izquierdo,protuye con maniobrs de valsalva
+T6	Therapeutic_Procedure 105 117	angioplastia
+T7	Therapeutic_Procedure 119 149	injertos y protesis coronarias
+T8	Disease 151 162	dilipidemia

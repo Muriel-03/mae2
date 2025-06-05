@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	dte
+T3	Abbreviation 64 67	Dra
+T5	Abbreviation 95 99	dtes
+T6	Abbreviation 113 117	pcte
+T7	Abbreviation 118 121	GES
+T8	Body_Part 0 6	dte 14
+T9	Body_Part 95 111	dtes 13, 14 y 20
+T10	Disease 7 24	caries penetrante
+T12	Laboratory_or_Test_Result 7 24	caries penetrante
+T14	Therapeutic_Procedure 82 94	restauracion
+A1	Pending T14

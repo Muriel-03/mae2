@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	OBS
+T2	Abbreviation 15 18	HTA
+T3	Abbreviation 96 98	mg
+T4	Abbreviation 124 126	mg
+T5	Abbreviation 146 148	mg
+T7	Medication 84 92	atenolol
+T8	Medication 104 120	hidroclorotazida
+T9	Medication 134 142	losartan
+T10	Medication 155 165	amlpdipino
+T11	Sign_or_Symptom 4 13	BOCHORNOS
+T12	Disease 15 18	HTA

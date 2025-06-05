@@ -1,0 +1,21 @@
+T1	Abbreviation 83 86	APS
+T2	Abbreviation 157 160	EVA
+T3	Abbreviation 281 284	izq
+T4	Abbreviation 371 376	aprox
+T5	Abbreviation 492 495	tto
+T6	Abbreviation 533 536	FUR
+T7	Body_Part 269 284	hemiabdomen izq
+T8	Body_Part 287 298	hipogastrio
+T9	Disease 2 59	ENFERMEDAD INFLAMATORIA PÉLVICA FEMENINA, NO ESPECIFICADA
+T10	Disease 692 749	Enfermedad inflamatoria pelvica femenina, no especificada
+T11	Clinical_Finding 400 420	sospecha de embarazo
+T12	Medication 501 527	antconceptivos inyectables
+T14	Sign_or_Symptom 116 178	dolor abdominal persistente, que alcanza EVA 9/10 en ocasiones
+T15	Sign_or_Symptom 199 229	molestia o dolor menos intenso
+T16	Sign_or_Symptom 251 298	DOlor se ubica en hemiabdomen izq e hipogastrio
+T17	Sign_or_Symptom 323 357	sangrado vaginal oscuro y mal olor
+T18	Sign_or_Symptom 682 688	fiebre
+A1	Negated T18
+T13	Laboratory_Procedure 558 583	test de embarazo en orina
+A2	Pending T13
+T19	Sign_or_Symptom 435 471	sintomas similares a embarazo previo

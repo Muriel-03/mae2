@@ -1,0 +1,50 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 218 220	SD
+T3	Abbreviation 272 274	SD
+T4	Abbreviation 299 302	ITU
+T5	Abbreviation 336 340	EEII
+T6	Abbreviation 461 465	MORB
+T7	Abbreviation 494 498	OBS.
+T8	Disease 499 510	INFX HTLV-1
+T9	Abbreviation 548 550	DR
+T10	Abbreviation 580 583	ITU
+T11	Abbreviation 651 653	HR
+T12	Abbreviation 674 678	FCOS
+T13	Abbreviation 730 733	HRS
+T14	Abbreviation 749 752	BEG
+T15	Abbreviation 787 789	MP
+T16	Abbreviation 790 791	+
+T17	Abbreviation 792 795	SRA
+T18	Abbreviation 806 810	EEII
+T19	Body_Part 336 340	EEII
+T20	Body_Part 559 565	VEJIGA
+T21	Body_Part 806 810	EEII
+T22	Disease 2 22	PARAPLEJIA ESPÁSTICA
+T23	Disease 218 231	SD. NEFRITICO
+T24	Disease 272 283	SD. MEDULAR
+T25	Disease 299 313	ITU RECURRENTE
+T26	Disease 468 489	PARAPARESIA ESPASTICA
+T28	Disease 559 577	VEJIGA NEUROGENICA
+T29	Disease 580 594	ITU RECURRENTE
+T30	Disease 597 605	CATARATA
+T31	Disease 608 616	GALUCOMA
+T32	Disease 814 834	Paraplejia espastica
+T33	Clinical_Finding 662 669	ALERGIA
+T34	Clinical_Finding 749 752	BEG
+T35	Clinical_Finding 754 759	VIGIL
+T37	Medication 674 678	FCOS
+T38	Medication 681 692	CEFADROXILO
+T39	Medication 707 716	LACTULOSA
+T40	Sign_or_Symptom 327 340	EDEMA DE EEII
+T42	Sign_or_Symptom 765 785	APREMIO RESPIRATORIO
+T45	Sign_or_Symptom 797 810	EDEMA DE EEII
+A1	Negated T23
+T36	Abbreviation 341 343	++
+T46	Therapeutic_Procedure 358 382	CATETERISMO INTERMITENTE
+A2	Negated T33
+A3	Negated T42
+T27	Abbreviation 499 503	INFX
+T41	Abbreviation 504 510	HTLV-1
+T43	Clinical_Finding 787 795	MP + SRA
+T44	Abbreviation 811 813	++
+T47	Abbreviation 671 672	-

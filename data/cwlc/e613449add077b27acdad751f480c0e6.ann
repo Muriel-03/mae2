@@ -1,0 +1,22 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 76 80	PCTE
+T3	Abbreviation 100 103	DIU
+T4	Abbreviation 123 126	BEG
+T5	Abbreviation 235 238	AMP
+T7	Disease 2 47	ESTADOS MENOPÁUSICOS Y CLIMATÉRICOS FEMENINOS
+T9	Disease 279 324	Estados menopausicos y climatericos femeninos
+T11	Clinical_Finding 123 126	BEG
+T14	Sign_or_Symptom 136 145	AMENORREA
+T15	Sign_or_Symptom 159 169	SUDORACION
+T16	Therapeutic_Procedure 100 103	DIU
+T8	Sign_or_Symptom 172 181	BOCHORNOS
+T10	Abbreviation 181 184	FUR
+T6	Clinical_Finding 248 250	G3
+T12	Clinical_Finding 250 252	P3
+T17	Clinical_Finding 252 254	A0
+T18	Clinical_Finding 254 256	V3
+T13	Abbreviation 240 243	N/E
+T19	Abbreviation 248 249	G
+T20	Abbreviation 250 251	P
+T21	Abbreviation 252 253	A
+T22	Abbreviation 254 255	V

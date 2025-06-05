@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	dte
+T2	Abbreviation 32 33	c
+T3	Abbreviation 35 38	t.o
+T4	Abbreviation 39 40	c
+T5	Abbreviation 84 85	+
+T6	Body_Part 0 5	dte 8
+T7	Sign_or_Symptom 6 29	rotado en disconversion
+T8	Therapeutic_Procedure 62 71	exodoncia
+A1	Pending T8
+T9	Therapeutic_Procedure 35 38	t.o

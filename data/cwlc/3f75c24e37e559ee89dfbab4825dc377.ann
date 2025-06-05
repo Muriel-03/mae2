@@ -1,0 +1,10 @@
+T1	Body_Part 42 51	diente 25
+T2	Disease 2 31	Periodontitis cronica. severa
+T3	Disease 52 67	fractura apical
+T4	Disease 146 167	Periodontitis cronica
+T5	Laboratory_or_Test_Result 69 87	reabsorcion severa
+T8	Therapeutic_Procedure 133 145	ferulizacion
+T9	Body_Part 32 39	grupo V
+A1	Pending T8
+T6	Sign_or_Symptom 69 104	reabsorcion severa, pronostico malo
+T7	Laboratory_or_Test_Result 52 67	fractura apical

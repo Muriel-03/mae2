@@ -1,0 +1,19 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 268 269	q
+T3	Abbreviation 291 293	rx
+T4	Body_Part 106 112	diente
+T5	Body_Part 209 218	3.1 y 4.1
+T6	Body_Part 236 239	8.5
+T7	Body_Part 314 349	zona de sosten de Korhaus izquierda
+T8	Diagnostic_Procedure 291 293	rx
+T9	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T10	Disease 145 151	caries
+T11	Disease 197 205	agenesia
+T13	Disease 414 462	Anomalias dentofaciales (incluso la maloclusion)
+T14	Sign_or_Symptom 294 349	ataque posterior de zona de sosten de Korhaus izquierda
+T16	Sign_or_Symptom 122 178	perdida de espacio por caries y extracciones prematuras.
+T17	Therapeutic_Procedure 154 166	extracciones
+T18	Therapeutic_Procedure 220 232	extracciones
+T19	Therapeutic_Procedure 379 402	tratamiento de ortoncia
+T20	Disease 80 119	Anomalia intramaxilar por diente grande
+A1	Pending T19

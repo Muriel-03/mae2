@@ -1,0 +1,15 @@
+T1	Abbreviation 44 48	Pcte
+T2	Abbreviation 155 157	mm
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 270 280	diente 5.5
+T5	Body_Part 282 292	diente 1.6
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Clinical_Finding 49 67	clase I esqueletal
+T8	Sign_or_Symptom 69 94	Clase III molar bilateral
+T9	Sign_or_Symptom 105 172	contacto de 1.2 y 8.3 a oclusión. Desviación de 2 mm de linea media
+T10	Sign_or_Symptom 174 200	Apiñamiento anteroinferior
+T11	Sign_or_Symptom 203 244	discrepancia negativa de espacio superior
+T12	Sign_or_Symptom 249 280	pérdida prematura de diente 5.5
+T13	Body_Part 117 126	1.2 y 8.3
+T14	Disease 174 185	Apiñamiento
+T15	Sign_or_Symptom 282 304	diente 1.6 mesializado

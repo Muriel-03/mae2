@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 119 122	1.1
+T4	Body_Part 167 173	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 67 87	apiñamiento dentario
+T7	Disease 138 173	Anomalias de la posicion del diente
+T8	Sign_or_Symptom 67 136	apiñamiento dentario falta de espacio para erupcion 1.1 disto version

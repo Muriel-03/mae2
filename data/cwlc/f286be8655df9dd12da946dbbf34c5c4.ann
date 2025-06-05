@@ -1,0 +1,14 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 21 30	ADENOIDES
+T3	Body_Part 252 261	Amigdalas
+T4	Body_Part 291 300	adenoides
+T5	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T6	Disease 177 197	hipertrofia adenidea
+T7	Disease 272 300	Hipertrofia de las adenoides
+T8	Family_Member 165 172	hermana
+T9	Sign_or_Symptom 94 119	respiración bucal crónica
+T10	Sign_or_Symptom 122 144	ronquidos por la noche
+T11	Sign_or_Symptom 252 270	Amigdalas grado II
+T12	Disease 203 210	rinitis
+A1	Negated T12
+R1	Has Arg1:T8 Arg2:T6	

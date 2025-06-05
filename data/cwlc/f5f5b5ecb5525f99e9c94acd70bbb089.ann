@@ -1,0 +1,9 @@
+T1	Abbreviation 74 76	ov
+T2	Abbreviation 78 81	izq
+T4	Abbreviation 97 100	cm.
+T5	Body_Part 74 81	ov. izq
+T6	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T7	Disease 120 133	quiste simple
+T8	Laboratory_or_Test_Result 54 81	imagen ecogenica en ov. izq
+T9	Laboratory_or_Test_Result 120 133	quiste simple
+T3	Abbreviation 101 106	aprox

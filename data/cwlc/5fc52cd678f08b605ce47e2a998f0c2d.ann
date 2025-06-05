@@ -1,0 +1,19 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 112 115	VMP
+T3	Abbreviation 236 238	mm
+T4	Abbreviation 305 313	paramono
+T5	Body_Part 80 87	pieza 7
+T6	Body_Part 154 159	pieza
+T7	Body_Part 282 289	pieza 7
+T8	Body_Part 364 369	pieza
+T9	Diagnostic_Procedure 167 178	radiografia
+T10	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T11	Laboratory_or_Test_Result 190 251	lesiòn periapical radiolucida, circular, de 6 mm de diametros
+T12	Medication 305 313	paramono
+T13	Medication 316 324	eugenato
+T14	Sign_or_Symptom 126 160	cambio de coloranciòn en la pieza.
+T15	Therapeutic_Procedure 264 275	trepanaciòn
+T16	Therapeutic_Procedure 347 357	endodoncia
+T17	Clinical_Finding 88 124	obturaciòn de composite VMP profunda
+R1	Has Arg1:T9 Arg2:T11	
+A1	Pending T16

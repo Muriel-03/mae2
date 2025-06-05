@@ -1,0 +1,6 @@
+T1	Body_Part 87 96	1.2 y 4.3
+T2	Disease 23 34	apiñamiento
+T3	Sign_or_Symptom 23 61	apiñamiento severo superior e inferior
+T4	Sign_or_Symptom 63 96	mordida invertida entre 1.2 y 4.3
+T5	Sign_or_Symptom 99 152	desviación línea media dentaria superior a la derecha
+T6	Clinical_Finding 0 18	Clase 1 Esqueletal

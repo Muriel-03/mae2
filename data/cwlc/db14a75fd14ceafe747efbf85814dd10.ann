@@ -1,0 +1,19 @@
+T1	Abbreviation 169 172	ATB
+T2	Abbreviation 173 174	+
+T3	Abbreviation 175 180	AINES
+T4	Abbreviation 195 197	Rx
+T5	Body_Part 31 37	DIENTE
+T6	Body_Part 140 149	diente 32
+T7	Diagnostic_Procedure 195 208	Rx panorámica
+T8	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T9	Disease 124 139	pericoronaritis
+T10	Medication 169 172	ATB
+T11	Medication 175 180	AINES
+T12	Sign_or_Symptom 44 68	Dolor hemifacial derecho
+T13	Sign_or_Symptom 70 90	inflamación gingival
+T14	Sign_or_Symptom 92 99	eritema
+T15	Sign_or_Symptom 101 111	odinofacia
+T16	Sign_or_Symptom 124 180	pericoronaritis diente 32, semincluído.      ATB + AINES
+T17	Therapeutic_Procedure 222 231	exodoncia
+T18	Laboratory_or_Test_Result 140 162	diente 32, semincluído
+A1	Pending T17

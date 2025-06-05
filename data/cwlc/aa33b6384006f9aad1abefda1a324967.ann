@@ -1,0 +1,6 @@
+T1	Body_Part 92 129	dientes 3.5, 3.2, 4.1, 4.2, 4.5 y 1.7
+T2	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T3	Disease 48 91	periodontitis cronica moderada generalizada
+T5	Sign_or_Symptom 131 166	Sacos periodontales mayores a 4,5mm
+T6	Sign_or_Symptom 169 186	movilidad grado 2
+T4	Abbreviation 164 166	mm

@@ -1,0 +1,12 @@
+T1	Abbreviation 95 98	TAC
+T2	Body_Part 99 106	abdomen
+T3	Body_Part 109 115	pelvis
+T4	Diagnostic_Procedure 95 115	TAC abdomen y pelvis
+T5	Diagnostic_Procedure 116 125	Ecografia
+T6	Disease 0 24	infeccion pielonefritica
+T7	Disease 27 53	Pielonefritis a repeticion
+T8	Disease 65 91	pielonefritis a repeticion
+T9	Disease 135 147	colelitiasis
+T10	Laboratory_or_Test_Result 126 147	descarta colelitiasis
+R1	Has Arg1:T5 Arg2:T10	
+R2	Has Arg1:T4 Arg2:T10	

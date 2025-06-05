@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 5 42	desdentado total maxilar y mandibular
+T3	Clinical_Finding 47 62	alta operatoria
+T4	Sign_or_Symptom 128 158	protesis maxilar en mal estado
+T5	Therapeutic_Procedure 73 114	rehabilitación protésica por especialidad
+A1	Pending T5

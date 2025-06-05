@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	pcte
+T2	Disease 5 41	desdentada total superior e inferior
+T3	Sign_or_Symptom 47 77	protesis antiguas desajustadas
+T4	Therapeutic_Procedure 98 125	protesis totales removibles
+A1	Pending T4

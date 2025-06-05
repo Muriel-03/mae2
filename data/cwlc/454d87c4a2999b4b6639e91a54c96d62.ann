@@ -1,0 +1,14 @@
+T1	Abbreviation 48 51	SNG
+T2	Abbreviation 102 104	VO
+T3	Abbreviation 104 105	+
+T4	Abbreviation 113 114	X
+T5	Abbreviation 115 118	SNG
+T7	Abbreviation 148 151	ACV
+T8	Disease 0 34	TRASTORNO DE LA DEGLUCION MODERADA
+T9	Disease 121 130	DEPRESION
+T10	Disease 132 146	DEMENCIA SENIL
+T12	Therapeutic_Procedure 48 51	SNG
+T11	Disease 148 151	ACV
+A1	Negated T11
+T6	Therapeutic_Procedure 115 118	SNG
+T13	Therapeutic_Procedure 79 92	REGIMEN MIXTO

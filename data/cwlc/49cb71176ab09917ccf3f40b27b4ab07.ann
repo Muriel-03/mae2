@@ -1,0 +1,23 @@
+T1	Abbreviation 59 62	APS
+T2	Abbreviation 146 150	PSCV
+T3	Abbreviation 161 163	HB
+T4	Abbreviation 168 173	MICRO
+T5	Abbreviation 174 178	HIPO
+T7	Abbreviation 236 239	RGE
+T8	Abbreviation 263 266	EDA
+T9	Abbreviation 298 302	ATTE
+T10	Diagnostic_Procedure 263 266	EDA
+T11	Disease 2 35	ANEMIAS POR DEFICIENCIA DE HIERRO
+T12	Disease 151 157	ANEMIA
+T13	Disease 236 239	RGE
+T14	Disease 304 337	Anemias por deficiencia de hierro
+T15	Laboratory_or_Test_Result 151 157	ANEMIA
+T16	Laboratory_or_Test_Result 174 178	HIPO
+T17	Laboratory_Procedure 161 163	HB
+T18	Sign_or_Symptom 196 219	DOLOR URENTE ESPORADICO
+T19	Sign_or_Symptom 223 253	SENSACION DE RGE DE LARGA DATA
+T20	Sign_or_Symptom 92 102	SIN REGLAS
+T21	Laboratory_or_Test_Result 168 173	MICRO
+R1	Has Arg1:T17 Arg2:T21	
+R2	Has Arg1:T17 Arg2:T16	
+A1	Pending T10

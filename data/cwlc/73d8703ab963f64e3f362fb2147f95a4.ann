@@ -1,0 +1,7 @@
+T1	Abbreviation 37 40	APS
+T2	Body_Part 42 47	pulpa
+T3	Body_Part 94 110	pieza dental 1.4
+T5	Sign_or_Symptom 2 13	DOLOR AGUDO
+T6	Sign_or_Symptom 42 76	pulpa vital en estado irreversible
+T7	Sign_or_Symptom 124 135	Dolor agudo
+T8	Therapeutic_Procedure 113 122	trepanada

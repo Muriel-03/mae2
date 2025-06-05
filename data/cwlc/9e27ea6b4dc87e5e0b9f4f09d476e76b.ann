@@ -1,0 +1,8 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 67 70	1.5
+T3	Body_Part 92 95	4.5
+T4	Body_Part 98 101	3.5
+T5	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T6	Disease 207 243	Alteraciones en la erupcion dentaria
+T8	Sign_or_Symptom 92 206	4.5 y 3.5  inflaoclusión sin espacio para erupcionar y en linguoversión. Ambas con alteración de la forma dentaria
+T7	Sign_or_Symptom 67 91	1.5 completamente rotada

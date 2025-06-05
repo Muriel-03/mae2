@@ -1,0 +1,18 @@
+T1	Abbreviation 106 109	APS
+T2	Body_Part 2 10	PREPUCIO
+T3	Body_Part 48 57	TESTÍCULO
+T4	Body_Part 111 119	prepucio
+T5	Body_Part 162 168	glande
+T6	Body_Part 169 183	bolsa escrotal
+T7	Body_Part 196 200	piel
+T8	Body_Part 242 252	testiculos
+T9	Body_Part 256 271	region inguinal
+T10	Body_Part 288 297	Testiculo
+T11	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T12	Disease 48 82	TESTÍCULO NO DESCENDIDO, BILATERAL
+T13	Disease 288 322	Testiculo no descendido, bilateral
+T14	Sign_or_Symptom 111 144	prepucio no retraible, puntiforme
+T15	Sign_or_Symptom 146 168	no se visualiza glande
+T16	Sign_or_Symptom 196 225	piel de coloracion mas oscura
+T17	Sign_or_Symptom 229 287	palpan ambos testiculos en region inguinal correspondiente
+T18	Sign_or_Symptom 169 194	bolsa escrotal no formada

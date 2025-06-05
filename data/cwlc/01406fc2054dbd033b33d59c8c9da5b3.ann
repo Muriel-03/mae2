@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	pieza 3.5
+T2	Sign_or_Symptom 39 77	obturacion directa extensa desajustada
+T3	Clinical_Finding 10 34	tratada endodonticamente
+T4	Therapeutic_Procedure 39 65	obturacion directa extensa
+T5	Therapeutic_Procedure 98 142	tratamiento rehabilitador directo con resina
+A1	Negated T5
+T6	Sign_or_Symptom 79 142	impiposibilidad de tratamiento rehabilitador directo con resina

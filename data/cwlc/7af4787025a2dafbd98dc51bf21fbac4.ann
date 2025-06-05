@@ -1,0 +1,7 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 45 50	PULPA
+T3	Body_Part 102 112	diente 4.5
+T4	Disease 2 50	PERIODONTITIS APICAL AGUDA ORIGINADA EN LA PULPA
+T5	Sign_or_Symptom 129 149	dolor a la percusión
+T6	Therapeutic_Procedure 90 101	trepanación
+T7	Disease 156 172	dens invaginatus

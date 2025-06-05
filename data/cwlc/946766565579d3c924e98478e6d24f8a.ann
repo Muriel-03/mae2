@@ -1,0 +1,8 @@
+T1	Abbreviation 92 97	AINES
+T2	Body_Part 192 223	musculos masticadores izquierdo
+T3	Disease 13 46	bruxismo centrico diurno/nocturno
+T4	Medication 92 97	AINES
+T5	Sign_or_Symptom 74 97	dolor no cede con AINES
+T6	Sign_or_Symptom 107 136	disminucion de apertura bucal
+T7	Sign_or_Symptom 139 161	disminucion de funcion
+T8	Sign_or_Symptom 172 223	dolor espontaneo en musculos masticadores izquierdo

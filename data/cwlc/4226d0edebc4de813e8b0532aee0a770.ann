@@ -1,0 +1,8 @@
+T1	Abbreviation 113 116	APS
+T2	Body_Part 26 33	DIENTES
+T3	Body_Part 194 201	dientes
+T4	Disease 2 64	OTROS TRASTORNOS DE LOS DIENTES Y DE SUS ESTRUCTURAS DE SOSTÉN
+T5	Disease 170 232	Otros trastornos de los dientes y de sus estructuras de sosten
+T6	Therapeutic_Procedure 64 88	destartraje sub gingival
+T7	Therapeutic_Procedure 127 135	protesis
+A1	Pending T7

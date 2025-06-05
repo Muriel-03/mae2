@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	PG
+T2	Abbreviation 4 7	EMB
+T3	Abbreviation 25 28	OBS
+T4	Abbreviation 68 71	TTO
+T5	Abbreviation 86 88	MG
+T6	Abbreviation 91 94	FUR
+T7	Abbreviation 106 109	FPP
+T8	Disease 29 49	DIABETES GESTACIONAL
+T9	Disease 50 64	HIPOTIROIDISMO
+T10	Clinical_Finding 0 2	PG
+T11	Clinical_Finding 4 7	EMB
+T12	Medication 74 81	EUTIROX

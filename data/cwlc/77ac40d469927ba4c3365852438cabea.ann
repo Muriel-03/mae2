@@ -1,0 +1,10 @@
+T1	Abbreviation 48 51	int
+T2	Abbreviation 95 98	izq
+T3	Body_Part 75 98	vena safena interna izq
+T4	Disease 4 55	Insuficiencia venosa femoral comun y safena int.izq
+T6	Disease 57 98	Trombosis cronica vena safena interna izq
+T7	Disease 100 115	Ulcera varicosa
+T8	Laboratory_or_Test_Result 57 98	Trombosis cronica vena safena interna izq
+T9	Abbreviation 0 3	Obs
+T10	Abbreviation 52 55	izq
+T5	Body_Part 41 55	safena int.izq

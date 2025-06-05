@@ -1,0 +1,25 @@
+T1	Abbreviation 162 165	PSA
+T2	Abbreviation 179 181	NG
+T3	Abbreviation 182 184	ML
+T4	Abbreviation 186 189	PSA
+T5	Abbreviation 204 206	NG
+T6	Abbreviation 208 210	DL
+T7	Abbreviation 212 214	AM
+T8	Abbreviation 216 219	HTA
+T9	Body_Part 20 28	PRÓSTATA
+T10	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T11	Disease 216 219	HTA
+T12	Clinical_Finding 221 229	ALERGIAS
+T13	Laboratory_Procedure 162 171	PSA TOTAL
+T14	Laboratory_Procedure 186 195	PSA LIBRE
+T15	Sign_or_Symptom 61 79	ESFUERZO MICCIONAL
+T16	Sign_or_Symptom 81 109	CALIBRE MICCIONAL DISMINUIDO
+T17	Sign_or_Symptom 115 126	GOTEO FINAL
+A1	Negated T12
+T18	Clinical_Finding 236 242	TABACO
+A2	Negated T18
+T19	Clinical_Finding 249 259	SEDENTARIO
+A3	Negated T19
+T20	Abbreviation 245 246	-
+T21	Abbreviation 232 233	-
+T22	Abbreviation 261 262	-

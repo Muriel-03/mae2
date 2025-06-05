@@ -1,0 +1,17 @@
+T1	Abbreviation 50 53	APS
+T2	Abbreviation 55 59	pcte
+T3	Abbreviation 99 101	DM
+T4	Abbreviation 124 127	HTA
+T5	Abbreviation 146 149	tto
+T6	Abbreviation 246 248	+-
+T7	Abbreviation 313 316	tto
+T8	Body_Part 274 278	cara
+T9	Body_Part 281 302	region retroauricular
+T10	Disease 2 26	MICOSIS, NO ESPECIFICADA
+T11	Disease 99 101	DM
+T12	Disease 124 127	HTA
+T13	Disease 129 142	neumoconiosis
+T14	Medication 321 333	antimicotico
+T15	Medication 336 353	corticoide topico
+T16	Sign_or_Symptom 188 232	lesiones escamosas localizadas en testículos
+T17	Body_Part 222 232	testículos

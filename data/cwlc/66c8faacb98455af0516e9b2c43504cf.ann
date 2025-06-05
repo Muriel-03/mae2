@@ -1,0 +1,13 @@
+T1	Abbreviation 0 3	PZA
+T3	Abbreviation 10 13	PZA
+T4	Abbreviation 38 39	C
+T5	Abbreviation 41 45	HIPO
+T6	Abbreviation 102 103	+
+T7	Body_Part 0 8	PZA. 1.2
+T8	Body_Part 10 16	PZA. 7
+T11	Medication 41 45	HIPO
+T12	Medication 104 112	EUGENATO
+T14	Therapeutic_Procedure 18 27	TREPANADA
+T2	Sign_or_Symptom 59 79	SUPURA  POR CONDUCTO
+T9	Clinical_Finding 115 117	VI
+T10	Body_Part 71 79	CONDUCTO

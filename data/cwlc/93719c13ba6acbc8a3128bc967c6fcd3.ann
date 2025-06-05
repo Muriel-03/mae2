@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 129 132	PZA
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 129 135	PZA 11
+T5	Body_Part 229 235	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 200 235	Anomalias de la posicion del diente
+T8	Clinical_Finding 83 107	SIN ANTECEDENTES MEDICOS
+T9	Sign_or_Symptom 138 146	DIASTEMA
+T10	Sign_or_Symptom 117 135	ROTACION DE PZA 11

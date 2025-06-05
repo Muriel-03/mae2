@@ -1,0 +1,6 @@
+T1	Abbreviation 52 55	pza
+T2	Body_Part 52 59	pza 3.6
+T3	Disease 0 34	Periodontitis cronica generalizada
+T4	Disease 85 103	Desdentada parcial
+T5	Sign_or_Symptom 64 83	compromiso de furca
+T6	Body_Part 78 83	furca

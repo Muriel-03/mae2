@@ -1,0 +1,16 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 81 87	cesfam
+T3	Abbreviation 275 276	C
+T4	Body_Part 204 229	revorde residual superior
+T5	Body_Part 517 524	dientes
+T6	Disease 2 18	DESDENTADO TOTAL
+T7	Disease 135 147	hipertensión
+T8	Disease 149 168	artritis reumatoide
+T9	Disease 479 555	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Sign_or_Symptom 179 260	reabsorción moderada del revorde residual superior y marcada del revorde inferior
+T11	Sign_or_Symptom 321 391	protesis inferior presenta poca retención y adaptabilidad de la mucosa
+T13	Therapeutic_Procedure 278 316	prótesis removible superior e inferior
+T14	Therapeutic_Procedure 418 477	rehabilitación con protesis implanto mucosoportada inferior
+T15	Body_Part 244 260	revorde inferior
+T12	Body_Part 385 391	mucosa
+A1	Pending T14

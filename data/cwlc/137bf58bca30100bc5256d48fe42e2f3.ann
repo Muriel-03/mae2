@@ -1,0 +1,8 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 93 108	sector anterior
+T3	Body_Part 140 148	grupo II
+T4	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T5	Disease 149 197	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 80 108	sobremordida sector anterior
+T7	Sign_or_Symptom 110 148	apiñamiento dentario  leve en grupo II
+T8	Disease 110 121	apiñamiento

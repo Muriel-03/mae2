@@ -1,0 +1,11 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 148 149	+
+T3	Abbreviation 180 181	+
+T4	Body_Part 172 179	grupo V
+T5	Body_Part 182 191	denticion
+T7	Disease 150 171	apiñamiento dentariro
+T8	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T9	Clinical_Finding 134 147	clase I angle
+T10	Clinical_Finding 182 210	denticion mixta segunda fase
+T11	Clinical_Finding 212 238	Paciente Sano Odontologico
+T12	Sign_or_Symptom 150 179	apiñamiento dentariro grupo V

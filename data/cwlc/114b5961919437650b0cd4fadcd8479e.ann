@@ -1,0 +1,7 @@
+T1	Body_Part 77 112	molar superior e inferior izquierdo
+T2	Body_Part 213 218	encia
+T3	Body_Part 227 240	zona edentula
+T4	Disease 34 54	artritis reumatoides
+T5	Disease 150 175	síndrome de mala oclusión
+T6	Disease 176 240	Otros trastornos especificados de la encia y de la zona edentula
+T8	Sign_or_Symptom 65 112	edentula de molar superior e inferior izquierdo

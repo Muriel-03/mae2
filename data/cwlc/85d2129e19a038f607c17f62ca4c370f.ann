@@ -1,0 +1,6 @@
+T1	Body_Part 0 8	diente 5
+T2	Body_Part 90 96	diente
+T3	Therapeutic_Procedure 9 20	trepanacion
+T4	Therapeutic_Procedure 73 83	endodoncia
+T5	Clinical_Finding 90 132	diente con tratamiento previamente inicido
+A1	Pending T4

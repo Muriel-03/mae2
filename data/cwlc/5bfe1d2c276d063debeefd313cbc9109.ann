@@ -1,0 +1,8 @@
+T1	Body_Part 21 30	Pieza 2.2
+T2	Body_Part 88 97	Pieza 2.2
+T3	Disease 40 62	lesión endoperiodontal
+T4	Disease 140 168	Caries distocervial profunda
+T6	Laboratory_or_Test_Result 40 62	lesión endoperiodontal
+T7	Disease 98 120	absceso dentoalveolar.
+T8	Therapeutic_Procedure 75 86	trepanación
+T5	Sign_or_Symptom 121 139	Fistula vestibular

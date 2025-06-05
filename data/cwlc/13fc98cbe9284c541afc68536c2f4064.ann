@@ -1,0 +1,94 @@
+T1	Abbreviation 123 126	APS
+T2	Abbreviation 233 237	PRCT
+T3	Abbreviation 238 243	S.O.S
+T4	Abbreviation 245 249	OMPZ
+T5	Abbreviation 251 256	s.o.s
+T6	Abbreviation 290 293	ATV
+T7	Abbreviation 303 306	exs
+T8	Abbreviation 308 313	Hemog
+T9	Abbreviation 315 317	Hb
+T10	Laboratory_or_Test_Result 327 338	normo-normo
+T11	Abbreviation 341 346	Leuco
+T12	Abbreviation 355 359	Plaq
+T13	Abbreviation 389 393	Gluc
+T14	Abbreviation 398 399	P
+T15	Abbreviation 421 425	coag
+T16	Abbreviation 434 437	Sed
+T17	Abbreviation 459 464	hemat
+T18	Abbreviation 495 499	bact
+T19	Abbreviation 526 529	EKG
+T20	Abbreviation 554 556	x´
+T21	Abbreviation 557 562	Antec
+T22	Abbreviation 567 570	HTA
+T23	Abbreviation 580 584	PKNS
+T24	Abbreviation 640 643	HTA
+T25	Abbreviation 645 648	TAC
+T26	Abbreviation 670 673	LSD
+T27	Abbreviation 676 678	mm
+T28	Abbreviation 705 706	+
+T29	Abbreviation 835 838	Eco
+T30	Abbreviation 880 883	HUN
+T31	Body_Part 649 654	TÓRAX
+T32	Diagnostic_Procedure 526 529	EKG
+T33	Diagnostic_Procedure 645 654	TAC TÓRAX
+T34	Diagnostic_Procedure 835 854	Eco renal y vesical
+T35	Disease 2 44	OTRAS HIDRONEFROSIS Y LAS NO ESPECIFICADAS
+T36	Disease 48 99	HEMATURIA RECURRENTE Y PERSISTENTE, NO ESPECIFICADA
+T37	Disease 137 154	Fibrosis pulmonar
+T38	Disease 156 165	Parkinson
+T40	Disease 192 209	Prolapso grado IV
+T41	Disease 567 570	HTA
+T42	Disease 640 643	HTA
+T43	Disease 741 754	hernia hiatal
+T44	Disease 979 1021	Otras hidronefrosis y las no especificadas
+T45	Laboratory_or_Test_Result 382 388	normal
+T46	Laboratory_or_Test_Result 411 417	normal
+T47	Laboratory_or_Test_Result 427 433	normal
+T48	Laboratory_or_Test_Result 495 525	bact: abundante         Hongos
+T49	Laboratory_or_Test_Result 531 537	normal
+T50	Laboratory_or_Test_Result 539 556	bradicardia 56 x´
+T51	Laboratory_or_Test_Result 680 704	ligera dilatación del VI
+T52	Laboratory_or_Test_Result 707 739	ateromatosis aórtica y coronaria
+T53	Laboratory_or_Test_Result 741 754	hernia hiatal
+T55	Laboratory_or_Test_Result 880 920	HUN bilateral severa sin causa precisada
+T57	Laboratory_Procedure 308 313	Hemog
+T58	Laboratory_Procedure 315 317	Hb
+T59	Laboratory_Procedure 341 346	Leuco
+T60	Laboratory_Procedure 355 359	Plaq
+T61	Laboratory_Procedure 369 380	P. lipídico
+T62	Laboratory_Procedure 389 393	Gluc
+T63	Laboratory_Procedure 398 409	P. hepático
+T64	Abbreviation 418 419	P
+T65	Laboratory_Procedure 418 425	P. coag
+T66	Laboratory_Procedure 434 444	Sed. orina
+T69	Medication 257 264	Prolopa
+T70	Medication 275 281	Sifrol
+T71	Medication 290 293	ATV
+T72	Sign_or_Symptom 167 179	Soplo mitral
+T74	Sign_or_Symptom 768 816	Soplo foco aórtico II/VI,  irradiado a carótidas
+R1	Has Arg1:T58 Arg2:T10	
+T39	Abbreviation 369 370	P
+T56	Medication 210 219	Brexotide
+R2	Has Arg1:T61 Arg2:T45	
+R3	Has Arg1:T63 Arg2:T46	
+R4	Has Arg1:T65 Arg2:T47	
+T73	Laboratory_or_Test_Result 446 455	sangre ++
+T75	Abbreviation 453 455	++
+R5	Has Arg1:T66 Arg2:T73	
+T67	Laboratory_or_Test_Result 459 477	hemat: 60-80/campo
+R6	Has Arg1:T66 Arg2:T67	
+R7	Has Arg1:T66 Arg2:T48	
+R8	Has Arg1:T32 Arg2:T49	
+R9	Has Arg1:T32 Arg2:T50	
+T68	Sign_or_Symptom 585 608	tendencia a hipotensión
+T76	Laboratory_or_Test_Result 656 659	EPD
+T77	Laboratory_or_Test_Result 660 678	Nódulo en LSD 4 mm
+R10	Has Arg1:T33 Arg2:T77	
+R11	Has Arg1:T33 Arg2:T51	
+R12	Has Arg1:T33 Arg2:T52	
+R13	Has Arg1:T33 Arg2:T53	
+R14	Has Arg1:T33 Arg2:T76	
+T78	Body_Part 670 673	LSD
+T54	Body_Part 807 816	carótidas
+R15	Has Arg1:T34 Arg2:T55	
+T79	Sign_or_Symptom 859 876	hematuria crónica

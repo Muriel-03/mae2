@@ -1,0 +1,27 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 80 82	dg
+T3	Abbreviation 118 121	tto
+T4	Abbreviation 152 154	mg
+T5	Abbreviation 163 166	hrs
+T7	Abbreviation 283 286	tsh
+T8	Disease 2 33	TIROTOXICOSIS (HIPERTIROIDISMO)
+T10	Disease 86 101	hipertiroidismo
+T11	Disease 425 456	Tirotoxicosis (hipertiroidismo)
+T12	Laboratory_or_Test_Result 294 320	dentro de limites normales
+T13	Laboratory_Procedure 283 286	tsh
+T14	Medication 133 148	propiltiuracilo
+T15	Sign_or_Symptom 233 246	palpitaciones
+T16	Sign_or_Symptom 249 259	sudoracion
+T17	Sign_or_Symptom 262 274	baja de peso
+T18	Sign_or_Symptom 350 363	oftalmoplejia
+T19	Sign_or_Symptom 370 384	bocio palpable
+A1	Negated T15
+A2	Negated T16
+A3	Negated T17
+R1	Has Arg1:T13 Arg2:T12	
+T6	Sign_or_Symptom 336 345	exoftalmo
+A4	Negated T6
+A5	Negated T18
+A6	Negated T19
+T20	Clinical_Finding 168 191	sin controil hace 1 año
+T21	Sign_or_Symptom 194 220	sin medicamento hace 1 año

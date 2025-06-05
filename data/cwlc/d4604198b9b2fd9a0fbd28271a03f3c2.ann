@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 170 179	1.1 y 2.1
+T3	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T4	Sign_or_Symptom 105 129	clase II molar bilateral
+T5	Sign_or_Symptom 131 148	overjet aumentado
+T6	Sign_or_Symptom 155 179	giroversión de 1.1 y 2.1
+T7	Sign_or_Symptom 181 215	discrepancia dentomaxilar negativa
+T8	Abbreviation 149 150	+
+T9	Abbreviation 151 153	mm

@@ -1,0 +1,16 @@
+T1	Abbreviation 0 3	LES
+T2	Abbreviation 86 89	MMF
+T4	Abbreviation 248 251	ANA
+T5	Diagnostic_Procedure 50 57	BIOPSIA
+T6	Disease 0 3	LES
+T7	Sign_or_Symptom 131 143	CRISIS RENAL
+T8	Clinical_Finding 185 197	ASINTOMATICA
+T9	Laboratory_Procedure 248 251	ANA
+T10	Medication 86 89	MMF
+T12	Sign_or_Symptom 204 208	RASH
+T13	Sign_or_Symptom 210 227	LESIONES CUTANEAS
+T14	Sign_or_Symptom 230 246	FOTOSENSIBILIDAD
+A1	Negated T5
+A2	Negated T12
+A3	Negated T13
+A4	Negated T14

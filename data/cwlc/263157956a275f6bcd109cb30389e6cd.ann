@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	Obs
+T2	Abbreviation 78 81	Enf
+T3	Abbreviation 137 140	HTA
+T4	Disease 4 14	Miomatosis
+T6	Disease 47 77	Insuficiencia Cardiaca Aortica
+T7	Disease 78 93	Enf. Reumatoide
+T8	Disease 94 115	Valvulopatía cardiaca
+T9	Disease 116 136	Diabetes Mellitus II
+T10	Disease 137 140	HTA
+T11	Medication 26 46	Progestágenos Orales

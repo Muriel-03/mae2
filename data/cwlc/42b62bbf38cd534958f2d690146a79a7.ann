@@ -1,0 +1,6 @@
+T1	Abbreviation 102 105	adm
+T2	Sign_or_Symptom 0 23	mordida cruzada derecha
+T3	Sign_or_Symptom 25 48	interferencia oclusales
+T4	Sign_or_Symptom 51 75	mordida abierta anterior
+T5	Sign_or_Symptom 79 100	interposicion lingual
+T6	Disease 102 105	adm

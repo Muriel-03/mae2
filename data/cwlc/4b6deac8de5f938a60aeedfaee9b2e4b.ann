@@ -1,0 +1,10 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 44 47	sup
+T3	Abbreviation 57 60	inf
+T4	Abbreviation 125 128	sup
+T5	Abbreviation 131 134	inf
+T6	Body_Part 73 80	grupo v
+T7	Disease 27 60	desdentado total sup, parcial inf
+T9	Therapeutic_Procedure 106 134	protesis removible sup e inf
+T8	Clinical_Finding 62 80	remanencia grupo v
+A1	Pending T9

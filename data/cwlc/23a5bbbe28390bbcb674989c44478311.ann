@@ -1,0 +1,6 @@
+T1	Abbreviation 5 8	CFI
+T2	Abbreviation 10 13	INS
+T4	Disease 10 30	INS MITRAL REUMATICA
+T5	Sign_or_Symptom 32 50	DISNEA DE ESFUERZO
+T6	Therapeutic_Procedure 94 115	INTERVENCION INVASORA
+A1	Pending T6

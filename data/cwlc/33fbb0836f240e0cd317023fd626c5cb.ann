@@ -1,0 +1,6 @@
+T1	Disease 2 66	COMPLICACIÓN MECÁNICA DE DISPOSITIVO ANTICONCEPTIVO INTRAUTERINO
+T2	Abbreviation 90 93	APS
+T3	Therapeutic_Procedure 104 121	extracción de DIU
+A1	Pending T3
+T4	Abbreviation 118 121	DIU
+T5	Disease 153 217	Complicacion mecanica de dispositivo anticonceptivo intrauterino

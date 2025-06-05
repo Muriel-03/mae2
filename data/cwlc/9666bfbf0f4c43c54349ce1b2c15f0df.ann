@@ -1,0 +1,5 @@
+T1	Diagnostic_Procedure 76 95	ecotomografia renal
+T2	Disease 0 36	nefropatia hereditaria en otra parte
+T3	Disease 37 59	incontinencia urinaria
+T4	Laboratory_or_Test_Result 98 148	nefropatia leve cortical cortico medular izquierda
+R1	Has Arg1:T1 Arg2:T4	

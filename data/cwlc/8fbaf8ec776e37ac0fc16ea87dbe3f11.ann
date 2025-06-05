@@ -1,0 +1,5 @@
+T1	Body_Part 38 50	nivel lumbar
+T2	Disease 0 10	DERMATOSIS
+T3	Sign_or_Symptom 25 66	calcinosis a nivel lumbar muy sintomatica
+T4	Therapeutic_Procedure 88 96	exeresis
+A1	Pending T4

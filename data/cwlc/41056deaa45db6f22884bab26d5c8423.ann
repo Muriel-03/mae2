@@ -1,0 +1,5 @@
+T1	Abbreviation 120 123	sup
+T2	Abbreviation 126 129	inf
+T3	Disease 29 65	desdentada total superior e inferior
+T4	Therapeutic_Procedure 103 129	prótesis totales sup e inf
+A1	Pending T4

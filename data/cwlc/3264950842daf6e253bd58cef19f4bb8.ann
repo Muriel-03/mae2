@@ -1,0 +1,16 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 201 204	ANT
+T3	Abbreviation 218 220	CA
+T4	Abbreviation 270 273	EDA
+T5	Diagnostic_Procedure 270 273	EDA
+T6	Disease 2 42	ULCERA PÉPTICA, DE SITIO NO ESPECIFICADO
+T8	Clinical_Finding 201 220	ANT FAMIALRES DE CA
+T9	Medication 127 136	OMEPRAZOL
+T10	Sign_or_Symptom 80 104	EPIGASTRALGIA LARGA DATA
+T11	Sign_or_Symptom 153 177	DESPIERTA POR LAS NOCHES
+T12	Sign_or_Symptom 183 195	BAJA DE PESO
+A1	Negated T12
+T7	Disease 218 220	CA
+A2	Negated T8
+A3	Negated T7
+A4	Pending T5

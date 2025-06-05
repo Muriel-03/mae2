@@ -1,0 +1,17 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 125 128	der
+T3	Abbreviation 131 134	izq
+T4	Abbreviation 147 150	inf
+T5	Abbreviation 165 168	der
+T6	Abbreviation 190 193	sup
+T7	Abbreviation 201 205	post
+T8	Abbreviation 209 212	inf
+T9	Abbreviation 213 216	izq
+T10	Body_Part 183 193	canino sup
+T11	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T12	Sign_or_Symptom 88 108	maloclusión dentaria
+T13	Disease 218 266	Anomalias dentofaciales (incluso la maloclusion)
+T14	Sign_or_Symptom 111 134	clase molar 1 der e izq
+T15	Sign_or_Symptom 135 168	linea media inf desviada a la der
+T16	Sign_or_Symptom 169 193	falta espacio canino sup
+T18	Laboratory_or_Test_Result 194 216	ataque post  e inf izq

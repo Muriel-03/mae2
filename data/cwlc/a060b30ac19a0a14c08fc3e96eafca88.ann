@@ -1,0 +1,9 @@
+T1	Abbreviation 97 100	CIA
+T2	Abbreviation 117 120	TTO
+T3	Abbreviation 124 128	TACO
+T4	Body_Part 40 52	PIEZAS 8 Y 9
+T5	Disease 97 100	CIA
+T6	Therapeutic_Procedure 117 128	TTO DE TACO
+T7	Sign_or_Symptom 18 52	MORLIDAD GRADO III DE PIEZAS 8 Y 9
+T8	Sign_or_Symptom 53 80	GRAN ACIMILACION DE TARTARO
+T9	Clinical_Finding 86 100	OPERADO DE CIA

@@ -1,0 +1,9 @@
+T1	Body_Part 0 8	diente 7
+T2	Body_Part 10 16	diente
+T3	Laboratory_or_Test_Result 10 46	diente con relleno radicular parcial
+T4	Disease 49 79	periodontitis cronica moderada
+T5	Disease 142 148	caries
+T6	Clinical_Finding 79 108	no se presenta sintomatologia
+T7	Therapeutic_Procedure 121 198	eliminacion total de caries, se deja motita en entrada de conducto y ionomero
+T8	Clinical_Finding 190 198	ionomero
+T9	Body_Part 179 187	conducto

@@ -1,0 +1,12 @@
+T2	Abbreviation 30 33	APS
+T3	Abbreviation 379 385	cesfam
+T4	Abbreviation 387 391	atte
+T5	Body_Part 150 154	cara
+T6	Body_Part 156 161	torax
+T7	Body_Part 164 169	dorso
+T8	Disease 2 6	ACNE
+T9	Disease 393 397	Acne
+T11	Sign_or_Symptom 118 169	acne de extension importante en cara, torax y dorso
+T12	Sign_or_Symptom 190 219	comedones abiertos y cerrados
+T1	Clinical_Finding 55 80	sin antecedentes morbidos
+T10	Sign_or_Symptom 233 257	papulo-pustulas pequeñas

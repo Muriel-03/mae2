@@ -1,0 +1,14 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 102 105	HTA
+T3	Abbreviation 107 109	DM
+T4	Body_Part 44 52	ESTÓMAGO
+T5	Body_Part 269 277	estomago
+T6	Disease 35 52	TUMOR DE ESTÓMAGO
+T7	Disease 102 105	HTA
+T8	Disease 107 109	DM
+T9	Disease 111 121	CARDIOPATA
+T10	Disease 260 277	tumor de estomago
+T11	Sign_or_Symptom 146 166	DISTENCION ABDOMINAL
+T12	Sign_or_Symptom 168 175	DIARREA
+T13	Sign_or_Symptom 177 189	BAJA DE PESO
+T14	Sign_or_Symptom 192 207	SACIEDAD PRECOZ

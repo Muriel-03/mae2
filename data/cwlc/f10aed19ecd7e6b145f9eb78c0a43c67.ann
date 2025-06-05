@@ -1,0 +1,15 @@
+T1	Abbreviation 92 95	APS
+T2	Abbreviation 228 233	aprox
+T4	Body_Part 30 34	PIEL
+T5	Body_Part 40 68	TEJIDO SUBCUTÁNEO DEL TRONCO
+T6	Body_Part 154 165	hipocondrio
+T7	Body_Part 168 184	flanco izquierdo
+T8	Body_Part 362 366	piel
+T9	Body_Part 372 400	tejido subcutaneo del tronco
+T10	Disease 2 68	TUMOR BENIGNO LIPOMATOSO DE PIEL Y DE TEJIDO SUBCUTÁNEO DEL TRONCO
+T11	Disease 334 400	Tumor benigno lipomatoso de piel y de tejido subcutaneo del tronco
+T12	Sign_or_Symptom 124 142	aumento de volumen
+T13	Sign_or_Symptom 145 184	dolor en hipocondrio y flanco izquierdo
+T14	Sign_or_Symptom 220 332	masa de aprox. 10cm, de superficie lisa, contextura blanda, adherido a planos profundos, doloroso a la palpación
+T15	Abbreviation 200 202	Ex
+T16	Abbreviation 237 239	cm

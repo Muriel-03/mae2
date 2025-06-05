@@ -1,0 +1,19 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 139 142	EVA
+T3	Abbreviation 224 225	+
+T4	Abbreviation 317 320	bcg
+T5	Body_Part 73 91	hemicraneo derecho
+T6	Disease 2 9	CEFALEA
+T7	Disease 350 357	Cefalea
+T8	Clinical_Finding 317 320	bcg
+T9	Clinical_Finding 323 348	examen neurologico normal
+T10	Medication 212 223	paracetamol
+T11	Medication 226 236	ibuprofeno
+T13	Sign_or_Symptom 62 91	cefalea en hemicraneo derecho
+T14	Sign_or_Symptom 98 105	vomitos
+T15	Sign_or_Symptom 111 120	sonofobia
+T16	Sign_or_Symptom 127 136	fotofobia
+T17	Sign_or_Symptom 162 198	dolor  la despierta durante la noche
+T18	Sign_or_Symptom 241 275	disminucion de intensidad de dolor
+T19	Sign_or_Symptom 290 297	cefalea
+A1	Negated T14

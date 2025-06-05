@@ -1,0 +1,7 @@
+T1	Abbreviation 114 119	I.O.I
+T2	Body_Part 24 32	PIEZA 12
+T3	Clinical_Finding 9 22	DENTADA TOTAL
+T4	Therapeutic_Procedure 114 119	I.O.I
+T7	Therapeutic_Procedure 125 147	PROTESIS FIJA UNITARIA
+A1	Pending T4
+A2	Pending T7

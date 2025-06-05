@@ -1,0 +1,7 @@
+T1	Abbreviation 56 59	TAB
+T2	Disease 0 4	G473
+T3	Disease 5 20	APNEA DEL SUEÑO
+T4	Disease 56 59	TAB
+T5	Sign_or_Symptom 91 100	RONQUIDOS
+T6	Sign_or_Symptom 144 150	APNEAS
+A1	Negated T6

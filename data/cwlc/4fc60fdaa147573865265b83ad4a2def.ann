@@ -1,0 +1,13 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 16 20	cont
+T3	Abbreviation 21 24	sup
+T4	Abbreviation 27 30	inf
+T5	Abbreviation 53 56	cot
+T6	Abbreviation 57 60	sup
+T7	Abbreviation 61 64	inf
+T8	Abbreviation 123 125	am
+T9	Abbreviation 126 129	izq
+T10	Disease 5 30	desdentada cont sup e inf
+T11	Sign_or_Symptom 44 82	protesis cot sup inf en regular estado
+T12	Sign_or_Symptom 83 129	problemas articulares principalmente en am izq
+T13	Body_Part 123 129	am izq

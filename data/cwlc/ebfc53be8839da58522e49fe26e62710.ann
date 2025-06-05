@@ -1,0 +1,33 @@
+T1	Abbreviation 48 51	APS
+T2	Abbreviation 66 69	ant
+T3	Abbreviation 179 181	ep
+T4	Abbreviation 203 205	ep
+T5	Abbreviation 252 255	CCF
+T6	Abbreviation 421 425	FBCI
+T7	Abbreviation 460 462	EF
+T8	Abbreviation 464 466	MP
+T9	Abbreviation 466 467	+
+T10	Abbreviation 468 471	sRa
+T11	Abbreviation 472 476	RR2T
+T12	Body_Part 19 24	AORTA
+T13	Body_Part 534 550	foco tricuspideo
+T14	Body_Part 553 569	carotida derecha
+T15	Body_Part 637 642	aorta
+T16	Disease 2 24	COARTACIÓN DE LA AORTA
+T17	Disease 73 91	coartacion aortica
+T18	Disease 179 191	ep depresivo
+T19	Disease 620 642	Coartacion de la aorta
+T20	Sign_or_Symptom 233 251	disnea de esfuerzo
+T21	Sign_or_Symptom 264 272	ortopnea
+T22	Sign_or_Symptom 281 309	angor en relacion a esfuerzo
+T23	Sign_or_Symptom 326 359	disminucion memoria a corto plazo
+T24	Sign_or_Symptom 361 381	cefalea intermitente
+T25	Sign_or_Symptom 386 397	hemiparesia
+T26	Sign_or_Symptom 409 425	parestesias FBCI
+T27	Sign_or_Symptom 450 457	cefalea
+T30	Sign_or_Symptom 477 569	soplo mesosistolico predominio aortico 2-3/6 irradiado a foco tricuspideo y carotida derecha
+T31	Sign_or_Symptom 203 215	ep anginosos
+T32	Abbreviation 222 223	m
+A1	Negated T21
+T28	Clinical_Finding 464 471	MP+ sRa
+T29	Clinical_Finding 472 476	RR2T

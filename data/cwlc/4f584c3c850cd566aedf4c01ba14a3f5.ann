@@ -1,0 +1,8 @@
+T1	Abbreviation 0 2	HT
+T2	Abbreviation 3 4	+
+T3	Body_Part 106 117	VIA VAGINAL
+T4	Disease 26 48	FISTULA VESICA UTERINO
+T5	Disease 51 68	DIABETES MELLITUS
+T6	Sign_or_Symptom 73 117	ESCAPE DE ORINA SIN ESFUERZO POR VIA VAGINAL
+T7	Therapeutic_Procedure 5 16	ANEXECTOMIA
+T8	Therapeutic_Procedure 0 2	HT

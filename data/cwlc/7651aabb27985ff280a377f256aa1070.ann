@@ -1,0 +1,18 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 111 114	EDA
+T3	Body_Part 224 232	garganta
+T4	Diagnostic_Procedure 111 114	EDA
+T5	Disease 2 14	CONSTIPACIÓN
+T6	Disease 18 38	ENFERMEDAD DE CHAGAS
+T7	Disease 42 50	DISFAGIA
+T8	Disease 336 356	constipación crónica
+T9	Sign_or_Symptom 376 396	picadura de vinchuca
+T10	Disease 445 457	Constipacion
+T11	Sign_or_Symptom 42 50	DISFAGIA
+T12	Sign_or_Symptom 187 195	disfagia
+T13	Sign_or_Symptom 198 232	sensación de estrechés de garganta
+T14	Sign_or_Symptom 2 14	CONSTIPACIÓN
+T15	Sign_or_Symptom 336 356	constipación crónica
+T16	Diagnostic_Procedure 426 443	estudio de Chagas
+A1	Pending T16
+T17	Sign_or_Symptom 445 457	Constipacion

@@ -1,0 +1,8 @@
+T1	Abbreviation 65 68	APS
+T2	Body_Part 114 118	boca
+T3	Body_Part 142 160	molares superiores
+T4	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T5	Disease 191 230	Gingivitis y enfermedades periodontales
+T6	Sign_or_Symptom 88 127	tartaro supra gingival en boca completa
+T7	Sign_or_Symptom 129 168	movilidad de molares superiores grado I
+T8	Sign_or_Symptom 170 190	dolor a la percusion

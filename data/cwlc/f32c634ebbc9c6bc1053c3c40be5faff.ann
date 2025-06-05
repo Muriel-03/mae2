@@ -1,0 +1,59 @@
+T1	Abbreviation 96 99	APS
+T2	Abbreviation 143 145	OH
+T4	Abbreviation 472 475	hdl
+T5	Abbreviation 484 488	vldl
+T6	Abbreviation 496 499	ldl
+T7	Abbreviation 622 625	got
+T8	Abbreviation 634 637	gpt
+T9	Abbreviation 646 649	ggt
+T10	Abbreviation 711 716	hba1c
+T11	Abbreviation 787 792	hba1c
+T12	Abbreviation 832 835	hdl
+T13	Abbreviation 843 847	vldl
+T14	Abbreviation 857 860	ldl
+T15	Abbreviation 993 996	ggt
+T16	Body_Part 30 36	HÍGADO
+T17	Body_Part 1284 1290	higado
+T18	Diagnostic_Procedure 232 256	ecotomografia  abdominal
+T19	Disease 2 53	ENFERMEDAD INFLAMATORIA DEL HÍGADO, NO ESPECIFICADA
+T20	Disease 132 140	diabetes
+T21	Disease 1256 1307	Enfermedad inflamatoria del higado, no especificada
+T23	Laboratory_Procedure 446 463	colesterol  total
+T24	Laboratory_Procedure 472 475	hdl
+T25	Laboratory_Procedure 484 488	vldl
+T26	Laboratory_Procedure 496 499	ldl
+T27	Laboratory_Procedure 509 522	trigliceridos
+T28	Laboratory_Procedure 531 547	biliubina  total
+T29	Laboratory_Procedure 558 567	indirecta
+T30	Laboratory_Procedure 597 614	fosfatasa calaina
+T31	Laboratory_Procedure 622 625	got
+T32	Laboratory_Procedure 634 637	gpt
+T33	Laboratory_Procedure 646 649	ggt
+T34	Laboratory_Procedure 657 678	creatinina plasmatica
+T35	Laboratory_Procedure 687 701	glicemia basal
+T36	Laboratory_Procedure 711 716	hba1c
+T37	Laboratory_Procedure 722 728	uremia
+T38	Laboratory_Procedure 737 748	hematocrito
+T40	Laboratory_Procedure 787 792	hba1c
+T41	Laboratory_Procedure 803 821	colesteriol  total
+T42	Laboratory_Procedure 832 835	hdl
+T43	Laboratory_Procedure 843 847	vldl
+T44	Laboratory_Procedure 857 860	ldl
+T45	Laboratory_Procedure 871 884	trigliceridos
+T46	Laboratory_Procedure 894 913	bilirubina    total
+T47	Laboratory_Procedure 925 934	indirecta
+T48	Laboratory_Procedure 946 953	directa
+T49	Laboratory_Procedure 966 984	fosfatasa  acalina
+T50	Laboratory_Procedure 993 996	ggt
+T51	Laboratory_Procedure 1007 1012	sodio
+T52	Laboratory_Procedure 1023 1030	potasio
+T53	Laboratory_Procedure 1041 1046	cloro
+T54	Laboratory_Procedure 1056 1080	creatinina    plasmatica
+T59	Disease 53 72	hepatopatia  cronia
+T3	Laboratory_or_Test_Result 387 421	incipiente    hepatopatia  cronica
+R1	Has Arg1:T18 Arg2:T3	
+T60	Laboratory_Procedure 578 585	directa
+T39	Diagnostic_Procedure 309 321	cotomografia
+T22	Clinical_Finding 1108 1161	adomen depresible   no refiere dolor  a la plpaciones
+T55	Clinical_Finding 1163 1181	no masa   palpable
+T56	Clinical_Finding 1184 1254	puolmones murmullo  audible    sin roncus   sin otro  ruidos agregados

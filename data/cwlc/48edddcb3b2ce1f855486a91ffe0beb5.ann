@@ -1,0 +1,8 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 14 28	PIEZA TEMPORAL
+T3	Body_Part 272 279	dientes
+T4	Disease 2 28	PERMANENCIA PIEZA TEMPORAL
+T5	Disease 222 279	Trastornos del desarrollo y de la erupcion de los dientes
+T7	Sign_or_Symptom 57 107	Dolor articular en apertura y función masticatoria
+T8	Sign_or_Symptom 109 143	Ruido articular en ambas, arenilla
+T9	Sign_or_Symptom 156 164	cefaleas

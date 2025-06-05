@@ -1,0 +1,10 @@
+T1	Abbreviation 124 128	rest
+T2	Abbreviation 132 135	V.I
+T3	Body_Part 0 10	diente 3.3
+T4	Body_Part 37 53	nivel mandibular
+T5	Disease 19 27	bruxismo
+T6	Sign_or_Symptom 11 16	dolor
+T7	Sign_or_Symptom 58 114	fasetas de desgaste severo a limite de exposicion pulpar
+T8	Sign_or_Symptom 210 215	dolor
+T9	Therapeutic_Procedure 124 150	rest de V.I con base dycal
+T10	Medication 145 150	dycal

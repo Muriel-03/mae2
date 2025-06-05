@@ -1,0 +1,11 @@
+T1	Abbreviation 42 45	APS
+T2	Body_Part 312 319	caderas
+T3	Disease 2 18	OTRAS DERMATITIS
+T4	Disease 300 319	artrosis de caderas
+T5	Sign_or_Symptom 92 128	lesion dermica dorsal lado izquierdo
+T6	Sign_or_Symptom 129 166	opacidad leve tipo mancha no sensible
+T7	Sign_or_Symptom 186 201	comezon picazon
+T8	Sign_or_Symptom 205 212	eritema
+A1	Negated T8
+T9	Sign_or_Symptom 216 223	volumen
+A2	Negated T9

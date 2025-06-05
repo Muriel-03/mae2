@@ -1,0 +1,14 @@
+T1	Abbreviation 66 69	ABD
+T3	Abbreviation 118 121	JBE
+T4	Abbreviation 124 127	OBS
+T5	Body_Part 66 69	ABD
+T8	Disease 128 145	GASTRITIS CRONICA
+T9	Medication 101 110	OMEPRAZOL
+T10	Medication 113 117	ALOH
+T11	Sign_or_Symptom 30 38	PIROSIIS
+T12	Sign_or_Symptom 40 54	EPIGASTRALGIAS
+T13	Sign_or_Symptom 71 94	VOMITOS POST PRANDIALES
+T6	Sign_or_Symptom 55 65	DISTENSION
+T2	Diagnostic_Procedure 171 190	ENDOSOCPIA GASTRICA
+A1	Pending T2
+T7	Abbreviation 113 117	ALOH

@@ -1,0 +1,12 @@
+T1	Abbreviation 11 14	diu
+T2	Abbreviation 15 20	antec
+T3	Abbreviation 25 27	tu
+T4	Abbreviation 72 76	antc
+T5	Abbreviation 81 84	tcu
+T6	Abbreviation 104 106	ct
+T7	Body_Part 37 48	mama deecha
+T9	Disease 51 71	fibroadenoma derecho
+T10	Clinical_Finding 0 2	m1
+T12	Laboratory_or_Test_Result 51 71	fibroadenoma derecho
+T13	Therapeutic_Procedure 11 14	diu
+T8	Disease 25 48	tu complejo mama deecha

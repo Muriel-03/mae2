@@ -1,0 +1,19 @@
+T1	Abbreviation 42 45	PZA
+T2	Abbreviation 112 115	PZA
+T3	Abbreviation 144 147	PZA
+T4	Body_Part 19 27	PAZA 3.7
+T5	Body_Part 42 49	PZA 1.6
+T6	Body_Part 112 119	PZA 2.6
+T7	Body_Part 144 152	PZA. 3.6
+T8	Disease 62 68	CARIES
+T11	Laboratory_or_Test_Result 19 40	PAZA 3.7 SEMIINCLUIDA
+T14	Therapeutic_Procedure 9 18	EXODONCIA
+T15	Therapeutic_Procedure 88 110	REHABILITACION DIRECTA
+T16	Therapeutic_Procedure 120 143	REHABILIATACION DIRECTA
+T17	Therapeutic_Procedure 153 175	REHABILITACION DIRECTA
+A1	Pending T14
+T18	Abbreviation 19 23	PAZA
+T19	Sign_or_Symptom 42 110	PZA 1.6 CON EXTENSA CARIES SIN POSIBILIDAD DE REHABILITACION DIRECTA
+A2	Negated T15
+A3	Pending T16
+A4	Pending T17

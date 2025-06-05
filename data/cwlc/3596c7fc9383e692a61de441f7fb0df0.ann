@@ -1,0 +1,11 @@
+T1	Abbreviation 18 21	HTA
+T2	Abbreviation 23 27	EPOC
+T3	Abbreviation 29 32	ERC
+T4	Abbreviation 34 36	CA
+T5	Body_Part 37 46	PROSTATA.
+T6	Disease 18 21	HTA
+T7	Disease 23 27	EPOC
+T8	Disease 29 32	ERC
+T9	Disease 47 91	DESDENTADO PARCIAL SUPERIOR Y TOTAL INFERIOR
+T10	Clinical_Finding 93 105	ADULTO MAYOR
+T12	Disease 34 45	CA PROSTATA

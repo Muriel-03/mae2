@@ -1,0 +1,12 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Body_Part 54 63	ADENOIDES
+T3	Body_Part 151 155	boca
+T4	Disease 2 63	HIPERTROFIA DE LAS AMÍGDALAS CON HIPERTROFIA DE LAS ADENOIDES
+T5	Disease 113 124	amigdalitis
+T6	Family_Member 70 75	Madre
+T7	Family_Member 88 92	hijo
+T8	Sign_or_Symptom 130 138	roncador
+T9	Sign_or_Symptom 140 163	duerme con boca abierta
+T10	Sign_or_Symptom 174 192	sialorrea nocturna
+T12	Sign_or_Symptom 102 124	constantes amigdalitis
+T13	Sign_or_Symptom 221 267	hipwertrofia e hiperemia amigdaliana grado 3-4

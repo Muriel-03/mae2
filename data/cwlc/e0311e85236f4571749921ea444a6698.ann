@@ -1,0 +1,7 @@
+T1	Body_Part 71 83	diente 8 y 9
+T2	Body_Part 91 100	diente 10
+T3	Body_Part 138 154	diente 8, 9 y 10
+T4	Disease 15 40	traumatismo dentoalveolar
+T5	Sign_or_Symptom 45 100	pérdida coronaria parcial diente 8 y 9. Total diente 10
+T6	Therapeutic_Procedure 123 137	biopulpectomia
+A1	Pending T6

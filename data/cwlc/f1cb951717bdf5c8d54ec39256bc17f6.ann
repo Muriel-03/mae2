@@ -1,0 +1,14 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 251 254	Eco
+T3	Body_Part 109 128	miembros inferiores
+T4	Body_Part 297 316	miembros inferiores
+T5	Body_Part 363 385	Safena larga Izquierda
+T6	Body_Part 420 453	safena larga  en pierna izquierda
+T8	Diagnostic_Procedure 251 316	Eco doopler vascular periferico  bilateral de miembros inferiores
+T9	Disease 2 25	VARICES EN OTROS SITIOS
+T10	Disease 510 533	Varices en otros sitios
+T11	Laboratory_or_Test_Result 337 385	Insuficiencia vascular en Safena larga Izquierda
+T12	Laboratory_or_Test_Result 389 464	Varicosidades de territorio de safena larga  en pierna izquierda permeables
+T13	Sign_or_Symptom 100 128	dolor en miembros inferiores
+R1	Has Arg1:T8 Arg2:T11	
+R2	Has Arg1:T8 Arg2:T12	

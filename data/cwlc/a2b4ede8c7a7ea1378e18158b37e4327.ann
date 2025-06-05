@@ -1,0 +1,9 @@
+T1	Abbreviation 40 43	APS
+T3	Clinical_Finding 45 54	MULTIPARA
+T4	Therapeutic_Procedure 2 16	ESTERILIZACIÓN
+T7	Therapeutic_Procedure 106 120	ESTERILIZACIÓN
+T8	Therapeutic_Procedure 122 136	Esterilizacion
+A1	Pending T4
+A2	Pending T7
+A3	Pending T8
+T2	Clinical_Finding 58 73	PARTOS NORMALES

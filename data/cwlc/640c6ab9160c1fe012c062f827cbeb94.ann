@@ -1,0 +1,7 @@
+T1	Abbreviation 53 57	P. D
+T2	Body_Part 9 37	LABIO INFERIOR, LADO DERECHO
+T3	Body_Part 53 73	P. D. 33. ( CANINO )
+T5	Disease 0 8	MUCOCELE
+T7	Disease 99 107	MUCOCELE
+T9	Therapeutic_Procedure 86 107	EXERESIS DEL MUCOCELE
+A1	Pending T9

@@ -1,0 +1,8 @@
+T1	Abbreviation 47 50	APS
+T2	Disease 2 23	PERIODONTITIS CRÓNICA
+T3	Disease 70 88	desdentado parcial
+T4	Disease 90 125	periodontitis crónica generalizada.
+T5	Disease 227 248	Periodontitis cronica
+T6	Therapeutic_Procedure 153 178	destartraje supragingival
+T7	Therapeutic_Procedure 208 225	pulido radicular.
+A1	Pending T7

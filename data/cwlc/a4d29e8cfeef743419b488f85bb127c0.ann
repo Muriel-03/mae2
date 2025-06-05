@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 121 124	ATB
+T3	Abbreviation 171 174	TTO
+T4	Abbreviation 185 187	RX
+T5	Body_Part 0 5	PZA 9
+T6	Diagnostic_Procedure 185 198	RX PERIAPICAL
+T7	Disease 17 49	PULPITIS IRREVRSIBLE SINTOMATICA
+T8	Medication 121 124	ATB
+T9	Medication 129 144	ANTIFLAMATORIOS
+T10	Clinical_Finding 6 15	TREPANADA
+T11	Therapeutic_Procedure 88 112	RECONSTRUCCION CORONARIA
+T12	Therapeutic_Procedure 113 124	TERAPIA ATB

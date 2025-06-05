@@ -1,0 +1,9 @@
+T1	Abbreviation 90 93	APS
+T2	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T3	Disease 33 41	TINNITUS
+T4	Disease 45 66	ENFERMEDAD DE MÉNIÈRE
+T5	Clinical_Finding 113 138	sin antecedentes mórbidos
+T6	Sign_or_Symptom 166 214	pérdida importante de agudeza auditiva a derecha
+T7	Sign_or_Symptom 235 243	tinnitus
+T8	Sign_or_Symptom 245 251	mareos
+T9	Abbreviation 216 221	aprox

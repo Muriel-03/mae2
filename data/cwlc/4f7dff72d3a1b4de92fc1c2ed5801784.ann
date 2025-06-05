@@ -1,0 +1,13 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 78 81	4.8
+T3	Body_Part 134 137	3.8
+T4	Body_Part 168 175	molares
+T5	Body_Part 193 202	1.8 - 2.8
+T6	Disease 2 17	PERICORONARITIS
+T7	Disease 59 74	pericoronaritis
+T8	Disease 219 234	Pericoronaritis
+T10	Therapeutic_Procedure 148 158	extraccion
+T11	Therapeutic_Procedure 208 218	extracción
+T9	Clinical_Finding 104 119	semierupcionada
+A1	Pending T10
+A2	Pending T11

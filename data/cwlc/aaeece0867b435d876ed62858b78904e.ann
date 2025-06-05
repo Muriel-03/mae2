@@ -1,0 +1,22 @@
+T1	Abbreviation 3 6	CCA
+T2	Abbreviation 7 10	ENB
+T3	Abbreviation 16 19	SEM
+T4	Abbreviation 20 22	OB
+T5	Abbreviation 31 34	CIV
+T6	Abbreviation 41 44	ECO
+T7	Abbreviation 65 68	CIV
+T8	Abbreviation 69 72	ECO
+T9	Abbreviation 110 113	CIV
+T10	Diagnostic_Procedure 41 44	ECO
+T11	Diagnostic_Procedure 69 84	ECO CARDIOGRAMA
+T12	Disease 31 40	CIV FETAL
+T13	Clinical_Finding 0 2	M1
+T14	Clinical_Finding 7 10	ENB
+T15	Laboratory_or_Test_Result 93 113	FETO PORTADOR DE CIV
+T16	Therapeutic_Procedure 3 6	CCA
+T17	Abbreviation 0 1	M
+T18	Laboratory_or_Test_Result 56 68	PROBABLE CIV
+R1	Has Arg1:T10 Arg2:T18	
+R2	Has Arg1:T11 Arg2:T15	
+T19	Disease 110 113	CIV
+T20	Disease 65 68	CIV

@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	pieza 2.1
+T2	Diagnostic_Procedure 56 75	examen radiografico
+T3	Disease 10 25	necrosis pulpar
+T4	Laboratory_or_Test_Result 76 108	granuloma apical y pararadicular
+T5	Clinical_Finding 27 36	trepanada
+R1	Has Arg1:T2 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Body_Part 0 10	diente 2.4
+T2	Therapeutic_Procedure 166 179	retratamiento
+T3	Clinical_Finding 11 35	tratada endodónticamente
+T4	Sign_or_Symptom 45 143	sellado infiltrado clínicamente se observa gutapercha blanda y mal olor a la desobturación parcial
+A1	Pending T2

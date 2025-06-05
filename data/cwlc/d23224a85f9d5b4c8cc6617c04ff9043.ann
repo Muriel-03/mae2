@@ -1,0 +1,15 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 6 9	CCA
+T3	Abbreviation 45 48	ECO
+T4	Abbreviation 49 53	GINE
+T5	Abbreviation 67 72	ANTEC
+T6	Abbreviation 73 75	CA
+T7	Family_Member 84 88	MAMA
+T8	Diagnostic_Procedure 45 53	ECO GINE
+T9	Disease 26 44	MIOMATOSIS UTERINA
+T10	Disease 73 83	CA OVARICO
+T11	Disease 89 102	ALGIA PELVICA
+T12	Clinical_Finding 0 3	M 1
+T13	Sign_or_Symptom 12 23	CLIMATERICA
+T14	Clinical_Finding 6 9	CCA
+R1	Has Arg1:T7 Arg2:T10	

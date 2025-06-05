@@ -1,0 +1,11 @@
+T1	Body_Part 0 10	ENDOMETRIO
+T2	Body_Part 53 58	útero
+T3	Body_Part 87 91	MAMA
+T4	Body_Part 114 118	mama
+T5	Disease 0 20	ENDOMETRIO ENGROSADO
+T6	Disease 23 75	Trastorno no inflamatorio del útero, no especificado
+T7	Disease 77 91	CANCER DE MAMA
+T8	Disease 94 141	Tumor maligno de la mama, parte no especificada
+T9	Laboratory_or_Test_Result 77 91	CANCER DE MAMA
+T10	Laboratory_or_Test_Result 94 118	Tumor maligno de la mama
+T11	Laboratory_or_Test_Result 0 20	ENDOMETRIO ENGROSADO

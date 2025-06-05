@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 25 65	desdentada parcial maxilar y mandibular.
+T3	Clinical_Finding 8 23	alta operatoria
+T4	Sign_or_Symptom 70 130	protesis maxilar en mal estado (faltan piezas y retenedores)
+T6	Therapeutic_Procedure 144 192	rehabilitación con protesis maxilar y mandibular
+A1	Pending T6

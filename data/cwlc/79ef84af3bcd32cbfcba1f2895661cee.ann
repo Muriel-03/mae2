@@ -1,0 +1,5 @@
+T1	Body_Part 40 49	denticion
+T2	Clinical_Finding 40 62	denticion mixta 2 fase
+T3	Sign_or_Symptom 63 78	clase III molar
+T4	Sign_or_Symptom 80 96	poliobturaciones
+T5	Sign_or_Symptom 97 115	progenia verdadera

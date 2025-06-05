@@ -1,0 +1,14 @@
+T1	Abbreviation 4 7	CCA
+T2	Abbreviation 9 12	EMB
+T3	Abbreviation 16 19	SEM
+T4	Abbreviation 20 23	FUR
+T5	Abbreviation 36 38	AU
+T6	Abbreviation 45 48	LCF
+T7	Clinical_Finding 0 2	M1
+T8	Clinical_Finding 9 12	EMB
+T9	Therapeutic_Procedure 4 7	CCA
+T10	Abbreviation 0 1	M
+T11	Abbreviation 42 44	CM
+T12	Abbreviation 53 54	X
+T13	Clinical_Finding 69 85	CESAREO ANTERIOR
+T14	Sign_or_Symptom 90 113	DILATACION ESTACIONARIA

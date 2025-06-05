@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	diente 13
+T2	Disease 10 27	caries penetrante
+T3	Laboratory_or_Test_Result 0 27	diente 13 caries penetrante
+T4	Therapeutic_Procedure 63 74	trepanacion
+T5	Therapeutic_Procedure 125 135	endodoncia
+A1	Pending T5
+T6	Clinical_Finding 84 97	doble sellado

@@ -1,0 +1,7 @@
+T1	Clinical_Finding 0 2	M3
+T2	Abbreviation 52 55	FUP
+T3	Medication 14 17	ACO
+T4	Therapeutic_Procedure 29 49	ESTELIZACION TUBARIA
+T5	Abbreviation 0 1	M
+A1	Pending T4
+T6	Abbreviation 14 17	ACO

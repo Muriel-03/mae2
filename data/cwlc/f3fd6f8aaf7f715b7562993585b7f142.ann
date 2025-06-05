@@ -1,0 +1,11 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 145 152	arcadas
+T3	Body_Part 296 303	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 120 138	Desdentada parcial
+T6	Disease 258 334	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Sign_or_Symptom 82 119	protesis parcial superior desajustada
+T9	Sign_or_Symptom 156 190	Clase II de Kennedy sub 2 superior
+T10	Sign_or_Symptom 193 220	Clase I de Kennedy inferior
+T11	Therapeutic_Procedure 239 256	juego de protesis
+A1	Pending T11

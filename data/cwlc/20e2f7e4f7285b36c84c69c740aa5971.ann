@@ -1,0 +1,13 @@
+T1	Abbreviation 0 3	MTT
+T2	Abbreviation 13 15	CA
+T3	Abbreviation 40 42	RT
+T4	Abbreviation 131 133	RT
+T5	Body_Part 19 27	PROSTATA
+T6	Disease 13 27	CA DE PROSTATA
+T7	Therapeutic_Procedure 40 52	RT PALIATIVA
+T8	Therapeutic_Procedure 93 118	CIRUGIA DE ESTABILIZACION
+T9	Therapeutic_Procedure 131 133	RT
+T10	Disease 0 9	MTT OSEAS
+A1	Pending T7
+A2	Pending T8
+A3	Pending T9

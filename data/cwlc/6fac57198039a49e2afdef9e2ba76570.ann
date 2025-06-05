@@ -1,0 +1,9 @@
+T1	Body_Part 142 150	diente 3
+T2	Body_Part 172 185	grupos ll y v
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 142 164	diente 3.  Apiñamiento
+T5	Sign_or_Symptom 85 115	relación molar derecho ausente
+T7	Sign_or_Symptom 153 185	Apiñamiento severo grupos ll y v
+T8	Therapeutic_Procedure 120 129	exodoncia
+T9	Clinical_Finding 57 82	clase ll molar izquierdaa
+T6	Disease 153 164	Apiñamiento

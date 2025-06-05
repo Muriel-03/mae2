@@ -1,0 +1,13 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 59 62	Dte
+T3	Abbreviation 67 72	P.A.C
+T4	Abbreviation 98 101	PQM
+T5	Abbreviation 106 109	chx
+T6	Body_Part 59 66	Dte 2.3
+T7	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T8	Disease 136 164	Periodontitis apical cronica
+T9	Clinical_Finding 128 134	fermin
+T10	Medication 106 109	chx
+T11	Therapeutic_Procedure 85 96	trepanacion
+T12	Therapeutic_Procedure 98 109	PQM con chx
+T13	Disease 67 72	P.A.C

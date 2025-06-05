@@ -1,0 +1,7 @@
+T1	Abbreviation 60 61	H
+T2	Diagnostic_Procedure 135 160	ENDOSCOPIA DIGESTIVA ALTA
+T3	Disease 60 68	H PYLORI
+T4	Clinical_Finding 102 114	ASINTOMATICO
+T5	Disease 38 55	ULCERAS GASTRICAS
+T6	Laboratory_or_Test_Result 38 55	ULCERAS GASTRICAS
+T7	Laboratory_or_Test_Result 60 68	H PYLORI

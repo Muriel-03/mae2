@@ -1,0 +1,17 @@
+T1	Abbreviation 12 15	HTA
+T2	Abbreviation 39 42	PZA
+T3	Abbreviation 55 57	RX
+T4	Abbreviation 75 78	PZA
+T5	Abbreviation 122 125	PZA
+T6	Body_Part 39 50	PZA 16 Y 32
+T7	Body_Part 75 81	PZA 16
+T8	Body_Part 122 128	PZA 32
+T9	Diagnostic_Procedure 55 63	RX TOTAL
+T10	Disease 12 15	HTA
+T11	Disease 138 155	OSTERTIS APICALES
+T12	Laboratory_or_Test_Result 75 119	PZA 16 SEMI-INCLUIDA O BAJO EL PLANO OCLUSAL
+T13	Laboratory_or_Test_Result 122 155	PZA 32 PRESENTA OSTERTIS APICALES
+T14	Therapeutic_Procedure 29 38	EXODONCIA
+A1	Pending T14
+R1	Has Arg1:T9 Arg2:T12	
+R2	Has Arg1:T9 Arg2:T13	

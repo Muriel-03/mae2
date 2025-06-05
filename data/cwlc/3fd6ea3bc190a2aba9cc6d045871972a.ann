@@ -1,0 +1,13 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 301 305	ojos
+T3	Disease 2 50	EPISODIO DEPRESIVO GRAVE CON SÍNTOMAS PSICÓTICOS
+T4	Disease 108 117	Depresión
+T5	Disease 173 190	crisis  de pánico
+T6	Disease 345 358	esquizofrenia
+T7	Disease 402 450	Episodio depresivo grave con sintomas psicoticos
+T8	Sign_or_Symptom 211 217	llanto
+T9	Sign_or_Symptom 219 233	dolor torácico
+T10	Sign_or_Symptom 235 255	reacciones violentas
+T11	Sign_or_Symptom 258 280	alucinaciones visuales
+T12	Sign_or_Symptom 282 318	cambio de color en ojos intermitente
+A1	Implicit_Family_Background T6

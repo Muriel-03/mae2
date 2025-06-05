@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 84 93	pieza 1.2
+T4	Body_Part 98 101	4.2
+T5	Body_Part 132 138	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 103 138	Anomalias de la posicion del diente
+T9	Sign_or_Symptom 66 101	Mordida Invertida pieza 1.2 con 4.2

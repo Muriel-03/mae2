@@ -1,0 +1,42 @@
+T1	Abbreviation 84 87	APS
+T2	Abbreviation 137 139	dg
+T3	Abbreviation 309 312	tto
+T4	Abbreviation 348 353	B.E.G
+T5	Abbreviation 387 390	Hto
+T6	Abbreviation 394 397	vcm
+T7	Abbreviation 401 404	vhs
+T8	Abbreviation 754 756	AR
+T9	Body_Part 182 192	antebrazos
+T10	Disease 2 60	ARTRITIS REUMATOIDEA SEROPOSITIVA, SIN OTRA ESPECIFICACIÓN
+T11	Disease 102 135	artritis reumatoidea seropositiva
+T12	Disease 754 756	AR
+T13	Disease 766 824	Artritis reumatoidea seropositiva, sin otra especificacion
+T14	Laboratory_or_Test_Result 526 534	POSITIVO
+T15	Sign_or_Symptom 587 606	nodulos subcutaneos
+T18	Laboratory_Procedure 387 390	Hto
+T19	Laboratory_Procedure 401 404	vhs
+T20	Laboratory_Procedure 408 416	glicemia
+T21	Laboratory_Procedure 431 439	nitritos
+T23	Laboratory_Procedure 486 489	tgc
+T24	Laboratory_Procedure 505 523	factor reumatoideo
+T25	Medication 324 336	metrotrexato
+T26	Sign_or_Symptom 162 192	nodulos cutaneos en antebrazos
+T27	Sign_or_Symptom 608 630	sensibilidad articular
+T16	Abbreviation 336 338	ex
+T17	Clinical_Finding 348 353	B.E.G
+T29	Laboratory_Procedure 394 397	vcm
+T30	Abbreviation 420 422	FA
+T31	Laboratory_Procedure 420 422	FA
+T32	Laboratory_Procedure 448 458	leucocitos
+T33	Abbreviation 426 429	o.c
+T34	Laboratory_Procedure 426 429	o.c
+T22	Laboratory_or_Test_Result 440 448	positivo
+R1	Has Arg1:T21 Arg2:T22	
+T35	Abbreviation 469 472	cpo
+T36	Abbreviation 472 475	col
+T37	Laboratory_Procedure 472 481	col total
+T38	Abbreviation 486 489	tgc
+T39	Abbreviation 494 499	creat
+T40	Laboratory_Procedure 494 499	creat
+R2	Has Arg1:T24 Arg2:T14	
+T28	Clinical_Finding 632 681	sin otros signos inflamatorios ni de complicacion

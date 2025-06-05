@@ -1,0 +1,10 @@
+T1	Disease 2 29	PÓLIPO DEL CUELLO DEL ÚTERO
+T2	Body_Part 13 29	CUELLO DEL ÚTERO
+T3	Abbreviation 53 56	APS
+T4	Abbreviation 58 60	M2
+T5	Clinical_Finding 58 60	M2
+T6	Medication 72 80	IMPLANON
+T7	Abbreviation 82 85	OBS
+T8	Disease 86 101	POLIPO CERVICAL
+T9	Disease 103 130	Polipo del cuello del utero
+T10	Body_Part 114 130	cuello del utero

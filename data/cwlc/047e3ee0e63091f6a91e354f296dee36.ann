@@ -1,0 +1,19 @@
+T1	Abbreviation 0 2	AC
+T2	Abbreviation 3 4	X
+T3	Abbreviation 5 7	FA
+T4	Abbreviation 36 48	CHA2DS2-VASC
+T5	Abbreviation 63 66	ECG
+T6	Abbreviation 68 70	FA
+T7	Abbreviation 118 121	IZQ
+T8	Body_Part 148 160	RAMA DERECHA
+T9	Diagnostic_Procedure 63 66	ECG
+T10	Disease 5 7	FA
+T11	Disease 8 35	FIBRILACION AUROVENTRICULAR
+T12	Disease 68 70	FA
+T15	Laboratory_or_Test_Result 68 105	FA CON RESPUESTA VENTRICULAR ADECUADA
+T16	Laboratory_or_Test_Result 106 130	HEMIBLOQUEO IZQ ANTERIOR
+T17	Laboratory_or_Test_Result 131 160	BLOQUEO COMPLETO RAMA DERECHA
+T18	Medication 0 2	AC
+R1	Has Arg1:T9 Arg2:T15	
+R2	Has Arg1:T9 Arg2:T16	
+R3	Has Arg1:T9 Arg2:T17	

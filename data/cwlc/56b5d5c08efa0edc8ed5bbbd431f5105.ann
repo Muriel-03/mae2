@@ -1,0 +1,6 @@
+T1	Disease 0 23	DORSALGIA Y CERVICALGIA
+T2	Disease 39 47	ARTROSIS
+T3	Disease 63 89	Dorsalgia, no especificada
+T5	Sign_or_Symptom 0 9	DORSALGIA
+T6	Sign_or_Symptom 91 122	EPIGASTRALGIA LEVE - RECURRENTE
+T7	Sign_or_Symptom 125 169	Dolor abdominal localizado en parte superior

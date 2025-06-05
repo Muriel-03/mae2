@@ -1,0 +1,14 @@
+T1	Abbreviation 47 48	M
+T2	Abbreviation 50 52	PM
+T3	Abbreviation 61 64	sup
+T4	Body_Part 53 64	caninos sup
+T5	Body_Part 128 140	ps. 2.2 -3.2
+T7	Sign_or_Symptom 0 52	Mordida cruzada posterior bilateral a nivel de MY PM
+T8	Laboratory_or_Test_Result 53 78	caninos sup. en inclusion
+T9	Sign_or_Symptom 80 108	clase III de angle bilateral
+T11	Sign_or_Symptom 141 172	apiñamiento superior e inferior
+T12	Body_Part 47 48	M
+T13	Body_Part 50 52	PM
+T6	Sign_or_Symptom 109 140	bis a bis anterior ps. 2.2 -3.2
+T10	Disease 141 152	apiñamiento
+T14	Abbreviation 128 130	ps

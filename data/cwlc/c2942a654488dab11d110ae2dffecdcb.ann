@@ -1,0 +1,10 @@
+T1	Abbreviation 61 63	p.
+T2	Body_Part 18 27	dentición
+T3	Body_Part 61 67	p. 1.2
+T4	Body_Part 89 97	grupo II
+T6	Disease 74 85	apiñamiento
+T7	Clinical_Finding 18 38	dentición permanente
+T9	Sign_or_Symptom 40 67	Mordida invertida en p. 1.2
+T10	Sign_or_Symptom 69 97	leve apiñamiento en grupo II
+T11	Therapeutic_Procedure 120 145	tratamiento de ortodoncia
+A1	Pending T11

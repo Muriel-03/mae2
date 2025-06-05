@@ -1,0 +1,17 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 104 113	pieza 1.5
+T3	Body_Part 186 200	pulpa dentaria
+T4	Body_Part 244 249	pieza
+T5	Body_Part 307 317	paieza 1.5
+T6	Body_Part 390 399	pieza 1.5
+T7	Body_Part 414 421	dentina
+T8	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T9	Disease 401 421	Caries de la dentina
+T11	Clinical_Finding 66 92	sin antecdentes sistemicos
+T12	Laboratory_or_Test_Result 176 200	cercana a pulpa dentaria
+T13	Laboratory_or_Test_Result 205 249	leve zona radiolucida en relacion a la pieza
+T14	Sign_or_Symptom 276 317	fistula dnetaria en relacion a paieza 1.5
+T15	Sign_or_Symptom 334 364	dolor a cambios de temperatura
+T16	Therapeutic_Procedure 379 389	endodoncia
+T10	Clinical_Finding 118 144	obturacion de gran tamaños
+A1	Pending T16

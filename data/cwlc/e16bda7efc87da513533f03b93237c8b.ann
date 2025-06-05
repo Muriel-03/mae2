@@ -1,0 +1,18 @@
+T1	Abbreviation 99 101	OD
+T2	Abbreviation 189 190	+
+T3	Abbreviation 200 201	+
+T4	Body_Part 38 46	DIENTE 4
+T5	Body_Part 105 113	DIENTE 4
+T6	Body_Part 141 149	DIENTE 4
+T7	Body_Part 239 247	DIENTE 4
+T8	Diagnostic_Procedure 227 238	RADIOGRAFÍA
+T9	Disease 81 98	CARIES DENTINARIA
+T10	Clinical_Finding 154 163	TREPANADO
+T11	Medication 178 189	H.DE CALCIO
+T12	Medication 191 200	YODOFORMO
+T13	Therapeutic_Procedure 9 34	TRATAMIENTO DE ENDODONCIA
+A1	Pending T13
+T14	Abbreviation 208 211	OBC
+T15	Medication 202 207	SUERO
+T16	Clinical_Finding 208 218	OBC FERMÍN
+T17	Therapeutic_Procedure 165 207	MEDICADO CON H.DE CALCIO+ YODOFORMO+ SUERO

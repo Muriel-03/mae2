@@ -1,0 +1,19 @@
+T1	Abbreviation 48 51	APS
+T2	Abbreviation 115 118	hta
+T3	Abbreviation 189 191	mg
+T4	Abbreviation 212 214	mg
+T5	Abbreviation 215 216	c
+T6	Abbreviation 220 221	h
+T7	Abbreviation 241 243	mg
+T8	Abbreviation 265 267	mg
+T9	Abbreviation 290 292	mg
+T10	Abbreviation 293 294	c
+T11	Disease 2 24	INSUFICIENCIA CARDÍACA
+T12	Disease 115 126	hta etapa 3
+T13	Disease 143 155	dislipidemia
+T14	Medication 176 184	losartan
+T15	Medication 200 208	atenolol
+T16	Medication 222 237	espironolactona
+T17	Medication 251 261	furosemida
+T18	Medication 276 286	isosorbide
+T19	Sign_or_Symptom 71 97	disnea de minimos esfurzos

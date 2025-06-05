@@ -1,0 +1,5 @@
+T1	Body_Part 0 10	Diente 3.6
+T2	Therapeutic_Procedure 114 136	prótesis fija singular
+T3	Clinical_Finding 40 79	restauración Mesio-ocluso-disto-lingual
+T4	Clinical_Finding 11 35	tratado endodónticamente
+A1	Pending T2

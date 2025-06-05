@@ -1,0 +1,6 @@
+T1	Abbreviation 18 21	2DO
+T2	Abbreviation 69 72	TTO
+T3	Body_Part 18 36	2DO MOLAR INFERIOR
+T4	Sign_or_Symptom 18 57	2DO MOLAR INFERIOR EN ERUPCION ECTOPICO
+T5	Therapeutic_Procedure 69 91	TTO. GUIAS DE ERUPCION
+A1	Pending T5

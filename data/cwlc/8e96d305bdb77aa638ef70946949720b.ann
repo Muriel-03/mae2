@@ -1,0 +1,17 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 63 67	pcte
+T3	Abbreviation 107 110	HTA
+T4	Abbreviation 246 248	mg
+T5	Abbreviation 249 251	dL
+T6	Abbreviation 252 255	VFG
+T7	Abbreviation 263 265	ml
+T8	Abbreviation 266 269	min
+T9	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T10	Disease 107 110	HTA
+T11	Disease 112 120	diabetes
+T12	Disease 362 394	Enfermedad renal cronica Etapa 3
+T13	Laboratory_or_Test_Result 216 225	alterados
+T14	Laboratory_Procedure 207 215	exámenes
+T15	Laboratory_Procedure 226 236	Creatinina
+T16	Laboratory_Procedure 252 255	VFG
+T17	Abbreviation 274 275	m

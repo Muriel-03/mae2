@@ -1,0 +1,8 @@
+T1	Abbreviation 104 109	HBA1C
+T2	Body_Part 130 133	OJO
+T3	Diagnostic_Procedure 121 133	FONDO DE OJO
+T4	Disease 2 36	DIABETES MELLITUS, NO ESPECIFICADA
+T6	Laboratory_or_Test_Result 134 140	NORMAL
+T7	Laboratory_Procedure 104 109	HBA1C
+T8	Medication 76 86	METFORMINA
+R1	Has Arg1:T3 Arg2:T6	

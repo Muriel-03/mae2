@@ -1,0 +1,8 @@
+T1	Abbreviation 32 35	ITU
+T2	Abbreviation 63 64	C
+T3	Abbreviation 66 69	ITU
+T4	Disease 0 31	INCONTINENCIA URINARIA ESFUERZO
+T5	Disease 32 35	ITU
+T6	Disease 66 69	ITU
+T7	Sign_or_Symptom 32 48	ITU A REPETICION
+T8	Sign_or_Symptom 66 82	ITU A REPETICION

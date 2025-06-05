@@ -1,0 +1,14 @@
+T1	Abbreviation 41 44	asa
+T2	Abbreviation 127 130	atm
+T3	Abbreviation 131 134	izq
+T4	Body_Part 127 134	atm izq
+T5	Body_Part 176 182	cabeza
+T6	Disease 48 81	dentada total superior e inferior
+T7	Clinical_Finding 41 46	asa i
+T8	Sign_or_Symptom 93 109	algia mandibular
+T9	Sign_or_Symptom 111 134	click articular atm izq
+T10	Sign_or_Symptom 136 165	rechinamiento dental nocturno
+T11	Sign_or_Symptom 167 182	dolor de cabeza
+T12	Sign_or_Symptom 185 205	facetas conicidentes
+T13	Therapeutic_Procedure 229 254	ferula de estabiliazacion
+A1	Pending T13

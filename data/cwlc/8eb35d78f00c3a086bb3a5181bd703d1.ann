@@ -1,0 +1,4 @@
+T1	Body_Part 0 9	pieza 1,5
+T2	Disease 23 56	periodontitis cronica sintomatica
+T3	Sign_or_Symptom 79 86	fistula
+T4	Sign_or_Symptom 89 105	dolor espontaneo

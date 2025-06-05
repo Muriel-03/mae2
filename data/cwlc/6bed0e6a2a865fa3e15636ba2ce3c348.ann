@@ -1,0 +1,10 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 170 188	caninos superiores
+T3	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T4	Disease 223 259	Alteraciones en la erupcion dentaria
+T5	Clinical_Finding 76 90	clase 1 molar.
+T7	Sign_or_Symptom 101 130	apiñamiento dentario superior
+T8	Sign_or_Symptom 132 188	falta de espacio para erupcion de los caninos superiores
+T9	Sign_or_Symptom 191 220	apiñamiento dentario inferior
+T6	Disease 101 121	apiñamiento dentario
+T11	Disease 191 211	apiñamiento dentario

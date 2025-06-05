@@ -1,0 +1,27 @@
+T1	Abbreviation 187 190	APS
+T2	Abbreviation 351 354	obs
+T3	Abbreviation 355 358	Neo
+T4	Abbreviation 482 485	TAC
+T5	Body_Part 53 59	HÍGADO
+T6	Body_Part 67 82	VESÍCULA BILIAR
+T7	Body_Part 89 104	CONDUCTO BILIAR
+T8	Body_Part 124 139	AORTA ABDOMINAL
+T9	Body_Part 390 405	hilio esplenico
+T10	Body_Part 615 621	higado
+T11	Body_Part 629 644	vesicula biliar
+T12	Body_Part 651 666	conducto biliar
+T13	Diagnostic_Procedure 326 335	ecografia
+T14	Diagnostic_Procedure 482 485	TAC
+T15	Disease 2 104	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DEL HÍGADO, DE LA VESÍCULA BILIAR Y DEL CONDUCTO BILIAR
+T16	Disease 108 163	ANEURISMA DE LA AORTA ABDOMINAL, SIN MENCIÓN DE RUPTURA
+T17	Disease 355 368	Neo vesicular
+T18	Disease 564 666	Tumor de comportamiento incierto o desconocido del higado, de la vesicula biliar y del conducto biliar
+T19	Laboratory_or_Test_Result 355 368	Neo vesicular
+T20	Laboratory_or_Test_Result 371 405	lesion quistica de hilio esplenico
+T21	Laboratory_or_Test_Result 408 443	aneurisma aortico abdominal pequeño
+T23	Sign_or_Symptom 216 253	dolor epigastrico colico intermitente
+R1	Has Arg1:T13 Arg2:T19	
+R2	Has Arg1:T13 Arg2:T20	
+R3	Has Arg1:T13 Arg2:T21	
+A1	Pending T14
+T22	Abbreviation 447 449	mm

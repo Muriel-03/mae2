@@ -1,0 +1,9 @@
+T1	Abbreviation 49 52	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 76 83	dientes
+T4	Body_Part 114 121	Dientes
+T5	Disease 2 25	DIENTES SUPERNUMERARIOS
+T6	Disease 76 99	dientes supernumerarios
+T7	Disease 114 137	Dientes supernumerarios
+T8	Laboratory_or_Test_Result 72 111	dos dientes supernumerarios (mesiodens)
+T10	Disease 101 110	mesiodens

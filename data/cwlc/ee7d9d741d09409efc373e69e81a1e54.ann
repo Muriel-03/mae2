@@ -1,0 +1,7 @@
+T1	Abbreviation 29 32	Dr.
+T2	Abbreviation 78 81	PFU
+T3	Abbreviation 82 84	pz
+T4	Body_Part 82 88	pz 1.2
+T5	Clinical_Finding 89 113	tratada endodonticamente
+T6	Therapeutic_Procedure 78 81	PFU
+A1	Pending T6

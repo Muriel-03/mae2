@@ -1,0 +1,12 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 49 53	pcte
+T3	Abbreviation 144 148	pcte
+T4	Abbreviation 185 188	dte
+T5	Body_Part 185 191	dte 25
+T6	Body_Part 271 278	dientes
+T7	Disease 2 20	DESDENTADO PARCIAL
+T8	Disease 54 79	desdentada total superior
+T9	Disease 149 176	desdentada parcial inferior
+T10	Disease 233 309	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T11	Sign_or_Symptom 93 143	protesis total superior acrilica en regular estado
+T12	Sign_or_Symptom 178 211	perdió dte 25 en forma espontanea

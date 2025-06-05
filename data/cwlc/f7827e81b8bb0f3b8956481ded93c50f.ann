@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 161 163	mm
+T3	Body_Part 239 245	p. 4.2
+T4	Body_Part 271 284	arco dentario
+T5	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T6	Disease 286 334	Anomalias dentofaciales (incluso la maloclusion)
+T7	Sign_or_Symptom 79 98	Clase II esqueletal
+T8	Sign_or_Symptom 112 136	clase II molar bilateral
+T9	Sign_or_Symptom 138 164	overjet aumentado (+10 mm)
+T10	Sign_or_Symptom 166 190	mordida abierta anterior
+T11	Sign_or_Symptom 192 284	discrepancia dentomaxilar negativa mandibular. p. 4.2 lingualizada y fuera del arco dentario

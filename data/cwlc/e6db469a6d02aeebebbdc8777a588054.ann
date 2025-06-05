@@ -1,0 +1,9 @@
+T1	Abbreviation 83 84	+
+T2	Abbreviation 84 88	pmcf
+T3	Body_Part 0 10	Diente 1.6
+T4	Disease 48 70	pulpitis irreversible.
+T5	Clinical_Finding 98 113	vidrio ionómero
+T6	Medication 84 88	pmcf
+T7	Therapeutic_Procedure 98 113	vidrio ionómero
+T8	Therapeutic_Procedure 132 157	tratamiento de endodoncia
+T9	Clinical_Finding 15 43	terapia endodontica iniciada

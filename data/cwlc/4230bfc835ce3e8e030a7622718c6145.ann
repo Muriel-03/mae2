@@ -1,0 +1,10 @@
+T1	Abbreviation 72 75	APS
+T2	Abbreviation 139 141	cm
+T3	Abbreviation 279 282	tto
+T4	Body_Part 31 48	CAVIDAD ABDOMINAL
+T5	Body_Part 313 330	cavidad abdominal
+T6	Disease 2 48	HERNIA NO ESPECIFICADA DE LA CAVIDAD ABDOMINAL
+T7	Disease 284 330	Hernia no especificada de la cavidad abdominal
+T8	Sign_or_Symptom 106 187	aumento de volumen abdominal de 1cm de diámetro en relación a cicatriz de cesárea
+T9	Sign_or_Symptom 207 212	dolor
+T10	Sign_or_Symptom 226 238	constipaciòn

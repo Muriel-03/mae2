@@ -1,0 +1,12 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 43 47	PCTE
+T3	Abbreviation 57 60	HTA
+T4	Abbreviation 62 67	DMNIR
+T5	Abbreviation 108 111	ECO
+T6	Diagnostic_Procedure 108 121	ECO ABDOMINAL
+T7	Disease 2 14	COLELITIASIS
+T8	Disease 57 60	HTA
+T9	Disease 62 67	DMNIR
+T10	Laboratory_or_Test_Result 122 130	ALTERADA
+T11	Sign_or_Symptom 90 106	COLICO ABDOMINAL
+R1	Has Arg1:T6 Arg2:T10	

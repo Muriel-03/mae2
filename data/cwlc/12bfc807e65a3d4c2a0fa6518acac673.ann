@@ -1,0 +1,7 @@
+T1	Body_Part 31 53	DIENTE       vestibulo
+T2	Body_Part 87 102	1.2-1.1-2.1-2.2
+T3	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T4	Sign_or_Symptom 71 102	diastemas entre 1.2-1.1-2.1-2.2
+T5	Body_Part 31 37	DIENTE
+T6	Body_Part 62 69	1.2-2.2
+T7	Sign_or_Symptom 44 69	vestibulo version 1.2-2.2

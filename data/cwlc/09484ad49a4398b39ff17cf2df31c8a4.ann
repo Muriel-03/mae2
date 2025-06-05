@@ -1,0 +1,10 @@
+T1	Abbreviation 75 78	APS
+T2	Abbreviation 128 130	mm
+T3	Abbreviation 143 148	aprox
+T4	Body_Part 19 34	TEJIDOS BLANDOS
+T5	Body_Part 214 246	mucosa de labio inferior derecho
+T6	Disease 2 51	TRASTORNO DE LOS TEJIDOS BLANDOS, NO ESPECIFICADO
+T7	Disease 260 271	Traumatismo
+T8	Disease 273 322	Trastorno de los tejidos blandos, no especificado
+T9	Sign_or_Symptom 98 246	lesión de forma circular de 4 mm de diametro aprox. del mismo color de la mucosa con zonas blanquecinas ubicadas en mucosa de labio inferior derecho
+T10	Body_Part 172 178	mucosa

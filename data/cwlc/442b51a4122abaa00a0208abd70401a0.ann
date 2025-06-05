@@ -1,0 +1,15 @@
+T1	Abbreviation 0 4	pcte
+T3	Abbreviation 83 86	izq
+T4	Abbreviation 118 120	Ex
+T5	Abbreviation 122 124	OI
+T6	Abbreviation 134 136	OD
+T7	Body_Part 48 53	oidos
+T8	Body_Part 122 124	OI
+T9	Body_Part 134 136	OD
+T11	Disease 138 154	tapon de cerumen
+T12	Clinical_Finding 122 132	OI: normal
+T13	Sign_or_Symptom 75 86	Otalgia izq
+T15	Sign_or_Symptom 134 154	OD: tapon de cerumen
+T16	Therapeutic_Procedure 38 53	lavado de oidos
+T2	Clinical_Finding 89 116	salida de cerumen frecuente
+A1	Pending T16

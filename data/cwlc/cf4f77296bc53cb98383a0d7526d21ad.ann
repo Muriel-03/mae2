@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 89 95	piezas
+T3	Body_Part 217 224	dientes
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 49 87	desdentado parcial superior e inferior
+T6	Disease 158 176	restos radiculares
+T7	Disease 179 255	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Sign_or_Symptom 89 146	piezas remanentes en mal estado, cariadas y con movilidad
+T11	Sign_or_Symptom 148 176	multiples restos radiculares

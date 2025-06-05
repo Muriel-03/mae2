@@ -1,0 +1,9 @@
+T1	Abbreviation 8 11	dte
+T2	Abbreviation 61 65	pcte
+T3	Abbreviation 91 93	Ca
+T4	Body_Part 8 14	dte 26
+T5	Body_Part 94 102	tiroides
+T6	Disease 91 102	Ca tiroides
+T7	Therapeutic_Procedure 20 30	endodoncia
+T8	Therapeutic_Procedure 74 86	radioterapia
+A1	Pending T7

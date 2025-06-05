@@ -1,0 +1,12 @@
+T1	Abbreviation 87 90	APS
+T2	Body_Part 23 33	TESTÍCULOS
+T3	Body_Part 55 63	PRÓSTATA
+T4	Body_Part 302 310	prostata
+T5	Diagnostic_Procedure 173 199	ecografia vesicoprostatica
+T6	Disease 2 33	TUMOR BENIGNO DE LOS TESTÍCULOS
+T7	Disease 37 63	HIPERPLASIA DE LA PRÓSTATA
+T8	Disease 117 130	uropatia baja
+T9	Disease 284 310	Hiperplasia de la prostata
+T10	Sign_or_Symptom 105 144	sintomas de uropatia baja de larga data
+T11	Sign_or_Symptom 216 253	aumento de volumen testicular derecho
+A1	Pending T5

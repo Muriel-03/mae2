@@ -1,0 +1,13 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 21 30	ADENOIDES
+T3	Body_Part 165 172	paladar
+T4	Body_Part 181 190	amigdalas
+T5	Body_Part 228 237	adenoides
+T6	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T8	Disease 209 237	Hipertrofia de las adenoides
+T9	Clinical_Finding 68 93	sin antecedentes morbidos
+T10	Clinical_Finding 95 123	sin antecedentes quirurgicos
+T11	Sign_or_Symptom 125 133	roncador
+T12	Sign_or_Symptom 135 151	ahogos nocturnos
+T13	Sign_or_Symptom 165 179	paladar ojival
+T14	Clinical_Finding 181 207	amigdalas sin alteraciones

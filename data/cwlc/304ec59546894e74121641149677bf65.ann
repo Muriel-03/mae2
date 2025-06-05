@@ -1,0 +1,5 @@
+T1	Disease 44 62	artrosis de cadera
+T2	Disease 78 103	desdentado total superior
+T3	Disease 106 133	desdentado parcial inferior
+T4	Sign_or_Symptom 12 29	patologia cronica
+T5	Body_Part 56 62	cadera

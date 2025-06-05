@@ -1,0 +1,17 @@
+T1	Abbreviation 67 70	+/-
+T2	Abbreviation 213 216	PAR
+T3	Abbreviation 227 228	S
+T4	Diagnostic_Procedure 178 189	AUDIOMETRIA
+T5	Disease 2 28	OTROS VÉRTIGOS PERIFÉRICOS
+T6	Clinical_Finding 150 176	OTOSCOPIA BILATERAL NORMAL
+T7	Laboratory_or_Test_Result 200 206	NORMAL
+T8	Sign_or_Symptom 79 105	SINTOMATOLOGIA PERSISTENTE
+T9	Sign_or_Symptom 107 113	MAREOS
+T10	Sign_or_Symptom 115 137	INESTABILIDAD POSTURAL
+T11	Sign_or_Symptom 140 147	NAUSEAS
+T13	Sign_or_Symptom 41 61	EPISODIO VERTIGINOSO
+R1	Has Arg1:T4 Arg2:T7	
+T12	Diagnostic_Procedure 208 216	VIII PAR
+T14	Laboratory_or_Test_Result 227 244	S.(++), BILATERAL
+R2	Has Arg1:T12 Arg2:T14	
+T15	Body_Part 208 216	VIII PAR

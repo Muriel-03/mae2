@@ -1,0 +1,5 @@
+T1	Body_Part 31 37	DIENTE
+T2	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T3	Disease 44 86	Anomalia dentomaxilar de posicion dentaria
+T4	Disease 101 115	supernumerario
+T5	Laboratory_or_Test_Result 88 115	presencia de supernumerario

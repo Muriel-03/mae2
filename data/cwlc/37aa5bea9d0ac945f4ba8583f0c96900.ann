@@ -1,0 +1,10 @@
+T1	Body_Part 0 8	Pieza 17
+T2	Body_Part 36 44	pieza 18
+T3	Body_Part 127 134	Dientes
+T4	Disease 20 29	impactada
+T5	Disease 49 82	pulpitis irreversible sintomática
+T6	Disease 84 125	caries cervico´distal dentinaria profunda
+T7	Disease 127 144	Dientes incluidos
+T8	Laboratory_or_Test_Result 0 44	Pieza 17 incluida e impactada sobre pieza 18
+T9	Laboratory_or_Test_Result 127 144	Dientes incluidos
+T10	Disease 9 17	incluida

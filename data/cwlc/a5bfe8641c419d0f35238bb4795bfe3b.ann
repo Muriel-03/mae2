@@ -1,0 +1,13 @@
+T1	Abbreviation 46 49	TUB
+T2	Abbreviation 52 57	ANTEC
+T3	Abbreviation 99 102	PAP
+T4	Diagnostic_Procedure 99 102	PAP
+T6	Disease 62 74	PANCREATITIS
+T7	Clinical_Finding 1 7	G4P4A0
+T9	Medication 16 24	IMPLANON
+T10	Therapeutic_Procedure 35 49	ESTERILIZ. TUB
+T11	Therapeutic_Procedure 77 92	COLECISTECTOMIA
+T12	Abbreviation 1 2	G
+T13	Abbreviation 3 4	P
+T14	Abbreviation 5 6	A
+T5	Abbreviation 35 44	ESTERILIZ

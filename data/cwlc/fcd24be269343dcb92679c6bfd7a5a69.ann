@@ -1,0 +1,5 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Clinical_Finding 53 80	sin antecedentes sistemicos
+T3	Sign_or_Symptom 91 105	clase II molar
+T4	Sign_or_Symptom 107 150	apiñamiento anterosuperior y anteroinferior
+T5	Disease 107 118	apiñamiento

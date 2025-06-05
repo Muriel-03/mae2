@@ -1,0 +1,14 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 87 89	AP
+T3	Abbreviation 93 96	STC
+T4	Abbreviation 206 209	STC
+T5	Abbreviation 231 234	EMG
+T6	Body_Part 15 29	TÚNEL CARPIANO
+T7	Diagnostic_Procedure 231 234	EMG
+T8	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T9	Disease 93 96	STC
+T10	Disease 206 209	STC
+T11	Sign_or_Symptom 134 177	NUEVAMENTE SINTOMATICO A PREDOMINIO DERECHO
+T12	Clinical_Finding 93 104	STC OPERADO
+T13	Laboratory_or_Test_Result 206 226	STC SEVERO A DERECHA
+R1	Has Arg1:T7 Arg2:T13	

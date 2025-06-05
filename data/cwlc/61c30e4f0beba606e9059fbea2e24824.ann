@@ -1,0 +1,5 @@
+T1	Body_Part 31 36	pieza
+T2	Disease 0 29	periodontitis apical  cronica
+T3	Clinical_Finding 97 109	asintomatico
+T4	Laboratory_or_Test_Result 56 69	lesion apical
+T6	Clinical_Finding 37 46	trepanada

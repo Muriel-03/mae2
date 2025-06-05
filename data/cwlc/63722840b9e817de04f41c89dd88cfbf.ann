@@ -1,0 +1,5 @@
+T1	Body_Part 69 77	PIEZA 12
+T2	Disease 0 4	K029
+T3	Disease 5 35	CARIES DENTAL, NO ESPECIFICADA
+T4	Therapeutic_Procedure 56 65	EXODONCIA
+T5	Therapeutic_Procedure 93 103	ENDODONCIA

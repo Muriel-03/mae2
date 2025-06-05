@@ -1,0 +1,6 @@
+T1	Body_Part 36 60	hombro derecho posterior
+T2	Disease 13 21	luxación
+T3	Disease 62 77	Artrosis severa
+T4	Sign_or_Symptom 13 60	luxación reiteradas de hombro derecho posterior
+T5	Therapeutic_Procedure 94 102	protesis
+A1	Pending T5

@@ -1,0 +1,10 @@
+T1	Body_Part 0 8	PIEZA 11
+T2	Body_Part 58 65	pieza 5
+T3	Disease 9 26	CARIES PENETRANTE
+T4	Disease 66 99	pulpitis irreversible sintomática
+T5	Clinical_Finding 101 110	trepanada
+T6	Laboratory_or_Test_Result 0 26	PIEZA 11 CARIES PENETRANTE
+T7	Therapeutic_Procedure 46 54	PROTESIS
+T8	Therapeutic_Procedure 101 110	trepanada
+T9	Body_Part 28 34	CANINO
+T10	Clinical_Finding 37 54	APOYO DE PROTESIS

@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 56 59	col
+T3	Therapeutic_Procedure 45 86	cirugía de col lumbar con instrumentación
+A1	Pending T3
+T4	Body_Part 56 66	col lumbar

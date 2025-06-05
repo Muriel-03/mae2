@@ -1,0 +1,10 @@
+T1	Abbreviation 259 262	CAE
+T2	Body_Part 218 225	timpano
+T3	Body_Part 259 262	CAE
+T4	Disease 2 14	PRESBIACUSIA
+T5	Disease 58 71	hipotirodismo
+T6	Sign_or_Symptom 128 190	disminucion de la audicion bilateral mas pronunciada a derecha
+T7	Clinical_Finding 259 275	CAE sin lesiones
+T8	Sign_or_Symptom 281 292	obstruccion
+T9	Sign_or_Symptom 218 257	timpano indemne rosado palido bilateral
+A1	Negated T8

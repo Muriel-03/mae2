@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 91 101	diente 3.8
+T3	Body_Part 158 175	dientes 3.7 y 3.6
+T4	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T5	Disease 61 76	Pericoronaritis
+T6	Disease 102 111	impactado
+T7	Disease 113 154	Periodontitis cronica moderada localizada
+T8	Disease 199 220	Periodontitis cronica
+T9	Laboratory_or_Test_Result 91 111	diente 3.8 impactado
+T10	Sign_or_Symptom 180 197	movilidad grado 2

@@ -1,0 +1,9 @@
+T1	Abbreviation 86 89	APS
+T2	Abbreviation 208 210	mm
+T3	Abbreviation 253 255	Dr
+T4	Diagnostic_Procedure 133 152	ecografia abdominal
+T5	Disease 2 46	HERNIA UMBILICAL SIN OBSTRUCCIÓN NI GANGRENA
+T6	Disease 50 62	COLELITIASIS
+T7	Disease 171 188	colecistolitiasis
+T9	Laboratory_or_Test_Result 171 210	colecistolitiasis con litiasis de 13 mm
+R1	Has Arg1:T4 Arg2:T9	

@@ -1,0 +1,18 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 183 186	ROM
+T3	Abbreviation 214 216	pd
+T4	Abbreviation 309 311	pd
+T5	Body_Part 175 182	molares
+T6	Body_Part 214 250	pd 1.8, 1.6, 2.8, 4.8, 4.7, 3.6, 3.7
+T7	Body_Part 309 311	pd
+T8	Body_Part 330 337	dientes
+T9	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T10	Disease 68 106	desdentado parcial superior e inferior
+T11	Disease 404 425	Periodontitis cronica
+T12	Sign_or_Symptom 108 143	Recesiones gingivales generalizadas
+T13	Sign_or_Symptom 144 182	Movilidad dentaria II a III en molares
+T14	Sign_or_Symptom 183 199	ROM generalizada
+T15	Therapeutic_Procedure 272 295	tratamiento periodontal
+T16	Therapeutic_Procedure 388 402	rehabilitación
+A1	Pending T15
+A2	Pending T16

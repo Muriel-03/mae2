@@ -1,0 +1,10 @@
+T1	Abbreviation 36 38	RX
+T2	Abbreviation 80 85	aprox
+T4	Abbreviation 89 91	mm
+T5	Body_Part 2 7	PIEZA
+T6	Body_Part 95 104	diente 25
+T7	Diagnostic_Procedure 36 38	RX
+T8	Clinical_Finding 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T9	Laboratory_or_Test_Result 47 104	lesión radiolúcida periapical de aprox. 6 mm en diente 25
+T10	Therapeutic_Procedure 109 116	trepana
+R1	Has Arg1:T7 Arg2:T9	

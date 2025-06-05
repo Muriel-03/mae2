@@ -1,0 +1,15 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 61 66	pacte
+T3	Abbreviation 80 83	pza
+T4	Body_Part 2 9	DIENTES
+T5	Body_Part 80 87	pza 1.8
+T6	Body_Part 97 100	2.8
+T7	Body_Part 114 117	4.8
+T8	Body_Part 150 157	Dientes
+T9	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T10	Disease 105 111	caries
+T11	Disease 118 124	caries
+T12	Disease 150 180	Dientes incluidos e impactados
+T13	Sign_or_Symptom 71 76	dolor
+T14	Therapeutic_Procedure 140 149	exodoncia
+A1	Pending T14

@@ -1,0 +1,20 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 134 138	PMCF
+T3	Abbreviation 139 140	+
+T4	Abbreviation 150 151	+
+T5	Abbreviation 167 169	MG
+T6	Abbreviation 171 172	C
+T7	Abbreviation 175 178	HRS
+T8	Abbreviation 179 180	X
+T9	Abbreviation 201 204	TTO
+T10	Body_Part 0 7	PZA 4.6
+T11	Body_Part 221 224	4.6
+T12	Disease 60 81	PULPITIS IRREVERSIBLE
+T13	Clinical_Finding 98 107	TREPANADA
+T14	Medication 134 138	PMCF
+T15	Medication 141 149	EUGENATO
+T16	Medication 152 162	UBUPROFENO
+T17	Sign_or_Symptom 49 81	DOLOR TIPO PULPITIS IRREVERSIBLE
+T18	Therapeutic_Procedure 201 220	TTO RADICULAR METAL
+T19	Sign_or_Symptom 8 36	OBTURADA DENTINARIA PROFUNDA
+A1	Pending T18

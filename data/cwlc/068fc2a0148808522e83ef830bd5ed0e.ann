@@ -1,0 +1,5 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Disease 99 110	maloclusión
+T3	Disease 123 134	apiñamiento
+T4	Sign_or_Symptom 123 152	apiñamiento dentario anterior
+T5	Therapeutic_Procedure 57 82	tratamiento de ortodoncia

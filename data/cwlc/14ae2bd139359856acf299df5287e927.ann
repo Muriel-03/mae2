@@ -1,0 +1,7 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 77 80	2.6
+T3	Disease 2 17	RESTO RADICULAR
+T5	Therapeutic_Procedure 64 73	exodoncia
+T6	Therapeutic_Procedure 92 101	exodoncia
+A1	Pending T5
+A2	Pending T6

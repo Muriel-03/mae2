@@ -1,0 +1,5 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 6	pza 12
+T3	Laboratory_or_Test_Result 0 42	pza 12 obturacion  penetrante asintomatica
+T4	Disease 73 103	caries  dentinaria penentrante
+T7	Clinical_Finding 44 71	pilar de protesis  metalica

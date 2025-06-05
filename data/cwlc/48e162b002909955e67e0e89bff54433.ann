@@ -1,0 +1,7 @@
+T1	Disease 9 47	desdentado parcial superior e inferior
+T2	Therapeutic_Procedure 66 98	tratamiento integral periodontal
+T3	Therapeutic_Procedure 100 110	operatoria
+T4	Therapeutic_Procedure 113 121	prótesis
+A1	Pending T2
+A2	Pending T3
+A3	Pending T4

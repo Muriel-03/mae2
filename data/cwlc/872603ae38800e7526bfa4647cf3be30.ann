@@ -1,0 +1,9 @@
+T1	Body_Part 32 41	pieza 4.7
+T2	Body_Part 67 72	pieza
+T3	Disease 43 64	pulpitis irreversible
+T4	Disease 90 96	caries
+T5	Clinical_Finding 98 107	trepanada
+T6	Therapeutic_Procedure 21 31	endodoncia
+T7	Therapeutic_Procedure 98 107	trepanada
+A1	Pending T6
+A2	Negated T4

@@ -1,0 +1,19 @@
+T1	Abbreviation 81 84	APS
+T2	Abbreviation 86 90	Pact
+T3	Abbreviation 128 131	TSH
+T4	Abbreviation 248 250	RX
+T5	Body_Part 179 193	columna dorsal
+T6	Body_Part 221 241	columna dorso lumbar
+T7	Diagnostic_Procedure 248 250	RX
+T8	Disease 2 30	OTRAS ESCOLIOSIS IDIOPÁTICAS
+T9	Disease 109 123	Hipotiroidismo
+T10	Laboratory_or_Test_Result 259 290	Incremento de la Xifosis dorsal
+T11	Laboratory_or_Test_Result 293 361	Aumento de la lordosis lumbar Escoliosi lumbar de convexidad derecha
+T12	Laboratory_Procedure 128 131	TSH
+T13	Sign_or_Symptom 150 193	dolor  de gran intensidad en columna dorsal
+T14	Sign_or_Symptom 204 241	alteracion de la columna dorso lumbar
+T15	Disease 30 56	discopatia dorsales medias
+R1	Has Arg1:T7 Arg2:T10	
+R2	Has Arg1:T7 Arg2:T11	
+T16	Laboratory_or_Test_Result 364 390	Discopaita dorsales medias
+R3	Has Arg1:T7 Arg2:T16	

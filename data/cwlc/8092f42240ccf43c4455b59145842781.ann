@@ -1,0 +1,6 @@
+T1	Abbreviation 135 138	tto
+T2	Body_Part 17 20	1.4
+T3	Disease 2 54	PULPITIS       1.4 pulpitis irreversible sintomatica
+T4	Clinical_Finding 56 84	Terapia previamente iniciada
+T5	Disease 2 10	PULPITIS
+T6	Disease 21 54	pulpitis irreversible sintomatica

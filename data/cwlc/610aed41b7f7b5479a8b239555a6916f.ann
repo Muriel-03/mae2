@@ -1,0 +1,8 @@
+T1	Abbreviation 47 50	APS
+T2	Disease 2 23	PERIODONTITIS CRÓNICA
+T3	Disease 202 223	periodontitis crónica
+T4	Clinical_Finding 61 71	embarazada
+T5	Clinical_Finding 84 111	sin antecedentes sistémicos
+T6	Sign_or_Symptom 113 130	mala higiene oral
+T7	Sign_or_Symptom 141 177	cálculo dentario supra y subgingival
+T8	Sign_or_Symptom 179 200	recesiones gingivales

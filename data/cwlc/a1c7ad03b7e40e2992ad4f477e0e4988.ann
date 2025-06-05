@@ -1,0 +1,6 @@
+T1	Body_Part 13 22	denticion
+T2	Body_Part 30 53	Piezas anterosuperiores
+T3	Clinical_Finding 13 28	denticion mixta
+T4	Sign_or_Symptom 30 81	Piezas anterosuperiores vestibulizadas e inclinadas
+T5	Disease 97 112	supernumerarios
+T6	Clinical_Finding 92 112	tuvo supernumerarios

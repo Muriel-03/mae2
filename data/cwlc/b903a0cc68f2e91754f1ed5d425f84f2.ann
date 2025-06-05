@@ -1,0 +1,10 @@
+T1	Body_Part 13 22	dentición
+T2	Disease 39 50	apiñamiento
+T3	Clinical_Finding 13 28	dentición mixta
+T4	Clinical_Finding 82 103	Clase I molar derecha
+T5	Sign_or_Symptom 39 59	apiñamiento anterior
+T6	Sign_or_Symptom 64 80	falta de espacio
+T7	Sign_or_Symptom 105 117	II izquierda
+T8	Sign_or_Symptom 119 154	Mordida cruzada posterior izquierda
+T9	Therapeutic_Procedure 179 202	Ortodoncia interceptiva
+A1	Pending T9

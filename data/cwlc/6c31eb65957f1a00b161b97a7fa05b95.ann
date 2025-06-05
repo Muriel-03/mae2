@@ -1,0 +1,8 @@
+T1	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 75 82	DIENTES
+T3	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T4	Disease 50 82	ATRICIÓN EXCESIVA DE LOS DIENTES
+T5	Sign_or_Symptom 105 124	facetas de desgaste
+T6	Sign_or_Symptom 127 152	sensibilidad generalizada
+T7	Therapeutic_Procedure 187 209	plano oclusal nocturno
+A1	Pending T7

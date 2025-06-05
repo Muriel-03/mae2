@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	testiculo
+T2	Body_Part 55 72	testiculo derecho
+T3	Body_Part 75 88	nivel inginal
+T4	Body_Part 111 118	escroto
+T5	Sign_or_Symptom 55 118	testiculo derecho a nivel inginal y no ha descendido al escroto
+T7	Sign_or_Symptom 0 35	testiculo no descendido, unilateral

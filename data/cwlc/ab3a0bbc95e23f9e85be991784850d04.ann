@@ -1,0 +1,13 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 129 132	TSH
+T3	Abbreviation 140 143	Eco
+T4	Abbreviation 227 229	IC
+T5	Diagnostic_Procedure 140 152	Eco tiroidea
+T6	Disease 2 32	TIROTOXICOSIS CON BOCIO DIFUSO
+T8	Disease 252 282	Tirotoxicosis con bocio difuso
+T9	Laboratory_or_Test_Result 154 201	Bocio tiroideo difuso, sin alteraciones focales
+T11	Laboratory_Procedure 129 132	TSH
+T12	Sign_or_Symptom 84 97	palpitaciones
+T13	Sign_or_Symptom 99 107	ansiedad
+T14	Sign_or_Symptom 109 116	cefalea
+R1	Has Arg1:T5 Arg2:T9	

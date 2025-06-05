@@ -1,0 +1,13 @@
+T1	Abbreviation 218 221	MAC
+T2	Disease 2 40	INFERTILIDAD FEMENINA, NO ESPECIFICADA
+T3	Disease 45 99	INFERTILIDAD FEMENINA ASOCIADA CON FACTORES MASCULINOS
+T4	Clinical_Finding 174 182	embarazo
+T5	Clinical_Finding 204 206	G2
+T6	Clinical_Finding 207 209	P2
+T7	Clinical_Finding 210 212	A0
+T8	Sign_or_Symptom 244 259	vida sexual (+)
+T9	Abbreviation 204 205	G
+T10	Abbreviation 207 208	P
+T11	Abbreviation 210 211	A
+T12	Abbreviation 257 258	+
+T13	Therapeutic_Procedure 218 221	MAC

@@ -1,0 +1,10 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 137 140	HTA
+T3	Disease 2 40	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO
+T4	Disease 120 134	hipotiroidismo
+T5	Disease 137 140	HTA
+T6	Disease 142 167	Intolerancia a la glucosa
+T7	Disease 323 361	Enfermedad del reflujo gastroesofagico
+T8	Sign_or_Symptom 192 204	dolor urente
+T9	Sign_or_Symptom 293 312	regurgitacion acida
+T10	Sign_or_Symptom 315 322	nauseas

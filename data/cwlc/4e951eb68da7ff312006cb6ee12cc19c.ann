@@ -1,0 +1,10 @@
+T1	Body_Part 0 8	PIEZA  8
+T2	Body_Part 52 60	PIEZA 10
+T4	Disease 61 76	NECROSIS PULPAR
+T5	Medication 45 49	CAOH
+T6	Therapeutic_Procedure 36 49	MEDICION CAOH
+T7	Therapeutic_Procedure 24 35	TREPANACION
+T8	Disease 9 24	NECROSIS PULPAR
+T3	Therapeutic_Procedure 76 87	TREPANACION
+T9	Therapeutic_Procedure 88 101	MEDICION CAOH
+T10	Medication 97 101	CAOH

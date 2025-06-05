@@ -1,0 +1,8 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 74 78	PCTE
+T3	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T4	Disease 123 137	HIPOTIROIDISMO
+T5	Disease 390 433	Trastorno de la refraccion, no especificado
+T7	Sign_or_Symptom 181 232	DISMINUCION DE LA AGUDEZA VISUAL UNILATERAL DERECHA
+T9	Therapeutic_Procedure 381 387	LENTES
+A1	Pending T9

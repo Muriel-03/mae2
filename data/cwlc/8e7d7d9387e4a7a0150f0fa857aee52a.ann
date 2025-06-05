@@ -1,0 +1,17 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 60 61	M
+T3	Abbreviation 66 67	x
+T4	Body_Part 16 21	ÚTERO
+T5	Body_Part 68 74	Pelvis
+T6	Body_Part 142 147	utero
+T7	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T8	Disease 68 83	Pelvis estrecha
+T9	Disease 109 127	Miomatosis uterina
+T10	Disease 128 147	Leiomioma del utero
+T11	Clinical_Finding 60 62	M1
+T12	Clinical_Finding 62 65	CCA
+T13	Abbreviation 62 65	CCA
+T14	Laboratory_or_Test_Result 128 147	Leiomioma del utero
+T15	Laboratory_or_Test_Result 2 21	LEIOMIOMA DEL ÚTERO
+T16	Laboratory_or_Test_Result 109 127	Miomatosis uterina
+T17	Clinical_Finding 88 108	Usuaria preservativo

@@ -1,0 +1,5 @@
+T1	Body_Part 20 31	piezas 4-31
+T2	Disease 0 18	desdentado parcial
+T3	Sign_or_Symptom 20 40	piezas 4-31 ausentes
+T4	Therapeutic_Procedure 54 107	rehabilitacion protesis fija unitaria sobre implantes
+A1	Pending T4

@@ -1,0 +1,8 @@
+T1	Abbreviation 89 92	enf
+T2	Abbreviation 106 109	tto
+T3	Body_Part 13 29	arteria carotida
+T4	Body_Part 72 88	vasos del cuello
+T5	Disease 0 29	estenosis de arteria carotida
+T6	Disease 89 102	enf. tokayaro
+T7	Laboratory_or_Test_Result 0 88	estenosis de arteria carotida con engrosamiento de paredes de todos los vasos del cuello
+T8	Medication 114 124	prednisona

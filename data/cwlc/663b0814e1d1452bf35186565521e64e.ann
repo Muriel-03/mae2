@@ -1,0 +1,8 @@
+T1	Abbreviation 127 131	poli
+T2	Abbreviation 132 136	gine
+T3	Body_Part 16 21	ÚTERO
+T4	Disease 2 46	LEIOMIOMA DEL ÚTERO, SIN OTRA ESPECIFICACIÓN
+T5	Therapeutic_Procedure 51 65	ESTERILIZACIÓN
+T6	Disease 141 151	miomatosis
+T7	Laboratory_or_Test_Result 2 21	LEIOMIOMA DEL ÚTERO
+T8	Laboratory_or_Test_Result 141 151	miomatosis

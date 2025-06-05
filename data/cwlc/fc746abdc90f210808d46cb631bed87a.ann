@@ -1,0 +1,28 @@
+T1	Abbreviation 150 153	APS
+T2	Abbreviation 186 189	dm2
+T3	Abbreviation 273 276	tto
+T4	Abbreviation 292 293	x
+T5	Abbreviation 311 313	mg
+T6	Abbreviation 332 334	mg
+T7	Abbreviation 335 336	x
+T8	Abbreviation 580 583	ekg
+T9	Body_Part 48 53	PECHO
+T10	Body_Part 473 477	bazo
+T11	Diagnostic_Procedure 580 583	ekg
+T12	Disease 2 34	OTRAS TROMBOCITOPENIAS PRIMARIAS
+T13	Disease 38 53	ANGINA DE PECHO
+T14	Disease 57 126	DIABETES MELLITUS NO INSULINODEPENDIENTE, SIN MENCIÓN DE COMPLICACIÓN
+T15	Disease 186 189	dm2
+T16	Disease 518 532	angina estable
+T17	Disease 591 623	Otras trombocitopenias primarias
+T19	Laboratory_Procedure 192 200	glicemia
+T20	Medication 281 291	metformina
+T21	Medication 298 306	aspirina
+T22	Medication 316 329	glibenclamida
+T23	Sign_or_Symptom 518 532	angina estable
+T18	Laboratory_or_Test_Result 353 375	trombositosis moderada
+T24	Laboratory_or_Test_Result 394 415	pancitopenia relativa
+T25	Laboratory_or_Test_Result 560 576	sin alteraciones
+R1	Has Arg1:T11 Arg2:T25	
+T26	Body_Part 481 487	higado
+T27	Clinical_Finding 464 487	no palpo bazo ni higado

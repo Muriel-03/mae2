@@ -1,0 +1,11 @@
+T1	Abbreviation 25 28	HTA
+T2	Abbreviation 31 33	DM
+T3	Abbreviation 37 40	ERC
+T4	Abbreviation 54 58	EAOC
+T5	Abbreviation 115 118	IZQ
+T6	Disease 0 16	ISQUEMIA CRITICA
+T7	Disease 25 28	HTA
+T8	Disease 31 35	DM 2
+T9	Disease 37 42	ERC 2
+T11	Disease 54 58	EAOC
+T10	Laboratory_or_Test_Result 54 118	EAOC FEMOROPOPLITEO Y DISTAL TIBIAL DERECHO Y FEMONOPOPLITEO IZQ

@@ -1,0 +1,6 @@
+T1	Body_Part 49 54	PULPA
+T2	Body_Part 111 120	pieza 2.1
+T3	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T4	Disease 34 54	NECROSIS DE LA PULPA
+T5	Sign_or_Symptom 59 133	Fistula crónica en fondo de vestíbulo en relación a pieza 2.1 Asintomático
+T6	Therapeutic_Procedure 146 157	trepanación

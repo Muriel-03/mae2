@@ -1,0 +1,27 @@
+T1	Abbreviation 30 33	DM2
+T2	Abbreviation 39 43	Ireq
+T3	Abbreviation 49 51	IL
+T4	Abbreviation 61 63	IR
+T5	Abbreviation 74 77	MTF
+T6	Abbreviation 157 160	APS
+T7	Abbreviation 182 184	OK
+T8	Abbreviation 201 204	HTA
+T9	Abbreviation 216 217	x
+T10	Abbreviation 239 242	AAS
+T11	Body_Part 12 19	Rodilla
+T12	Body_Part 22 29	caderas
+T13	Body_Part 149 152	OJO
+T14	Diagnostic_Procedure 140 152	FONDO DE OJO
+T15	Disease 0 29	Artrosis de Rodilla y caderas
+T17	Disease 201 204	HTA
+T18	Medication 206 215	Enalapril
+T19	Medication 221 231	amlodipino
+T20	Medication 239 242	AAS
+T21	Disease 30 33	DM2
+T16	Disease 102 121	Tumor hippfiosiario
+T22	Laboratory_or_Test_Result 182 184	OK
+R1	Has Arg1:T14 Arg2:T22	
+T23	Medication 74 77	MTF
+T24	Abbreviation 73 74	s
+T25	Medication 49 51	IL
+T26	Medication 61 63	IR

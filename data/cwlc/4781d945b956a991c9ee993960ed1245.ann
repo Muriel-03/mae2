@@ -1,0 +1,5 @@
+T1	Abbreviation 80 83	tto
+T2	Disease 25 44	micrognatia maxilar
+T3	Sign_or_Symptom 0 20	Clase III esqueletal
+T4	Therapeutic_Procedure 80 106	tto ortodoncico-quirurgico
+A1	Pending T4

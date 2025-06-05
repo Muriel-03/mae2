@@ -1,0 +1,9 @@
+T1	Abbreviation 45 49	pzas
+T2	Abbreviation 59 62	pza
+T3	Body_Part 45 58	pzas. 1.4-1.5
+T4	Body_Part 59 67	pza. 1.4
+T5	Body_Part 126 134	frenillo
+T6	Sign_or_Symptom 59 86	pza. 1.4 en mordida cruzada
+T7	Clinical_Finding 9 27	clase I esqueletal
+T8	Sign_or_Symptom 28 58	giroversiones en pzas. 1.4-1.5
+T9	Sign_or_Symptom 88 152	diastemo enter encisivo, superior por frenillo de inserción baja

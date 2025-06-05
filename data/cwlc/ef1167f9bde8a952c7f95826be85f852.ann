@@ -1,0 +1,8 @@
+T1	Body_Part 61 78	dientes 1.3 y 2.3
+T2	Body_Part 97 114	dientes 1.2 y 2.2
+T3	Body_Part 127 134	grupo V
+T4	Disease 115 126	apiñamiento
+T5	Clinical_Finding 9 32	clase i molar bilateral
+T7	Sign_or_Symptom 43 78	erupcion ectopica dientes 1.3 y 2.3
+T8	Sign_or_Symptom 79 114	mordida invertida dientes 1.2 y 2.2
+T10	Sign_or_Symptom 115 134	apiñamiento grupo V

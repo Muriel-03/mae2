@@ -1,0 +1,10 @@
+T1	Abbreviation 0 4	PZAS
+T2	Abbreviation 30 34	PZAS
+T3	Abbreviation 70 74	PZAS
+T4	Abbreviation 118 121	TTO
+T5	Body_Part 0 15	PZAS 1,17,16,32
+T6	Body_Part 30 40	PZAS 17-32
+T7	Body_Part 70 80	PZAS 18-31
+T8	Disease 57 66	IMPACTADO
+T9	Laboratory_or_Test_Result 30 80	PZAS 17-32 MESIOINCLINADAS IMPACTADO DE PZAS 18-31
+T10	Laboratory_or_Test_Result 0 29	PZAS 1,17,16,32 SEMIINCLUIDAS

@@ -1,0 +1,10 @@
+T1	Abbreviation 63 66	Esq
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Disease 176 187	apiñamiento
+T4	Clinical_Finding 106 135	canina no se puede determinar
+T5	Clinical_Finding 54 83	Relación Esq. posible clase l
+T6	Sign_or_Symptom 137 159	sobremordida aumentada
+T7	Sign_or_Symptom 161 174	overjet 4.5mm
+T8	Sign_or_Symptom 176 205	apiñamiento moderado inferior
+T9	Clinical_Finding 85 104	molar: mesioclusión
+T10	Abbreviation 172 174	mm

@@ -1,0 +1,12 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 231 235	PTGO
+T3	Disease 2 22	HIPERTRIGLICERIDEMIA
+T4	Disease 26 42	OBESIDAD GRADO I
+T5	Disease 92 97	OBESA
+T6	Disease 103 123	HIPERTRIGLICERIDEMIA
+T8	Disease 299 321	Hipergliceridemia pura
+T9	Laboratory_Procedure 129 145	COLESTEROL TOTAL
+T10	Laboratory_Procedure 151 165	GLICEMIA BASAL
+T11	Laboratory_Procedure 231 235	PTGO
+T12	Therapeutic_Procedure 193 220	AUMENTO DE ACTIVIDAD FISICA
+T7	Laboratory_Procedure 238 255	CURVA DE INSULINA

@@ -1,0 +1,4 @@
+T1	Body_Part 0 8	diente 9
+T2	Disease 84 118	pulpitis irreversible sintomNtica.
+T3	Clinical_Finding 13 56	tratamiento endodontico plenamente iniciado
+T4	Therapeutic_Procedure 58 79	trepanada de urgencia

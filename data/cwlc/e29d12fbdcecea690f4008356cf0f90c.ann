@@ -1,0 +1,8 @@
+T1	Abbreviation 45 46	C
+T2	Abbreviation 94 97	HTA
+T4	Abbreviation 99 102	DLP
+T6	Disease 94 97	HTA
+T7	Disease 99 102	DLP
+T8	Therapeutic_Procedure 73 80	BY PASS
+T3	Sign_or_Symptom 45 57	C. CORONARIO
+T5	Disease 0 9	ESTENOSIS

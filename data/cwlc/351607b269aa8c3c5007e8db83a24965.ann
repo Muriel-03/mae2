@@ -1,0 +1,10 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 83 85	OD
+T3	Body_Part 62 71	pieza 3.7
+T4	Body_Part 98 107	pieza 3.8
+T5	Body_Part 149 158	pieza 3.7
+T6	Diagnostic_Procedure 172 194	radiografía panorámica
+T7	Disease 2 15	CARIES DENTAL
+T8	Disease 76 82	caries
+T10	Laboratory_or_Test_Result 98 158	pieza 3.8 mesioangulada, impactando zona distal de pieza 3.7
+A1	Pending T6

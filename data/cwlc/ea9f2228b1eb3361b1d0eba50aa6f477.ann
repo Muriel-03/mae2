@@ -1,0 +1,12 @@
+T1	Abbreviation 42 45	EEG
+T2	Abbreviation 54 56	Rx
+T3	Abbreviation 63 66	obs
+T4	Body_Part 57 62	tórax
+T5	Diagnostic_Procedure 42 45	EEG
+T6	Diagnostic_Procedure 54 62	Rx tórax
+T7	Disease 20 26	Chagas
+T9	Disease 81 105	MIOCARDIOPATIA CHAGASICA
+T10	Laboratory_or_Test_Result 46 52	normal
+R1	Has Arg1:T5 Arg2:T10	
+T8	Laboratory_or_Test_Result 63 80	obs cardiomegalia
+R2	Has Arg1:T6 Arg2:T8	

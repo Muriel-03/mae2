@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 5 44	desdentada parcial maxilar y mandibular
+T4	Therapeutic_Procedure 67 104	protesis acrílica superior e inferior
+A1	Pending T4
+T3	Therapeutic_Procedure 133 143	extracción

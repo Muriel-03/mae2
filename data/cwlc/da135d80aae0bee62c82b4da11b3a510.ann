@@ -1,0 +1,70 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 88 90	DM
+T3	Abbreviation 92 95	MTF
+T4	Abbreviation 124 127	HTA
+T5	Abbreviation 161 164	ERC
+T6	Abbreviation 167 170	DLP
+T7	Abbreviation 194 197	AAS
+T8	Abbreviation 199 202	PCT
+T9	Abbreviation 332 335	OCT
+T10	Abbreviation 337 338	+
+T11	Abbreviation 573 577	CREA
+T12	Abbreviation 584 587	VFG
+T13	Abbreviation 643 646	BEG
+T14	Abbreviation 676 682	RR2TSS
+T15	Abbreviation 685 687	MP
+T16	Abbreviation 688 691	SRA
+T17	Abbreviation 694 697	ABD
+T18	Abbreviation 698 700	BD
+T19	Body_Part 649 656	MUCOSAS
+T20	Body_Part 694 697	ABD
+T21	Body_Part 729 739	EPIGASTRIO
+T22	Diagnostic_Procedure 308 318	ENDOSCOPIA
+T23	Diagnostic_Procedure 339 346	BIOPSIA
+T24	Disease 2 28	GASTRITIS CRÓNICA ATRÓFICA
+T25	Disease 88 90	DM
+T26	Disease 124 127	HTA
+T27	Disease 161 164	ERC
+T28	Disease 167 170	DLP
+T29	Disease 349 365	GASTRITIS ANTRAL
+T30	Disease 537 543	ANEMIA
+T31	Disease 810 836	Gastritis cronica atrofica
+T32	Clinical_Finding 643 646	BEG
+T33	Clinical_Finding 676 682	RR2TSS
+T34	Laboratory_or_Test_Result 349 423	GASTRITIS ANTRAL MODERADAMENTE ATROFICA CON AREAS DE METAPLASIA INTESTINAL
+T35	Laboratory_or_Test_Result 426 458	FOCOS DE DISPLASIA EN GRADO LEVE
+T36	Laboratory_or_Test_Result 513 521	NEGATIVO
+T37	Laboratory_or_Test_Result 537 570	ANEMIA LEVE MICROCITICA HIPOCROMA
+T39	Laboratory_or_Test_Result 623 629	NORMAL
+T40	Laboratory_Procedure 498 512	TEST DE UREASA
+T41	Laboratory_Procedure 573 577	CREA
+T42	Laboratory_Procedure 584 587	VFG
+T43	Laboratory_Procedure 593 601	GLICEMIA
+T44	Laboratory_Procedure 607 622	PERFIL LIPIDICO
+T45	Medication 92 95	MTF
+T46	Medication 103 116	GLIBENCLAMIDA
+T47	Medication 129 138	ENALAPRIL
+T48	Medication 145 155	NIFEDIPINO
+T49	Medication 182 192	FAMOTIDINA
+T50	Medication 194 197	AAS
+T51	Medication 199 202	PCT
+T52	Medication 204 216	CLORFENAMINA
+T53	Sign_or_Symptom 226 246	MOLESTIAS GRASTRICAS
+T54	Sign_or_Symptom 271 278	DIARREA
+T55	Sign_or_Symptom 293 300	PIROSIS
+T56	Sign_or_Symptom 649 673	MUCOSAS UN TANTO PALIDAS
+T61	Sign_or_Symptom 702 739	DOLOROSO A LA PALPACION DE EPIGASTRIO
+T62	Sign_or_Symptom 745 764	SIGNOS PERITONEALES
+T63	Sign_or_Symptom 769 774	MASAS
+T64	Sign_or_Symptom 778 786	MEGALIAS
+R3	Has Arg1:T40 Arg2:T36	
+R4	Has Arg1:T44 Arg2:T39	
+R1	Has Arg1:T23 Arg2:T34	
+R2	Has Arg1:T23 Arg2:T35	
+R5	Has Arg1:T22 Arg2:T34	
+R6	Has Arg1:T22 Arg2:T35	
+T57	Clinical_Finding 685 691	MP+SRA
+T38	Clinical_Finding 694 700	ABD BD
+A1	Negated T62
+A2	Negated T63
+A3	Negated T64

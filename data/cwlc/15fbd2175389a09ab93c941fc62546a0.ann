@@ -1,0 +1,10 @@
+T1	Abbreviation 38 39	p
+T2	Abbreviation 47 50	sup
+T3	Abbreviation 53 56	inf
+T4	Abbreviation 104 109	aprox
+T5	Abbreviation 126 127	p
+T6	Abbreviation 145 148	sup
+T7	Disease 9 25	desdentada total
+T9	Sign_or_Symptom 28 86	portadora p. total sup e inf. con fractura y en mal estado
+T11	Therapeutic_Procedure 126 159	p. total removible sup e inferior
+A1	Pending T11

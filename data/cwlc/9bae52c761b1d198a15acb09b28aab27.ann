@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T3	Body_Part 0 5	PZA 9
+T4	Sign_or_Symptom 35 56	MOVILIDAD Y MOVILIDAD
+T5	Sign_or_Symptom 59 81	DOLOR LEVE A PERCUSION
+T6	Therapeutic_Procedure 100 123	TRATAMIENTO ENDODONTICO
+T7	Clinical_Finding 6 30	ENDODONTICAMENTE TRATADA
+A1	Pending T6

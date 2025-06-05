@@ -1,0 +1,9 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 182 189	dientes
+T3	Disease 2 17	RESTO RADICULAR
+T4	Disease 55 82	desdentado parcial inferior
+T5	Disease 171 251	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T7	Therapeutic_Procedure 92 114	reparación de prótesis
+T8	Therapeutic_Procedure 153 170	prótesis inferior
+A1	Pending T7
+A2	Pending T8

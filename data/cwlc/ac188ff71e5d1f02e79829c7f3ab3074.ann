@@ -1,0 +1,9 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 52	PCTE
+T3	Body_Part 2 9	DIENTES
+T4	Body_Part 73 83	3º MOLARES
+T5	Body_Part 137 144	Dientes
+T6	Disease 2 19	DIENTES INCLUIDOS
+T7	Disease 137 154	Dientes incluidos
+T8	Laboratory_or_Test_Result 2 19	DIENTES INCLUIDOS
+T9	Laboratory_or_Test_Result 73 124	3º MOLARES EN ERUPCION, SEMIRETENIDOS, SINTOMATICOS

@@ -1,0 +1,11 @@
+T1	Abbreviation 72 75	APS
+T2	Abbreviation 119 121	Dg
+T3	Abbreviation 233 236	tto
+T4	Disease 2 16	HIPOTIROIDISMO
+T5	Disease 20 32	FIBROMIALGIA
+T6	Disease 36 48	DISLIPIDEMIA
+T7	Disease 106 118	Fibromialgia
+T8	Medication 241 252	Pregabalina
+T9	Sign_or_Symptom 144 180	dolor muscular y articular simétrico
+T10	Sign_or_Symptom 193 199	estres
+T11	Sign_or_Symptom 202 216	falta de sueño

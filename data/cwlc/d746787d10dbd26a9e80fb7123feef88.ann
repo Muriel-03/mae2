@@ -1,0 +1,11 @@
+T1	Abbreviation 80 83	IZQ
+T2	Abbreviation 99 100	D
+T3	Abbreviation 104 106	CM
+T4	Body_Part 73 83	PIERNA IZQ
+T6	Disease 0 4	A394
+T7	Disease 5 36	MENINGOCOCEMIA, NO ESPECIFICADA
+T8	Disease 47 83	SECUELA DE DAÑOI VASCULAR PIERNA IZQ
+T9	Sign_or_Symptom 86 102	DISMETRIA DE D>I
+T10	Sign_or_Symptom 37 46	DISMETRIA
+T11	Abbreviation 100 101	>
+T12	Abbreviation 101 102	I

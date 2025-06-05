@@ -1,0 +1,9 @@
+T1	Abbreviation 66 67	P
+T2	Body_Part 0 3	1.2
+T3	Body_Part 4 10	Diente
+T4	Disease 59 65	caries
+T5	Laboratory_or_Test_Result 99 156	relleno tramopical que puede ser guatapercha o istrumento
+T6	Clinical_Finding 4 30	Diente previamente tratado
+T7	Sign_or_Symptom 49 86	cabidad y caries P, expuesto al medio
+T8	Laboratory_or_Test_Result 158 191	Exorrizalisis apical y periapical
+T9	Disease 158 171	Exorrizalisis

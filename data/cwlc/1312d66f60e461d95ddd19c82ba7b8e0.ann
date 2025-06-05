@@ -1,0 +1,7 @@
+T1	Abbreviation 21 24	AVL
+T2	Abbreviation 25 27	OD
+T3	Body_Part 25 27	OD
+T4	Disease 41 56	NEURITIS OPTICA
+T5	Sign_or_Symptom 108 117	EXOTROPIA
+T6	Disease 108 117	EXOTROPIA
+T7	Sign_or_Symptom 9 27	DISMUNUCION AVL OD

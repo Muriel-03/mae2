@@ -1,0 +1,9 @@
+T1	Abbreviation 51 54	hta
+T2	Abbreviation 102 106	pzas
+T3	Body_Part 91 114	reborde de pzas ausente
+T4	Disease 51 54	hta
+T5	Sign_or_Symptom 69 114	aumento de volumen en reborde de pzas ausente
+T6	Sign_or_Symptom 148 181	aumento de volumen  es fluctuante
+T7	Sign_or_Symptom 188 207	molesta  para comer
+T8	Body_Part 134 144	9.10.11.12
+T9	Clinical_Finding 225 246	portadora de protesis

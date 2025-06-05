@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	Oa
+T2	Abbreviation 22 24	Oa
+T3	Body_Part 3 11	Rodillas
+T4	Body_Part 25 32	Caderas
+T5	Body_Part 63 71	Rodillas
+T6	Body_Part 92 108	Manguito Rotador
+T7	Disease 0 20	Oa Rodillas Moderada
+T8	Disease 22 37	Oa Caderas Leve
+T10	Disease 39 81	Tendinitis /bursitis De Rodillas Bilateral
+T11	Disease 81 118	tendinitis Manguito Rotador Bilateral
+T9	Laboratory_or_Test_Result 22 37	Oa Caderas Leve
+T12	Laboratory_or_Test_Result 0 20	Oa Rodillas Moderada

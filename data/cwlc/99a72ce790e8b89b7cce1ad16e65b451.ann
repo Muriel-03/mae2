@@ -1,0 +1,3 @@
+T1	Disease 42 56	litiasis renal
+T2	Laboratory_or_Test_Result 72 94	hematuria microscopica
+A1	Implicit_Family_Background T1

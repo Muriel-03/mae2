@@ -1,0 +1,8 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 82	Pac
+T3	Body_Part 152 166	labio inferior
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 168 216	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 97 114	overjet aumentado
+T7	Sign_or_Symptom 116 138	interposición lingular
+T8	Sign_or_Symptom 141 166	succión de labio inferior

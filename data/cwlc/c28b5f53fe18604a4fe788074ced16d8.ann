@@ -1,0 +1,8 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 169 173	Dtes
+T3	Body_Part 169 186	Dtes. permanentes
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 216 264	Anomalias dentofaciales (incluso la maloclusion)
+T6	Clinical_Finding 95 118	clase I molar bilateral
+T8	Sign_or_Symptom 120 167	discrepancia dentomaxilar y mandibular negativa
+T9	Sign_or_Symptom 169 214	Dtes. permanentes erupcionando fuera del arco

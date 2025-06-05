@@ -1,0 +1,9 @@
+T1	Disease 2 46	ANORMALIDADES DE LA MARCHA Y DE LA MOVILIDAD
+T2	Disease 51 63	POLIARTROSIS
+T3	Disease 66 74	ARTROSIS
+T4	Disease 140 152	poliartrosis
+T5	Sign_or_Symptom 254 277	difucultad para marchar
+T6	Sign_or_Symptom 280 308	disminucion de la establidad
+T7	Sign_or_Symptom 156 200	abirnakudades de la marcha y de la mobilidad
+T8	Clinical_Finding 202 231	usuaria de ortesis tipo basto
+T9	Clinical_Finding 383 390	ortesis

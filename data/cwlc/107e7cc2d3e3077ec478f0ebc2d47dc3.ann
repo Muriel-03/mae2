@@ -1,0 +1,8 @@
+T2	Body_Part 100 107	columna
+T3	Diagnostic_Procedure 90 107	examen de columna
+T4	Disease 2 31	ESCOLIOSIS IDIOPÁTICA JUVENIL
+T5	Disease 157 178	escoliosis patologica
+T6	Clinical_Finding 44 78	sin anecendetes morbidos conocidos
+T7	Laboratory_or_Test_Result 120 178	columan en forma de C compatible con escoliosis patologica
+T8	Body_Part 120 127	columan
+R1	Has Arg1:T3 Arg2:T7	

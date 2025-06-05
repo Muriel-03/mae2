@@ -1,0 +1,14 @@
+T1	Abbreviation 79 82	pzs
+T2	Abbreviation 107 110	pzs
+T4	Body_Part 9 18	dentición
+T5	Body_Part 79 93	pzs. 1.1 y 2.1
+T6	Body_Part 107 130	pzs. 1.3, 2.3,3.3 y 4.3
+T7	Body_Part 146 155	1.2 y 2.2
+T8	Body_Part 178 185	grupo V
+T9	Disease 158 169	apiñamiento
+T10	Clinical_Finding 9 29	dentición permanente
+T11	Clinical_Finding 31 57	clase I de angle bilateral
+T13	Sign_or_Symptom 58 93	vestibulo versión de pzs. 1.1 y 2.1
+T14	Sign_or_Symptom 95 130	giroversión pzs. 1.3, 2.3,3.3 y 4.3
+T15	Sign_or_Symptom 132 155	palatoversión 1.2 y 2.2
+T16	Sign_or_Symptom 158 185	apiñamiento leve de grupo V

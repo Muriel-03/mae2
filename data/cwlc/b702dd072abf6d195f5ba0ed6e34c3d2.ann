@@ -1,0 +1,11 @@
+T1	Abbreviation 252 253	m
+T2	Body_Part 48 56	Pieza1.3
+T4	Clinical_Finding 23 46	Clase molar izquierda I
+T5	Sign_or_Symptom 0 22	Clase molar derecha II
+T6	Sign_or_Symptom 48 65	Pieza1.3 ectópica
+T7	Sign_or_Symptom 67 98	Apiñamiento leve anteroinferior
+T8	Sign_or_Symptom 100 127	apiñamiento anteroposterior
+T3	Disease 67 78	Apiñamiento
+T11	Disease 100 111	apiñamiento
+T12	Abbreviation 196 198	mm
+T9	Sign_or_Symptom 128 253	línea media viterdentaria no coincide linea media maxilar desviada 2mm hacia la derecha y línea media mandibular desviada 1 m

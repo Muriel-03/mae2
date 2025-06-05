@@ -1,0 +1,14 @@
+T1	Abbreviation 128 131	APS
+T2	Abbreviation 133 134	M
+T3	Abbreviation 179 184	ANTEC
+T4	Body_Part 45 59	CUELLO UTERINO
+T5	Body_Part 259 273	cuello uterino
+T6	Diagnostic_Procedure 2 59	EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DEL CUELLO UTERINO
+T7	Diagnostic_Procedure 216 273	Examen de pesquisa especial para tumor del cuello uterino
+T9	Disease 194 215	GLUCOGENOSIS TIPO 1 B
+T10	Disease 249 273	tumor del cuello uterino
+T11	Family_Member 185 189	HIJA
+T13	Clinical_Finding 133 135	M2
+T14	Therapeutic_Procedure 171 178	POMEROY
+A1	Pending T14
+R1	Has Arg1:T11 Arg2:T9	

@@ -1,0 +1,10 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 25 28	OBS
+T3	Abbreviation 29 32	CIE
+T4	Abbreviation 33 36	FUR
+T5	Abbreviation 48 51	FPP
+T6	Abbreviation 118 120	+-
+T7	Clinical_Finding 0 2	M1
+T8	Clinical_Finding 4 12	EMBARAZO
+T9	Sign_or_Symptom 71 117	PRURITO PALMO-PLANTAR PREFERENTEMENTE NOCTURNO
+T10	Disease 29 32	CIE

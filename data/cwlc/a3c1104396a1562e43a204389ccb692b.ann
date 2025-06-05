@@ -1,0 +1,13 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 220 240	incisivos superiores
+T3	Body_Part 276 306	incisivos laterales inferiores
+T4	Body_Part 343 361	caninos inferiores
+T5	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T6	Sign_or_Symptom 108 128	maloclusión dentaria
+T7	Sign_or_Symptom 134 144	mal hábito
+T8	Sign_or_Symptom 145 177	succión digital solo en la noche
+T9	Sign_or_Symptom 189 218	apiñamiento dentario anterior
+T10	Sign_or_Symptom 220 274	incisivos superiores hacia vestibular y en giroversión
+T11	Sign_or_Symptom 276 320	incisivos laterales inferiores hacia lingual
+T12	Sign_or_Symptom 323 374	sin espacio para su caninos inferiores en evolución
+T13	Disease 189 209	apiñamiento dentario

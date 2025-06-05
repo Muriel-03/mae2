@@ -1,0 +1,7 @@
+T1	Disease 0 18	Desdentada parcial
+T2	Disease 128 171	periodontitis crónica generalizada moderada
+T3	Sign_or_Symptom 38 56	III sub 1 inferior
+T4	Sign_or_Symptom 58 75	mordida bis a bis
+T5	Sign_or_Symptom 77 92	atrición severa
+T6	Sign_or_Symptom 94 126	disminución de dimensión verical
+T7	Clinical_Finding 20 36	clase I superior

@@ -1,0 +1,10 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 194 202	Otorrino
+T3	Abbreviation 217 219	IC
+T4	Body_Part 31 38	PÁRPADO
+T5	Body_Part 299 306	parpado
+T6	Diagnostic_Procedure 244 265	estudio  inmunologico
+T7	Disease 2 38	DERMATOSIS NO INFECCIOSA DEL PÁRPADO
+T8	Disease 270 306	Dermatosis no infecciosa del parpado
+T9	Sign_or_Symptom 85 130	lesion eritematosa,  pruriginosa en ocasiones
+A1	Pending T6

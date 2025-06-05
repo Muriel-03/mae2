@@ -1,0 +1,5 @@
+T1	Body_Part 58 66	pieza 14
+T2	Clinical_Finding 68 102	neutro oclusión molar lado derecho
+T3	Sign_or_Symptom 0 40	Apiñamiento anterior superior e inferior
+T4	Sign_or_Symptom 42 66	mordida cruzada pieza 14
+T5	Disease 0 11	Apiñamiento

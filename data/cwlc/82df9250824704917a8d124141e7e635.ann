@@ -1,0 +1,10 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 221 223	ex
+T3	Abbreviation 253 255	ev
+T4	Body_Part 156 162	encías
+T5	Disease 2 18	GINGIVITIS AGUDA
+T6	Family_Member 70 76	abuela
+T7	Sign_or_Symptom 87 118	abundante tártaro supragingival
+T8	Sign_or_Symptom 121 162	inflamación severa generalizada de encías
+T9	Sign_or_Symptom 164 183	múltiples tinciones
+T10	Sign_or_Symptom 185 208	Paciente difícil manejo

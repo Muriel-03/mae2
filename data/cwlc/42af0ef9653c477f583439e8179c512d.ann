@@ -1,0 +1,9 @@
+T1	Abbreviation 53 57	pzas
+T2	Abbreviation 101 103	RX
+T3	Body_Part 53 68	pzas. 1.1 y 2.1
+T4	Diagnostic_Procedure 101 114	RX periapical
+T5	Disease 0 9	Mesiodens
+T6	Laboratory_or_Test_Result 0 68	Mesiodens eupcionado parcialmente por palatino entre pzas. 1.1 y 2.1
+T7	Therapeutic_Procedure 80 89	exodoncia
+A1	Pending T7
+R1	Has Arg1:T4 Arg2:T6	

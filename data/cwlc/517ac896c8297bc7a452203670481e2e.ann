@@ -1,0 +1,5 @@
+T1	Disease 13 27	caries extensa
+T2	Disease 53 68	abseso marginal
+T3	Sign_or_Symptom 28 50	destruccion coronarias
+T4	Therapeutic_Procedure 105 114	exodoncia
+A1	Pending T4

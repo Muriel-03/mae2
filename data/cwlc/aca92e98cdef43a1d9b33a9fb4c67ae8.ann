@@ -1,0 +1,16 @@
+T1	Abbreviation 89 92	APS
+T3	Body_Part 428 434	brazos
+T4	Body_Part 438 445	piernas
+T5	Disease 2 65	OTRA REACCIÓN ADVERSA A ALIMENTOS, NO CLASIFICADA EN OTRA PARTE
+T7	Disease 563 626	Otra reaccion adversa a alimentos, no clasificada en otra parte
+T8	Family_Member 288 293	madre
+T9	Sign_or_Symptom 120 132	rush cutaneo
+T10	Sign_or_Symptom 177 262	aparicion de este rush con tomate, avena, galletas, el mas caracteristico es al huevo
+T14	Sign_or_Symptom 309 352	diarrea desde inicio de alimentacion solida
+T16	Sign_or_Symptom 358 370	baja de peso
+T17	Sign_or_Symptom 419 445	rusjh en brazos yu piernas
+T18	Sign_or_Symptom 451 479	otros halllazgos patologicos
+A1	Negated T16
+A2	Negated T18
+T2	Therapeutic_Procedure 492 506	vacuna del año
+A3	Pending T2

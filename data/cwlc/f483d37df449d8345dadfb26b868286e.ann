@@ -1,0 +1,6 @@
+T1	Abbreviation 65 68	APS
+T2	Abbreviation 69 72	GES
+T3	Body_Part 77 85	PIEZA 32
+T4	Disease 103 124	PERIODONTITIS CRONICA
+T5	Clinical_Finding 33 41	EMBARAZO
+T6	Laboratory_or_Test_Result 77 100	PIEZA 32 SEMI INCLINADA

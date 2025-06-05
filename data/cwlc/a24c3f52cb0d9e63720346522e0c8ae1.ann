@@ -1,0 +1,9 @@
+T1	Abbreviation 85 87	OD
+T2	Abbreviation 139 144	PCMFA
+T3	Body_Part 14 23	Diente 29
+T5	Disease 2 10	PULPITIS
+T6	Sign_or_Symptom 25 62	dolor de características irreversible
+T7	Sign_or_Symptom 64 87	extensa restauración OD
+T8	Therapeutic_Procedure 100 111	trepanación
+T9	Medication 139 144	PCMFA
+T10	Therapeutic_Procedure 114 144	medicación intraconducto PCMFA

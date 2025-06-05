@@ -1,0 +1,6 @@
+T1	Abbreviation 31 34	PPR
+T2	Clinical_Finding 65 75	EMBARAZADA
+T3	Therapeutic_Procedure 31 54	PPR SUPERIOR E INFERIOR
+T4	Therapeutic_Procedure 100 105	PARTO
+A1	Pending T3
+A2	Pending T4

@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA 2.7
+T3	Diagnostic_Procedure 68 87	EXAMEN RADIOGRAFICO
+T4	Disease 8 39	CARIES PALATO CARVICAL PROFUNDA
+T5	Laboratory_or_Test_Result 99 112	LESION APICAL
+T6	Sign_or_Symptom 41 63	SINTOMATOLOGIA ALTERNA
+R1	Has Arg1:T3 Arg2:T5	

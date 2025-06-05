@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 357 360	ojo
+T3	Diagnostic_Procedure 348 360	fondo de ojo
+T4	Disease 2 32	RETINOPATÍA DE LA PREMATURIDAD
+T5	Disease 363 393	Retinopatia de la prematuridad
+T6	Sign_or_Symptom 296 322	restricción de crecimiento
+T7	Clinical_Finding 106 122	parto pretèrmino
+T8	Therapeutic_Procedure 212 226	oxigenoterapia
+T9	Therapeutic_Procedure 274 294	ventilación mecánica
+A1	Pending T3

@@ -1,0 +1,14 @@
+T1	Abbreviation 95 98	APS
+T2	Abbreviation 168 171	HTA
+T3	Body_Part 23 27	PENE
+T4	Body_Part 183 225	extremidades inferiores a nivel de rodilla
+T5	Body_Part 257 267	testiculos
+T6	Body_Part 292 296	pene
+T7	Disease 2 41	OTROS TRASTORNOS DEL PENEpene enterrado
+T8	Disease 45 71	HIDROCELE, NO ESPECIFICADO
+T9	Disease 168 171	HTA
+T10	Sign_or_Symptom 227 291	gran aumento de volumen ambos testiculos, progresivo no doloroso
+T12	Sign_or_Symptom 292 324	pene enterrado (no se visualiza)
+T13	Body_Part 27 31	pene
+T14	Disease 142 151	postrados
+T15	Therapeutic_Procedure 172 225	amputacion extremidades inferiores a nivel de rodilla

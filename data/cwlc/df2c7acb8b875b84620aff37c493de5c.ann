@@ -1,0 +1,8 @@
+T1	Abbreviation 9 11	OP
+T2	Abbreviation 41 42	+
+T3	Abbreviation 54 55	+
+T4	Abbreviation 83 85	CA
+T5	Disease 83 94	CA GASTRICO
+T6	Therapeutic_Procedure 23 41	GASTRECTOMIA TOTAL
+T7	Therapeutic_Procedure 42 53	ESPLECTOMIA
+T8	Therapeutic_Procedure 56 78	PANCREATECTOMIA DISTAL

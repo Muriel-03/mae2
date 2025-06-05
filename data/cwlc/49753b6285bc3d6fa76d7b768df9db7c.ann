@@ -1,0 +1,6 @@
+T1	Body_Part 23 30	PIEZA 6
+T2	Therapeutic_Procedure 55 62	CIRUGIA
+T3	Therapeutic_Procedure 114 130	PULIDO RADICULAR
+T4	Laboratory_or_Test_Result 0 22	LESION ENDOPERIODONTAL
+A1	Pending T2
+A2	Pending T3

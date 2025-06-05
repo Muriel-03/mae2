@@ -1,0 +1,11 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 210 220	Diente 2.1
+T4	Body_Part 283 289	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Disease 254 289	Anomalias de la posicion del diente
+T7	Clinical_Finding 94 119	sin antecedentes mórbidos
+T8	Clinical_Finding 121 139	Clase I esqueletal
+T9	Laboratory_or_Test_Result 210 252	Diente 2.1 retenido, retrasado en erupción
+T10	Clinical_Finding 141 163	Mesioclusión bilateral
+T11	Sign_or_Symptom 165 208	Discrepancia dentomaxilar negativa moderada

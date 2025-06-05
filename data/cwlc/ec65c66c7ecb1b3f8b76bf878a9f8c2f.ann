@@ -1,0 +1,11 @@
+T1	Abbreviation 125 128	mm.
+T2	Abbreviation 190 192	mm
+T3	Abbreviation 224 226	mm
+T4	Body_Part 81 96	pieza 1.7 y 1.8
+T5	Body_Part 146 161	pieza 2.6 y 2.5
+T6	Body_Part 194 203	Pieza 4.1
+T7	Disease 2 23	PERIODONTITIS CRÓNICA
+T8	Disease 40 61	periodontitis crónica
+T9	Sign_or_Symptom 64 127	Interproximal de pieza 1.7 y 1.8 profundidad de sondaje de 8 mm
+T10	Sign_or_Symptom 194 238	Pieza 4.1 perdida insersión 7 mm por lingual
+T11	Sign_or_Symptom 129 192	Interproximal de pieza 2.6 y 2.5 profundidad de sondaje de 6 mm

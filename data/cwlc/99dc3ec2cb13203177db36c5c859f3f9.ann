@@ -1,0 +1,7 @@
+T1	Abbreviation 33 35	QX
+T2	Abbreviation 36 38	CA
+T3	Abbreviation 66 72	INTERC
+T4	Body_Part 39 54	VESICULA BILIAR
+T5	Disease 36 54	CA VESICULA BILIAR
+T7	Disease 101 117	DEPRESION SEVERA
+T6	Therapeutic_Procedure 33 54	QX CA VESICULA BILIAR

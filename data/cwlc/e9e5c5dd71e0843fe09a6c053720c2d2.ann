@@ -1,0 +1,11 @@
+T1	Body_Part 47 59	piezas 8 . 9
+T2	Body_Part 71 87	piezas 7,10 y 11
+T3	Body_Part 128 135	molares
+T4	Disease 9 24	dentado parcial
+T6	Sign_or_Symptom 25 46	falta frente estetico
+T7	Sign_or_Symptom 71 116	piezas 7,10 y 11 con indicacion de extraccion
+T8	Sign_or_Symptom 138 155	tartaro abundante
+T9	Therapeutic_Procedure 106 116	extraccion
+A1	Pending T9
+T5	Sign_or_Symptom 47 68	piezas 8 . 9 ausentes
+T10	Disease 118 124	caries

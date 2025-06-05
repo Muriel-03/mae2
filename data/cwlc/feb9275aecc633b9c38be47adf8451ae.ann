@@ -1,0 +1,28 @@
+T1	Abbreviation 422 426	ecot
+T2	Abbreviation 691 695	H.PH
+T3	Abbreviation 701 703	AR
+T4	Body_Part 37 43	HOMBRO
+T5	Body_Part 99 113	hombro derecho
+T6	Body_Part 442 456	hombro derecho
+T7	Body_Part 564 601	tendon de la porcion larga del biceps
+T8	Body_Part 641 665	tendon del supraespinoso
+T9	Diagnostic_Procedure 422 456	ecot partes blandas hombro derecho
+T10	Disease 2 43	SÍNDROME DE ABDUCCIÓN DOLOROSA DEL HOMBRO
+T11	Disease 494 507	tenosinovitis
+T13	Disease 701 703	AR
+T14	Laboratory_or_Test_Result 494 507	tenosinovitis
+T15	Laboratory_or_Test_Result 510 601	signos sugerentes de rotura parcial de alto grado del tendon de la porcion larga del biceps
+T16	Laboratory_or_Test_Result 603 665	rotura de espesor y ancho totales del tendon del supraespinoso
+T17	Medication 712 722	prepnisona
+T18	Medication 724 733	celecoxib
+T19	Medication 735 744	omeprazol
+T20	Medication 746 752	tramal
+T21	Sign_or_Symptom 90 113	dolor de hombro derecho
+T23	Sign_or_Symptom 116 173	dificultad y limitacion  a la abduccion , pronosipunacion
+T25	Sign_or_Symptom 175 232	afectando su fuerza muscular para sus actividades diarias
+T26	Sign_or_Symptom 251 311	dolor sobre todo al reposo en la noche de forma insoportable
+T22	Sign_or_Symptom 313 361	sin mayores beneficios de medicamentos indicados
+T24	Clinical_Finding 372 401	funciones cognitivas estables
+R1	Has Arg1:T9 Arg2:T14	
+R2	Has Arg1:T9 Arg2:T15	
+R3	Has Arg1:T9 Arg2:T16	

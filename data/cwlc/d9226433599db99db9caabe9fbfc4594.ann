@@ -1,0 +1,9 @@
+T1	Diagnostic_Procedure 82 109	doppler de anterior uterina
+T2	Disease 57 72	fisura palatina
+T3	Family_Member 48 52	hijo
+T4	Clinical_Finding 0 9	multípara
+T5	Clinical_Finding 10 18	embarazo
+T6	Laboratory_or_Test_Result 110 118	alterado
+R1	Has Arg1:T1 Arg2:T6	
+R2	Has Arg1:T3 Arg2:T2	
+T7	Clinical_Finding 122 130	embarazo

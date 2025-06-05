@@ -1,0 +1,13 @@
+T1	Abbreviation 57 61	poli
+T2	Abbreviation 168 171	ITU
+T3	Disease 2 40	SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO
+T4	Disease 168 183	ITU recurrentes
+T5	Clinical_Finding 108 116	G3P3A0V2
+T6	Clinical_Finding 145 153	Embarazo
+T7	Therapeutic_Procedure 93 107	esterilización
+T8	Clinical_Finding 117 144	Cicatriz de cesárea antigua
+T9	Abbreviation 108 109	G
+A1	Pending T7
+T10	Abbreviation 110 111	P
+T11	Abbreviation 112 113	A
+T12	Abbreviation 114 115	V

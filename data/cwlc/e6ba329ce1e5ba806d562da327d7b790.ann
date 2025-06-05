@@ -1,0 +1,9 @@
+T2	Abbreviation 39 42	PZA
+T3	Body_Part 0 5	P. 31
+T4	Body_Part 39 46	PZA. 32
+T5	Body_Part 118 123	PIEZA
+T6	Disease 6 23	CARIES PENETRANTE
+T7	Disease 25 34	IMPACTADA
+T10	Laboratory_or_Test_Result 0 46	P. 31 CARIES PENETRANTE, IMPACTADA COM PZA. 32
+T12	Therapeutic_Procedure 99 108	EXODONCIA
+A1	Pending T12

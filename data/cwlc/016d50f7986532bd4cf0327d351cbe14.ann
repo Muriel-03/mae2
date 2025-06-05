@@ -1,0 +1,20 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 89 92	HTA
+T3	Abbreviation 94 96	Ca
+T4	Abbreviation 323 326	ITU
+T5	Body_Part 100 114	mama izquierda
+T6	Body_Part 226 232	cuello
+T7	Body_Part 244 258	cuerpo uterino
+T9	Disease 2 27	PROLAPSO GENITAL FEMENINO
+T10	Disease 89 92	HTA
+T11	Disease 94 114	Ca de mama izquierda
+T12	Disease 129 139	metastasis
+T13	Disease 149 165	prolapso genital
+T14	Disease 323 339	ITU a repetición
+T15	Disease 443 468	Prolapso genital femenino
+T16	Family_Member 270 276	esposo
+T17	Sign_or_Symptom 341 357	dolor al caminar
+T18	Laboratory_or_Test_Result 129 144	metastasis osea
+T19	Abbreviation 173 178	aprox
+T20	Sign_or_Symptom 178 258	con maniobra de valsalva se evidencia salida de cuello y parte de cuerpo uterino
+T21	Therapeutic_Procedure 388 404	partos vaginales

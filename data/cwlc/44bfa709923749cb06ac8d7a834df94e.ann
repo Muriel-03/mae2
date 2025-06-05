@@ -1,0 +1,14 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 58	P
+T4	Abbreviation 82 84	OD
+T5	Abbreviation 165 166	P
+T6	Body_Part 57 63	P. 2.4
+T7	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T9	Disease 75 81	caries
+T10	Disease 113 135	pulpitis irreversivble
+T13	Laboratory_or_Test_Result 57 101	P. 2.4 presentaba caries OD proxima a camara
+T15	Sign_or_Symptom 137 163	sintomatica a la palpación
+T16	Therapeutic_Procedure 171 178	trepana
+T3	Clinical_Finding 194 207	dos conductos
+T8	Medication 222 241	Paramonoclorofencol
+T11	Body_Part 165 166	P

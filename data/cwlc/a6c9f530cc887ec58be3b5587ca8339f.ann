@@ -1,0 +1,9 @@
+T1	Abbreviation 20 23	mod
+T2	Abbreviation 89 90	m
+T3	Body_Part 2 12	diente 2.5
+T4	Disease 13 35	caries mod. penetrante
+T5	Disease 36 51	necrosis pulpar
+T6	Laboratory_or_Test_Result 13 35	caries mod. penetrante
+T7	Clinical_Finding 52 61	trepanada
+T8	Therapeutic_Procedure 104 133	obturación oclusal privisoria
+T9	Abbreviation 93 94	d

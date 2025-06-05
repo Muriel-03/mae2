@@ -1,0 +1,11 @@
+T1	Abbreviation 109 113	TACO
+T2	Abbreviation 185 188	AVE
+T3	Disease 117 133	INFARTO CARDIACO
+T5	Disease 168 170	DM
+T6	Disease 185 188	AVE
+T7	Medication 109 113	TACO
+T8	Clinical_Finding 141 150	MARCAPASO
+T9	Therapeutic_Procedure 83 93	EXODONCIAS
+A1	Pending T9
+T4	Disease 171 183	HIPERTENSION
+T10	Abbreviation 168 170	DM

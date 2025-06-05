@@ -1,0 +1,11 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 14 22	MENISCOS
+T3	Body_Part 70 87	rodilla izquierda
+T4	Body_Part 201 208	rodilla
+T5	Body_Part 252 260	meniscos
+T6	Diagnostic_Procedure 177 208	Resonancia magnetica de rodilla
+T7	Disease 2 22	DESGARRO DE MENISCOS
+T8	Disease 240 260	Desgarro de meniscos
+T9	Laboratory_or_Test_Result 240 260	Desgarro de meniscos
+T10	Sign_or_Symptom 61 87	Dolor de rodilla izquierda
+R1	Has Arg1:T6 Arg2:T9	

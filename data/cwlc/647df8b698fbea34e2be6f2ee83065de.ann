@@ -1,0 +1,19 @@
+T1	Abbreviation 0 3	TAC
+T3	Abbreviation 57 60	ORL
+T4	Abbreviation 63 66	IMC
+T5	Abbreviation 104 106	MP
+T6	Abbreviation 110 112	Pc
+T7	Abbreviation 119 122	epw
+T8	Body_Part 27 34	tabique
+T9	Diagnostic_Procedure 0 3	TAC
+T10	Disease 36 43	polipos
+T11	Family_Member 179 185	esposa
+T12	Laboratory_or_Test_Result 36 43	polipos
+T13	Sign_or_Symptom 153 171	smnolenia excesiva
+T14	Sign_or_Symptom 186 203	ronca mucho menos
+A1	Negated T13
+T15	Laboratory_or_Test_Result 8 34	leve desviacion de tabique
+R1	Has Arg1:T9 Arg2:T15	
+R2	Has Arg1:T9 Arg2:T12	
+T16	Abbreviation 88 89	k
+T17	Abbreviation 101 102	m

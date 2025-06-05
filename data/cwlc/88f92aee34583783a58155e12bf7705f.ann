@@ -1,0 +1,11 @@
+T1	Abbreviation 13 16	PZA
+T2	Abbreviation 28 31	O.M
+T3	Abbreviation 103 104	H
+T4	Body_Part 13 20	PZA. 16
+T5	Body_Part 119 122	1.6
+T6	Disease 21 27	CARIES
+T7	Disease 71 92	PULPITIS IRREVERSIBLE
+T10	Laboratory_or_Test_Result 13 43	PZA. 16 CARIES O.M. PENETRANTE
+T12	Sign_or_Symptom 48 65	HISTORIA DE DOLOR
+T14	Therapeutic_Procedure 2 12	ENDODONCIA
+T15	Therapeutic_Procedure 103 115	H. RADICULAR

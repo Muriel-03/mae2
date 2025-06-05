@@ -1,0 +1,14 @@
+T1	Abbreviation 104 107	PAP
+T2	Body_Part 15 36	GLÁNDULA DE BARTHOLIN
+T3	Body_Part 152 163	labio menor
+T4	Diagnostic_Procedure 104 107	PAP
+T5	Disease 2 36	QUISTE DE LA GLÁNDULA DE BARTHOLIN
+T6	Clinical_Finding 49 51	A0
+T7	Sign_or_Symptom 131 225	quiste de 2cmx2cm en labio menor derecho,de consistencia blanda,compresible, indoloro al tacto
+T9	Abbreviation 43 44	G
+T10	Abbreviation 46 47	P
+T11	Abbreviation 49 50	A
+T12	Clinical_Finding 43 45	G4
+T13	Clinical_Finding 46 48	P4
+T8	Abbreviation 146 148	cm
+T14	Abbreviation 142 144	cm

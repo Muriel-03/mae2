@@ -1,0 +1,12 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 99 104	ANTEC
+T3	Abbreviation 152 154	EX
+T4	Body_Part 133 146	ZONA INGUINAL
+T5	Disease 2 45	CÓLICO RENAL, NO ESPECIFICADOLITIASIS RENAL
+T7	Disease 314 343	Colico renal, no especificado
+T9	Laboratory_Procedure 152 163	EX DE ORINA
+T11	Sign_or_Symptom 108 146	DOLOR LUMBAR IRRADIADO A ZONA INGUINAL
+T12	Laboratory_or_Test_Result 168 211	CRISTALSE DEOXALATO DE CALCIO, RESTO NORMAL
+R1	Has Arg1:T9 Arg2:T12	
+T6	Diagnostic_Procedure 228 246	ESTUDIO POR IMAGEN
+A1	Pending T6

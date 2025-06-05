@@ -1,0 +1,16 @@
+T1	Abbreviation 124 127	pza
+T2	Abbreviation 136 139	pza
+T3	Abbreviation 176 179	pza
+T5	Body_Part 124 135	pza 2.6-3.6
+T6	Body_Part 136 143	pza 1.3
+T7	Body_Part 164 167	4.6
+T8	Body_Part 176 183	pza 4.7
+T9	Disease 202 213	apiñamiento
+T10	Clinical_Finding 76 106	clase de angle no determinable
+T11	Sign_or_Symptom 32 74	línea media superior desviada a la derecha
+T12	Sign_or_Symptom 108 135	Mordida cruzada pza 2.6-3.6
+T13	Sign_or_Symptom 164 175	4.6 ausente
+T14	Sign_or_Symptom 176 200	pza 4.7 mesiones climara
+T15	Sign_or_Symptom 202 220	apiñamiento severo
+T16	Clinical_Finding 0 30	Biotipo temporal, perfil recto
+T4	Sign_or_Symptom 136 162	pza 1.3 en vestibo versión

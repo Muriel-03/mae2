@@ -1,0 +1,8 @@
+T1	Abbreviation 26 30	pcte
+T2	Abbreviation 32 35	ges
+T3	Abbreviation 40 43	TDA
+T4	Body_Part 18 25	pieza 8
+T5	Body_Part 94 101	pieza 9
+T7	Disease 40 43	TDA
+T8	Disease 61 93	fractura coronaria no complicada
+T9	Sign_or_Symptom 0 25	mordida invertida pieza 8

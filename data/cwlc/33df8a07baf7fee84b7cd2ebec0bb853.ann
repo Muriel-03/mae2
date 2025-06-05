@@ -1,0 +1,11 @@
+T1	Abbreviation 12 15	EMB
+T2	Abbreviation 19 22	SEM
+T3	Abbreviation 27 30	ECO
+T4	Abbreviation 103 106	ITU
+T5	Diagnostic_Procedure 27 30	ECO
+T6	Disease 40 48	OBESIDAD
+T7	Disease 62 82	DIABETES GESTACIONAL
+T9	Disease 103 106	ITU
+T10	Family_Member 85 90	MADRE
+T11	Clinical_Finding 0 10	PRIMIGESTA
+T12	Clinical_Finding 12 15	EMB

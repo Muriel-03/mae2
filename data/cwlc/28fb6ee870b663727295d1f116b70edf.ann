@@ -1,0 +1,6 @@
+T1	Abbreviation 48 51	APS
+T2	Sign_or_Symptom 2 24	DOLOR, NO ESPECIFICADO
+T3	Disease 81 89	bruxismo
+T4	Sign_or_Symptom 159 181	Dolor, no especificado
+T5	Therapeutic_Procedure 108 127	plano de relajación
+A1	Pending T5

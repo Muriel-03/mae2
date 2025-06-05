@@ -1,0 +1,17 @@
+T1	Abbreviation 79 83	PZA.
+T2	Abbreviation 89 92	PZA
+T3	Abbreviation 171 174	PZA
+T4	Abbreviation 252 255	REH
+T5	Body_Part 79 86	PZA. 19
+T6	Body_Part 89 95	PZA 19
+T7	Body_Part 171 178	PZA. 14
+T8	Disease 100 118	FRACTURA CORONARIA
+T9	Disease 179 197	FRACTURA CORONARIA
+T15	Clinical_Finding 120 143	RESTAURACIONES EXTENSAS
+T17	Therapeutic_Procedure 64 78	REHABILITACION
+T18	Therapeutic_Procedure 145 168	TRATAMIENTO ENDODONTICO
+T19	Therapeutic_Procedure 209 217	EXODONCI
+A1	Pending T19
+T10	Therapeutic_Procedure 252 255	REH
+A2	Pending T10
+A3	Pending T17

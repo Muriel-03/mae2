@@ -1,0 +1,10 @@
+T1	Abbreviation 46 49	APS
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 51 54	1.4
+T4	Body_Part 122 135	camara pulpar
+T5	Body_Part 187 192	pulpa
+T6	Disease 2 22	NECROSIS DE LA PULPA
+T7	Disease 55 81	caries dentinaria profunda
+T8	Disease 172 192	Necrosis de la pulpa
+T9	Therapeutic_Procedure 159 170	trepanación
+T10	Sign_or_Symptom 83 146	al eliminar (con anestesia) se perfora camara pulpar, sangrando

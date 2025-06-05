@@ -1,0 +1,15 @@
+T2	Abbreviation 112 115	CCA
+T3	Abbreviation 116 117	X
+T4	Abbreviation 118 121	SFA
+T5	Abbreviation 143 146	FUR
+T7	Body_Part 209 223	Cuello Uterino
+T9	Disease 118 121	SFA
+T10	Disease 159 223	Celulas Atipicas de Significado Indeterminado del Cuello Uterino
+T11	Clinical_Finding 109 111	M1
+T13	Medication 133 141	IMPLANON
+T1	Laboratory_or_Test_Result 2 66	CELULAS ATIPICAS DE SIGNIFICADO INDETERMINADO DEL CUELLO UTERINO
+T6	Abbreviation 109 110	M
+T8	Body_Part 52 66	CUELLO UTERINO
+T12	Disease 2 66	CELULAS ATIPICAS DE SIGNIFICADO INDETERMINADO DEL CUELLO UTERINO
+T14	Laboratory_or_Test_Result 159 223	Celulas Atipicas de Significado Indeterminado del Cuello Uterino
+T15	Clinical_Finding 112 115	CCA

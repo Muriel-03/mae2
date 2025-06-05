@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 104 128	sector anterior inferior
+T3	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T4	Disease 179 214	Maloclusion de tipo no especificado
+T5	Sign_or_Symptom 79 137	apiñamiento dental en el sector anterior inferior (minimo)
+T6	Therapeutic_Procedure 151 176	tratamiento de ortodoncia
+T7	Disease 79 97	apiñamiento dental
+A1	Pending T6

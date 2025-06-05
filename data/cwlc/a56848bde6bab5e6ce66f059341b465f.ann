@@ -1,0 +1,28 @@
+T1	Abbreviation 100 103	APS
+T2	Abbreviation 142 145	HTA
+T3	Abbreviation 147 150	DM2
+T4	Abbreviation 151 154	NIR
+T5	Abbreviation 156 159	ENF
+T6	Abbreviation 225 228	HRC
+T7	Abbreviation 265 268	EKG
+T8	Abbreviation 307 309	MP
+T9	Abbreviation 313 316	SRA
+T10	Abbreviation 318 324	RR2TSS
+T11	Abbreviation 358 361	ATE
+T12	Body_Part 47 52	PECHO
+T13	Diagnostic_Procedure 265 268	EKG
+T14	Clinical_Finding 2 33	PRESENCIA DE MARCAPASO CARDIACO
+T15	Disease 37 52	ANGINA DE PECHO
+T16	Disease 56 76	ENFERMEDAD DE CHAGAS
+T17	Disease 142 145	HTA
+T18	Disease 147 150	DM2
+T19	Disease 156 166	ENF CHAGAS
+T20	Disease 191 206	ANGINA INSTABLE
+T21	Clinical_Finding 363 394	Presencia de marcapaso cardiaco
+T23	Clinical_Finding 179 189	MARCAPASOS
+T25	Clinical_Finding 318 324	RR2TSS
+T26	Laboratory_or_Test_Result 269 288	RITMO DE MARCAPASOS
+T27	Clinical_Finding 307 316	MP(+) SRA
+T30	Therapeutic_Procedure 15 33	MARCAPASO CARDIACO
+T31	Therapeutic_Procedure 376 394	marcapaso cardiaco
+R1	Has Arg1:T13 Arg2:T26	

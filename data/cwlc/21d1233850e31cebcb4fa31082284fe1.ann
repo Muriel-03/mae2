@@ -1,0 +1,15 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 113 116	FUR
+T3	Abbreviation 145 148	APS
+T4	Abbreviation 252 255	TTO
+T5	Disease 2 34	DIABETES MELLITUS EN EL EMBARAZO
+T6	Disease 153 171	DIABETES MELLLITUS
+T7	Clinical_Finding 63 65	G3
+T8	Clinical_Finding 80 88	EMBARAZO
+T9	Medication 204 217	GLIBENCLAMIDA
+T10	Medication 220 230	METFORMINA
+T11	Clinical_Finding 65 67	P2
+T12	Clinical_Finding 67 69	A0
+T13	Abbreviation 63 64	G
+T14	Abbreviation 65 66	P
+T15	Abbreviation 67 68	A

@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	PZA
+T2	Abbreviation 73 76	PFU
+T3	Body_Part 0 6	PZA 10
+T4	Disease 38 56	FRACTURA CORONARIA
+T5	Sign_or_Symptom 79 98	COMPROMISO ESTETICO
+T6	Therapeutic_Procedure 7 32	TRATADA  ENDODONTICAMENTE
+T7	Therapeutic_Procedure 73 76	PFU
+A1	Pending T7

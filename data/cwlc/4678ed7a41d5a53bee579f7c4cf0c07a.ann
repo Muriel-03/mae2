@@ -1,0 +1,17 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 2 9	DIENTES
+T3	Body_Part 146 155	pieza 4.8
+T4	Body_Part 194 203	pieza 1.8
+T5	Body_Part 264 270	piezas
+T6	Body_Part 272 279	Dientes
+T7	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T8	Disease 177 192	pericoronaritis
+T9	Disease 272 302	Dientes incluidos e impactados
+T10	Clinical_Finding 71 98	sin antecedentes sistémicos
+T11	Clinical_Finding 100 112	sin alergias
+T12	Sign_or_Symptom 114 135	muy mala higiene oral
+T13	Sign_or_Symptom 146 170	pieza 4.8 semi- incluida
+T14	Therapeutic_Procedure 245 254	exodoncia
+T15	Disease 208 234	caries dentinaria profunda
+T16	Laboratory_or_Test_Result 208 234	caries dentinaria profunda
+A1	Pending T14

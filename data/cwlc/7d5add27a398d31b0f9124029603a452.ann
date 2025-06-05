@@ -1,0 +1,8 @@
+T1	Body_Part 0 15	pieza 1.5 - 1.6
+T2	Laboratory_or_Test_Result 58 71	lesion apical
+T3	Sign_or_Symptom 92 97	dolor
+T4	Therapeutic_Procedure 33 43	endodoncia
+A1	Pending T4
+A2	Negated T3
+T5	Therapeutic_Procedure 104 115	trepanacion
+A3	Pending T5

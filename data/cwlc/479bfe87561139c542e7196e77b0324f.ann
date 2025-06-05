@@ -1,0 +1,7 @@
+T1	Body_Part 31 37	DIENTE
+T2	Body_Part 44 53	pieza 4.8
+T3	Body_Part 85 101	Piezas 1.8 y 2.8
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Disease 58 73	pericoronaritis
+T6	Sign_or_Symptom 44 84	pieza 4.8 con pericoronaritis recurrente
+T7	Sign_or_Symptom 85 142	Piezas 1.8 y 2.8 erupcionadas en posición vestibularizada

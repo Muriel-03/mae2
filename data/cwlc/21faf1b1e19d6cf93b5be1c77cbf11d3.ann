@@ -1,0 +1,7 @@
+T3	Laboratory_or_Test_Result 171 185	HIPERCALCIURIA
+T4	Family_Member 235 239	MAMA
+T5	Laboratory_or_Test_Result 61 85	BACTERIURIA ASINTOMATICA
+T6	Laboratory_or_Test_Result 102 116	HIPERCALCIURIA
+T1	Sign_or_Symptom 125 151	MALOS HABITOS ALIMENTARIOS
+T2	Therapeutic_Procedure 197 220	ORIENTACION NUTRICIONAL
+A1	Pending T2

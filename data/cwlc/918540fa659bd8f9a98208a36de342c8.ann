@@ -1,0 +1,19 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 278 280	ex
+T3	Abbreviation 324 325	+
+T4	Abbreviation 345 346	-
+T5	Body_Part 14 22	MENISCOS
+T6	Body_Part 95 110	rodilla derecha
+T7	Body_Part 405 413	meniscos
+T8	Disease 2 22	DESGARRO DE MENISCOS
+T9	Disease 393 413	Desgarro de meniscos
+T10	Sign_or_Symptom 86 110	dolor en rodilla derecha
+T11	Sign_or_Symptom 187 192	dolor
+T12	Sign_or_Symptom 251 273	constante en la marcha
+T13	Sign_or_Symptom 286 305	dolor en interlinea
+T14	Sign_or_Symptom 307 315	Mcmurray
+T15	Sign_or_Symptom 318 325	Apley +
+T16	Sign_or_Symptom 328 344	signos de  cajon
+A1	Negated T16
+T17	Sign_or_Symptom 353 360	bostezo
+A2	Negated T17

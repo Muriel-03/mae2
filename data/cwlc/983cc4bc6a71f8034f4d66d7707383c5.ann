@@ -1,0 +1,14 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 123 128	APROX
+T3	Abbreviation 141 143	PA
+T4	Abbreviation 185 187	MP
+T5	Abbreviation 187 188	+
+T6	Abbreviation 188 191	SRA
+T7	Abbreviation 192 198	RR2TSS
+T8	Disease 2 28	DEMENCIA , NO ESPECIFICADA
+T9	Disease 219 245	Demencia , no especificada
+T10	Sign_or_Symptom 76 109	ALTERACION DE MEMORIA ANTEROGRADA
+T11	Sign_or_Symptom 152 184	DESORIENTADO EN TIEMPO Y ESPACIO
+T12	Clinical_Finding 185 191	MP+SRA
+T13	Clinical_Finding 192 198	RR2TSS
+T14	Diagnostic_Procedure 199 214	MINIMENTAL TEST

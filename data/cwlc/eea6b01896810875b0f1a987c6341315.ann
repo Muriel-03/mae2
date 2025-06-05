@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 7	pza 2.5
+T3	Body_Part 31 37	cámara
+T4	Disease 8 29	pulpitis irreversible
+T5	Laboratory_or_Test_Result 31 62	cámara parcialmente calcificada
+T6	Therapeutic_Procedure 72 83	trepanación
+T7	Therapeutic_Procedure 97 118	tratamiento radicular
+A1	Pending T7

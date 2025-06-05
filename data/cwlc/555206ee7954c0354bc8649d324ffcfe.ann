@@ -1,0 +1,6 @@
+T1	Abbreviation 39 42	ILA
+T2	Abbreviation 48 50	MM
+T3	Abbreviation 52 55	MBU
+T5	Clinical_Finding 0 8	EMBARAZO
+T6	Sign_or_Symptom 120 168	PRURITO   NOCTURNO  Y  DIARIO  PLANTAR  Y PALMAR
+T7	Diagnostic_Procedure 20 28	COGRAFIA

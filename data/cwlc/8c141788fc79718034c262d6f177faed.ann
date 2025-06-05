@@ -1,0 +1,13 @@
+T1	Body_Part 103 109	pulmón
+T2	Body_Part 186 192	hígado
+T3	Body_Part 299 305	hígado
+T4	Disease 0 14	MASA BRONQUIAL
+T5	Disease 17 50	BRONQUIECTASIA CRONICA A ESTUDIAR
+T6	Disease 111 133	QUISTE HEPATICO SIMPLE
+T7	Disease 149 192	Otras enfermedades especificadas del hígado
+T8	Disease 194 216	QUISTE HEPATICO SIMPLE
+T9	Laboratory_or_Test_Result 219 248	DOS QUISTES SIMPLES HEPATICOS
+T10	Disease 262 305	Otras enfermedades especificadas del hígado
+T11	Laboratory_or_Test_Result 111 133	QUISTE HEPATICO SIMPLE
+T12	Laboratory_or_Test_Result 194 216	QUISTE HEPATICO SIMPLE
+T13	Laboratory_or_Test_Result 53 72	Hallazgos anormales

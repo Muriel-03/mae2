@@ -1,0 +1,8 @@
+T1	Abbreviation 34 37	APS
+T3	Body_Part 78 81	4.5
+T4	Disease 2 10	PULPITIS
+T5	Disease 97 111	pulpitis aguda
+T7	Therapeutic_Procedure 51 74	tratamiento de conducto
+T8	Clinical_Finding 83 92	trepanado
+T2	Disease 115 123	Pulpitis
+A1	Pending T7

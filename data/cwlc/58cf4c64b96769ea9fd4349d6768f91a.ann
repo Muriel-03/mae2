@@ -1,0 +1,20 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 178 180	RX
+T3	Body_Part 21 30	ADENOIDES
+T4	Body_Part 184 202	Cavum Rinofaringeo
+T5	Body_Part 249 259	rinofarinx
+T6	Body_Part 279 292	columna aèrea
+T7	Body_Part 307 316	amigdalas
+T8	Body_Part 354 363	adenoides
+T9	Diagnostic_Procedure 178 202	RX de Cavum Rinofaringeo
+T10	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T11	Sign_or_Symptom 81 105	amigdalitis a repeticion
+T12	Disease 335 363	Hipertrofia de las adenoides
+T13	Family_Member 123 128	madre
+T14	Laboratory_or_Test_Result 217 305	aumento de partes blandas en el rinofarinx que ocupa 40 de la columna aèrea a este nivel
+T15	Sign_or_Symptom 142 161	ronquidos al dormir
+T16	Sign_or_Symptom 164 173	voz nasal
+T17	Disease 81 92	amigdalitis
+R1	Has Arg1:T9 Arg2:T14	
+T18	Laboratory_or_Test_Result 307 333	amigdalas de tamaño normal
+R2	Has Arg1:T9 Arg2:T18	

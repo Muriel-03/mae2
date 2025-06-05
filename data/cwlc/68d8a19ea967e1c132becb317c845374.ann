@@ -1,0 +1,12 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 101 105	pmcf
+T3	Body_Part 59 68	pieza 3.6
+T4	Body_Part 182 189	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 171 189	Caries del cemento
+T9	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T10	Medication 101 105	pmcf
+T11	Therapeutic_Procedure 69 78	trepanada
+T12	Therapeutic_Procedure 80 105	se deja con mota con pmcf
+T13	Therapeutic_Procedure 123 168	rehabilitacion mediante corona e incrustacion
+A1	Pending T13

@@ -1,0 +1,15 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 346 348	Dr
+T3	Abbreviation 427 430	HRC
+T4	Abbreviation 432 436	Atte
+T5	Abbreviation 439 441	Ud
+T6	Body_Part 19 35	GLÁNDULA SALIVAL
+T7	Body_Part 259 277	parotida izquierda
+T8	Body_Part 460 476	glandula salival
+T9	Diagnostic_Procedure 212 231	ecografia  cervical
+T10	Disease 2 58	TUMOR MALIGNO DE GLÁNDULA SALIVAL MAYOR, NO ESPECIFICADA
+T11	Disease 443 499	Tumor maligno de glandula salival mayor, no especificada
+T12	Laboratory_or_Test_Result 245 277	nodulacion en parotida izquierda
+T13	Sign_or_Symptom 111 149	aumento de volumen de volumen cervical
+T14	Sign_or_Symptom 174 179	dolor
+R1	Has Arg1:T9 Arg2:T12	

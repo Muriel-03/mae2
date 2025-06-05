@@ -1,0 +1,7 @@
+T1	Abbreviation 34 36	dx
+T2	Abbreviation 40 43	LES
+T3	Disease 40 43	LES
+T4	Medication 56 73	hidroxicloroquina
+T5	Abbreviation 77 79	mg
+T6	Sign_or_Symptom 89 98	fotofobia
+T7	Disease 140 167	LUPUS ERITEMATOSO SISTEMICO

@@ -1,0 +1,8 @@
+T1	Abbreviation 125 128	APS
+T2	Abbreviation 251 253	ev
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 143 164	anomalia intermaxilar
+T5	Disease 215 235	apiñamiento anterior
+T6	Sign_or_Symptom 76 101	mordida inverida anterior
+T7	Sign_or_Symptom 169 210	mordida invertida anterior e intramaxilar
+T9	Disease 50 71	anomalia intermaxilar

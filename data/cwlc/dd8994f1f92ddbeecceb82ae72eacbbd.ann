@@ -1,0 +1,8 @@
+T1	Abbreviation 60 64	tto.
+T2	Abbreviation 104 107	pfu
+T3	Body_Part 0 9	diente 30
+T4	Therapeutic_Procedure 60 76	tto. endodontico
+T5	Therapeutic_Procedure 104 107	pfu
+T6	Clinical_Finding 10 38	terapia previamente iniciada
+A1	Pending T4
+A2	Pending T5

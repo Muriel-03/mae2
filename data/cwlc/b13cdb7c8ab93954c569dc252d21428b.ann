@@ -1,0 +1,9 @@
+T1	Body_Part 64 76	diente 17-32
+T2	Clinical_Finding 9 19	embarazada
+T3	Sign_or_Symptom 64 124	diente 17-32  semierupcionado  con reagudizacion  esporadica
+T4	Therapeutic_Procedure 146 156	extraccion
+T5	Therapeutic_Procedure 168 178	exodoncias
+A1	Pending T4
+A2	Pending T5
+T6	Therapeutic_Procedure 205 210	parto
+A3	Pending T6

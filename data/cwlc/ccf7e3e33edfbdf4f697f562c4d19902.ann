@@ -1,0 +1,14 @@
+T1	Abbreviation 34 36	PD
+T2	Abbreviation 42 44	PD
+T3	Abbreviation 113 115	PD
+T4	Abbreviation 122 124	PD
+T5	Body_Part 34 40	PD 5.1
+T6	Body_Part 42 48	PD 1.1
+T7	Body_Part 113 119	PD 2.1
+T8	Body_Part 122 128	PD 1.1
+T9	Laboratory_or_Test_Result 122 157	PD 1.1 CARA VESTIBULAR HACIA DISTAL
+T10	Disease 0 9	MESIODEMS
+T11	Sign_or_Symptom 0 40	MESIODEMS ERUPCIONADO EN LUGAR DE PD 5.1
+T12	Laboratory_or_Test_Result 42 86	PD 1.1 EN EVOLUCION INTEROSEA DE GIROVERSION
+T13	Laboratory_or_Test_Result 87 119	2 MESIODEMS DE RELACION A PD 2.1
+T14	Disease 89 98	MESIODEMS

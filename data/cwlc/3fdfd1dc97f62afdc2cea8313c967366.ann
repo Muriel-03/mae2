@@ -1,0 +1,6 @@
+T1	Abbreviation 213 216	GTT
+T2	Disease 0 4	Z931
+T3	Disease 5 17	GASTROSTOMÍA
+T4	Disease 78 98	TRASTORNO DEGLUTORIO
+T5	Therapeutic_Procedure 203 216	RETIRO DE GTT
+T6	Clinical_Finding 27 50	USUARIA DE GASTROSTOMÍA

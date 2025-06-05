@@ -1,0 +1,9 @@
+T1	Abbreviation 93 96	APS
+T2	Body_Part 138 144	encias
+T3	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T4	Disease 30 69	periodontitis cronica severa localizada
+T5	Disease 182 203	Periodontitis cronica
+T6	Sign_or_Symptom 108 128	sacos periodentalers
+T7	Sign_or_Symptom 129 137	sangrada
+T8	Sign_or_Symptom 138 162	encias recesion gingival
+T9	Sign_or_Symptom 163 181	movilidad dentaria

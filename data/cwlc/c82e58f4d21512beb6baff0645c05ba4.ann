@@ -1,0 +1,6 @@
+T1	Body_Part 18 27	DIENTE 17
+T2	Laboratory_or_Test_Result 18 52	DIENTE 17 IMPACTADA Y SEMIINCLUIDA
+T4	Sign_or_Symptom 61 66	DOLOR
+T5	Sign_or_Symptom 83 103	DIFICULTA LA HIGIENE
+T6	Therapeutic_Procedure 126 135	EXODONCIA
+A1	Pending T6

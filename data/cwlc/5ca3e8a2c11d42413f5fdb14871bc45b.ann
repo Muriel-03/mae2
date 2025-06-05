@@ -1,0 +1,24 @@
+T1	Abbreviation 113 116	APS
+T2	Abbreviation 118 120	tu
+T3	Abbreviation 132 135	izq
+T4	Abbreviation 187 190	eco
+T5	Abbreviation 268 270	DM
+T6	Abbreviation 272 275	HTA
+T7	Body_Part 20 37	TEJIDO CONJUNTIVO
+T8	Body_Part 49 89	TEJIDOS BLANDOS DE CABEZA, CARA Y CUELLO
+T9	Body_Part 124 135	maxilar izq
+T10	Body_Part 240 257	región mandibular
+T11	Body_Part 322 339	tejido conjuntivo
+T12	Body_Part 351 376	tejidos blandos de cabeza
+T13	Body_Part 378 382	cara
+T14	Body_Part 385 391	cuello
+T15	Diagnostic_Procedure 187 190	eco
+T16	Disease 2 89	TUMOR BENIGNO DEL TEJIDO CONJUNTIVO Y DE OTROS TEJIDOS BLANDOS DE CABEZA, CARA Y CUELLO
+T17	Disease 216 222	quiste
+T18	Disease 268 270	DM
+T19	Disease 272 275	HTA
+T22	Disease 304 391	Tumor benigno del tejido conjuntivo y de otros tejidos blandos de cabeza, cara y cuello
+T23	Laboratory_or_Test_Result 195 213	tumoración benigna
+T24	Laboratory_or_Test_Result 216 257	quiste contralateral en región mandibular
+T25	Sign_or_Symptom 141 162	sintomatología difusa
+T26	Sign_or_Symptom 118 135	tu en maxilar izq

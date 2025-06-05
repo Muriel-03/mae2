@@ -1,0 +1,13 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 99 101	PT
+T3	Body_Part 65 72	maxilar
+T4	Body_Part 137 146	Mandibula
+T5	Body_Part 267 274	dientes
+T6	Disease 2 18	DESDENTADO TOTAL
+T7	Disease 48 85	Desdentado total maxilar y mandibular
+T8	Disease 229 305	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Sign_or_Symptom 103 136	Maxilar: Reborde clase III Atwood
+T11	Sign_or_Symptom 137 170	Mandibula: Reborde clase V Atwood
+T12	Therapeutic_Procedure 197 211	rehabilitacion
+A1	Pending T12
+T9	Clinical_Finding 87 101	Portador de PT

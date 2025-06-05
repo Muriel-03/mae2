@@ -1,0 +1,7 @@
+T1	Body_Part 93 102	pieza 2.2
+T2	Body_Part 126 133	grupo V
+T3	Disease 52 91	periodontitis crónica moderada a severa
+T4	Clinical_Finding 32 50	dentición completa
+T5	Sign_or_Symptom 93 124	pieza 2.2 con movilidad grado 1
+T6	Laboratory_or_Test_Result 126 168	grupo V reabzorción osea marginal moderada
+T7	Body_Part 32 41	dentición

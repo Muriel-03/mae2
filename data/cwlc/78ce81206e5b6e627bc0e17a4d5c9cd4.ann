@@ -1,0 +1,7 @@
+T1	Abbreviation 35 38	APS
+T2	Abbreviation 64 69	ANTEC
+T3	Disease 2 11	EPISTAXIS
+T5	Disease 145 154	Epistaxis
+T6	Sign_or_Symptom 73 95	EPISTAXIS A REPETICION
+T4	Sign_or_Symptom 145 154	Epistaxis
+T7	Sign_or_Symptom 2 11	EPISTAXIS

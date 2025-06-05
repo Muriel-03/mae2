@@ -1,0 +1,6 @@
+T1	Body_Part 53 61	pieza 10
+T2	Body_Part 93 102	dentición
+T3	Disease 18 38	apiñamiento dentario
+T6	Clinical_Finding 93 138	dentición mixta, en segunda etapa de recambio
+T7	Sign_or_Symptom 18 47	apiñamiento dentario anterior
+T8	Sign_or_Symptom 53 79	pieza 10 en palatoposicion

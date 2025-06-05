@@ -1,0 +1,14 @@
+T1	Abbreviation 98 101	APS
+T2	Abbreviation 170 173	PAP
+T3	Abbreviation 193 194	M
+T4	Abbreviation 197 200	FUR
+T5	Diagnostic_Procedure 170 173	PAP
+T6	Disease 2 74	OTRAS ENFERMEDADES DE TRANSMISIÓN PREDOMINANTEMENTE SEXUAL ESPECIFICADAS
+T8	Disease 241 313	Otras enfermedades de transmision predominantemente sexual especificadas
+T10	Clinical_Finding 193 195	M1
+T11	Clinical_Finding 220 239	USUARIA DE IMPLANON
+T14	Medication 231 239	IMPLANON
+T15	Sign_or_Symptom 132 168	CONDILOMAS A NIVEL VULVAR Y PERIANAL
+T16	Body_Part 145 168	NIVEL VULVAR Y PERIANAL
+T7	Laboratory_or_Test_Result 186 191	IG8J1
+R1	Has Arg1:T5 Arg2:T7	

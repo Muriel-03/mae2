@@ -1,0 +1,14 @@
+T1	Abbreviation 65 68	APS
+T2	Abbreviation 160 168	otorrino
+T3	Abbreviation 174 177	TAC
+T4	Abbreviation 281 284	HRC
+T5	Abbreviation 292 294	Ud
+T6	Body_Part 25 41	TÍMPANO DEL OÍDO
+T7	Body_Part 118 132	oido izquierdo
+T8	Body_Part 178 182	oido
+T9	Body_Part 319 335	timpano del oido
+T10	Diagnostic_Procedure 174 182	TAC oido
+T11	Disease 2 41	RUPTURA TRAUMÁTICA DEL TÍMPANO DEL OÍDO
+T13	Disease 296 335	Ruptura traumatica del timpano del oido
+T14	Therapeutic_Procedure 103 132	timpanoplastia oido izquierdo
+T12	Abbreviation 285 289	Atte

@@ -1,0 +1,9 @@
+T1	Abbreviation 117 119	ic
+T2	Body_Part 0 10	diente 4.6
+T3	Body_Part 59 65	diente
+T4	Disease 11 28	caries penetrante
+T5	Clinical_Finding 70 102	tratamiento previamente iniciado
+T6	Laboratory_or_Test_Result 0 28	diente 4.6 caries penetrante
+T7	Therapeutic_Procedure 129 139	endodoncia
+T8	Therapeutic_Procedure 40 58	acceso endodontico
+A1	Pending T7

@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 2 26	FRENILLO LABIAL SUPERIOR
+T3	Body_Part 70 94	frenillo labial superior
+T4	Body_Part 179 196	papilas linguales
+T6	Sign_or_Symptom 2 32	FRENILLO LABIAL SUPERIOR CORTO
+T7	Sign_or_Symptom 70 113	frenillo labial superior con inserción baja
+T8	Sign_or_Symptom 126 135	diastema.
+T9	Therapeutic_Procedure 148 159	frenectomía
+A1	Pending T9
+T10	Sign_or_Symptom 160 196	Hipertrofia de las papilas linguales

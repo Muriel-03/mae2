@@ -1,0 +1,13 @@
+T1	Clinical_Finding 0 3	gm5
+T2	Abbreviation 0 3	gm5
+T3	Clinical_Finding 4 6	v4
+T4	Abbreviation 4 6	v4
+T5	Abbreviation 7 10	MAC
+T6	Clinical_Finding 7 18	MAC POMEROY
+T7	Disease 24 35	ADENOMIOSIS
+T8	Disease 38 59	PATOLOGIA ENDOMETRIAL
+T9	Disease 71 84	QUISTE OVARIO
+T10	Body_Part 78 92	OVARIO DERECHO
+T11	Abbreviation 93 94	X
+T12	Abbreviation 95 98	ECO
+T13	Diagnostic_Procedure 95 111	ECO GINECOLOGICA

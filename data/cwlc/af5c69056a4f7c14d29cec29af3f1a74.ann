@@ -1,0 +1,14 @@
+T1	Abbreviation 83 86	APS
+T2	Abbreviation 303 305	IC
+T3	Body_Part 13 28	CONDUCTO BILIAR
+T4	Body_Part 366 381	conducto biliar
+T5	Diagnostic_Procedure 178 200	ECOTMOGRAFIA ABDOMINAL
+T6	Disease 2 59	CÁLCULO DE CONDUCTO BILIAR SIN COLANGITIS NI COLECISTITIS
+T8	Disease 208 220	COLELITIASIS
+T9	Disease 355 412	Calculo de conducto biliar sin colangitis ni colecistitis
+T10	Clinical_Finding 109 125	SIN ANTECEDENTES
+T11	Laboratory_or_Test_Result 208 220	COLELITIASIS
+T14	Sign_or_Symptom 137 176	CUADROS RECURRENTES DE COLICOS BILIARES
+R1	Has Arg1:T5 Arg2:T11	
+T7	Therapeutic_Procedure 235 242	CIRUGIA
+A1	Pending T7

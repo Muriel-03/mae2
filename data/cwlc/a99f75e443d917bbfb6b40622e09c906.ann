@@ -1,0 +1,8 @@
+T2	Body_Part 22 27	COLON
+T4	Diagnostic_Procedure 97 104	BIOPSIA
+T5	Disease 9 27	POLIPO EN EL COLON
+T6	Therapeutic_Procedure 59 71	POLIPECTOMIA
+T7	Abbreviation 0 5	ANTEC
+T1	Laboratory_or_Test_Result 106 133	SIN PATOLOGIA DE MALIGNIDAD
+R1	Has Arg1:T4 Arg2:T1	
+T3	Abbreviation 86 88	DR

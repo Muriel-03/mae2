@@ -1,0 +1,8 @@
+T1	Abbreviation 94 97	pza
+T2	Body_Part 94 102	pza. 1.4
+T3	Disease 33 44	apiñamiento
+T4	Clinical_Finding 0 18	clase I esqueletal
+T5	Clinical_Finding 103 126	clase I molar bilateral
+T6	Clinical_Finding 19 32	dolica facial
+T7	Sign_or_Symptom 33 73	apiñamiento moderado superior e inferior
+T8	Sign_or_Symptom 75 102	mordida cruzada de pza. 1.4

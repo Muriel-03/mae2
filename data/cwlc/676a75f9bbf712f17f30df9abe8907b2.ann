@@ -1,0 +1,18 @@
+T1	Disease 2 40	NEUMOCONIOSIS DEBIDA A POLVO DE SÍLICE
+T2	Clinical_Finding 62 71	ex minero
+T3	Abbreviation 98 101	ant
+T4	Disease 105 114	silicosis
+T5	Sign_or_Symptom 194 200	disnea
+T6	Disease 206 218	desaturacion
+T7	Medication 271 289	corticoides orales
+T8	Medication 292 300	berodual
+T9	Abbreviation 319 322	sat
+T10	Abbreviation 372 375	mts
+T11	Abbreviation 396 401	aprox
+T12	Clinical_Finding 407 423	cianosis central
+A1	Negated T12
+T13	Sign_or_Symptom 425 442	mp muy disminuido
+T14	Sign_or_Symptom 456 508	sibilancias espiratorias e inspiratorias bilaterales
+T15	Sign_or_Symptom 510 537	crujidos bibasales, escasos
+T16	Abbreviation 543 546	ant
+T17	Abbreviation 425 427	mp

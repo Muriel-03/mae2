@@ -1,0 +1,12 @@
+T1	Abbreviation 78 81	APS
+T2	Body_Part 229 232	ojo
+T3	Disease 2 54	DISMINUCIÓN DE LA AGUDEZA VISUAL, SIN ESPECIFICACIÓN
+T4	Disease 336 388	Disminucion de la agudeza visual, sin especificacion
+T5	Clinical_Finding 102 108	lentes
+T6	Clinical_Finding 207 213	lentes
+T7	Sign_or_Symptom 148 213	disminuye agudeza visual progresivamente a pesar de uso de lentes
+T8	Sign_or_Symptom 229 237	ojo rojo
+T9	Sign_or_Symptom 243 262	signos de gluaucoma
+T10	Sign_or_Symptom 264 299	mejora vision a agujero estenopeico
+A1	Negated T8
+A2	Negated T9

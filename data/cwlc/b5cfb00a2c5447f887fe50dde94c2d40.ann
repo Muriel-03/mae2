@@ -1,0 +1,7 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 61	pzas
+T3	Body_Part 57 71	pzas 3.2 y 3.3
+T4	Body_Part 98 105	dentina
+T5	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T6	Disease 85 105	Caries de la dentina
+T10	Therapeutic_Procedure 73 83	trepanadas

@@ -1,0 +1,6 @@
+T1	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T2	Clinical_Finding 63 91	dentición mixta segunda fase
+T3	Disease 93 115	Anomalía dento maxilar
+T4	Sign_or_Symptom 116 194	apiñamiento dental severo anterosuperior y anteroinferior por falta de espacio
+T5	Body_Part 63 72	dentición
+T6	Disease 116 134	apiñamiento dental

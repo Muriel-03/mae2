@@ -1,0 +1,7 @@
+T1	Body_Part 0 20	Piezas 1.8 2.8 Y 3.8
+T2	Body_Part 32 41	Pieza 4.8
+T3	Disease 21 30	Incluidas
+T4	Laboratory_or_Test_Result 0 30	Piezas 1.8 2.8 Y 3.8 Incluidas
+T6	Therapeutic_Procedure 94 103	Exodoncia
+T5	Laboratory_or_Test_Result 32 66	Pieza 4.8 Semiincluida E Impactada
+A1	Pending T6

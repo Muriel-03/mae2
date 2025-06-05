@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	Pcte
+T2	Sign_or_Symptom 5 24	clase II esqueletal
+T3	Therapeutic_Procedure 77 96	cirugía ortognática
+A1	Pending T3
+T4	Sign_or_Symptom 26 41	exceso vertical

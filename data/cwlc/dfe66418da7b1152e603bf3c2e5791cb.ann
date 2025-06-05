@@ -1,0 +1,16 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 81 84	FUR
+T3	Body_Part 20 25	VULVA
+T4	Body_Part 161 182	LABIO MAYOR IZQUIERDO
+T5	Body_Part 213 218	vulva
+T6	Disease 2 25	HIPERTROFIA DE LA VULVA
+T9	Disease 195 218	Hipertrofia de la vulva
+T10	Clinical_Finding 54 56	G0
+T11	Clinical_Finding 62 71	MENARQUIA
+T12	Sign_or_Symptom 139 192	HIPERTROFIA VULVAR EN LABIO MAYOR IZQUIERDO, SENSIBLE
+T14	Clinical_Finding 56 58	P0
+T15	Clinical_Finding 58 60	A0
+T16	Abbreviation 54 55	G
+T17	Abbreviation 56 57	P
+T18	Abbreviation 58 59	A
+T7	Disease 139 157	HIPERTROFIA VULVAR

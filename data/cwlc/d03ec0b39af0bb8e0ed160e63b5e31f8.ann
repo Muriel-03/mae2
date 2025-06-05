@@ -1,0 +1,7 @@
+T1	Abbreviation 9 12	ASA
+T2	Abbreviation 85 88	TTO
+T3	Abbreviation 99 101	RX
+T4	Diagnostic_Procedure 99 112	RX PANORAMICA
+T5	Disease 15 58	PERIODONTITIS CRONICA GENERALIZADA MODERADA
+T6	Clinical_Finding 9 14	ASA I
+A1	Pending T4

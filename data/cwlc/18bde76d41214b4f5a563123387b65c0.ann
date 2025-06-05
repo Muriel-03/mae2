@@ -1,0 +1,16 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 80 83	hta
+T3	Abbreviation 85 88	dlp
+T4	Abbreviation 90 95	hipot
+T5	Abbreviation 108 110	cv
+T6	Abbreviation 112 116	crea
+T7	Abbreviation 142 144	cl
+T8	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T9	Disease 80 83	hta
+T10	Disease 85 88	dlp
+T11	Disease 90 95	hipot
+T12	Laboratory_Procedure 112 116	crea
+T13	Laboratory_Procedure 142 152	cl de crea
+T14	Laboratory_or_Test_Result 117 124	elevada
+R1	Has Arg1:T12 Arg2:T14	
+T15	Abbreviation 148 152	crea

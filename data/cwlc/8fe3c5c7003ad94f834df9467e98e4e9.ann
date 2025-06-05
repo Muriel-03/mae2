@@ -1,0 +1,5 @@
+T1	Abbreviation 66 69	pza
+T2	Body_Part 60 65	pulpa
+T3	Body_Part 66 71	pza 6
+T5	Disease 0 30	pulpitis dolorosa irreversible
+T6	Therapeutic_Procedure 43 65	extraccion de la pulpa

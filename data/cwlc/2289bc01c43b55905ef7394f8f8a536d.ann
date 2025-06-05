@@ -1,0 +1,7 @@
+T1	Body_Part 106 115	dentición
+T2	Body_Part 123 130	paladar
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Clinical_Finding 106 121	dentición mixta
+T5	Sign_or_Symptom 123 137	paladar ojival
+T6	Disease 139 163	desarmonía dentoalveolar
+T7	Sign_or_Symptom 164 179	apiñda moderada

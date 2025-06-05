@@ -1,0 +1,8 @@
+T1	Abbreviation 23 27	PSCV
+T2	Abbreviation 33 36	DM2
+T4	Disease 33 36	DM2
+T5	Disease 63 75	dislipidemia
+T6	Disease 126 155	Falla Renal Crónica Etapa III
+T7	Laboratory_or_Test_Result 95 103	alterada
+T8	Laboratory_Procedure 81 94	creatininemia
+R1	Has Arg1:T8 Arg2:T7	

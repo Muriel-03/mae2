@@ -1,0 +1,7 @@
+T1	Abbreviation 9 10	P
+T2	Body_Part 9 15	P. 2.2
+T3	Body_Part 100 105	PIEZA
+T5	Disease 27 46	CARIES MUY PROFUNDA
+T6	Clinical_Finding 9 25	P. 2.2 TREPANADA
+T10	Therapeutic_Procedure 67 90	TRATAMIENTO ENDODONTICO
+A1	Pending T10

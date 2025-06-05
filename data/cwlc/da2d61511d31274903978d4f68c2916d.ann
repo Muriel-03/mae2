@@ -1,0 +1,13 @@
+T1	Abbreviation 68 73	antec
+T2	Abbreviation 77 79	AR
+T3	Abbreviation 81 84	HTA
+T4	Abbreviation 86 89	DM2
+T5	Body_Part 30 37	RODILLA
+T6	Body_Part 163 178	rodilla derecha
+T8	Disease 77 79	AR
+T9	Disease 81 84	HTA
+T10	Disease 86 89	DM2
+T11	Disease 91 99	Obesidad
+T12	Disease 151 159	artrosis
+T7	Disease 2 38	GONARTROSIS (ARTROSIS DE LA RODILLA)
+T13	Disease 42 50	ARTROSIS

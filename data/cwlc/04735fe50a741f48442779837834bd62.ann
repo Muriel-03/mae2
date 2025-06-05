@@ -1,0 +1,25 @@
+T1	Abbreviation 95 98	APS
+T2	Abbreviation 109 112	HTA
+T3	Abbreviation 113 116	DM2
+T4	Abbreviation 120 123	tto
+T5	Abbreviation 233 236	eco
+T6	Abbreviation 324 327	EDA
+T7	Abbreviation 359 363	Atte
+T8	Abbreviation 366 368	Ud
+T9	Body_Part 65 71	HÍGADO
+T10	Diagnostic_Procedure 233 246	eco abdominal
+T11	Diagnostic_Procedure 324 327	EDA
+T14	Disease 41 71	ENFERMEDAD QUÍSTICA DEL HÍGADO
+T15	Disease 109 112	HTA
+T16	Disease 113 116	DM2
+T17	Disease 370 395	Dolor abdominal y pelvico
+T18	Laboratory_or_Test_Result 248 284	quistes hepaticos multiples pequeños
+T19	Sign_or_Symptom 2 27	DOLOR ABDOMINAL Y PÉLVICO
+T20	Sign_or_Symptom 31 37	MELENA
+T21	Sign_or_Symptom 140 155	dolor abdominal
+T22	Sign_or_Symptom 161 199	episodio aislado  de deposiones negras
+T23	Sign_or_Symptom 204 216	baja de peso
+A1	Negated T23
+R1	Has Arg1:T10 Arg2:T18	
+A2	Pending T11
+T12	Disease 2 27	DOLOR ABDOMINAL Y PÉLVICO

@@ -1,0 +1,12 @@
+T1	Abbreviation 41 43	CA
+T2	Abbreviation 57 60	TAC
+T3	Body_Part 22 30	PANCREAS
+T4	Body_Part 44 52	PANCREAS
+T5	Body_Part 61 68	ABDOMEN
+T6	Body_Part 69 75	PELVIS
+T7	Diagnostic_Procedure 57 75	TAC ABDOMEN PELVIS
+T8	Disease 0 3	C25
+T9	Disease 4 30	TUMOR MALIGNO DEL PANCREAS
+T10	Disease 41 52	CA PANCREAS
+T11	Laboratory_or_Test_Result 85 99	IMAGEN UTERINA
+R1	Has Arg1:T7 Arg2:T11	

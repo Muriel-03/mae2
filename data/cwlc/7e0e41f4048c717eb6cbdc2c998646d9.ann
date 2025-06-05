@@ -1,0 +1,9 @@
+T1	Abbreviation 96 98	OP
+T2	Abbreviation 120 126	M.A.C.
+T3	Abbreviation 131 134	ACO
+T4	Abbreviation 137 140	DIU
+T5	Disease 0 4	Z309
+T7	Disease 77 95	TUMORACIÓN MAMARIA
+T8	Medication 131 134	ACO
+T10	Therapeutic_Procedure 137 140	DIU
+T6	Therapeutic_Procedure 120 126	M.A.C.

@@ -1,0 +1,6 @@
+T1	Disease 57 76	atresia tricuspidea
+T3	Sign_or_Symptom 130 176	dificultad para ver con dificultad el pizarrón
+T4	Sign_or_Symptom 202 234	Disminucion de la agudeza visual
+T5	Disease 29 45	ventriculo único
+T2	Body_Part 29 39	ventriculo
+T6	Therapeutic_Procedure 113 119	fontan

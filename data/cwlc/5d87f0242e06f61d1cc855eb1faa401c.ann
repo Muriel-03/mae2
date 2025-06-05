@@ -1,0 +1,13 @@
+T1	Abbreviation 91 94	APS
+T2	Abbreviation 188 193	IZQDA
+T3	Abbreviation 213 216	TAC
+T4	Body_Part 217 225	ENCEFALO
+T5	Diagnostic_Procedure 213 225	TAC ENCEFALO
+T6	Disease 2 67	SÍNDROMES VERTIGINOSOS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T7	Disease 125 133	ARTROSIS
+T8	Disease 139 170	SINDROME VERTIGINOSO PERIFERICO
+T10	Disease 257 322	Sindromes vertiginosos en enfermedades clasificadas en otra parte
+T11	Clinical_Finding 195 212	OTOSCOPIA NORMAL.
+T12	Laboratory_or_Test_Result 226 232	NORMAL
+T13	Sign_or_Symptom 176 193	NISTAGMUS A IZQDA
+R1	Has Arg1:T5 Arg2:T12	

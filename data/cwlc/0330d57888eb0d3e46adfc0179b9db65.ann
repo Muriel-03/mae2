@@ -1,0 +1,20 @@
+T1	Abbreviation 71 74	APS
+T3	Abbreviation 164 168	PTVE
+T4	Abbreviation 169 172	MAC
+T6	Abbreviation 186 189	FUR
+T7	Abbreviation 202 203	D
+T8	Abbreviation 232 236	Diag
+T9	Abbreviation 270 272	cm
+T10	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T11	Disease 238 252	Quiste anexial
+T12	Disease 288 333	Otros quistes ovaricos y los no especificados
+T13	Clinical_Finding 155 163	G1P1A0V1
+T14	Medication 174 185	Femelle Fol
+T15	Therapeutic_Procedure 169 172	MAC
+T2	Abbreviation 155 156	G
+T16	Abbreviation 157 158	P
+T17	Abbreviation 159 160	A
+T18	Abbreviation 161 162	V
+T19	Clinical_Finding 164 168	PTVE
+T5	Laboratory_or_Test_Result 238 262	Quiste anexial izquierdo
+T20	Clinical_Finding 209 231	regla, cantidad normal

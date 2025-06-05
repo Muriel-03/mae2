@@ -1,0 +1,12 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 146 148	mm
+T3	Abbreviation 173 177	ATM.
+T4	Abbreviation 245 247	mm
+T5	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T6	Body_Part 173 176	ATM
+T7	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T9	Sign_or_Symptom 92 125	bloqueo mandibular hace 3 semanas
+T10	Sign_or_Symptom 127 148	Apertura bucal: 28 mm
+T11	Sign_or_Symptom 158 176	dolor en ambas ATM
+T8	Abbreviation 228 230	mm
+T12	Abbreviation 201 203	mm

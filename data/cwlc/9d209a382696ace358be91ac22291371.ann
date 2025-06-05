@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	denticion
+T2	Body_Part 55 67	piezas 8 y 9
+T3	Body_Part 103 110	grupo 5
+T4	Clinical_Finding 0 28	denticion mixta segunda fase
+T5	Clinical_Finding 29 44	clase uno molar
+T6	Sign_or_Symptom 55 90	piezas 8 y 9 en posicion de abanico
+T7	Disease 91 102	apiñamiento
+T8	Sign_or_Symptom 91 110	apiñamiento grupo 5

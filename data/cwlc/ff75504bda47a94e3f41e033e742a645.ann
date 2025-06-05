@@ -1,0 +1,11 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 61 64	Pac
+T3	Abbreviation 251 254	APS
+T4	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T5	Disease 77 104	periodontitis generealizada
+T6	Disease 257 278	Periodontitis cronica
+T7	Laboratory_or_Test_Result 110 135	reabsorción ósea marginal
+T8	Sign_or_Symptom 110 135	reabsorción ósea marginal
+T9	Sign_or_Symptom 150 169	cálculo subgingival
+T10	Sign_or_Symptom 172 194	agrandamiento gingival
+T11	Therapeutic_Procedure 222 247	destartraje supragingival

@@ -1,0 +1,33 @@
+T1	Abbreviation 0 3	tda
+T2	Abbreviation 4 7	dte
+T3	Abbreviation 8 12	perm
+T4	Abbreviation 15 17	fx
+T6	Abbreviation 39 42	tda
+T7	Abbreviation 43 46	dte
+T8	Abbreviation 47 51	perm
+T10	Abbreviation 57 60	lux
+T12	Abbreviation 67 70	tda
+T13	Abbreviation 71 74	dte
+T14	Abbreviation 75 79	perm
+T15	Abbreviation 81 83	fx
+T16	Abbreviation 84 89	coron
+T18	Abbreviation 102 105	pza
+T19	Body_Part 4 12	dte perm
+T20	Body_Part 43 51	dte perm
+T21	Body_Part 71 79	dte perm
+T22	Body_Part 102 109	pza. 10
+T23	Disease 0 3	tda
+T25	Disease 39 42	tda
+T26	Disease 53 60	sub lux
+T27	Disease 67 70	tda
+T24	Disease 15 32	fx corn. no compl
+T36	Body_Part 18 22	corn
+T37	Body_Part 34 37	p.9
+T38	Abbreviation 34 35	p
+T29	Abbreviation 18 22	corn
+T9	Abbreviation 62 63	p
+T11	Body_Part 62 65	p.9
+T17	Disease 81 100	fx coron,. no compl
+T28	Abbreviation 95 100	compl
+T30	Abbreviation 27 32	compl
+T5	Body_Part 84 89	coron

@@ -1,0 +1,20 @@
+T1	Abbreviation 60 63	APS
+T2	Abbreviation 77 78	X
+T3	Abbreviation 88 91	OBS
+T4	Abbreviation 217 220	ECO
+T5	Abbreviation 221 223	TV
+T6	Abbreviation 236 239	OBS
+T7	Body_Part 13 36	TRACTO GENITAL FEMENINO
+T8	Diagnostic_Procedure 217 223	ECO TV
+T9	Disease 2 36	PÓLIPO DEL TRACTO GENITAL FEMENINO
+T10	Disease 92 110	POLIPO ENDOMETRIAL
+T11	Sign_or_Symptom 112 121	AMENORREA
+T12	Disease 240 259	POLIPO ENDOMETRIAL.
+T13	Disease 272 306	Polipo del tracto genital femenino
+T14	Clinical_Finding 65 74	MULTIPARA
+T15	Laboratory_or_Test_Result 240 259	POLIPO ENDOMETRIAL.
+T16	Sign_or_Symptom 143 158	SANGRADO ESCASO
+T17	Sign_or_Symptom 174 192	DOLOR HIPOGASTRICO
+T18	Therapeutic_Procedure 79 86	CESAREA
+R1	Has Arg1:T8 Arg2:T15	
+T19	Body_Part 283 306	tracto genital femenino

@@ -1,0 +1,12 @@
+T1	Abbreviation 165 167	mg
+T2	Abbreviation 170 174	comp
+T3	Body_Part 20 28	PRÓSTATA
+T4	Body_Part 200 208	prostata
+T5	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T6	Clinical_Finding 41 66	sin antecedentes morbidos
+T8	Medication 149 160	tamsulosina
+T9	Sign_or_Symptom 77 95	retención urinaria
+T10	Therapeutic_Procedure 295 316	resolución quirurgica
+T11	Therapeutic_Procedure 121 146	sonda urinaria permanente
+T12	Sign_or_Symptom 179 247	tacto rectal muestra prostata muy aumentada de tamaño, paredes lisas
+A1	Pending T10

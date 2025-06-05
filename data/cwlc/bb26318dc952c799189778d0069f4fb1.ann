@@ -1,0 +1,8 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 92 95	4.8
+T4	Body_Part 112 115	4.7
+T5	Body_Part 116 119	3.8
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 96 105	impactada
+T8	Laboratory_or_Test_Result 92 135	4.8 impactada sobre 4.7 3.8 semierupcionada

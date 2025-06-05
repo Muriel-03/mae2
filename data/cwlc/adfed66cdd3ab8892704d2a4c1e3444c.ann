@@ -1,0 +1,12 @@
+T1	Abbreviation 127 130	APS
+T2	Abbreviation 132 136	pcte
+T4	Abbreviation 297 300	app
+T5	Body_Part 23 33	OÍDO MEDIO
+T6	Body_Part 42 60	APÓFISIS MASTOIDES
+T7	Body_Part 168 195	conducto auditivo izquierdo
+T8	Body_Part 338 348	oido medio
+T9	Body_Part 357 375	apofisis mastoides
+T10	Disease 2 103	OTROS TRASTORNOS DEL OÍDO MEDIO Y DE LA APÓFISIS MASTOIDES EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T11	Disease 317 418	Otros trastornos del oido medio y de la apofisis mastoides en enfermedades clasificadas en otra parte
+T12	Sign_or_Symptom 150 195	dolor a nivel del conducto auditivo izquierdo
+T3	Disease 302 316	hipertiroidimo

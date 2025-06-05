@@ -1,0 +1,5 @@
+T1	Body_Part 38 47	PIEZA 3.8
+T2	Body_Part 48 56	PIZA 2.8
+T3	Disease 19 34	PERICORONARITIS
+T4	Therapeutic_Procedure 94 103	EXODONCIA
+A1	Pending T4

@@ -1,0 +1,4 @@
+T1	Disease 13 27	SUPER NUMERICO
+T2	Laboratory_or_Test_Result 13 51	SUPER NUMERICO EN EVOLUCION INTRA OSEA
+T3	Sign_or_Symptom 61 70	MOVILIDAD
+T4	Sign_or_Symptom 79 84	DOLOR

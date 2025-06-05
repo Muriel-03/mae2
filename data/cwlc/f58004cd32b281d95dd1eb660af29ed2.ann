@@ -1,0 +1,6 @@
+T2	Abbreviation 64 67	OTP
+T3	Body_Part 35 51	cadera izquierda
+T5	Therapeutic_Procedure 23 51	artroplatia cadera izquierda
+T6	Therapeutic_Procedure 64 67	OTP
+T7	Sign_or_Symptom 0 17	Paralisis ciatica
+A1	Pending T6

@@ -1,0 +1,11 @@
+T1	Abbreviation 47 50	APS
+T2	Body_Part 133 139	rostro
+T3	Body_Part 262 277	mejilla derecha
+T4	Disease 2 23	QUERATOSIS SEBORREICA
+T5	Disease 200 221	queratosis seborreica
+T6	Disease 401 422	Queratosis seborreica
+T7	Clinical_Finding 67 103	sin antecedentes morbidos relevantes
+T8	Sign_or_Symptom 123 151	lesion en rostro pruriginosa
+T9	Sign_or_Symptom 241 309	dos lesiones, una en mejilla derecha y otra en lado superior derecho
+T10	Therapeutic_Procedure 360 371	extirpacion
+A1	Pending T10

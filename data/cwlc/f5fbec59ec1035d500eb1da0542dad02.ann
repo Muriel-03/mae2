@@ -1,0 +1,18 @@
+T1	Abbreviation 81 84	APS
+T2	Abbreviation 86 90	Pact
+T3	Abbreviation 110 112	DM
+T4	Abbreviation 117 122	HBA1C
+T5	Abbreviation 178 179	c
+T6	Abbreviation 286 289	APE
+T7	Body_Part 32 40	PRÓSTATA
+T8	Body_Part 325 333	prostata
+T9	Disease 2 57	ENFERMEDAD INFLAMATORIA DE LA PRÓSTATA, NO ESPECIFICADA
+T10	Disease 110 112	DM
+T11	Disease 295 350	Enfermedad inflamatoria de la prostata, no especificada
+T13	Laboratory_Procedure 130 148	sedimento de orina
+T14	Laboratory_Procedure 286 289	APE
+T15	Sign_or_Symptom 189 230	alteracion del grosor del chorro urinario
+T16	Sign_or_Symptom 237 279	ligera disficultad a la salida de la orina
+T17	Laboratory_Procedure 117 122	HBA1C
+T18	Laboratory_or_Test_Result 152 170	cilindros hialinos
+R1	Has Arg1:T13 Arg2:T18	

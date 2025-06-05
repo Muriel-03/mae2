@@ -1,0 +1,9 @@
+T1	Body_Part 54 67	GRUPOS II Y V
+T2	Body_Part 69 76	PAPILAS
+T3	Body_Part 92 99	GRUPO V
+T4	Body_Part 173 183	periodonto
+T5	Disease 158 200	Enfermedad del periodonto, no especificada
+T6	Sign_or_Symptom 69 113	PAPILAS INTERDENTARIAS GRUPO V HIPERPLÁSICAS
+T7	Sign_or_Symptom 18 67	DEPÓSITOS DE TÁRTARO SUBGINGIVAL EN GRUPOS II Y V
+T8	Therapeutic_Procedure 133 156	TRATAMIENTO PERIODONTAL
+A1	Pending T8

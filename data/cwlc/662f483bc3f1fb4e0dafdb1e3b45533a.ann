@@ -1,0 +1,13 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 109 114	aprox
+T3	Abbreviation 120 122	VM
+T4	Body_Part 84 93	pieza 4.6
+T5	Body_Part 144 149	pieza
+T6	Body_Part 159 164	ENCIA
+T7	Disease 2 21	ABSCESO PERIODONTAL
+T9	Disease 151 164	ABSCESO ENCIA
+T12	Sign_or_Symptom 84 122	pieza 4.6. Saco de 5-6mm aprox. por VM
+T13	Sign_or_Symptom 131 149	movilidad de pieza
+T14	Abbreviation 106 108	mm
+T15	Disease 50 69	Absceso periodontal
+A1	Negated T13

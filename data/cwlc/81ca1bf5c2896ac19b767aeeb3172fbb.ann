@@ -1,0 +1,6 @@
+T1	Body_Part 0 8	pieza 20
+T2	Body_Part 73 77	raiz
+T3	Disease 18 35	fractura vertical
+T6	Therapeutic_Procedure 126 140	rehabilitacion
+T7	Sign_or_Symptom 9 77	rasgo de fractura vertical caro vestibular con proyeccion hacia raiz
+A1	Pending T6

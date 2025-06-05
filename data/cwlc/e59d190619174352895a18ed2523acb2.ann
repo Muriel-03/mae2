@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	Pce
+T2	Abbreviation 52 54	Ex
+T3	Abbreviation 59 61	Ig
+T4	Abbreviation 75 77	Ig
+T6	Abbreviation 142 145	Obs
+T7	Abbreviation 146 149	Def
+T8	Disease 102 123	Bronquitis Recurrente
+T9	Disease 146 156	Def Inmune
+T10	Medication 23 33	Budesonida
+T11	Medication 34 45	Montelukast
+T12	Laboratory_Procedure 75 79	Ig M
+T13	Laboratory_Procedure 59 62	Iga

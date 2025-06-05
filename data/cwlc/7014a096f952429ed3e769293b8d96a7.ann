@@ -1,0 +1,13 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 141 144	4.6
+T3	Body_Part 227 241	sextante 2 y 5
+T4	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T5	Disease 196 207	Apiñamiento
+T6	Disease 281 329	Anomalias dentofaciales (incluso la maloclusion)
+T9	Sign_or_Symptom 79 98	Clase II esqueletal
+T10	Sign_or_Symptom 99 127	Distoclusion molar izquierda
+T11	Sign_or_Symptom 129 144	Ausencia de 4.6
+T12	Sign_or_Symptom 166 195	Distoclusion canina bilateral
+T13	Sign_or_Symptom 196 241	Apiñamiento y giroversiones en sextante 2 y 5
+T7	Body_Part 146 149	4.7
+T14	Sign_or_Symptom 146 165	4.7 en mesioversion

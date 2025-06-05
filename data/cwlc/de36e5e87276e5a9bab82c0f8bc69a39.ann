@@ -1,0 +1,16 @@
+T1	Abbreviation 0 2	GA
+T2	Abbreviation 9 12	EMB
+T3	Abbreviation 25 30	ANTEC
+T4	Abbreviation 31 33	RN
+T5	Abbreviation 34 38	PRET
+T6	Abbreviation 39 42	1ER
+T7	Abbreviation 92 95	3ER
+T8	Disease 34 38	PRET
+T9	Clinical_Finding 0 2	GA
+T10	Clinical_Finding 3 5	P2
+T11	Clinical_Finding 6 8	A1
+T12	Clinical_Finding 9 12	EMB
+T13	Clinical_Finding 43 51	EMBARAZO
+T14	Clinical_Finding 96 104	EMBARAZO
+T15	Clinical_Finding 52 74	DOBLE CESARIA ANTERIOR
+T16	Laboratory_or_Test_Result 75 91	HUEVO EMBRIONADO

@@ -1,0 +1,8 @@
+T1	Abbreviation 0 2	pz
+T3	Abbreviation 15 17	OM
+T4	Body_Part 0 7	pz. 1.3
+T5	Body_Part 43 56	cámara pulpar
+T6	Body_Part 94 101	maxilar
+T7	Disease 8 28	caries OM penetrante
+T9	Laboratory_or_Test_Result 8 56	caries OM penetrante comunicada en cámara pulpar
+T2	Clinical_Finding 58 110	Pilar de prótesis parcial removible maxilar acrílica

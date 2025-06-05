@@ -1,0 +1,9 @@
+T1	Abbreviation 104 107	APS
+T2	Body_Part 53 80	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 119 127	sector 5
+T4	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T5	Disease 36 80	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Disease 129 150	periodontitis cronica
+T7	Sign_or_Symptom 109 127	mMvilidad sector 5
+T8	Sign_or_Symptom 209 224	dolor articular
+T9	Sign_or_Symptom 236 255	chasquido bilateral

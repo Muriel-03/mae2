@@ -1,0 +1,13 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 7 10	CCA
+T3	Abbreviation 11 12	X
+T4	Abbreviation 13 16	RCU
+T5	Abbreviation 117 125	H. R. T.
+T6	Abbreviation 141 145	POLI
+T7	Abbreviation 146 150	GINE
+T8	Disease 13 16	RCU
+T9	Disease 48 66	MIOMATOSIS UTERINA
+T11	Clinical_Finding 0 1	G
+T12	Clinical_Finding 2 4	M5
+T13	Therapeutic_Procedure 7 10	CCA
+T14	Therapeutic_Procedure 17 42	ESTERILIZACION QUIRURGICA

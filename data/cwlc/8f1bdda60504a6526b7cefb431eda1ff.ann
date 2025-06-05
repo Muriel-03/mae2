@@ -1,0 +1,11 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 59 62	1.4
+T4	Body_Part 120 127	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 109 127	Caries del cemento
+T8	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T9	Therapeutic_Procedure 63 72	trepanada
+T7	Disease 77 94	caries penetrante
+T10	Body_Part 94 102	conducto
+T3	Laboratory_or_Test_Result 77 94	caries penetrante
+T11	Laboratory_or_Test_Result 94 108	conducto recto

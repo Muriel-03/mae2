@@ -1,0 +1,16 @@
+T1	Abbreviation 54 57	pza
+T2	Abbreviation 61 64	pza
+T3	Abbreviation 92 95	pza
+T4	Abbreviation 129 132	pza
+T5	Abbreviation 201 204	pza
+T7	Body_Part 54 60	pza. 7
+T8	Body_Part 61 67	pza. 6
+T9	Body_Part 92 97	pza 7
+T10	Body_Part 129 135	pza 10
+T11	Body_Part 160 168	pieza 11
+T12	Body_Part 201 208	pza. 10
+T19	Sign_or_Symptom 61 97	pza. 6 ubaicada en posiciòn de pza 7
+T20	Laboratory_or_Test_Result 160 208	pieza 11 con evoluciòn de erupciòn hacia pza. 10
+T13	Sign_or_Symptom 98 127	Distooclusiòn molar bilateral
+T15	Sign_or_Symptom 129 157	pza 10 con anomalia de forma
+T6	Sign_or_Symptom 0 60	Sobre mordida o mordida cubierta anterior agensiva de pza. 7

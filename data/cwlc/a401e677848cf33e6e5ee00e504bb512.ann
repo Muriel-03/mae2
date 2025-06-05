@@ -1,0 +1,8 @@
+T1	Abbreviation 66 68	CR
+T2	Abbreviation 82 84	RX
+T3	Diagnostic_Procedure 82 84	RX
+T4	Disease 0 4	J849
+T5	Disease 5 54	ENFERMEDAD PULMÓNAR INTERSTICIAL, NO ESPECIFICADA
+T6	Disease 55 68	TABAQUISMO CR
+T7	Laboratory_or_Test_Result 85 114	INFILTRADO  RETICULAR  DIFUSO
+R1	Has Arg1:T3 Arg2:T7	

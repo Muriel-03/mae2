@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 72 75	ppr
+T3	Disease 5 43	desdentada parcial superior e inferior
+T4	Therapeutic_Procedure 72 109	ppr superior e inferior base metálica
+A1	Pending T4

@@ -1,0 +1,10 @@
+T1	Abbreviation 63 66	APS
+T2	Body_Part 83 102	incisivos centrales
+T3	Body_Part 127 136	1.1 y 2.1
+T4	Body_Part 160 169	dentición
+T5	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T6	Disease 185 222	Anomalia dentofacial, no especificada
+T7	Clinical_Finding 160 184	dentición mixta completa
+T8	Sign_or_Symptom 68 102	Malposición de incisivos centrales
+T9	Sign_or_Symptom 103 136	Divergencia a distal de 1.1 y 2.1
+T10	Sign_or_Symptom 137 159	Relación molar clase 1

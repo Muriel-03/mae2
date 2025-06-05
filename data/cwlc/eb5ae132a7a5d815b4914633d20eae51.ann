@@ -1,0 +1,8 @@
+T1	Abbreviation 44 45	P
+T2	Body_Part 44 47	P 7
+T3	Body_Part 69 71	P6
+T5	Sign_or_Symptom 34 67	AUSENCIA  P 7 COMPROMISO ESTETICO
+T6	Sign_or_Symptom 76 88	GIROVERSION.
+T7	Therapeutic_Procedure 116 124	IMPLANTE
+T4	Abbreviation 69 70	P
+A1	Pending T7

@@ -1,0 +1,7 @@
+T1	Abbreviation 62 66	TACO
+T2	Body_Part 92 108	TERCEROS MOLARES
+T3	Disease 0 4	K006
+T4	Disease 5 41	ALTERACIONES EN LA ERUPCION DENTARIA
+T5	Medication 62 66	TACO
+T6	Therapeutic_Procedure 79 88	EXODONCIA
+A1	Pending T6

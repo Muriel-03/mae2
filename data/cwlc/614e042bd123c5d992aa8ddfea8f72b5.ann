@@ -1,0 +1,10 @@
+T1	Abbreviation 142 145	ADM
+T2	Abbreviation 194 197	tto
+T3	Body_Part 57 66	Denticion
+T4	Body_Part 102 109	grupo V
+T5	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T6	Disease 87 98	apiñamiento
+T7	Clinical_Finding 57 85	Denticion mixta primera fase
+T8	Sign_or_Symptom 87 109	apiñamiento en grupo V
+T9	Sign_or_Symptom 111 141	overjet y overbite aumentados.
+T10	Disease 142 145	ADM

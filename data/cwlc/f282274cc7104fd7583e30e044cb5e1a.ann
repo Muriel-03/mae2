@@ -1,0 +1,9 @@
+T1	Abbreviation 25 26	x
+T2	Disease 0 7	CEFALEA
+T3	Disease 27 46	neuralgia de arnold
+T4	Sign_or_Symptom 100 116	estado depresivo
+T5	Medication 138 148	clonazepam
+T6	Medication 151 164	carbamacepina
+T7	Medication 176 187	pregabalina
+T8	Sign_or_Symptom 0 7	CEFALEA
+T9	Sign_or_Symptom 79 95	cefalea sicogena

@@ -1,0 +1,10 @@
+T1	Abbreviation 72 73	+
+T2	Abbreviation 86 87	+
+T3	Body_Part 0 9	Diente 12
+T4	Disease 14 49	pulpitits irreversible asintomática
+T5	Disease 66 72	caries
+T6	Clinical_Finding 199 205	fermin
+T7	Medication 110 129	hidroxido de calcio
+T8	Therapeutic_Procedure 74 85	trepanación
+T9	Therapeutic_Procedure 88 129	medicación tópica con hidroxido de calcio
+T10	Sign_or_Symptom 131 172	no se logra controlar hemostasia gingival

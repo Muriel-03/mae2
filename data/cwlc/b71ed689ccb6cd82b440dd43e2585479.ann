@@ -1,0 +1,8 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 98 107	pieza 2.1
+T3	Body_Part 231 255	piezas 1.6/2.6/4.7/4.6/3
+T4	Disease 2 20	DESDENTADO PARCIAL
+T5	Disease 121 136	resto radicular
+T6	Disease 217 223	caries
+T7	Therapeutic_Procedure 156 166	extracción
+T8	Therapeutic_Procedure 169 179	extraccion

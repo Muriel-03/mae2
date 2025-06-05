@@ -1,0 +1,8 @@
+T3	Clinical_Finding 78 88	sin caries
+T4	Sign_or_Symptom 48 68	clase III esqueletal
+T5	Therapeutic_Procedure 18 47	apatologia fija de ortodoncia
+A1	Pending T5
+T6	Abbreviation 89 93	dent
+T1	Body_Part 89 93	dent
+T2	Clinical_Finding 89 111	dent. mixta 2 da. fase
+T7	Abbreviation 101 105	2 da

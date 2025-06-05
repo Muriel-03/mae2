@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	Dte
+T2	Abbreviation 56 59	ROM
+T3	Abbreviation 108 111	tto
+T4	Body_Part 0 5	Dte 3
+T5	Disease 10 32	lesion endoperiodontal
+T6	Laboratory_or_Test_Result 0 54	Dte 3 con lesion endoperiodontal de origen periodontal
+T9	Therapeutic_Procedure 108 123	tto endodontico
+T10	Therapeutic_Procedure 138 147	exodoncia
+A1	Pending T9
+T7	Laboratory_or_Test_Result 56 68	ROM avanzada
+A2	Pending T10

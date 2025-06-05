@@ -1,0 +1,18 @@
+T1	Abbreviation 204 206	rx
+T2	Body_Part 17 26	CLAVÍCULA
+T3	Body_Part 165 190	región clavicular derecha
+T4	Body_Part 275 284	clavicula
+T5	Body_Part 341 353	extremidades
+T6	Diagnostic_Procedure 204 206	rx
+T7	Disease 2 26	FRACTURA DE LA CLAVÍCULA
+T8	Disease 263 284	fractura de clavicula
+T9	Clinical_Finding 341 385	extremidades normales  cardiopulmonar normal
+T10	Laboratory_or_Test_Result 219 259	signos de disyunción acromio cclavicular
+T11	Laboratory_or_Test_Result 263 284	fractura de clavicula
+T12	Sign_or_Symptom 143 190	aumento de volumen en región clavicular derecha
+T13	Clinical_Finding 61 103	Recién nacido de termino por parto vaginal
+R1	Has Arg1:T6 Arg2:T10	
+R2	Has Arg1:T6 Arg2:T11	
+T14	Clinical_Finding 328 362	movilidad de extremidades normales
+T15	Clinical_Finding 364 385	cardiopulmonar normal
+T16	Abbreviation 260 262	vs

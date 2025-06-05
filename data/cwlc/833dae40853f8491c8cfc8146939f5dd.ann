@@ -1,0 +1,11 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 177 180	tto
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 75 84	denticion
+T5	Body_Part 97 106	pieza 2.3
+T6	Body_Part 228 234	diente
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 199 234	Anomalias de la posicion del diente
+T9	Clinical_Finding 75 95	denticion definitiva
+T10	Sign_or_Symptom 97 150	pieza 2.3 en posicion vestibular alta, fuera del arco
+T11	Body_Part 146 150	arco

@@ -1,0 +1,14 @@
+T1	Abbreviation 0 3	pza
+T2	Abbreviation 53 56	pza
+T3	Abbreviation 69 71	IC
+T4	Abbreviation 82 85	PZA
+T5	Abbreviation 104 107	PZA
+T6	Body_Part 0 7	pza 3.8
+T7	Body_Part 53 60	pza 3.8
+T8	Body_Part 82 88	PZA 32
+T9	Body_Part 104 110	PZA 17
+T11	Laboratory_or_Test_Result 0 20	pza 3.8 semiincluida
+T12	Laboratory_or_Test_Result 82 102	PZA 32 SEMI-INCLUIDA
+T13	Sign_or_Symptom 104 143	PZA 17 ERUPCIONADA CON FALTA DE ESPACIO
+T14	Therapeutic_Procedure 45 52	extraer
+A1	Pending T14

@@ -1,0 +1,15 @@
+T1	Abbreviation 230 236	apróx.
+T2	Abbreviation 239 241	mm
+T3	Body_Part 31 37	DIENTE
+T4	Body_Part 53 62	dentición
+T5	Body_Part 199 206	dientes
+T6	Body_Part 210 225	arcada inferior
+T7	Body_Part 258 268	diente 2.1
+T8	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T10	Clinical_Finding 53 76	dentición mixta etapa 1
+T11	Clinical_Finding 107 139	Clase molar y canina I bilateral
+T13	Clinical_Finding 141 156	Resalte normal.
+T14	Sign_or_Symptom 177 269	falta de espacio para dientes de arcada inferior, de apróx. 6 mm- Giroversión de diente 2.1.
+T15	Therapeutic_Procedure 295 318	tratamiento ortodóncico
+T12	Clinical_Finding 78 105	Relación esqueletal Clase I
+A1	Pending T15

@@ -1,0 +1,11 @@
+T1	Abbreviation 150 155	PMCFA
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 29 38	Diente 10
+T4	Diagnostic_Procedure 60 72	test térmico
+T5	Disease 2 22	NECROSIS DE LA PULPA
+T6	Disease 95 110	caries palatina
+T7	Laboratory_or_Test_Result 73 81	negativo
+T8	Medication 150 155	PMCFA
+T9	Sign_or_Symptom 40 58	percusión positiva
+T11	Therapeutic_Procedure 112 123	trepanación
+R1	Has Arg1:T4 Arg2:T7	

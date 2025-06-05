@@ -1,0 +1,6 @@
+T1	Body_Part 49 61	MUCOSA BUCAL
+T2	Body_Part 84 129	cara interna de labio inferior lado izquierdo
+T3	Disease 0 4	K137
+T4	Disease 5 61	OTRAS LESIÓNES Y LAS NO ESPECIFICADAS DE LA MUCOSA BUCAL
+T7	Sign_or_Symptom 131 224	lesion blanda, color rojo, con centro màs oscuro, leve aumento de volumen, bordes irregulares
+T5	Family_Member 225 230	Madre

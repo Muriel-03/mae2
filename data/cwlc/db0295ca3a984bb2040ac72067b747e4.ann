@@ -1,0 +1,8 @@
+T1	Abbreviation 23 27	pcte
+T2	Abbreviation 60 63	sbo
+T3	Body_Part 127 132	pecho
+T4	Disease 0 21	bronquitis recurrente
+T5	Disease 60 63	sbo
+T6	Sign_or_Symptom 96 110	tos productiva
+T7	Sign_or_Symptom 111 132	ronquidos en el pecho
+T8	Therapeutic_Procedure 157 171	kinesioterapia

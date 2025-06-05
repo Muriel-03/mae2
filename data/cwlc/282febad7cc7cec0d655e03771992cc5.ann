@@ -1,0 +1,12 @@
+T1	Abbreviation 27 30	QCA
+T2	Abbreviation 109 112	HTA
+T3	Abbreviation 131 134	TTO
+T4	Disease 109 112	HTA
+T5	Disease 115 127	DISLIPIDEMIA
+T6	Clinical_Finding 0 2	M4
+T7	Sign_or_Symptom 40 64	SANGRAMIENTO VÍA VAGINAL
+T8	Clinical_Finding 4 7	CCA
+T9	Therapeutic_Procedure 12 30	ESTERILIZACION QCA
+T10	Abbreviation 0 1	M
+T11	Abbreviation 4 7	CCA
+T12	Clinical_Finding 84 94	MENOPAUSIA

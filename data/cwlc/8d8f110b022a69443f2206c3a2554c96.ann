@@ -1,0 +1,21 @@
+T1	Abbreviation 87 89	PA
+T2	Abbreviation 243 245	MG
+T3	Abbreviation 248 249	X
+T4	Abbreviation 276 278	MG
+T5	Abbreviation 281 282	X
+T6	Abbreviation 302 304	MG
+T7	Abbreviation 307 308	X
+T8	Abbreviation 326 328	MG
+T9	Abbreviation 329 330	X
+T10	Abbreviation 350 352	MG
+T11	Body_Part 170 176	HIGADO
+T12	Disease 0 7	CEFALEA
+T13	Disease 51 72	HIPERTENSION ARTERIAL
+T14	Disease 106 122	DEPRESION SEVERA
+T15	Disease 170 182	HIGADO GRASO
+T16	Medication 211 220	OMEPRAZOL
+T17	Medication 231 238	EUTIROX
+T18	Medication 255 272	HIDROCLOROTIAZIDA
+T19	Medication 287 297	QUETIAPINA
+T20	Medication 313 323	CLONAZEPAM
+T21	Medication 337 346	OMEPRAZOL

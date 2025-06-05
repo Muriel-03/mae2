@@ -1,0 +1,9 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 137 152	zona de molares
+T4	Body_Part 170 197	articulacion temporomaxilar
+T5	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Disease 75 92	Bruxismo nocturno
+T7	Disease 153 197	Trastornos de la articulacion temporomaxilar
+T8	Sign_or_Symptom 94 116	múltiples abfracciones
+T9	Sign_or_Symptom 118 152	atrción marcada en zona de molares

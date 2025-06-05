@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	OBS
+T2	Abbreviation 5 7	SD
+T4	Abbreviation 22 25	OBS
+T6	Abbreviation 27 29	SD
+T13	Sign_or_Symptom 61 89	DOLOR ABDOMINAL, TIPO COLICO
+T12	Disease 5 20	SD. COLESTASICO
+T14	Disease 27 38	SD. CRIGLER
+T3	Sign_or_Symptom 100 107	VOMITOS

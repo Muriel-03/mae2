@@ -1,0 +1,9 @@
+T1	Abbreviation 85 88	sem
+T2	Abbreviation 89 92	ant
+T3	Abbreviation 124 127	itu
+T4	Abbreviation 128 131	tta
+T5	Disease 0 58	amenaza parto prematuro que afecta al feto y recien nacido
+T6	Disease 96 111	parto prematuro
+T7	Disease 124 127	itu
+T8	Clinical_Finding 59 68	multipara
+T9	Clinical_Finding 71 79	embarazo

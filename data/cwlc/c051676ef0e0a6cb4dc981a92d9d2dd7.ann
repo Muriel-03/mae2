@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	DTE
+T2	Abbreviation 30 33	PZA
+T3	Abbreviation 74 78	PCTE
+T4	Abbreviation 132 135	NVA
+T5	Body_Part 0 7	DTE 3.6
+T6	Body_Part 30 42	PZA DENTARIA
+T7	Disease 8 27	OSTEITIS PERIAPICAL
+T9	Laboratory_or_Test_Result 0 27	DTE 3.6 OSTEITIS PERIAPICAL
+T10	Therapeutic_Procedure 43 52	TRAPANADA
+T11	Therapeutic_Procedure 136 147	TREPANACION

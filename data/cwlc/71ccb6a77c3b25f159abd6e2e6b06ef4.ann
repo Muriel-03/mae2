@@ -1,0 +1,15 @@
+T1	Abbreviation 84 87	APS
+T2	Abbreviation 134 137	ECG
+T3	Abbreviation 139 143	BCRI
+T4	Abbreviation 203 207	Atte
+T5	Abbreviation 210 212	Ud
+T6	Body_Part 13 35	RAMA IZQUIERDA DEL HAZ
+T7	Body_Part 224 246	rama izquierda del haz
+T8	Diagnostic_Procedure 134 137	ECG
+T9	Diagnostic_Procedure 186 202	test de esfuerzo
+T10	Disease 2 60	BLOQUEO DE RAMA IZQUIERDA DEL HAZ, SIN OTRA ESPECIFICACIÓN
+T11	Disease 109 122	dislipidemica
+T12	Disease 213 271	Bloqueo de rama izquierda del haz, sin otra especificacion
+T13	Laboratory_or_Test_Result 139 143	BCRI
+R1	Has Arg1:T8 Arg2:T13	
+A1	Pending T9

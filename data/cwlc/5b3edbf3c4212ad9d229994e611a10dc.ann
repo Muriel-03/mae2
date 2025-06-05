@@ -1,0 +1,8 @@
+T1	Disease 94 105	APIÑAMIENTO
+T2	Clinical_Finding 31 59	CLASE I MOLAR LADO IZQUIERDO
+T3	Sign_or_Symptom 0 28	CLASE III MOLAR LADO DERECHO
+T4	Sign_or_Symptom 62 93	DISCREPANCIAS NEGATIVA INFERIOR
+T5	Sign_or_Symptom 107 118	OVERBITE(+)
+T6	Sign_or_Symptom 119 130	OVERJET (+)
+T7	Abbreviation 116 117	+
+T8	Abbreviation 128 129	+

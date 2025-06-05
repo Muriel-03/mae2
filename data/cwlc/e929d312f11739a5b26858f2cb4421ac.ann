@@ -1,0 +1,13 @@
+T1	Abbreviation 17 21	TICS
+T2	Abbreviation 45 48	APS
+T3	Abbreviation 69 72	tno
+T4	Abbreviation 106 110	tics
+T5	Abbreviation 313 317	tics
+T6	Disease 2 21	TRASTORNOS POR TICS
+T7	Disease 69 84	tno de lenguaje
+T8	Disease 298 317	Trastornos por tics
+T9	Sign_or_Symptom 106 170	tics (movimientos involuntarios  cuerpo) inclusive durante sueño
+T10	Clinical_Finding 171 191	no asociado a trauma
+T11	Clinical_Finding 221 250	no asociado a trauma o stress
+T12	Sign_or_Symptom 313 317	tics
+T13	Sign_or_Symptom 17 21	TICS

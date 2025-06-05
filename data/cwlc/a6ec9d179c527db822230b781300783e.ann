@@ -1,0 +1,9 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 112 115	PZA
+T3	Body_Part 21 28	DIENTES
+T4	Body_Part 112 118	PZA 17
+T5	Disease 2 17	PERICORONARITIS
+T6	Disease 21 38	DIENTES INCLUIDOS
+T7	Disease 96 111	PERICORONARITIS
+T8	Disease 181 196	Pericoronaritis
+T9	Laboratory_or_Test_Result 21 38	DIENTES INCLUIDOS

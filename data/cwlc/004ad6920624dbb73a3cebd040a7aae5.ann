@@ -1,0 +1,11 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 89 92	ANT
+T3	Body_Part 219 226	PUPILAS
+T4	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T5	Disease 338 381	Trastorno de la refraccion, no especificado
+T7	Clinical_Finding 99 107	ALERGIAS
+T8	Clinical_Finding 219 248	PUPILAS ISOCORICAS, REACTIVAS
+T9	Sign_or_Symptom 122 160	DISMINUCION DE AGUDEZA VISUAL DE CERCA
+A1	Negated T7
+T6	Sign_or_Symptom 250 271	PTERIGION A IZQUIERDA
+T10	Disease 250 259	PTERIGION

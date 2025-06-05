@@ -1,0 +1,9 @@
+T1	Body_Part 25 28	4.4
+T2	Body_Part 110 116	CUELLO
+T3	Sign_or_Symptom 30 50	DESTRUCCION CERVICAL
+T4	Therapeutic_Procedure 0 12	RESTAURACION
+T5	Therapeutic_Procedure 66 87	TRATAMIENTO ENDONTICO
+A1	Pending T5
+T6	Clinical_Finding 0 24	RESTAURACION EXTREXTENSA
+T7	Therapeutic_Procedure 100 116	CIERRE DE CUELLO
+A2	Pending T7

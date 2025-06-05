@@ -1,0 +1,9 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 160 182	articulación izquierda
+T4	Body_Part 225 252	articulacion temporomaxilar
+T5	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Disease 208 252	Trastornos de la articulacion temporomaxilar
+T7	Sign_or_Symptom 141 182	click reciproco en articulación izquierda
+T8	Sign_or_Symptom 184 206	limitación en apertura
+T9	Disease 93 121	disfunción temporomandibular

@@ -1,0 +1,19 @@
+T1	Abbreviation 99 102	APS
+T2	Body_Part 26 33	RODILLA
+T3	Body_Part 149 166	rodilla izquierda
+T4	Body_Part 350 405	margen posteroinferior del ligamenteo cruzado posterior
+T5	Body_Part 480 487	rodilla
+T6	Diagnostic_Procedure 178 197	resonnaci magnetica
+T7	Disease 2 64	TRASTORNO INTERNO DE LA RODILLA,(OTROS TRASTORNOS ARTICULARES)
+T8	Disease 64 74	discopatia
+T9	Disease 262 295	meniscopatia degeneratuva externa
+T10	Disease 321 336	quiste ganglion
+T11	Disease 456 518	Trastorno interno de la rodilla,(otros trastornos articulares)
+T12	Laboratory_or_Test_Result 224 260	condropatia degenerativa  izquierdam
+T13	Laboratory_or_Test_Result 262 295	meniscopatia degeneratuva externa
+T14	Laboratory_or_Test_Result 321 405	quiste ganglion adyacente al margen posteroinferior del ligamenteo cruzado posterior
+T15	Sign_or_Symptom 137 166	dolor de la rodilla izquierda
+R1	Has Arg1:T6 Arg2:T12	
+R2	Has Arg1:T6 Arg2:T13	
+T16	Disease 224 259	condropatia degenerativa  izquierda
+R3	Has Arg1:T6 Arg2:T14	

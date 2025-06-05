@@ -1,0 +1,6 @@
+T1	Abbreviation 65 68	APS
+T2	Disease 2 41	INCONTINENCIA URINARIA, NO ESPECIFICADA
+T3	Sign_or_Symptom 93 141	incontinencia urinaria de urgencia y de esfuerzo
+T4	Disease 221 260	Incontinencia urinaria, no especificada
+T5	Therapeutic_Procedure 196 218	tratamiento quirurgico
+A1	Pending T5

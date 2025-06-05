@@ -1,0 +1,38 @@
+T1	Abbreviation 101 106	trast
+T2	Abbreviation 119 124	antec
+T3	Abbreviation 152 157	antec
+T4	Abbreviation 158 161	fam
+T5	Abbreviation 162 164	sm
+T6	Abbreviation 380 381	x
+T7	Abbreviation 689 691	ex
+T8	Body_Part 271 281	antebrazos
+T9	Disease 2 28	OTROS EPISODIOS DEPRESIVOS
+T10	Disease 32 71	TRASTORNOS DE LA INGESTIÓN DE ALIMENTOS
+T11	Disease 101 116	trast emocional
+T12	Disease 166 180	tras depresivo
+T14	Family_Member 467 473	abuela
+T15	Clinical_Finding 119 137	antec morbidos: no
+T16	Clinical_Finding 139 150	alergia: no
+T17	Sign_or_Symptom 200 208	tristeza
+T18	Sign_or_Symptom 210 229	labilidad emocional
+T19	Sign_or_Symptom 232 259	episodios de autoagresiones
+T20	Sign_or_Symptom 262 281	corte en antebrazos
+T21	Sign_or_Symptom 358 397	excesiva preocupacion x figura corporal
+T22	Sign_or_Symptom 422 429	vomitos
+T23	Sign_or_Symptom 482 514	episodios de aparentes atracones
+T24	Sign_or_Symptom 517 542	sentimiento de inutilidad
+T25	Sign_or_Symptom 544 560	deseos de muerte
+T26	Sign_or_Symptom 571 599	insomnio de despertar precoz
+T27	Sign_or_Symptom 606 624	aislamiento social
+T28	Sign_or_Symptom 627 634	astenia
+T29	Sign_or_Symptom 653 660	cefalea
+T30	Sign_or_Symptom 662 677	dolor abdominal
+T31	Sign_or_Symptom 679 685	mareos
+T33	Sign_or_Symptom 740 763	ideacion sucida actual.
+T34	Sign_or_Symptom 768 781	alucinaciones
+T35	Abbreviation 166 170	tras
+T36	Clinical_Finding 284 302	apetito conservado
+A1	Negated T27
+A2	Negated T33
+A3	Negated T34
+A4	Implicit_Family_Background T12

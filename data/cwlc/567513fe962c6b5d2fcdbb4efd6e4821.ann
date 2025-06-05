@@ -1,0 +1,9 @@
+T1	Abbreviation 63 66	APS
+T2	Body_Part 215 221	canino
+T3	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T5	Disease 250 287	Anomalia dentofacial, no especificada
+T6	Clinical_Finding 96 121	sin antecedentes mórbidos
+T7	Sign_or_Symptom 137 160	Mesioclusión bilateral.
+T8	Sign_or_Symptom 161 179	Mordida vis a vis.
+T9	Sign_or_Symptom 180 213	Falta de espacio maxilar moderada
+T10	Sign_or_Symptom 215 249	canino erupcionado por vestibular.

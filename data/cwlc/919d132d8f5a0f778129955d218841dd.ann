@@ -1,0 +1,12 @@
+T1	Abbreviation 94 97	APS
+T2	Disease 2 35	INSUFICIENCIA CARDÍACA CONGESTIVA
+T3	Disease 39 70	SOPLO CARDÍACO, NO ESPECIFICADO
+T4	Disease 227 249	insuficiencia cardíaca
+T5	Disease 393 424	Soplo cardiaco, no especificado
+T6	Sign_or_Symptom 138 152	soplo cardiaco
+T7	Sign_or_Symptom 176 202	soplo holosistólico III/VI
+T8	Sign_or_Symptom 262 270	ortopnea
+T9	Sign_or_Symptom 272 300	disnea de medianos esfuerzos
+T10	Sign_or_Symptom 302 320	crépitos bibasales
+T11	Disease 138 152	soplo cardiaco
+T12	Disease 349 361	valvulopatía

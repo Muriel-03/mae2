@@ -1,0 +1,5 @@
+T1	Body_Part 105 120	piezas dentales
+T2	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T3	Disease 36 79	Periodontitis crónica generalizada moderada
+T4	Sign_or_Symptom 81 120	Movilidad patologica de piezas dentales
+T5	Sign_or_Symptom 122 139	Hipersensibilidad

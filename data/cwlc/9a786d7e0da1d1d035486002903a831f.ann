@@ -1,0 +1,8 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 27 30	pza
+T4	Body_Part 27 35	pza. 3.7
+T5	Clinical_Finding 37 41	sana
+T6	Sign_or_Symptom 18 35	dolor en pza. 3.7
+T7	Clinical_Finding 43 50	sellada
+T8	Sign_or_Symptom 60 67	presion
+T9	Sign_or_Symptom 70 101	dolor al masticar y al percutir

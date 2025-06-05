@@ -1,0 +1,12 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 75 84	dentición
+T3	Body_Part 125 132	maxilar
+T4	Body_Part 327 342	arcos dentarios
+T6	Disease 292 342	Anomalias de la relacion entre los arcos dentarios
+T7	Clinical_Finding 75 99	dentición mixta 2da fase
+T8	Clinical_Finding 187 219	Clase molar I de Angle bilateral
+T9	Sign_or_Symptom 2 17	MORDIDA CRUZADA
+T11	Sign_or_Symptom 114 160	Compresión maxilar con mordida cruzada derecha
+T12	Clinical_Finding 223 242	Correcta alineación
+T5	Sign_or_Symptom 162 182	mamdera hasta 4 años
+T10	Abbreviation 91 94	2da

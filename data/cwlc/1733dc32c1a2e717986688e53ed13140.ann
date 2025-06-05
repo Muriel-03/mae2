@@ -1,0 +1,14 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 110 113	IZQ
+T3	Abbreviation 117 122	APROX
+T4	Abbreviation 125 127	MM
+T5	Abbreviation 161 163	MM
+T6	Abbreviation 164 169	APROX
+T7	Abbreviation 188 193	APROX
+T8	Abbreviation 198 201	CMS
+T9	Abbreviation 210 211	C
+T10	Body_Part 98 113	LABIO MENOR IZQ
+T11	Body_Part 137 158	ZONA INGUINAL DERECHA
+T12	Body_Part 175 184	ZONA ANAL
+T15	Disease 72 89	CONDILOMAS PLANOS
+T13	Sign_or_Symptom 212 218	HERIDA

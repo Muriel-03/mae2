@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 192 195	tto
+T3	Body_Part 131 149	caninos inferiores
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Disease 210 258	Anomalias dentofaciales (incluso la maloclusion)
+T6	Sign_or_Symptom 103 123	malposición dentaria
+T7	Sign_or_Symptom 125 169	ambos caninos inferiores en vestibuloversión
+T8	Therapeutic_Procedure 192 208	tto de orotoncia
+A1	Pending T8

@@ -1,0 +1,9 @@
+T1	Abbreviation 33 36	APS
+T2	Body_Part 122 128	craneo
+T3	Disease 2 9	CEFALEA
+T4	Disease 200 207	Cefalea
+T5	Medication 146 157	analgesicos
+T6	Sign_or_Symptom 2 9	CEFALEA
+T7	Sign_or_Symptom 59 74	cefalea frontal
+T8	Sign_or_Symptom 90 128	irradicacion hacia el resto del craneo
+T9	Sign_or_Symptom 131 157	sin alivio con analgesicos

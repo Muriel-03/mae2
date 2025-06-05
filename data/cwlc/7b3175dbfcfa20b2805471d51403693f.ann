@@ -1,0 +1,15 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 170 179	pieza 4.5
+T4	Body_Part 238 279	pieza 1.2-1.3, 4.2-4.3 y 2.2-2.3, 3.2-3.3
+T5	Body_Part 417 423	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 388 423	Anomalias de la posicion del diente
+T8	Clinical_Finding 84 110	clase I de angle bilateral
+T9	Sign_or_Symptom 121 168	apiñamiento dentario anteriosuperior e inferior
+T10	Sign_or_Symptom 170 209	pieza 4.5 en vestibuloversión asentuada
+T11	Sign_or_Symptom 211 279	mordida abierta a nivel de pieza 1.2-1.3, 4.2-4.3 y 2.2-2.3, 3.2-3.3
+T12	Sign_or_Symptom 280 337	linea media dentaria superior no coincide con la inferior
+T13	Therapeutic_Procedure 360 385	tratamiento de ortodoncia
+T14	Disease 121 141	apiñamiento dentario
+A1	Pending T13

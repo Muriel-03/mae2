@@ -1,0 +1,10 @@
+T1	Abbreviation 28 32	PTVE
+T2	Disease 34 50	VARICES VULVARES
+T3	Disease 95 111	VARICES VULVARES
+T4	Clinical_Finding 0 8	EMBARAZO
+T5	Clinical_Finding 24 26	M2
+T7	Sign_or_Symptom 34 50	VARICES VULVARES
+T8	Sign_or_Symptom 53 65	SANGRAMIENTO
+T9	Therapeutic_Procedure 28 32	PTVE
+T10	Abbreviation 24 25	M
+T6	Sign_or_Symptom 84 111	RUPTURA DE VARICES VULVARES

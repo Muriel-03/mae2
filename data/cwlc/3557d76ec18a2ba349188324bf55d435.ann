@@ -1,0 +1,20 @@
+T1	Abbreviation 131 134	APS
+T2	Abbreviation 247 250	EKG
+T3	Abbreviation 289 297	CHADVASC
+T5	Abbreviation 492 495	tto
+T6	Diagnostic_Procedure 247 250	EKG
+T7	Disease 2 32	FIBRILACIÓN Y ALETEO AURICULAR
+T8	Clinical_Finding 36 107	HISTORIA PERSONAL DE USO (PRESENTE) DE ANTICOAGULANTES POR LARGO TIEMPO
+T9	Disease 497 527	Fibrilacion y aleteo auricular
+T10	Laboratory_or_Test_Result 263 284	Fibrilación auricular
+T11	Medication 75 90	ANTICOAGULANTES
+T13	Medication 335 346	Neo-sintrom
+T14	Medication 363 371	Valaplex
+T15	Medication 383 391	Atenolol
+T16	Sign_or_Symptom 224 237	palpitaciones
+R1	Has Arg1:T6 Arg2:T10	
+T12	Medication 313 333	Anticoagulación oral
+T4	Medication 350 360	Amiodarona
+T18	Abbreviation 375 377	mg
+T19	Abbreviation 394 396	mg
+T17	Disease 263 284	Fibrilación auricular

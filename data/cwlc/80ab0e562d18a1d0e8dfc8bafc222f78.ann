@@ -1,0 +1,10 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 21 30	AMÍGDALAS
+T3	Body_Part 207 216	amigdalas
+T4	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T5	Disease 87 110	hipertrogia amigdaliana
+T6	Disease 188 216	Hipertrofia de las amigdalas
+T7	Sign_or_Symptom 112 128	respirador bucal
+T8	Sign_or_Symptom 130 139	ronquido.
+T9	Therapeutic_Procedure 165 185	resolucion quirugica
+A1	Pending T9

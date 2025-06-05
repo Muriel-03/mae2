@@ -1,0 +1,7 @@
+T1	Abbreviation 71 74	APS
+T4	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T5	Clinical_Finding 159 185	Paciente Sano Odontologico
+T6	Sign_or_Symptom 32 47	MORDIDA CRUZADA
+T7	Sign_or_Symptom 132 158	mordida cruzada bilateral.
+T8	Therapeutic_Procedure 89 114	tratamiento de ortodoncia
+A1	Pending T8

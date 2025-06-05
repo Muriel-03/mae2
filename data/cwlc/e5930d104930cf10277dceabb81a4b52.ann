@@ -1,0 +1,5 @@
+T1	Body_Part 0 6	CABEZA
+T2	Body_Part 9 15	CUELLO
+T3	Diagnostic_Procedure 18 25	BIOPSIA
+T4	Laboratory_or_Test_Result 26 58	ADENOPATIA CON CENTRO  NECROTICA
+R1	Has Arg1:T3 Arg2:T4	

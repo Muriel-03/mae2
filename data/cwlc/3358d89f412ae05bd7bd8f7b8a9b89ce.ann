@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 186 195	2.4 y 3.4
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 196 244	Anomalias dentofaciales (incluso la maloclusion)
+T5	Clinical_Finding 99 106	clase I
+T6	Clinical_Finding 107 135	Mesioclusion molar bilateral
+T7	Sign_or_Symptom 136 148	Sobremordida
+T8	Sign_or_Symptom 169 195	Mordidad cruzada 2.4 y 3.4
+T9	Sign_or_Symptom 151 168	resalte aumentada

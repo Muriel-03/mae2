@@ -1,0 +1,13 @@
+T1	Abbreviation 23 25	CA
+T2	Abbreviation 32 34	MX
+T3	Abbreviation 57 59	BF
+T4	Abbreviation 78 82	DTES
+T5	Body_Part 26 31	COLON
+T6	Body_Part 78 112	DTES. 2, 3, 6, 7, 8, 9, 10, 15, 16
+T7	Disease 32 39	MX OSEA
+T8	Disease 0 21	PERIODONTITIS CRONICA
+T10	Therapeutic_Procedure 68 77	EXODONCIA
+T11	Disease 23 31	CA COLON
+T12	Medication 57 59	BF
+A1	Pending T10
+T9	Body_Part 139 146	28 Y 31

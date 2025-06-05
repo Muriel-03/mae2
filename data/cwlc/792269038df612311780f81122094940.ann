@@ -1,0 +1,7 @@
+T1	Body_Part 57 67	diente 6.3
+T2	Body_Part 73 77	boca
+T3	Body_Part 80 90	diente 2.3
+T4	Clinical_Finding 18 47	dentición permanente completa
+T5	Body_Part 18 27	dentición
+T6	Abbreviation 67 69	cm
+T7	Sign_or_Symptom 80 115	diente 2.3 empcionando por palatino

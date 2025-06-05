@@ -1,0 +1,6 @@
+T1	Abbreviation 68 69	P
+T2	Body_Part 68 73	P# 19
+T3	Disease 78 92	CARIES EXTENSA
+T4	Sign_or_Symptom 97 116	COMUNICACION PULPAR
+T5	Therapeutic_Procedure 24 46	TRATAMIENTO ENDODONCIA
+A1	Pending T5

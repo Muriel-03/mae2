@@ -1,0 +1,17 @@
+T1	Abbreviation 19 22	SIC
+T2	Abbreviation 42 44	DX
+T3	Abbreviation 92 95	HNP
+T4	Body_Part 77 82	L4-L5
+T5	Body_Part 85 90	L5-S1
+T6	Body_Part 96 101	L3-L4
+T7	Body_Part 103 108	L4-L5
+T8	Body_Part 111 116	L5-S1
+T9	Body_Part 136 146	SACO DURAL
+T10	Disease 0 11	LIPOMATOSIS
+T11	Disease 92 95	HNP
+T12	Laboratory_or_Test_Result 0 11	LIPOMATOSIS
+T13	Laboratory_or_Test_Result 45 57	ESPONDILOSIS
+T14	Laboratory_or_Test_Result 59 91	ESPONDILOARTROSIS L4-L5 Y L5-S1.
+T15	Laboratory_or_Test_Result 92 146	HNP L3-L4, L4-L5 Y L5-S1 QUE IMPRONTA SOBRE SACO DURAL
+T16	Disease 59 76	ESPONDILOARTROSIS
+T17	Disease 45 57	ESPONDILOSIS

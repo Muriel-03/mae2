@@ -1,0 +1,18 @@
+T1	Abbreviation 0 3	DTE
+T2	Abbreviation 26 28	OD
+T3	Abbreviation 75 78	TTO
+T4	Abbreviation 92 95	DTE
+T5	Abbreviation 111 114	CHX
+T6	Abbreviation 158 163	PMCFA
+T7	Abbreviation 205 207	IC
+T8	Body_Part 0 6	DTE 28
+T9	Body_Part 92 98	DTE 28
+T10	Disease 11 25	CARIES EXTENSA
+T11	Disease 53 74	PULPITIS IRREVERSIBLE
+T12	Clinical_Finding 165 194	OBTURACION TEMPORAL IONOMERO.
+T13	Medication 111 114	CHX
+T14	Medication 158 163	PMCFA
+T15	Sign_or_Symptom 34 51	COMPROMISO PULPAR
+T16	Therapeutic_Procedure 80 91	TREPANACIÓN
+T17	Therapeutic_Procedure 100 119	IRRIGACIÓN CHX 0.12
+T18	Therapeutic_Procedure 121 163	MEDICACIÓN INTRACAMERAL MOTA ALGODÓN PMCFA

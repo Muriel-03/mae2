@@ -1,0 +1,12 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 83 86	HTA
+T3	Abbreviation 100 103	TTO
+T4	Abbreviation 142 147	APROX
+T5	Abbreviation 150 151	X
+T6	Abbreviation 154 156	CM
+T7	Disease 2 18	HERNIA UMBILICAL
+T8	Disease 83 86	HTA
+T9	Disease 405 421	Hernia umbilical
+T10	Sign_or_Symptom 118 138	MASAS SUPRAUNBILICAL
+T11	Sign_or_Symptom 174 190	DOLOR RECURRENTE
+T13	Clinical_Finding 192 224	SIN OTROS SIGNOS DE COMPLICACION

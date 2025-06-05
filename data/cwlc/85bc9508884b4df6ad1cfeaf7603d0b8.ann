@@ -1,0 +1,4 @@
+T1	Body_Part 1 22	PIEZA 1.1 , 1.2 Y 2.1
+T2	Sign_or_Symptom 27 53	GRAN DESTRUCCION CORONARIA
+T3	Therapeutic_Procedure 83 101	IMPLANTES DENTALES
+A1	Pending T3

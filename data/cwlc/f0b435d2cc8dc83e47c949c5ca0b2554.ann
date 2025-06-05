@@ -1,0 +1,8 @@
+T1	Body_Part 63 72	pieza 1.2
+T2	Body_Part 103 112	pieza 3.6
+T3	Disease 96 102	caries
+T5	Sign_or_Symptom 9 29	clase III esqueletal
+T6	Sign_or_Symptom 45 72	Mordida invertida pieza 1.2
+T7	Sign_or_Symptom 74 112	pérdida prematura por caries pieza 3.6
+T8	Sign_or_Symptom 114 148	Retroinclinación encisima inferior
+T9	Clinical_Finding 30 43	dolico facial

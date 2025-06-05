@@ -1,0 +1,12 @@
+T1	Abbreviation 45 48	APS
+T2	Body_Part 71 87	maxilar superior
+T3	Body_Part 106 122	maxilar inferior
+T4	Disease 2 15	CARIES DENTAL
+T5	Disease 199 212	Caries dental
+T6	Sign_or_Symptom 59 87	edentula en maxilar superior
+T7	Therapeutic_Procedure 147 170	protesis total superior
+T8	Therapeutic_Procedure 173 198	protesis parcial inferior
+T9	Disease 15 21	caries
+T10	Sign_or_Symptom 90 122	semiedentula en maxilar inferior
+A1	Pending T7
+A2	Pending T8

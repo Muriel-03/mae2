@@ -1,0 +1,27 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 304 306	Ca
+T3	Abbreviation 385 388	ex.
+T4	Body_Part 17 22	PULPA
+T5	Body_Part 119 129	Diente 2.5
+T6	Body_Part 487 492	pulpa
+T7	Diagnostic_Procedure 389 401	radiográfico
+T8	Disease 2 22	NECROSIS DE LA PULPA
+T9	Disease 130 158	caries dentinaria penetrante
+T10	Disease 161 176	necrosis pulpar
+T12	Disease 472 492	Necrosis de la pulpa
+T13	Clinical_Finding 78 117	sin antecedentes mórbidos de relevancia
+T14	Therapeutic_Procedure 247 276	instrumentación hasta lima 30
+T15	Laboratory_or_Test_Result 119 158	Diente 2.5 caries dentinaria penetrante
+T17	Laboratory_or_Test_Result 413 442	lesión radiolúcida periapical
+T18	Medication 217 237	hipoclorito de sodio
+T19	Therapeutic_Procedure 189 200	trepanación
+T20	Therapeutic_Procedure 202 245	irrigación con hipoclorito de sodio y suero
+T21	Medication 240 245	suero
+T22	Therapeutic_Procedure 278 306	medicación con hidróx. de Ca
+T23	Abbreviation 293 299	hidróx
+T24	Medication 293 306	hidróx. de Ca
+T11	Therapeutic_Procedure 308 380	algodón estéril en entrada de conducto y restauración temporal de fermín
+T16	Body_Part 327 346	entrada de conducto
+T25	Clinical_Finding 374 380	fermín
+R1	Has Arg1:T7 Arg2:T17	
+T26	Clinical_Finding 444 470	Sin sintomatología clínica

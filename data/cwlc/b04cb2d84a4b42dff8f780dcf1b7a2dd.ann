@@ -1,0 +1,24 @@
+T1	Abbreviation 48 51	hta
+T2	Abbreviation 53 56	dm2
+T3	Abbreviation 59 63	dlp.
+T5	Abbreviation 155 156	+
+T7	Abbreviation 165 166	+
+T8	Abbreviation 168 171	EMG
+T9	Abbreviation 184 187	ext
+T10	Body_Part 15 29	TÚNEL CARPIANO
+T11	Body_Part 184 198	ext superiores
+T12	Body_Part 237 259	nervio mediano derecho
+T13	Body_Part 268 282	tunel carpiano
+T14	Diagnostic_Procedure 168 171	EMG
+T15	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T16	Disease 48 51	hta
+T17	Disease 53 56	dm2
+T18	Disease 59 63	dlp.
+T20	Laboratory_or_Test_Result 211 304	signos de atrapamiento de nervio mediano derecho a nivel tunel carpiano , electricamente leve
+T21	Sign_or_Symptom 89 100	parestesias
+T22	Sign_or_Symptom 112 124	dolor severo
+T23	Sign_or_Symptom 127 148	impotencia funcional.
+T24	Sign_or_Symptom 149 156	tinel +
+T25	Sign_or_Symptom 158 166	phalen +
+R1	Has Arg1:T14 Arg2:T20	
+T4	Sign_or_Symptom 327 364	permanece sintomatica con tratamiento

@@ -1,0 +1,14 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 164 167	PZA
+T3	Body_Part 164 173	PZA 9 Y 3
+T4	Body_Part 245 251	PIEZAS
+T5	Body_Part 356 363	dientes
+T6	Disease 2 20	DESDENTADO PARCIAL
+T7	Disease 69 107	DESDENTADO PARCIAL SUPERIOR E INFERIOR
+T8	Disease 112 134	ENFERMEDAD PERIODONTAL
+T9	Disease 318 394	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Sign_or_Symptom 145 163	MOVILIDAD MODERADA
+T11	Therapeutic_Procedure 192 201	EXODONCIA
+T12	Therapeutic_Procedure 293 317	REHABILITACION INMEDIATA
+A1	Pending T11
+A2	Pending T12

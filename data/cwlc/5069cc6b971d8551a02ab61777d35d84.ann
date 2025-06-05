@@ -1,0 +1,10 @@
+T1	Abbreviation 60 63	APS
+T2	Abbreviation 356 358	mg
+T3	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T4	Disease 402 410	arritmia
+T5	Disease 476 510	Arritmia cardiaca, no especificada
+T6	Clinical_Finding 86 111	sin anatcedentes morbidos
+T7	Medication 342 352	propanolol
+T8	Sign_or_Symptom 180 199	dolor retroesternal
+T9	Sign_or_Symptom 211 224	palpitaciones
+T10	Clinical_Finding 427 450	disminuido los sintomas

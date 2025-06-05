@@ -1,0 +1,6 @@
+T1	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T2	Clinical_Finding 62 72	división 2
+T3	Sign_or_Symptom 52 72	Clase II, división 2
+T4	Sign_or_Symptom 74 117	Apiñamiento anteroinferior palatoinclinados
+T5	Sign_or_Symptom 120 152	desviación linea media a derecha
+T6	Disease 74 85	Apiñamiento

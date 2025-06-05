@@ -1,0 +1,31 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 67 69	Mm
+T3	Abbreviation 120 122	Mm
+T4	Abbreviation 264 267	ATM
+T5	Abbreviation 297 299	Mm
+T6	Abbreviation 350 352	Mm
+T7	Abbreviation 464 467	ATM
+T8	Body_Part 93 111	dientes superiores
+T9	Body_Part 146 164	dientes inferiores
+T10	Body_Part 175 191	piezas 3.5 y 4.5
+T11	Body_Part 264 267	ATM
+T12	Body_Part 323 341	dientes superiores
+T13	Body_Part 376 394	dientes inferiores
+T14	Body_Part 447 456	1.5 y 4.5
+T15	Body_Part 464 467	ATM
+T16	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T17	Disease 498 534	Alteraciones en la erupcion dentaria
+T18	Sign_or_Symptom 67 118	Mm faltantes para ordenar dientes superiores: medio
+T19	Sign_or_Symptom 175 224	piezas 3.5 y 4.5 no tiene espacio para erupcionar
+T20	Sign_or_Symptom 227 252	Mordida cruzada posterior
+T21	Sign_or_Symptom 258 267	Dolor ATM
+T22	Sign_or_Symptom 272 294	Asimetria facial: leve
+T23	Sign_or_Symptom 350 402	Mm faltantes para ordenar dientes inferiores:  medio
+T24	Sign_or_Symptom 404 456	Mordida cruzada posterior localizada entre 1.5 y 4.5
+T25	Sign_or_Symptom 458 467	Dolor ATM
+T26	Sign_or_Symptom 472 494	Asimetria facial: leve
+T27	Sign_or_Symptom 120 172	Mm faltantes para ordenar dientes inferiores:  medio
+A1	Negated T20
+A2	Negated T21
+T28	Sign_or_Symptom 297 348	Mm faltantes para ordenar dientes superiores: medio
+A3	Negated T25

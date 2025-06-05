@@ -1,0 +1,10 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 226 229	tto
+T3	Body_Part 142 148	diente
+T4	Body_Part 181 196	sector anterior
+T5	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T6	Disease 117 155	anomalia de posicion por diente grande
+T7	Disease 157 177	Apiñamiento dentario
+T8	Disease 247 295	Anomalias dentofaciales (incluso la maloclusion)
+T9	Clinical_Finding 88 111	clase Angle I bilateral
+T11	Sign_or_Symptom 157 196	Apiñamiento dentario en sector anterior

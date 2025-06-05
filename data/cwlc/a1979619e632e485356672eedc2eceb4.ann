@@ -1,0 +1,6 @@
+T1	Abbreviation 73 75	RX
+T2	Body_Part 0 9	PIEZA 2.3
+T3	Body_Part 58 66	CONDUCTO
+T4	Diagnostic_Procedure 73 75	RX
+T5	Clinical_Finding 0 66	PIEZA 2.3, PILAR DE PROTESIS, REHABILITADA CON ANCLAFE AL CONDUCTO
+T6	Laboratory_or_Test_Result 87 108	LESION APICAL EXTENSA

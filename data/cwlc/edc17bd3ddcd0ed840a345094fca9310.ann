@@ -1,0 +1,7 @@
+T1	Abbreviation 97 100	Pza
+T2	Body_Part 30 40	diente 4.6
+T3	Body_Part 44 50	diente
+T4	Body_Part 97 104	Pza 3.5
+T5	Disease 0 26	Periodontitis apical aguda
+T6	Disease 105 126	puplitis irreversible
+T7	Clinical_Finding 55 96	terapia endodontica previamente iniciada.

@@ -1,0 +1,36 @@
+T1	Abbreviation 84 87	APS
+T2	Abbreviation 267 270	IMC
+T4	Abbreviation 322 329	RR2TNAS
+T5	Abbreviation 339 341	MP
+T6	Abbreviation 342 343	+
+T7	Abbreviation 355 358	BDI
+T8	Abbreviation 360 363	RHA
+T9	Abbreviation 473 476	TVP
+T10	Disease 2 24	INSUFICIENCIA CARDÍACA
+T11	Disease 28 60	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T12	Disease 491 523	HIPERTENSION ESENCIAL (PRIMARIA)
+T13	Sign_or_Symptom 119 147	Capacidad funcional II a III
+T16	Sign_or_Symptom 175 201	disnea paroxistica noctura
+T17	Sign_or_Symptom 205 213	ortopnea
+T18	Sign_or_Symptom 239 253	dolor toracico
+T22	Clinical_Finding 394 448	pulsos tibial posterior y pedio presentes y simétricos
+T23	Sign_or_Symptom 454 459	edema
+T24	Sign_or_Symptom 463 476	signos de TVP
+A1	Negated T18
+T14	Disease 254 262	obesidad
+T15	Abbreviation 273 275	PA
+T3	Abbreviation 282 284	ex
+T25	Clinical_Finding 291 311	carótidas sin soplos
+T19	Abbreviation 344 347	SRA
+T26	Clinical_Finding 339 347	MP + SRA
+T27	Clinical_Finding 322 329	RR2TNAS
+T28	Clinical_Finding 347 358	abdomen BDI
+T29	Body_Part 291 300	carótidas
+T20	Body_Part 372 384	extremidades
+T21	Clinical_Finding 360 372	RHA normales
+T30	Clinical_Finding 372 392	extremidades moviles
+A2	Negated T23
+A3	Negated T24
+T31	Clinical_Finding 478 489	Sin heridas
+T32	Disease 473 476	TVP
+T33	Body_Part 347 354	abdomen

@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 97 100	+/-
+T3	Body_Part 23 37	ÁNGULO ABIERTO
+T4	Disease 2 37	GLAUCOMA PRIMARIO DE ÁNGULO ABIERTO
+T5	Disease 295 330	Glaucoma primario de angulo abierto
+T6	Sign_or_Symptom 140 169	DISMINUCION DE AGUDEZA VISUAL
+T7	Sign_or_Symptom 171 183	DOLOR OCULAR
+T8	Sign_or_Symptom 185 199	VISION TUBULAR
+T9	Sign_or_Symptom 201 217	OPACIDAD CORNEAL
+T10	Sign_or_Symptom 220 245	AUSENCIA DEL ROJO PUPILAR

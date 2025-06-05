@@ -1,0 +1,11 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 50 54	PCTE
+T3	Abbreviation 102 105	HTA
+T4	Abbreviation 108 111	DSL
+T6	Disease 2 21	PROSTATITIS CRÓNICA
+T7	Disease 102 105	HTA
+T8	Disease 108 111	DSL
+T9	Disease 299 318	Prostatitis cronica
+T10	Laboratory_or_Test_Result 207 236	AUMENTO DE VOLUMEN PROSTATICO
+T12	Diagnostic_Procedure 162 206	UROGRAFIA EXCRETORA POR TOMOGRAFIA COMPUTADA
+R1	Has Arg1:T12 Arg2:T10	

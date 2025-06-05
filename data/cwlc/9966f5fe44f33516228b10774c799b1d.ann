@@ -1,0 +1,13 @@
+T1	Abbreviation 31 34	TTO
+T2	Abbreviation 99 100	+
+T3	Abbreviation 101 106	PMCFA
+T4	Abbreviation 106 107	+
+T5	Abbreviation 148 149	+
+T6	Abbreviation 150 154	AINE
+T7	Body_Part 93 98	PIEZA
+T9	Clinical_Finding 108 123	VIDRIO IONOMERO
+T10	Medication 101 106	PMCFA
+T11	Medication 150 154	AINE
+T12	Sign_or_Symptom 46 57	DOLOR AGUDO
+T14	Therapeutic_Procedure 85 92	TREPANA
+T15	Therapeutic_Procedure 133 147	ANTIBIOTERAPIA

@@ -1,0 +1,5 @@
+T1	Body_Part 78 87	diente 26
+T2	Disease 20 49	fractura bilateral mandibular
+T3	Disease 88 110	ENFERMEDAD PERIODONTAL
+T4	Therapeutic_Procedure 9 16	operado
+T5	Laboratory_or_Test_Result 59 87	lesion periodontal diente 26

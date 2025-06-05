@@ -1,0 +1,8 @@
+T1	Body_Part 27 35	PIEZA 20
+T2	Body_Part 38 45	PIEZA K
+T3	Body_Part 125 133	PIEZA 20
+T4	Disease 18 26	AGENESIA
+T5	Therapeutic_Procedure 56 65	EXODONCIA
+T6	Therapeutic_Procedure 110 124	REHABILITACION
+A1	Pending T5
+A2	Pending T6

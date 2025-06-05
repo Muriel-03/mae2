@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	Adm
+T2	Abbreviation 156 159	aps
+T3	Body_Part 69 83	piezas 1.1-2.1
+T4	Body_Part 121 127	piezas
+T5	Disease 0 3	Adm
+T6	Sign_or_Symptom 30 50	leve mordida abierta
+T7	Sign_or_Symptom 54 83	giroversion de piezas 1.1-2.1
+T8	Sign_or_Symptom 85 139	poco espacio para erupcion de otras piezas definitivas
+T9	Disease 4 25	anomalia dentomaxilar

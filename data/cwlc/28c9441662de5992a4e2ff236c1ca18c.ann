@@ -1,0 +1,12 @@
+T1	Abbreviation 39 41	CA
+T2	Abbreviation 71 73	QT
+T3	Abbreviation 90 92	OM
+T4	Body_Part 18 25	DENTINA
+T5	Body_Part 74 82	PIEZA 14
+T6	Disease 0 4	K021
+T7	Disease 5 25	CARIES DE LA DENTINA
+T8	Disease 39 53	CA COLO-RECTAL
+T9	Disease 83 103	CARIES OM DENTINARIA
+T10	Disease 104 125	GINGIVITIS LOCALIZADA
+T11	Therapeutic_Procedure 71 73	QT
+A1	Pending T11

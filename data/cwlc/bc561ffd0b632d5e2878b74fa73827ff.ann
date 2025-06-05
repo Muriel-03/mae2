@@ -1,0 +1,5 @@
+T1	Body_Part 43 54	piezas 6-11
+T2	Body_Part 109 131	incisivos grupo II y V
+T3	Laboratory_or_Test_Result 43 85	piezas 6-11 retenidas por falta de espacio
+T4	Sign_or_Symptom 86 131	apiñamiento a nivel de incisivos grupo II y V
+T5	Disease 86 97	apiñamiento

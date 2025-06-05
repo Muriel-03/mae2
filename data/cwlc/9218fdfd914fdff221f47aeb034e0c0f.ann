@@ -1,0 +1,10 @@
+T1	Abbreviation 214 216	mg
+T2	Abbreviation 235 238	i.c
+T3	Body_Part 0 18	diente 1-16-17y 32
+T4	Body_Part 62 84	capuchon pericoronario
+T5	Sign_or_Symptom 106 115	infeccion
+T6	Medication 128 138	ibuprofeno
+T7	Medication 140 151	paracetamol
+T8	Sign_or_Symptom 47 84	inflamacion de capuchon pericoronario
+A1	Negated T5
+T9	Medication 198 207	meloxicam

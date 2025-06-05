@@ -1,0 +1,11 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 179 184	aprox
+T3	Abbreviation 188 190	mm
+T4	Abbreviation 274 277	cms
+T5	Abbreviation 278 283	aprox
+T6	Body_Part 98 127	región posterior de la cabeza
+T7	Disease 2 20	ALOPECIA CONGÉNITA
+T8	Disease 297 309	tiña capitis
+T9	Sign_or_Symptom 86 127	alopecia en región posterior de la cabeza
+T10	Sign_or_Symptom 132 256	ausencia completa de pelos en forma ovalada de aprox. 5 mm los cuales en los ultimos tiempos a aumentado levemente de tamaño
+A1	Negated T8

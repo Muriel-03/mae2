@@ -1,0 +1,15 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 74 78	HTA.
+T3	Abbreviation 159 161	CV
+T4	Abbreviation 170 172	FC
+T5	Abbreviation 179 182	LPM
+T6	Abbreviation 215 218	EKG
+T7	Diagnostic_Procedure 215 218	EKG
+T8	Disease 2 16	CARDIOMIOPATÍA
+T9	Disease 74 78	HTA.
+T11	Disease 299 313	Cardiomiopatia
+T12	Laboratory_or_Test_Result 233 256	T INVERTIDA EN V3-V4-V5
+T13	Sign_or_Symptom 98 128	SINTOMAS DE MAREO INESPECIFICO
+T15	Sign_or_Symptom 264 276	PRECORDALGIA
+R1	Has Arg1:T7 Arg2:T12	
+A1	Negated T15

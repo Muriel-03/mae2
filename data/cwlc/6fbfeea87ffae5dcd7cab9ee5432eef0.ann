@@ -1,0 +1,13 @@
+T1	Abbreviation 29 32	PZA
+T2	Abbreviation 100 101	D
+T3	Abbreviation 135 140	REHAB
+T4	Body_Part 21 28	DIENTES
+T5	Body_Part 29 35	PZA 20
+T6	Disease 0 4	S025
+T7	Disease 5 28	FRACTURA DE LOS DIENTES
+T8	Clinical_Finding 37 76	RESTAURACIÓN OCLUSAL EXTENSA Y PROFUNDA
+T9	Sign_or_Symptom 78 101	CRACKS EN PAREDES L Y D
+T11	Therapeutic_Procedure 135 158	REHAB CON PRÓTESIS FIJA
+A1	Pending T11
+T10	Body_Part 88 101	PAREDES L Y D
+T12	Abbreviation 96 97	L

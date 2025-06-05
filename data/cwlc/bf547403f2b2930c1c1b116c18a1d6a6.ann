@@ -1,0 +1,9 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 83 85	MP
+T3	Abbreviation 110 115	PMCFA
+T4	Body_Part 60 70	diente 2.1
+T8	Medication 110 115	PMCFA
+T10	Clinical_Finding 72 85	obturación MP
+T11	Therapeutic_Procedure 128 153	tratamiento de endodoncia
+T6	Clinical_Finding 87 96	Trepanada
+A1	Pending T11

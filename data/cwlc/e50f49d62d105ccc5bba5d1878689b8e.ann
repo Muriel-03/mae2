@@ -1,0 +1,17 @@
+T1	Abbreviation 3 4	A
+T2	Abbreviation 7 8	P
+T3	Abbreviation 14 17	EMB
+T4	Abbreviation 43 46	ECO
+T5	Abbreviation 56 59	ANT
+T6	Abbreviation 84 87	EMB
+T7	Diagnostic_Procedure 43 46	ECO
+T8	Clinical_Finding 0 2	G3
+T10	Clinical_Finding 7 10	P 2
+T11	Clinical_Finding 14 17	EMB
+T13	Clinical_Finding 62 70	EMBARAZO
+T14	Laboratory_or_Test_Result 84 105	EMB  GEMELAR  MONO-BI
+T16	Abbreviation 0 1	G
+T17	Clinical_Finding 3 6	A 2
+T9	Laboratory_or_Test_Result 30 37	GEMELAR
+R1	Has Arg1:T7 Arg2:T9	
+T18	Disease 62 81	EMBARAZO  ECTROPICO

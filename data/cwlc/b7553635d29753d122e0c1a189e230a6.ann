@@ -1,0 +1,12 @@
+T1	Abbreviation 87 90	pza
+T2	Abbreviation 102 105	pza
+T3	Abbreviation 125 128	MIC
+T4	Body_Part 87 95	pza. 1.2
+T5	Body_Part 102 105	pza
+T6	Disease 53 64	apiñamiento
+T8	Clinical_Finding 87 121	pza. 1.2 unica pza. en en contacto
+T11	Sign_or_Symptom 0 48	dfiscrepancia oseo dentaria compresion bimaxilar
+T12	Sign_or_Symptom 130 153	desviacion a la derecha
+T13	Sign_or_Symptom 154 193	disto oclusion molar y anina izquieerda
+T14	Sign_or_Symptom 196 225	disto oclusion canina derecha
+T15	Sign_or_Symptom 65 86	averget muy aumentado

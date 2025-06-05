@@ -1,0 +1,14 @@
+T1	Abbreviation 80 83	APS
+T2	Abbreviation 100 103	dte
+T4	Abbreviation 130 134	ADAC
+T5	Body_Part 17 22	PULPA
+T6	Body_Part 100 108	dte. 2.1
+T7	Body_Part 196 201	pulpa
+T8	Disease 2 22	NECROSIS DE LA PULPA
+T9	Disease 26 56	ABSCESO PERIAPICAL CON FÍSTULA
+T10	Disease 113 128	necrosis pulpar
+T11	Disease 130 134	ADAC
+T12	Disease 181 201	Necrosis de la pulpa
+T14	Clinical_Finding 152 161	trepanado
+T16	Sign_or_Symptom 100 128	dte. 2.1 con necrosis pulpar
+T17	Sign_or_Symptom 136 150	fistula activa

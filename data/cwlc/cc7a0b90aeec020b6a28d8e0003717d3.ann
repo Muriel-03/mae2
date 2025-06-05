@@ -1,0 +1,13 @@
+T1	Abbreviation 35 38	sup
+T2	Abbreviation 76 79	dte
+T4	Abbreviation 98 101	dte
+T5	Abbreviation 145 148	tto
+T6	Abbreviation 170 174	stgo
+T7	Body_Part 76 83	dte. 10
+T8	Disease 2 25	disarmania dentomaxilar
+T12	Disease 125 140	fisura labiopal
+T17	Sign_or_Symptom 27 50	apiñada sup. e inferior
+T18	Sign_or_Symptom 53 83	retraso en la erupcion dte. 10
+T19	Sign_or_Symptom 86 112	malposicion dte.santerosup
+T3	Abbreviation 103 112	anterosup
+T9	Abbreviation 132 140	labiopal

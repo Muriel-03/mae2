@@ -1,0 +1,12 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 90 93	PZA
+T3	Body_Part 17 22	PULPA
+T4	Body_Part 84 89	PULPA
+T5	Body_Part 90 97	PZA 1.1
+T6	Body_Part 161 166	pulpa
+T7	Disease 2 22	NECROSIS DE LA PULPA
+T8	Disease 69 89	NECROSIS DE LA PULPA
+T9	Disease 146 166	Necrosis de la pulpa
+T10	Therapeutic_Procedure 136 145	ANALGESIA
+T11	Therapeutic_Procedure 119 133	ANTIBIOTERAPIA
+T12	Clinical_Finding 98 107	TREPANADA

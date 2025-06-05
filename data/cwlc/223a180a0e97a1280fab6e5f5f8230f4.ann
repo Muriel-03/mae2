@@ -1,0 +1,8 @@
+T1	Abbreviation 20 23	SUP
+T2	Abbreviation 27 30	INF
+T3	Abbreviation 92 95	SUP
+T4	Abbreviation 99 102	INF
+T5	Disease 0 30	DESDENTADOS PARCIAL SUP. E INF
+T9	Sign_or_Symptom 32 55	KENNEDY III -2 Y III -1
+T10	Therapeutic_Procedure 73 102	PROTESIS REMOVIBLE SUP. E INF
+A1	Pending T10

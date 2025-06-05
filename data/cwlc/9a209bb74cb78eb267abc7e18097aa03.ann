@@ -1,0 +1,11 @@
+T1	Abbreviation 0 4	PZAS
+T2	Abbreviation 31 34	PZA
+T3	Abbreviation 57 60	PZA
+T4	Body_Part 0 14	PZAS 3.8 Y 4.8
+T5	Body_Part 31 38	PZA 3.8
+T6	Body_Part 39 45	RAICES
+T7	Body_Part 57 64	PZA 4.8
+T8	Body_Part 65 71	RAICES
+T10	Laboratory_or_Test_Result 31 55	PZA 3.8 RAICES EN BLOQUE
+T11	Laboratory_or_Test_Result 0 29	PZAS 3.8 Y 4.8 SEMI INCLUIDAS
+T9	Laboratory_or_Test_Result 57 107	PZA 4.8 RAICES EN BLOQUE, LEVEMENE LINGUO INCLUIDA

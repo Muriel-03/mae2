@@ -1,0 +1,6 @@
+T2	Body_Part 41 51	diente 2.1
+T3	Disease 0 39	periodontitis crónica localizada severa
+T4	Sign_or_Symptom 41 66	diente 2.1 con supuración
+T5	Sign_or_Symptom 68 85	movilidad grado I
+T6	Sign_or_Symptom 87 114	profundidad al sondaje >9mm
+T7	Abbreviation 112 114	mm

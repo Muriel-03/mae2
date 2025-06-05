@@ -1,0 +1,14 @@
+T1	Abbreviation 6 9	WMB
+T2	Abbreviation 24 25	X
+T3	Abbreviation 26 29	FUR
+T4	Abbreviation 53 56	LIP
+T5	Abbreviation 105 108	OBS
+T6	Body_Part 77 85	PLACENTA
+T7	Disease 43 51	OBESIDAD
+T8	Disease 66 75	DEPRESION
+T9	Disease 77 103	PLACENTA DE INSERCION BAJA
+T10	Disease 110 139	RESTRICCION CRECIMIENTO FETAL
+T11	Clinical_Finding 0 4	G2P1
+T12	Clinical_Finding 6 9	WMB
+T13	Laboratory_or_Test_Result 110 139	RESTRICCION CRECIMIENTO FETAL
+T14	Abbreviation 0 4	G2P1

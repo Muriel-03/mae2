@@ -1,0 +1,5 @@
+T1	Body_Part 73 82	pieza 3.8
+T2	Body_Part 122 131	pieza 4.8
+T4	Clinical_Finding 32 56	sin antecedentes morbida
+T5	Laboratory_or_Test_Result 73 120	pieza 3.8 no erupcionada en posicion horizontal
+T6	Laboratory_or_Test_Result 122 147	pieza 4.8 semierupcionada

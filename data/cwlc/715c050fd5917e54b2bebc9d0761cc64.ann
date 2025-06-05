@@ -1,0 +1,11 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 48 51	DM2
+T3	Abbreviation 52 55	HTA
+T4	Abbreviation 59 62	tto
+T5	Disease 36 46	hipoacucia
+T6	Disease 48 51	DM2
+T7	Disease 52 55	HTA
+T8	Disease 64 102	desdentada parcial superior e inferior
+T9	Therapeutic_Procedure 106 128	mantención periodontal
+T10	Therapeutic_Procedure 139 163	rehabilitacion protésica
+A1	Pending T10

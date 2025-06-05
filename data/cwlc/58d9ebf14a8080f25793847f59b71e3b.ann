@@ -1,0 +1,5 @@
+T1	Body_Part 48 55	paladar
+T3	Sign_or_Symptom 0 20	apinamiento dentario
+T4	Sign_or_Symptom 22 46	mordida abierta anterior
+T5	Sign_or_Symptom 48 62	paladar ojival
+T6	Disease 0 11	apinamiento

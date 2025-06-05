@@ -1,0 +1,9 @@
+T1	Abbreviation 45 48	APS
+T2	Body_Part 2 5	PIE
+T3	Body_Part 125 150	region plantar y maleolar
+T4	Body_Part 173 176	Pie
+T5	Disease 2 21	PIE PLANO CONGÉNITO
+T6	Disease 173 192	Pie plano congenito
+T7	Family_Member 93 101	familiar
+T8	Sign_or_Symptom 116 150	dolor en region plantar y maleolar
+T9	Sign_or_Symptom 152 171	caidas a repeticion

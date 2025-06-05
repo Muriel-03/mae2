@@ -1,0 +1,13 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 214 219	p.1.3
+T4	Body_Part 237 255	articulacion tempo
+T5	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Disease 155 173	Bruxismo del sueño
+T7	Disease 220 255	Trastornos de la articulacion tempo
+T8	Sign_or_Symptom 117 152	sobrecarga articular por onicofagia
+T9	Sign_or_Symptom 178 193	dolor miofacial
+T10	Sign_or_Symptom 196 219	trauma oclusal de p.1.3
+T11	Therapeutic_Procedure 93 112	plano de relajacion
+A1	Pending T11
+T12	Abbreviation 214 215	p

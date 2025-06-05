@@ -1,0 +1,9 @@
+T1	Body_Part 80 89	pieza 2.5
+T2	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T3	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T4	Therapeutic_Procedure 49 76	retratameinto de endodoncia
+T5	Therapeutic_Procedure 124 136	restauracion
+T6	Therapeutic_Procedure 152 162	endodoncia
+A1	Pending T4
+T7	Sign_or_Symptom 152 217	endodoncia se encuentra en estos momentos expuesta al medio bucal
+A2	Pending T5

@@ -1,0 +1,14 @@
+T1	Abbreviation 189 191	dg
+T2	Body_Part 0 19	Dientes 28- 29 y 30
+T3	Body_Part 21 36	Dientes 28 y 29
+T4	Body_Part 192 201	Diente 30
+T5	Disease 203 224	pulpitis irreversible
+T6	Disease 263 291	Periodontitis apical cronica
+T7	Clinical_Finding 21 47	Dientes 28 y 29 trepanados
+T8	Medication 73 92	hidroxido de calcio
+T9	Therapeutic_Procedure 112 128	necropulpectomía
+T10	Therapeutic_Procedure 248 262	biopulpectomía
+T11	Therapeutic_Procedure 157 174	anclaje radicular
+A1	Pending T11
+A2	Pending T9
+A3	Pending T10

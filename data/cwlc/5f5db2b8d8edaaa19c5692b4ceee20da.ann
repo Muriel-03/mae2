@@ -1,0 +1,12 @@
+T1	Abbreviation 66 69	izq
+T2	Body_Part 59 69	canino izq
+T3	Body_Part 91 103	gruao II Y V
+T4	Body_Part 104 116	PIEZA 4 Y 13
+T5	Body_Part 194 206	pieza 7 y 22
+T6	Disease 70 81	apiñamiento
+T7	Clinical_Finding 156 173	clase I izquierda
+T8	Sign_or_Symptom 34 58	mordida abierta anterior
+T10	Sign_or_Symptom 70 103	apiñamiento moderado gruao II Y V
+T12	Sign_or_Symptom 132 155	clase III molra perecha
+T13	Sign_or_Symptom 174 206	mordidad invertidqa pieza 7 y 22
+T9	Sign_or_Symptom 104 131	PIEZA 4 Y 13 pelazo version

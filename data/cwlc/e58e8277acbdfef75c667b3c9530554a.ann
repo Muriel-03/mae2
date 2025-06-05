@@ -1,0 +1,9 @@
+T1	Abbreviation 153 155	TU
+T2	Body_Part 2 9	Dientes
+T3	Body_Part 112 119	dientes
+T5	Body_Part 212 220	PIEZA 31
+T6	Disease 2 32	Dientes incluidos e impactados
+T7	Disease 37 83	Anomalías dentofaciales incluso la maloclusión
+T8	Disease 88 150	Otros trastornos de los dientes y de sus estructuras de sostén
+T9	Disease 153 179	TU ODONTOGENICO MANDIBULAR
+T10	Laboratory_or_Test_Result 202 220	RETENCION PIEZA 31

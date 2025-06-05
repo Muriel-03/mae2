@@ -1,0 +1,4 @@
+T1	Body_Part 20 29	Pieza 1.1
+T2	Disease 31 46	Necrosis pulpar
+T4	Therapeutic_Procedure 85 95	endodoncia
+A1	Pending T4

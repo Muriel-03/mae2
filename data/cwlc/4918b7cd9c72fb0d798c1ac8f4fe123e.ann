@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	obs
+T2	Abbreviation 94 97	obs
+T3	Disease 4 25	escoliosis secundaria
+T4	Disease 26 58	colestasia de origen no pecisado
+T5	Disease 60 81	raquitismo secundario
+T6	Disease 82 92	talla baja
+T7	Disease 98 107	genopatia
+T8	Sign_or_Symptom 82 92	talla baja

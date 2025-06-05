@@ -1,0 +1,12 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 122 124	EP
+T3	Body_Part 59 68	pieza 2.4
+T4	Body_Part 164 171	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Disease 80 108	caries dentinaria penetrante
+T7	Disease 153 171	Caries del cemento
+T9	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T10	Laboratory_or_Test_Result 59 108	pieza 2.4 presentaba caries dentinaria penetrante
+T11	Laboratory_or_Test_Result 122 151	EP apical levemente engrosado
+T12	Therapeutic_Procedure 111 120	trepanada
+T8	Body_Part 122 131	EP apical

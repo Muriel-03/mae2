@@ -1,0 +1,9 @@
+T1	Abbreviation 70 71	p
+T2	Abbreviation 96 99	sup
+T3	Abbreviation 102 105	inf
+T4	Body_Part 29 35	DIENTE
+T5	Body_Part 63 69	canino
+T6	Disease 0 35	ANOMALÍAS DE LA POSICION DEL DIENTE
+T7	Laboratory_or_Test_Result 63 82	canino p 6 incluido
+T8	Disease 85 105	apñamiento sup e inf
+T9	Body_Part 70 73	p 6

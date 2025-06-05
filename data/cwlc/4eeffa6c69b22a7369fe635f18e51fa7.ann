@@ -1,0 +1,7 @@
+T1	Abbreviation 30 33	TDA
+T2	Body_Part 18 25	PIEZA 8
+T3	Body_Part 116 128	ZONA PIEZA 8
+T4	Disease 30 33	TDA
+T5	Therapeutic_Procedure 107 120	IMPLANTE ZONA
+T6	Sign_or_Symptom 42 67	REABSORCINN OSEA AVANZADA
+A1	Pending T5

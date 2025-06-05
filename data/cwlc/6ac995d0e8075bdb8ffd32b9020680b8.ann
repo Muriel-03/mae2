@@ -1,0 +1,8 @@
+T1	Abbreviation 188 192	diag
+T2	Body_Part 0 10	diente 4.6
+T3	Body_Part 142 160	fondo de vestibulo
+T4	Disease 193 216	absceso apical agudo ii
+T5	Sign_or_Symptom 11 61	presentasensibilidad a la percusion a l apalapcion
+T6	Sign_or_Symptom 62 93	sin sensibilidad a test termico
+T7	Sign_or_Symptom 94 108	dolor moderado
+T8	Sign_or_Symptom 120 187	aauento de volumen en fondo de vestibulo de consistencia fluctuante

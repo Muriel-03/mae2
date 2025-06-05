@@ -1,0 +1,9 @@
+T1	Abbreviation 131 134	DVO
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Body_Part 76 83	DIENTES
+T4	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Sign_or_Symptom 51 83	ATRICIÓN EXCESIVA DE LOS DIENTES
+T7	Sign_or_Symptom 90 118	Atrición severa generalizada
+T8	Sign_or_Symptom 120 134	pérdida de DVO
+T9	Therapeutic_Procedure 153 176	plano de alivio oclusal
+A1	Pending T9

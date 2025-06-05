@@ -1,0 +1,37 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 162 165	RNT
+T3	Abbreviation 354 356	Tb
+T4	Abbreviation 488 490	Mp
+T5	Abbreviation 490 491	+
+T6	Abbreviation 492 495	SRA
+T7	Body_Part 497 502	Tórax
+T8	Body_Part 559 571	extremidades
+T9	Body_Part 589 616	articulaciones de las manos
+T10	Disease 2 20	SÍNDROME DE MARFAN
+T11	Disease 204 222	Sindrome de Marfan
+T12	Disease 301 317	pectus excavatum
+T13	Disease 450 468	sindrome de Marfan
+T15	Family_Member 178 183	Madre
+T16	Family_Member 248 254	abuelo
+T17	Family_Member 263 268	Madre
+T18	Family_Member 391 395	hijo
+T19	Family_Member 421 427	Abuelo
+T20	Clinical_Finding 69 91	Alergia a medicamentos
+T21	Clinical_Finding 96 115	Antecentes morbidos
+T23	Clinical_Finding 146 161	Embarazo Normal
+T24	Clinical_Finding 162 165	RNT
+T25	Clinical_Finding 488 495	Mp+ SRA
+T27	Sign_or_Symptom 497 511	Tórax excavado
+T28	Sign_or_Symptom 543 571	alargamiento de extremidades
+A1	Negated T20
+A2	Negated T21
+R1	Has Arg1:T15 Arg2:T11	
+R2	Has Arg1:T16 Arg2:T11	
+R3	Has Arg1:T17 Arg2:T12	
+A3	Maternal T16
+A4	Maternal T19
+R4	Has Arg1:T19 Arg2:T13	
+T14	Disease 513 529	pectus excavatum
+T22	Sign_or_Symptom 573 616	Flexibilidad en articulaciones de las manos
+T26	Sign_or_Symptom 618 641	Cara estrecha y delgada
+T29	Body_Part 618 622	Cara
